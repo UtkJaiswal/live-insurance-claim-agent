@@ -1,0 +1,61 @@
+[project]
+name = "live-room"
+version = "0.1.0"
+description = "Live voice-and-vision agent that inventories, measures and values a home library in one camera sweep."
+requires-python = ">=3.12"
+dependencies = [
+    "google-genai>=2.31.0",
+    "fastapi>=0.143.3",
+    "uvicorn[standard]>=0.54.0",
+    "pydantic>=2.14.1",
+    "opencv-python-headless>=5.0.0.93",
+    "numpy>=2.5.4",
+    "httpx>=0.28.1",
+    "jinja2>=3.1.6",
+    "python-dotenv>=1.2.4",
+    "rapidfuzz>=3.14.6",
+    "pillow>=13.0.0",
+]
+
+[project.optional-dependencies]
+# Room geometry (multi-view reconstruction). ~0.6 GB with torch; the app runs without it and leaves
+# room fields empty with a review-queue entry.
+geometry = [
+    "torch>=2.6",
+    "torchvision",
+    "einops",
+    "omegaconf",
+    "safetensors",
+    "huggingface_hub",
+    "depth-anything-3",
+    "addict",  # imported by depth-anything-3 but not declared by it
+]
+
+[dependency-groups]
+dev = ["pytest>=9.1.1"]
+
+[tool.uv]
+package = false
+# depth-anything-3 lists its demo/benchmark/export stack as hard dependencies. Inference needs none
+# of them (see app/geometry/da3.py for the two import paths we stub), so they are excluded here.
+override-dependencies = [
+    "numpy>=2",
+    "xformers; sys_platform == 'never'",
+    "open3d; sys_platform == 'never'",
+    "pycolmap; sys_platform == 'never'",
+    "evo; sys_platform == 'never'",
+    "e3nn; sys_platform == 'never'",
+    "moviepy; sys_platform == 'never'",
+    "pillow_heif; sys_platform == 'never'",
+    "pre-commit; sys_platform == 'never'",
+    "trimesh; sys_platform == 'never'",
+    "opencv-python; sys_platform == 'never'",
+    "gsplat; sys_platform == 'never'",
+]
+
+[tool.uv.sources]
+depth-anything-3 = { git = "https://github.com/ByteDance-Seed/depth-anything-3", rev = "3d835ec1a5802d64a8b8b15f817a1ab54809bfe4" }
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]

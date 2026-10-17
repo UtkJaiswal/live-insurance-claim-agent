@@ -1,0 +1,11 @@
+{
+  "id": "sim_philosophy_shelf",
+  "captured_at": "2026-10-17T12:00:00+00:00",
+  "device": "simulated from philosophy_shelf.jpg",
+  "country": "IN",
+  "currency": "INR",
+  "sweep_started_t": 10.0,
+  "sweep_ended_t": 24.0,
+  "frame_count": 6,
+  "simulated": true
+}
