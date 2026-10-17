@@ -1,0 +1,10 @@
+{
+  "length_m": 0,
+  "width_m": 0,
+  "height_m": 0,
+  "floor_area_m2": 0,
+  "wall_area_m2": 0,
+  "shelved_wall_area_m2": 0,
+  "wall_area_rule": "gross: perimeter x height, openings not subtracted",
+  "notes": "How each figure was measured (tape, laser). Describe any non-rectangular shape."
+}
