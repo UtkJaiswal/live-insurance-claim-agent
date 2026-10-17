@@ -1,0 +1,25 @@
+{
+  "id": "sw_20261017_155806",
+  "captured_at": "2026-10-17T10:28:06+00:00",
+  "device": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/442.5.993077048 Mobile/15E148 Safari/604.1",
+  "country": "US",
+  "currency": "USD",
+  "sweep_started_t": 11.131,
+  "sweep_ended_t": 97.827,
+  "camera": {
+    "aspectRatio": 0.5625,
+    "backgroundBlur": false,
+    "deviceId": "878430BF0B0E828CF895045661E30D240FE5B0B6",
+    "facingMode": "environment",
+    "frameRate": 30,
+    "groupId": "DDCDE9FBFF28F6D44B054A68F343508EB5768E4D",
+    "height": 3840,
+    "powerEfficient": false,
+    "torch": false,
+    "whiteBalanceMode": "continuous",
+    "width": 2160,
+    "zoom": 1
+  },
+  "frame_count": 101,
+  "closed_t": 102.694
+}
