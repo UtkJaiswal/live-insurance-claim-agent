@@ -1,0 +1,63 @@
+{
+ "country_a": "IN",
+ "currency_a": "INR",
+ "country_b": "US",
+ "currency_b": "USD",
+ "books": [
+  {
+   "id": "book_012",
+   "title": "Shame and Necessity",
+   "a": 3453.5,
+   "a_conv": false,
+   "b": 44.85,
+   "b_conv": false,
+   "b_source": "amazon.com (seller: Purple_Ink_Books) via retailer page fetched with TinyFish (1 matching offer, median)",
+   "b_url": "https://www.amazon.com/Necessity-Williams-Bernard-October-Paperback/dp/B015QNR03A",
+   "b_retrieved_at": "2026-10-17T13:40:18+00:00"
+  },
+  {
+   "id": "book_013",
+   "title": "Antike Denker über den Staat",
+   "a": 4480.21,
+   "a_conv": true,
+   "b": 47.18,
+   "b_conv": false,
+   "b_source": "amazon.com (seller: Amazon) via retailer page fetched with TinyFish (1 matching offer, median)",
+   "b_url": "https://www.amazon.com/Antike-Denker-u%CC%88ber-Staat-Uni-Taschenbu%CC%88cher/dp/3768547817",
+   "b_retrieved_at": "2026-10-17T13:39:38+00:00"
+  },
+  {
+   "id": "book_017",
+   "title": "Glaubten die Griechen an ihre Mythen?",
+   "a": 1996.06,
+   "a_conv": true,
+   "b": 21.02,
+   "b_conv": false,
+   "b_source": "amazon.com (seller: SuperBookDeals---) via retailer page fetched with TinyFish (2 matching offers, median)",
+   "b_url": "https://www.amazon.com/Glaubten-die-Griechen-ihre-Mythen/dp/3518112260",
+   "b_retrieved_at": "2026-10-17T13:39:55+00:00"
+  },
+  {
+   "id": "book_018",
+   "title": "Die Theorie des Schönen in der Antike",
+   "a": 815.71,
+   "a_conv": true,
+   "b": 8.59,
+   "b_conv": false,
+   "b_source": "amazon.com (seller: Amazon) via retailer page fetched with TinyFish (1 matching offer, median)",
+   "b_url": "https://www.amazon.com/Theorie-Scho%CC%88nen-Antike-DuMont-Taschenbu%CC%88cher-German/dp/3770111648",
+   "b_retrieved_at": "2026-10-17T13:39:54+00:00"
+  },
+  {
+   "id": "book_023",
+   "title": "Philosophen der Antike II",
+   "a": 1106.28,
+   "a_conv": true,
+   "b": 11.65,
+   "b_conv": false,
+   "b_source": "amazon.com (seller: Amazon) via retailer page fetched with TinyFish (1 matching offer, median)",
+   "b_url": "https://www.amazon.com/-/zh_TW/Guido-Bonelli/dp/3170127209",
+   "b_retrieved_at": "2026-10-17T13:39:59+00:00"
+  }
+ ]
+}

@@ -1,0 +1,16 @@
+{
+ "length_m": null,
+ "width_m": null,
+ "height_m": null,
+ "floor_area_m2": null,
+ "wall_area_m2": null,
+ "shelved_wall_area_m2": null,
+ "floor_area_ft2": null,
+ "wall_area_ft2": null,
+ "scale_method": "3D reconstruction (DA3-SMALL) scaled by 1 catalogue anchor; up from mean camera up-axis (no motion data)",
+ "confidence": 0.0,
+ "shape_notes": "",
+ "notes": [
+  "reconstruction too flat to find floor and ceiling (was the whole room swept?)"
+ ]
+}

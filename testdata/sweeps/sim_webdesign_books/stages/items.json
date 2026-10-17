@@ -1,0 +1,221 @@
+[
+ {
+  "id": "item_001",
+  "category": "shelving",
+  "label": "wooden bookstore display bookshelf",
+  "material": "wood",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000005.jpg",
+  "sightings": [
+   "f_000001_i000",
+   "f_000002_i000",
+   "f_000002_i001",
+   "f_000003_i001",
+   "f_000004_i001",
+   "f_000005_i000"
+  ],
+  "dims_cm": {
+   "w": null,
+   "h": null,
+   "d": null
+  },
+  "dims_method": "",
+  "confidence": 0.95,
+  "print_confirmed": false,
+  "statement": null
+ },
+ {
+  "id": "item_002",
+  "category": "decor",
+  "label": "shelf header sign holder",
+  "material": "metal",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000001.jpg",
+  "sightings": [
+   "f_000001_i001",
+   "f_000002_i002"
+  ],
+  "dims_cm": {
+   "w": 27.0,
+   "h": 20.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 2 view(s); depth not measured",
+  "confidence": 0.8,
+  "print_confirmed": false,
+  "statement": null
+ },
+ {
+  "id": "item_003",
+  "category": "decor",
+  "label": "category sign Computers",
+  "material": "metal",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000001.jpg",
+  "sightings": [
+   "f_000001_i002"
+  ],
+  "dims_cm": {
+   "w": 18.0,
+   "h": 16.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 1 view(s); depth not measured",
+  "confidence": 0.7,
+  "print_confirmed": false,
+  "statement": null
+ },
+ {
+  "id": "item_004",
+  "category": "decor",
+  "label": "category sign General Computing",
+  "material": "metal",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000001.jpg",
+  "sightings": [
+   "f_000001_i003"
+  ],
+  "dims_cm": {
+   "w": 22.0,
+   "h": 24.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 1 view(s); depth not measured",
+  "confidence": 0.7,
+  "print_confirmed": false,
+  "statement": null
+ },
+ {
+  "id": "item_005",
+  "category": "lighting",
+  "label": "overhead fluorescent light fixture",
+  "material": "metal",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000001.jpg",
+  "sightings": [
+   "f_000001_i004",
+   "f_000002_i003"
+  ],
+  "dims_cm": {
+   "w": 17.0,
+   "h": 11.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 2 view(s); depth not measured",
+  "confidence": 0.8,
+  "print_confirmed": false,
+  "statement": null
+ },
+ {
+  "id": "item_006",
+  "category": "lighting",
+  "label": "ceiling spot light fixture",
+  "material": "metal",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000001.jpg",
+  "sightings": [
+   "f_000001_i005"
+  ],
+  "dims_cm": {
+   "w": 17.0,
+   "h": 11.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 1 view(s); depth not measured",
+  "confidence": 0.7,
+  "print_confirmed": false,
+  "statement": null
+ },
+ {
+  "id": "item_007",
+  "category": "lighting",
+  "label": "hanging spotlight fixture",
+  "material": "metal",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000001.jpg",
+  "sightings": [
+   "f_000001_i006"
+  ],
+  "dims_cm": {
+   "w": 6.0,
+   "h": 10.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 1 view(s); depth not measured",
+  "confidence": 0.7,
+  "print_confirmed": false,
+  "statement": null
+ },
+ {
+  "id": "item_008",
+  "category": "lighting",
+  "label": "fluorescent ceiling light",
+  "material": "metal",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000002.jpg",
+  "sightings": [
+   "f_000001_i007",
+   "f_000002_i004"
+  ],
+  "dims_cm": {
+   "w": 14.0,
+   "h": 7.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 2 view(s); depth not measured",
+  "confidence": 0.8,
+  "print_confirmed": false,
+  "statement": null
+ },
+ {
+  "id": "item_009",
+  "category": "lighting",
+  "label": "fluorescent ceiling light",
+  "material": "metal",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000002.jpg",
+  "sightings": [
+   "f_000002_i005"
+  ],
+  "dims_cm": {
+   "w": 9.0,
+   "h": 6.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 1 view(s); depth not measured",
+  "confidence": 0.7,
+  "print_confirmed": false,
+  "statement": null
+ },
+ {
+  "id": "item_010",
+  "category": "decor",
+  "label": "Web Design shelf category sign",
+  "material": "wood",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000004.jpg",
+  "sightings": [
+   "f_000003_i000",
+   "f_000004_i000"
+  ],
+  "dims_cm": {
+   "w": 38.0,
+   "h": 20.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 2 view(s); depth not measured",
+  "confidence": 0.8,
+  "print_confirmed": false,
+  "statement": null
+ }
+]

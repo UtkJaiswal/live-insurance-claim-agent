@@ -1,0 +1,1085 @@
+{
+  "sweep": {
+    "id": "sim_philosophy_shelf",
+    "captured_at": "2026-10-17T12:00:00+00:00",
+    "device": "simulated from philosophy_shelf.jpg",
+    "duration_s": 14.0,
+    "country": "IN",
+    "currency": "INR"
+  },
+  "room": {
+    "length_m": null,
+    "width_m": null,
+    "height_m": null,
+    "floor_area_m2": null,
+    "wall_area_m2": null,
+    "shelved_wall_area_m2": null,
+    "scale_method": "3D reconstruction (DA3-SMALL) scaled by 1 catalogue anchor; up from mean camera up-axis (no motion data)",
+    "confidence": 0.0,
+    "floor_area_ft2": null,
+    "wall_area_ft2": null,
+    "shape_notes": ""
+  },
+  "books": [
+    {
+      "id": "book_001",
+      "shelf": "Unit A shelf 1",
+      "position": 1,
+      "frame_ref": "frames/f_000001.jpg#xywh=0,430,48,2999",
+      "status": "unidentified",
+      "title": null,
+      "author": null,
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 21.8,
+      "spine_thickness_cm": 0.3,
+      "id_confidence": 0.0,
+      "replacement_cost": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "used_value": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "condition_assumed": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "orientation": "upright",
+      "spine_text_read": null,
+      "catalogue_url": null,
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_002",
+      "shelf": "Unit A shelf 1",
+      "position": 2,
+      "frame_ref": "frames/f_000001.jpg#xywh=26,415,486,3060",
+      "status": "identified",
+      "title": "Gesammelte Aufsätze II",
+      "author": "Theodor Ebert",
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 22.3,
+      "spine_thickness_cm": 3.5,
+      "id_confidence": 0.8,
+      "replacement_cost": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "used_value": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "condition_assumed": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "orientation": "upright",
+      "spine_text_read": "II | GESAMMELTE AUFSÄTZE | Ebert",
+      "catalogue_url": "https://openlibrary.org/works/OL24021436W",
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_003",
+      "shelf": "Unit A shelf 1",
+      "position": 3,
+      "frame_ref": "frames/f_000001.jpg#xywh=389,1221,147,2223",
+      "status": "unidentified",
+      "title": null,
+      "author": null,
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 16.1,
+      "spine_thickness_cm": 1.1,
+      "id_confidence": 0.0,
+      "replacement_cost": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "used_value": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "condition_assumed": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "orientation": "upright",
+      "spine_text_read": null,
+      "catalogue_url": null,
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_004",
+      "shelf": "Unit A shelf 1",
+      "position": 4,
+      "frame_ref": "frames/f_000001.jpg#xywh=503,1010,139,2434",
+      "status": "unidentified",
+      "title": null,
+      "author": null,
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 17.9,
+      "spine_thickness_cm": 1.0,
+      "id_confidence": 0.45,
+      "replacement_cost": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "used_value": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "condition_assumed": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "orientation": "upright",
+      "spine_text_read": "28 | GRIECHEN | SCHRÖDINGER | rde",
+      "catalogue_url": null,
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_005",
+      "shelf": "Unit A shelf 1",
+      "position": 5,
+      "frame_ref": "frames/f_000001.jpg#xywh=607,561,361,2907",
+      "status": "needs_appraisal",
+      "title": "Physical World of the Greeks",
+      "author": "Samuel Sambursky",
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 21.0,
+      "spine_thickness_cm": 2.2,
+      "id_confidence": 0.92,
+      "replacement_cost": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "used_value": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "condition_assumed": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "orientation": "upright",
+      "spine_text_read": "The Physical World of the Greeks | S. Sambursky | RKP",
+      "catalogue_url": "https://openlibrary.org/works/OL21089165W",
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out)",
+      "appraisal_reason": "binding looks antiquarian (leather/cloth with gilt lettering or visible age)"
+    },
+    {
+      "id": "book_006",
+      "shelf": "Unit A shelf 1",
+      "position": 6,
+      "frame_ref": "frames/f_000002.jpg#xywh=214,538,190,576",
+      "status": "unidentified",
+      "title": null,
+      "author": null,
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 4.6,
+      "spine_thickness_cm": 1.2,
+      "id_confidence": 0.0,
+      "replacement_cost": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "used_value": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "condition_assumed": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "orientation": "upright",
+      "spine_text_read": null,
+      "catalogue_url": null,
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_007",
+      "shelf": "Unit A shelf 1",
+      "position": 7,
+      "frame_ref": "frames/f_000002.jpg#xywh=179,1121,333,2331",
+      "status": "identified",
+      "title": "Antike Themen und ihre moderne Verwandlung",
+      "author": "Bubner",
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 16.9,
+      "spine_thickness_cm": 2.0,
+      "id_confidence": 0.66,
+      "replacement_cost": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "used_value": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "condition_assumed": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "orientation": "upright",
+      "spine_text_read": "st w 998 | Bubner Antike Themen und ihre moderne Verwandlung",
+      "catalogue_url": null,
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_008",
+      "shelf": "Unit A shelf 1",
+      "position": 8,
+      "frame_ref": "frames/f_000002.jpg#xywh=365,1283,359,2181",
+      "status": "unidentified",
+      "title": null,
+      "author": null,
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 15.8,
+      "spine_thickness_cm": 2.4,
+      "id_confidence": 0.0,
+      "replacement_cost": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "used_value": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "condition_assumed": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "orientation": "upright",
+      "spine_text_read": null,
+      "catalogue_url": null,
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_009",
+      "shelf": "Unit A shelf 1",
+      "position": 9,
+      "frame_ref": "frames/f_000002.jpg#xywh=678,1213,266,2274",
+      "status": "unidentified",
+      "title": null,
+      "author": null,
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 16.6,
+      "spine_thickness_cm": 1.3,
+      "id_confidence": 0.0,
+      "replacement_cost": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "used_value": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "condition_assumed": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "orientation": "upright",
+      "spine_text_read": null,
+      "catalogue_url": null,
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_010",
+      "shelf": "Unit A shelf 1",
+      "position": 10,
+      "frame_ref": "frames/f_000002.jpg#xywh=901,1217,324,2277",
+      "status": "unidentified",
+      "title": null,
+      "author": null,
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 16.6,
+      "spine_thickness_cm": 1.9,
+      "id_confidence": 0.0,
+      "replacement_cost": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "used_value": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "condition_assumed": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "orientation": "upright",
+      "spine_text_read": null,
+      "catalogue_url": null,
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_011",
+      "shelf": "Unit A shelf 1",
+      "position": 11,
+      "frame_ref": "frames/f_000002.jpg#xywh=1117,1325,285,2169",
+      "status": "unidentified",
+      "title": null,
+      "author": null,
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 16.3,
+      "spine_thickness_cm": 1.9,
+      "id_confidence": 0.0,
+      "replacement_cost": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "used_value": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "condition_assumed": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "orientation": "upright",
+      "spine_text_read": null,
+      "catalogue_url": null,
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_012",
+      "shelf": "Unit A shelf 1",
+      "position": 12,
+      "frame_ref": "frames/f_000002.jpg#xywh=1378,518,324,2999",
+      "status": "identified",
+      "title": "Shame and Necessity",
+      "author": "Bernard Williams",
+      "edition": "University of California 1994",
+      "isbn": "0520088301",
+      "spine_height_cm": 22.2,
+      "spine_thickness_cm": 1.9,
+      "id_confidence": 0.95,
+      "replacement_cost": {
+        "amount": 3453.5,
+        "source": "amazon.in (seller: GALAXY BOOK25) via retailer page fetched with TinyFish (2 matching offers, median)",
+        "url": "https://www.amazon.in/Shame-Necessity-Sather-Classical-Lectures/dp/0520256433",
+        "retrieved_at": "2026-10-17T13:37:17+00:00",
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "used_value": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "condition_assumed": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "orientation": "upright",
+      "spine_text_read": "WILLIAMS | Shame and Necessity | CALIFORNIA",
+      "catalogue_url": "https://openlibrary.org/books/OL22521556M",
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_013",
+      "shelf": "Unit A shelf 1",
+      "position": 13,
+      "frame_ref": "frames/f_000002.jpg#xywh=1637,1068,199,2469",
+      "status": "identified",
+      "title": "Antike Denker über den Staat",
+      "author": "Adomeit",
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 18.1,
+      "spine_thickness_cm": 1.1,
+      "id_confidence": 0.66,
+      "replacement_cost": {
+        "amount": 4480.21,
+        "source": "amazon.com (seller: Amazon) via retailer page fetched with TinyFish (1 matching offer, median)",
+        "url": "https://www.amazon.com/Antike-Denker-u%CC%88ber-Staat-Uni-Taschenbu%CC%88cher/dp/3768547817",
+        "retrieved_at": "2026-10-17T13:39:38+00:00",
+        "converted": true,
+        "original_amount": 47.18,
+        "original_currency": "USD"
+      },
+      "used_value": {
+        "amount": 1066.4,
+        "source": "abebooks.com (seller: Borkert, Schwarz und Zerfaß GbR) via retailer page fetched with TinyFish (6 matching offers, median)",
+        "url": "https://www.abebooks.com/9783768547819/Antike-Denker-u%CC%88ber-Staat-Einfu%CC%88hrung-3768547817/plp",
+        "retrieved_at": "2026-10-17T13:39:38+00:00",
+        "condition_assumed": "used, good (as listed by the seller)",
+        "converted": true,
+        "original_amount": 11.23,
+        "original_currency": "USD"
+      },
+      "orientation": "upright",
+      "spine_text_read": "UTB 1136 | Adomeit Antike Denker über den Staat",
+      "catalogue_url": null,
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_014",
+      "shelf": "Unit A shelf 1",
+      "position": 14,
+      "frame_ref": "frames/f_000004.jpg#xywh=246,376,456,3099",
+      "status": "identified",
+      "title": "Griechisches Rechtsdenken I",
+      "author": "Erik Wolf",
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 23.0,
+      "spine_thickness_cm": 3.2,
+      "id_confidence": 0.95,
+      "replacement_cost": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "used_value": {
+        "amount": 8130.48,
+        "source": "abebooks.com (seller: biblion2) via retailer page fetched with TinyFish (3 matching offers, median)",
+        "url": "https://www.abebooks.com/Griechisches-Rechtsdenken-Band-Vorsokratiker-fr%C3%83%C2%BChe-Dichter/30468309838/bd",
+        "retrieved_at": "2026-10-17T13:39:39+00:00",
+        "condition_assumed": "used, good (as listed by the seller)",
+        "converted": true,
+        "original_amount": 85.62,
+        "original_currency": "USD"
+      },
+      "orientation": "upright",
+      "spine_text_read": "Erik Wolf | GRIECHISCHES RECHTSDENKEN | I",
+      "catalogue_url": "https://openlibrary.org/works/OL7176890W",
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_015",
+      "shelf": "Unit A shelf 1",
+      "position": 15,
+      "frame_ref": "frames/f_000004.jpg#xywh=706,396,486,3091",
+      "status": "identified",
+      "title": "Griechisches Rechtsdenken II",
+      "author": "Erik Wolf",
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 22.6,
+      "spine_thickness_cm": 3.6,
+      "id_confidence": 0.95,
+      "replacement_cost": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "used_value": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "condition_assumed": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "orientation": "upright",
+      "spine_text_read": "Erik Wolf | GRIECHISCHES RECHTSDENKEN | II",
+      "catalogue_url": "https://openlibrary.org/works/OL7176890W",
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_016",
+      "shelf": "Unit A shelf 1",
+      "position": 16,
+      "frame_ref": "frames/f_000005.jpg#xywh=372,653,282,2784",
+      "status": "identified",
+      "title": "Einführung in die Philosophie des Mythos",
+      "author": "Luc Brisson",
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 21.0,
+      "spine_thickness_cm": 2.1,
+      "id_confidence": 0.95,
+      "replacement_cost": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "used_value": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "condition_assumed": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "orientation": "upright",
+      "spine_text_read": "Brisson Einführung in die Philosophie des Mythos",
+      "catalogue_url": "https://openlibrary.org/works/OL1699543W",
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_017",
+      "shelf": "Unit A shelf 1",
+      "position": 17,
+      "frame_ref": "frames/f_000005.jpg#xywh=607,1167,177,2270",
+      "status": "identified",
+      "title": "Glaubten die Griechen an ihre Mythen?",
+      "author": "Paul Veyne",
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 17.3,
+      "spine_thickness_cm": 1.3,
+      "id_confidence": 0.95,
+      "replacement_cost": {
+        "amount": 1996.06,
+        "source": "amazon.com (seller: SuperBookDeals---) via retailer page fetched with TinyFish (2 matching offers, median)",
+        "url": "https://www.amazon.com/Glaubten-die-Griechen-ihre-Mythen/dp/3518112260",
+        "retrieved_at": "2026-10-17T13:39:55+00:00",
+        "converted": true,
+        "original_amount": 21.02,
+        "original_currency": "USD"
+      },
+      "used_value": {
+        "amount": 1847.92,
+        "source": "abebooks.com (seller: GreatBookPrices) via retailer page fetched with TinyFish (10 matching offers, median)",
+        "url": "https://www.abebooks.com/9783518112267/Glaubten-Griechen-Mythen-edition-suhrkamp-3518112260/plp",
+        "retrieved_at": "2026-10-17T13:39:55+00:00",
+        "condition_assumed": "used, good (as listed by the seller)",
+        "converted": true,
+        "original_amount": 19.46,
+        "original_currency": "USD"
+      },
+      "orientation": "upright",
+      "spine_text_read": "NF 226 | Veyne Glaubten die Griechen an ihre Mythen? 1226",
+      "catalogue_url": "https://openlibrary.org/works/OL8103839W",
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_018",
+      "shelf": "Unit A shelf 1",
+      "position": 18,
+      "frame_ref": "frames/f_000006.jpg#xywh=30,780,432,2734",
+      "status": "identified",
+      "title": "Die Theorie des Schönen in der Antike",
+      "author": "Grassi",
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 20.1,
+      "spine_thickness_cm": 2.7,
+      "id_confidence": 0.66,
+      "replacement_cost": {
+        "amount": 815.71,
+        "source": "amazon.com (seller: Amazon) via retailer page fetched with TinyFish (1 matching offer, median)",
+        "url": "https://www.amazon.com/Theorie-Scho%CC%88nen-Antike-DuMont-Taschenbu%CC%88cher-German/dp/3770111648",
+        "retrieved_at": "2026-10-17T13:39:54+00:00",
+        "converted": true,
+        "original_amount": 8.59,
+        "original_currency": "USD"
+      },
+      "used_value": {
+        "amount": 827.1,
+        "source": "abebooks.com (seller: medimops) via retailer page fetched with TinyFish (6 matching offers, median)",
+        "url": "https://www.abebooks.com/9783770111640/Theorie-Scho%CC%88nen-Antike-DuMont-Taschenbu%CC%88cher-German-3770111648/plp",
+        "retrieved_at": "2026-10-17T13:39:54+00:00",
+        "condition_assumed": "used, good (as listed by the seller)",
+        "converted": true,
+        "original_amount": 8.71,
+        "original_currency": "USD"
+      },
+      "orientation": "upright",
+      "spine_text_read": "Grassi Die Theorie des Schönen in der Antike | id",
+      "catalogue_url": null,
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_019",
+      "shelf": "Unit A shelf 1",
+      "position": 19,
+      "frame_ref": "frames/f_000006.jpg#xywh=430,415,479,3099",
+      "status": "identified",
+      "title": "Geschichte der Sprachtheorie 2",
+      "author": "Schmitter (Hrsg.)",
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 22.8,
+      "spine_thickness_cm": 3.6,
+      "id_confidence": 0.66,
+      "replacement_cost": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "used_value": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "condition_assumed": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "orientation": "upright",
+      "spine_text_read": "gnv | Schmitter (Hrsg.) Geschichte der Sprachtheorie | 2",
+      "catalogue_url": null,
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_020",
+      "shelf": "Unit A shelf 1",
+      "position": 20,
+      "frame_ref": "frames/f_000006.jpg#xywh=836,741,287,2765",
+      "status": "identified",
+      "title": "Die Geschichte der Sprachphilosophie I",
+      "author": "Eugenio Coseriu",
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 20.8,
+      "spine_thickness_cm": 2.2,
+      "id_confidence": 0.66,
+      "replacement_cost": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "used_value": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "condition_assumed": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "orientation": "upright",
+      "spine_text_read": "Obk Cose | Magazin | EUGENIO COSERIU • Die Geschichte der Sprachphilosophie | I",
+      "catalogue_url": null,
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_021",
+      "shelf": "Unit A shelf 1",
+      "position": 21,
+      "frame_ref": "frames/f_000006.jpg#xywh=1043,1290,510,2258",
+      "status": "unidentified",
+      "title": null,
+      "author": null,
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 16.6,
+      "spine_thickness_cm": 3.1,
+      "id_confidence": 0.0,
+      "replacement_cost": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "used_value": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "condition_assumed": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "orientation": "upright",
+      "spine_text_read": null,
+      "catalogue_url": null,
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_022",
+      "shelf": "Unit A shelf 1",
+      "position": 22,
+      "frame_ref": "frames/f_000006.jpg#xywh=1486,1075,294,2427",
+      "status": "identified",
+      "title": "Philosophen der Antike I",
+      "author": "Friedo Ricken",
+      "edition": "Kohlhammer 1996",
+      "isbn": "9783170127197",
+      "spine_height_cm": 20.7,
+      "spine_thickness_cm": 3.0,
+      "id_confidence": 0.79,
+      "replacement_cost": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "used_value": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "condition_assumed": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "orientation": "upright",
+      "spine_text_read": "458 | RICKEN (Hrsg.) · Philosophen der Antike I",
+      "catalogue_url": "https://openlibrary.org/books/OL12674430M",
+      "measurement_method": "standard-format prior (median upright book = 21 cm)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_023",
+      "shelf": "Unit A shelf 1",
+      "position": 23,
+      "frame_ref": "frames/f_000006.jpg#xywh=1771,1083,307,2434",
+      "status": "identified",
+      "title": "Philosophen der Antike II",
+      "author": "Friedo Ricken",
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 18.8,
+      "spine_thickness_cm": 2.4,
+      "id_confidence": 0.78,
+      "replacement_cost": {
+        "amount": 1106.28,
+        "source": "amazon.com (seller: Amazon) via retailer page fetched with TinyFish (1 matching offer, median)",
+        "url": "https://www.amazon.com/-/zh_TW/Guido-Bonelli/dp/3170127209",
+        "retrieved_at": "2026-10-17T13:39:59+00:00",
+        "converted": true,
+        "original_amount": 11.65,
+        "original_currency": "USD"
+      },
+      "used_value": {
+        "amount": 2641.79,
+        "source": "abebooks.com (seller: avelibro OHG) via retailer page fetched with TinyFish (2 matching offers, median)",
+        "url": "https://www.abebooks.com/Philosophen-Antike-2-B%C3%A4nde-Ricken-Friedo/31980703124/bd",
+        "retrieved_at": "2026-10-17T13:39:59+00:00",
+        "condition_assumed": "used, good (as listed by the seller)",
+        "converted": true,
+        "original_amount": 27.82,
+        "original_currency": "USD"
+      },
+      "orientation": "upright",
+      "spine_text_read": "459 | RICKEN (Hrsg.) · Philosophen der Antike II",
+      "catalogue_url": "https://openlibrary.org/works/OL15394900W",
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_024",
+      "shelf": "Unit A shelf 1",
+      "position": 24,
+      "frame_ref": "frames/f_000006.jpg#xywh=2074,1133,86,2373",
+      "status": "unidentified",
+      "title": null,
+      "author": null,
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 19.1,
+      "spine_thickness_cm": 0.7,
+      "id_confidence": 0.0,
+      "replacement_cost": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "used_value": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "condition_assumed": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "orientation": "upright",
+      "spine_text_read": null,
+      "catalogue_url": null,
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out)",
+      "appraisal_reason": null
+    }
+  ],
+  "items": [
+    {
+      "id": "item_001",
+      "category": "shelving",
+      "description": "wooden bookshelf (wood)",
+      "brand_model": null,
+      "frame_ref": "frames/f_000006.jpg",
+      "dimensions_cm": {
+        "w": null,
+        "h": null,
+        "d": null
+      },
+      "status": "range",
+      "replacement_cost": {
+        "low": null,
+        "high": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null
+      },
+      "confidence": 0.95,
+      "material": "wood",
+      "dimensions_method": null,
+      "appraisal_reason": null
+    }
+  ],
+  "totals": {
+    "book_count": 24,
+    "books_identified": 14,
+    "books_unidentified": 10,
+    "shelf_run_m": 0.5,
+    "books_replacement_cost": 11851.76,
+    "books_used_value": 14513.69,
+    "items_replacement_cost_low": 0.0,
+    "items_replacement_cost_high": 0.0,
+    "excluded_from_totals": 19
+  },
+  "review_queue": [
+    {
+      "ref_id": "book_001",
+      "reason": "shelved backwards (page edges facing out): spine not visible"
+    },
+    {
+      "ref_id": "book_002",
+      "reason": "no price found: no matching listing found; excluded from totals"
+    },
+    {
+      "ref_id": "book_003",
+      "reason": "shelved backwards (page edges facing out): spine not visible"
+    },
+    {
+      "ref_id": "book_004",
+      "reason": "weak match to 'Die Natur und die Griechen' (confidence 0.45)"
+    },
+    {
+      "ref_id": "book_005",
+      "reason": "needs human appraisal: binding looks antiquarian (leather/cloth with gilt lettering or visible age)"
+    },
+    {
+      "ref_id": "book_006",
+      "reason": "spine not readable"
+    },
+    {
+      "ref_id": "book_007",
+      "reason": "identification confidence 0.66: title as printed on the spine; no catalogue record found"
+    },
+    {
+      "ref_id": "book_007",
+      "reason": "no price found: no matching listing found; excluded from totals"
+    },
+    {
+      "ref_id": "book_008",
+      "reason": "shelved backwards (page edges facing out): spine not visible"
+    },
+    {
+      "ref_id": "book_009",
+      "reason": "shelved backwards (page edges facing out): spine not visible"
+    },
+    {
+      "ref_id": "book_010",
+      "reason": "shelved backwards (page edges facing out): spine not visible"
+    },
+    {
+      "ref_id": "book_011",
+      "reason": "shelved backwards (page edges facing out): spine not visible"
+    },
+    {
+      "ref_id": "book_013",
+      "reason": "identification confidence 0.66: title as printed on the spine; no catalogue record found"
+    },
+    {
+      "ref_id": "book_015",
+      "reason": "no price found: no matching listing found; excluded from totals"
+    },
+    {
+      "ref_id": "book_016",
+      "reason": "no price found: no matching listing found; excluded from totals"
+    },
+    {
+      "ref_id": "book_018",
+      "reason": "identification confidence 0.66: title as printed on the spine; no catalogue record found"
+    },
+    {
+      "ref_id": "book_019",
+      "reason": "identification confidence 0.66: title as printed on the spine; no catalogue record found"
+    },
+    {
+      "ref_id": "book_019",
+      "reason": "no price found: no matching listing found; excluded from totals"
+    },
+    {
+      "ref_id": "book_020",
+      "reason": "identification confidence 0.66: title as printed on the spine; no catalogue record found"
+    },
+    {
+      "ref_id": "book_020",
+      "reason": "no price found: no matching listing found; excluded from totals"
+    },
+    {
+      "ref_id": "book_021",
+      "reason": "shelved backwards (page edges facing out): spine not visible"
+    },
+    {
+      "ref_id": "book_022",
+      "reason": "no price found: no matching listing found; excluded from totals"
+    },
+    {
+      "ref_id": "book_022",
+      "reason": "no scale anchor on this shelf: dimensions assume a 21 cm median book"
+    },
+    {
+      "ref_id": "book_024",
+      "reason": "spine not readable"
+    },
+    {
+      "ref_id": "item_001",
+      "reason": "no price: no listing found; excluded from totals"
+    },
+    {
+      "ref_id": "item_001",
+      "reason": "dimensions not measured"
+    },
+    {
+      "ref_id": "room",
+      "reason": "reconstruction too flat to find floor and ceiling (was the whole room swept?)"
+    }
+  ],
+  "excluded_by_policyholder": []
+}

@@ -1,0 +1,18 @@
+{
+ "length_m": 1.91,
+ "width_m": 0.22,
+ "height_m": 1.5,
+ "floor_area_m2": 0.41,
+ "wall_area_m2": 6.37,
+ "shelved_wall_area_m2": null,
+ "floor_area_ft2": 4.4,
+ "wall_area_ft2": 68.6,
+ "scale_method": "3D reconstruction (DA3-SMALL) scaled by 2 catalogue anchors; up from mean camera up-axis (no motion data)",
+ "confidence": 0.1,
+ "shape_notes": "rectangular (walls at right angles, fitted with sharpest-projection alignment). Wall area is gross (perimeter x height), openings not subtracted.",
+ "notes": [
+  "scale implausible: it puts the phone 0.53 m above the floor (expected 0.9-2.0 m); room figures are unreliable",
+  "ceiling not captured: height is the highest point seen (a lower bound)",
+  "1 of 4 walls only weakly visible in the sweep"
+ ]
+}

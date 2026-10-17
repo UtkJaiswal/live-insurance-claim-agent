@@ -1,0 +1,414 @@
+{
+ "book_001": {
+  "track_id": "book_001",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_002": {
+  "track_id": "book_002",
+  "status": "identified",
+  "title": "Gesammelte Aufsätze II",
+  "author": "Theodor Ebert",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.8,
+  "catalogue_url": "https://openlibrary.org/works/OL24021436W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-17T11:06:15+00:00"
+ },
+ "book_003": {
+  "track_id": "book_003",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_004": {
+  "track_id": "book_004",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": "rde",
+  "year": null,
+  "id_confidence": 0.45,
+  "catalogue_url": "https://openlibrary.org/works/OL42342886W",
+  "dims_cm": {},
+  "reasons": [
+   "weak match to 'Die Natur und die Griechen' (confidence 0.45)"
+  ],
+  "retrieved_at": "2026-10-17T11:06:15+00:00"
+ },
+ "book_005": {
+  "track_id": "book_005",
+  "status": "identified",
+  "title": "Physical World of the Greeks",
+  "author": "Samuel Sambursky",
+  "edition": null,
+  "isbn": null,
+  "publisher": "RKP",
+  "year": null,
+  "id_confidence": 0.92,
+  "catalogue_url": "https://openlibrary.org/works/OL21089165W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-17T11:06:15+00:00"
+ },
+ "book_006": {
+  "track_id": "book_006",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_007": {
+  "track_id": "book_007",
+  "status": "identified",
+  "title": "Antike Themen und ihre moderne Verwandlung",
+  "author": "Bubner",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.66,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "title as printed on the spine; no catalogue record found"
+  ],
+  "retrieved_at": "2026-10-17T11:06:14+00:00"
+ },
+ "book_008": {
+  "track_id": "book_008",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_009": {
+  "track_id": "book_009",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_010": {
+  "track_id": "book_010",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_011": {
+  "track_id": "book_011",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_012": {
+  "track_id": "book_012",
+  "status": "identified",
+  "title": "Shame and Necessity",
+  "author": "Bernard Williams",
+  "edition": "University of California 1994",
+  "isbn": "0520088301",
+  "publisher": "University of California",
+  "year": "1994",
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/books/OL22521556M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-17T11:06:16+00:00"
+ },
+ "book_013": {
+  "track_id": "book_013",
+  "status": "identified",
+  "title": "Antike Denker über den Staat",
+  "author": "Adomeit",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.66,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "title as printed on the spine; no catalogue record found"
+  ],
+  "retrieved_at": "2026-10-17T11:06:16+00:00"
+ },
+ "book_014": {
+  "track_id": "book_014",
+  "status": "identified",
+  "title": "Griechisches Rechtsdenken I",
+  "author": "Erik Wolf",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/works/OL7176890W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-17T11:06:17+00:00"
+ },
+ "book_015": {
+  "track_id": "book_015",
+  "status": "identified",
+  "title": "Griechisches Rechtsdenken II",
+  "author": "Erik Wolf",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/works/OL7176890W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-17T11:06:17+00:00"
+ },
+ "book_016": {
+  "track_id": "book_016",
+  "status": "identified",
+  "title": "Einführung in die Philosophie des Mythos",
+  "author": "Luc Brisson",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/works/OL1699543W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-17T11:06:17+00:00"
+ },
+ "book_017": {
+  "track_id": "book_017",
+  "status": "identified",
+  "title": "Glaubten die Griechen an ihre Mythen?",
+  "author": "Paul Veyne",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/works/OL8103839W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-17T11:06:17+00:00"
+ },
+ "book_018": {
+  "track_id": "book_018",
+  "status": "identified",
+  "title": "Die Theorie des Schönen in der Antike",
+  "author": "Grassi",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.66,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "title as printed on the spine; no catalogue record found"
+  ],
+  "retrieved_at": "2026-10-17T11:06:18+00:00"
+ },
+ "book_019": {
+  "track_id": "book_019",
+  "status": "identified",
+  "title": "Geschichte der Sprachtheorie 2",
+  "author": "Schmitter (Hrsg.)",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.66,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "title as printed on the spine; no catalogue record found"
+  ],
+  "retrieved_at": "2026-10-17T11:06:19+00:00"
+ },
+ "book_020": {
+  "track_id": "book_020",
+  "status": "identified",
+  "title": "Die Geschichte der Sprachphilosophie I",
+  "author": "Eugenio Coseriu",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.66,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "title as printed on the spine; no catalogue record found"
+  ],
+  "retrieved_at": "2026-10-17T11:06:19+00:00"
+ },
+ "book_021": {
+  "track_id": "book_021",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_022": {
+  "track_id": "book_022",
+  "status": "identified",
+  "title": "Philosophen der Antike I",
+  "author": "Friedo Ricken",
+  "edition": "Kohlhammer 1996",
+  "isbn": "9783170127197",
+  "publisher": "Kohlhammer",
+  "year": "1996",
+  "id_confidence": 0.79,
+  "catalogue_url": "https://openlibrary.org/books/OL12674430M",
+  "dims_cm": {
+   "height": 18.8,
+   "width": 11.43,
+   "thickness": 2.79
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-17T11:06:22+00:00"
+ },
+ "book_023": {
+  "track_id": "book_023",
+  "status": "identified",
+  "title": "Philosophen der Antike II",
+  "author": "Friedo Ricken",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.78,
+  "catalogue_url": "https://openlibrary.org/works/OL15394900W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-17T11:06:22+00:00"
+ },
+ "book_024": {
+  "track_id": "book_024",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ }
+}

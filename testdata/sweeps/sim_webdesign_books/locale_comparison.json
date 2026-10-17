@@ -1,0 +1,118 @@
+{
+ "country_a": "IN",
+ "currency_a": "INR",
+ "country_b": "US",
+ "currency_b": "USD",
+ "books": [
+  {
+   "id": "book_037",
+   "title": "The digital negative",
+   "a": 3650.26,
+   "a_conv": true,
+   "b": 38.44,
+   "b_conv": false,
+   "b_source": "amazon.com (seller: Yanakman) via retailer page fetched with TinyFish (1 matching offer, median)",
+   "b_url": "https://www.amazon.com/-/he/Digital-Negative-Processing-Lightroom-Photoshop/dp/0321839579",
+   "b_retrieved_at": "2026-10-17T13:42:53+00:00"
+  },
+  {
+   "id": "book_039",
+   "title": "The digital negative",
+   "a": 3650.26,
+   "a_conv": true,
+   "b": 38.44,
+   "b_conv": false,
+   "b_source": "amazon.com (seller: Yanakman) via retailer page fetched with TinyFish (1 matching offer, median)",
+   "b_url": "https://www.amazon.com/-/he/Digital-Negative-Processing-Lightroom-Photoshop/dp/0321839579",
+   "b_retrieved_at": "2026-10-17T13:42:53+00:00"
+  },
+  {
+   "id": "book_046",
+   "title": "Mastering Xcode",
+   "a": 4447.0,
+   "a_conv": false,
+   "b": 49.46,
+   "b_conv": false,
+   "b_source": "amazon.com (seller: Capsule Corp Media) via retailer page fetched with TinyFish (1 matching offer, median)",
+   "b_url": "https://www.amazon.com/Mastering-Xcode-4-Develop-Design/dp/0321767527",
+   "b_retrieved_at": "2026-10-17T13:45:20+00:00"
+  },
+  {
+   "id": "book_047",
+   "title": "jQuery, jQuery UI, and jQuery Mobile",
+   "a": 1722.5,
+   "a_conv": false,
+   "b": 92.32,
+   "b_conv": true,
+   "b_source": "amazon.co.uk (seller: vizkBooks) via retailer page fetched with TinyFish (1 matching offer, median)",
+   "b_url": "https://www.amazon.co.uk/jQuery-UI-Mobile-Examples-Developers/dp/0321822080",
+   "b_retrieved_at": "2026-10-17T13:45:42+00:00"
+  },
+  {
+   "id": "book_049",
+   "title": "Joomla! BIBLE",
+   "a": 558.5,
+   "a_conv": false,
+   "b": null,
+   "b_conv": false,
+   "b_source": null,
+   "b_url": null,
+   "b_retrieved_at": null
+  },
+  {
+   "id": "book_060",
+   "title": "Crafting Rails Applications",
+   "a": 3025.0,
+   "a_conv": false,
+   "b": 38.66,
+   "b_conv": true,
+   "b_source": "waterstones.com (seller: Waterstones) via retailer page fetched with TinyFish (1 matching offer, median)",
+   "b_url": "https://www.waterstones.com/book/crafting-rails-4-applications-2ed/jose-valim/9781937785550",
+   "b_retrieved_at": "2026-10-17T13:45:54+00:00"
+  },
+  {
+   "id": "book_081",
+   "title": "JavaScript A BEGINNER'S GUIDE",
+   "a": 4518.3,
+   "a_conv": false,
+   "b": null,
+   "b_conv": false,
+   "b_source": null,
+   "b_url": null,
+   "b_retrieved_at": null
+  },
+  {
+   "id": "book_082",
+   "title": "Beginning Programming with Java",
+   "a": 1876.0,
+   "a_conv": false,
+   "b": null,
+   "b_conv": false,
+   "b_source": null,
+   "b_url": null,
+   "b_retrieved_at": null
+  },
+  {
+   "id": "book_084",
+   "title": "JavaScript: The Good Parts",
+   "a": 2285.0,
+   "a_conv": false,
+   "b": null,
+   "b_conv": false,
+   "b_source": null,
+   "b_url": null,
+   "b_retrieved_at": null
+  },
+  {
+   "id": "book_089",
+   "title": "Sams Teach Yourself Java in 21 Days",
+   "a": 1499.0,
+   "a_conv": false,
+   "b": 60.42,
+   "b_conv": true,
+   "b_source": "amazon.co.uk (seller: Amazon) via retailer page fetched with TinyFish (1 matching offer, median)",
+   "b_url": "https://www.amazon.co.uk/Java-Days-Teach-Yourself-Covering/dp/0672337959",
+   "b_retrieved_at": "2026-10-17T13:45:52+00:00"
+  }
+ ]
+}

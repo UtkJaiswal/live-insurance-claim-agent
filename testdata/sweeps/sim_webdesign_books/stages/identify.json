@@ -1,0 +1,2367 @@
+{
+ "book_001": {
+  "track_id": "book_001",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_002": {
+  "track_id": "book_002",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_003": {
+  "track_id": "book_003",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_004": {
+  "track_id": "book_004",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Of S' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:14:59+00:00"
+ },
+ "book_005": {
+  "track_id": "book_005",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_006": {
+  "track_id": "book_006",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_008": {
+  "track_id": "book_008",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'LINUX | L B' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:14:52+00:00"
+ },
+ "book_009": {
+  "track_id": "book_009",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Wi Ap XA | Wi Fo D' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:10:27+00:00"
+ },
+ "book_010": {
+  "track_id": "book_010",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.42,
+  "catalogue_url": "https://openlibrary.org/works/OL16927363W",
+  "dims_cm": {},
+  "reasons": [
+   "weak match to 'Windows 7' (confidence 0.42)"
+  ],
+  "retrieved_at": "2026-10-17T13:14:53+00:00"
+ },
+ "book_011": {
+  "track_id": "book_011",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_012": {
+  "track_id": "book_012",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Win Fo D' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:14:52+00:00"
+ },
+ "book_013": {
+  "track_id": "book_013",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_014": {
+  "track_id": "book_014",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'Windows 8 | W' without an author; 2 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-17T13:08:06+00:00"
+ },
+ "book_015": {
+  "track_id": "book_015",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'W IN' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:14:53+00:00"
+ },
+ "book_016": {
+  "track_id": "book_016",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Winc' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:07:13+00:00"
+ },
+ "book_017": {
+  "track_id": "book_017",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.41,
+  "catalogue_url": "https://openlibrary.org/works/OL25671353W",
+  "dims_cm": {},
+  "reasons": [
+   "weak match to 'Mac OS X Mountain Lion' (confidence 0.41)"
+  ],
+  "retrieved_at": "2026-10-17T13:07:13+00:00"
+ },
+ "book_018": {
+  "track_id": "book_018",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Win Res' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:14:53+00:00"
+ },
+ "book_019": {
+  "track_id": "book_019",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not legible enough to identify"
+  ],
+  "retrieved_at": "2026-10-17T13:14:53+00:00"
+ },
+ "book_020": {
+  "track_id": "book_020",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Powershell 2.0' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:07:13+00:00"
+ },
+ "book_021": {
+  "track_id": "book_021",
+  "status": "identified",
+  "title": "Autodesk Revit Architecture 2013 | NO EXPERIENCE REQUIRED",
+  "author": "Eric Wing",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.75,
+  "catalogue_url": "https://openlibrary.org/works/OL17579149W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-17T13:07:15+00:00"
+ },
+ "book_022": {
+  "track_id": "book_022",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.42,
+  "catalogue_url": "https://openlibrary.org/works/OL25389706W",
+  "dims_cm": {},
+  "reasons": [
+   "weak match to 'Illustrator CS6' (confidence 0.42)"
+  ],
+  "retrieved_at": "2026-10-17T13:11:00+00:00"
+ },
+ "book_023": {
+  "track_id": "book_023",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Simply | Easies | Paul McFedries' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:15:31+00:00"
+ },
+ "book_024": {
+  "track_id": "book_024",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'AutoCAD 2013 | NO EXPERIENCE REQUIRED | COREL PAINTSHOP' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:07:14+00:00"
+ },
+ "book_025": {
+  "track_id": "book_025",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.42,
+  "catalogue_url": "https://openlibrary.org/works/OL16152796W",
+  "dims_cm": {},
+  "reasons": [
+   "weak match to 'Photoshop for artists' (confidence 0.42)"
+  ],
+  "retrieved_at": "2026-10-17T13:07:15+00:00"
+ },
+ "book_026": {
+  "track_id": "book_026",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Adobe | Pho | que' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:14:55+00:00"
+ },
+ "book_027": {
+  "track_id": "book_027",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'THE | ART | Creative | Using Wi' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:14:55+00:00"
+ },
+ "book_028": {
+  "track_id": "book_028",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'Photoshop CS6 | The Healthy Mac'; the closest catalogue title 'Photoshop CS6' leaves ['healthy', 'mac'] unexplained, so it is probably a different book"
+  ],
+  "retrieved_at": "2026-10-17T13:07:15+00:00"
+ },
+ "book_029": {
+  "track_id": "book_029",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.42,
+  "catalogue_url": "https://openlibrary.org/works/OL3273842W",
+  "dims_cm": {},
+  "reasons": [
+   "weak match to 'OpenGL' (confidence 0.42)"
+  ],
+  "retrieved_at": "2026-10-17T13:11:01+00:00"
+ },
+ "book_030": {
+  "track_id": "book_030",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'Photoshop CS5' without an author; 2 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-17T13:08:10+00:00"
+ },
+ "book_031": {
+  "track_id": "book_031",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'FAB | THE NEW | Autodesk Maya 2014' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:07:16+00:00"
+ },
+ "book_032": {
+  "track_id": "book_032",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Illustrator CC | Creative Suite 5 | LEARN | Adobe Muse' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:07:46+00:00"
+ },
+ "book_033": {
+  "track_id": "book_033",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Includes 7 bonus | TOP 100 | Adobe Ph' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:07:46+00:00"
+ },
+ "book_034": {
+  "track_id": "book_034",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'Adobe Muse' without an author; 3 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-17T13:07:17+00:00"
+ },
+ "book_035": {
+  "track_id": "book_035",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'Photoshop Elements 12' without an author; 3 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-17T13:07:47+00:00"
+ },
+ "book_036": {
+  "track_id": "book_036",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Mastering Blender | Maste | SYBEX' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:07:18+00:00"
+ },
+ "book_037": {
+  "track_id": "book_037",
+  "status": "identified",
+  "title": "The digital negative",
+  "author": "Jeff Schewe",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.56,
+  "catalogue_url": "https://openlibrary.org/works/OL20008179W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-17T13:07:19+00:00"
+ },
+ "book_038": {
+  "track_id": "book_038",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'AUTODESK | Autodesk Revit Architecture 20 | NO EXPERIENCE REQUIRE' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:10:30+00:00"
+ },
+ "book_039": {
+  "track_id": "book_039",
+  "status": "identified",
+  "title": "The digital negative",
+  "author": "Jeff Schewe",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.75,
+  "catalogue_url": "https://openlibrary.org/works/OL20008179W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-17T13:07:19+00:00"
+ },
+ "book_040": {
+  "track_id": "book_040",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Adobe | Creative Cloud | Design Tools | ALL-IN-ONE | FOR | DUMMIES' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:07:19+00:00"
+ },
+ "book_041": {
+  "track_id": "book_041",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'AUTODESK | Autodesk Revit | Architecture 20 | NO EXPERIENCE REQUIRED' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:13:45+00:00"
+ },
+ "book_042": {
+  "track_id": "book_042",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'Photoshop Elements 10' without an author; 2 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-17T13:08:13+00:00"
+ },
+ "book_043": {
+  "track_id": "book_043",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.56,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Green | Dias | FOUNDATION | FLASH CSS FOR DESIGNERS' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-17T13:15:33+00:00"
+ },
+ "book_044": {
+  "track_id": "book_044",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_045": {
+  "track_id": "book_045",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.42,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Green | Dias | FOUNDATION | FLASH CSS FOR DESIGNERS' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-17T13:15:33+00:00"
+ },
+ "book_046": {
+  "track_id": "book_046",
+  "status": "identified",
+  "title": "Mastering Xcode",
+  "author": "Maurice Kelly, Joshua Nozzi",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.75,
+  "catalogue_url": "https://openlibrary.org/works/OL26343140W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-17T13:07:20+00:00"
+ },
+ "book_047": {
+  "track_id": "book_047",
+  "status": "identified",
+  "title": "jQuery, jQuery UI, and jQuery Mobile",
+  "author": "Adriaan de Jonge, Phil Dutson",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.6,
+  "catalogue_url": "https://openlibrary.org/works/OL25389705W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-17T13:07:20+00:00"
+ },
+ "book_048": {
+  "track_id": "book_048",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'LEARNING IOS DESIGN' without an author; 2 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-17T13:07:20+00:00"
+ },
+ "book_049": {
+  "track_id": "book_049",
+  "status": "identified",
+  "title": "Joomla! BIBLE",
+  "author": "Ric Shreves",
+  "edition": "Wiley & Sons, Limited, John 2011",
+  "isbn": "9781118255711",
+  "publisher": "Wiley & Sons, Limited, John",
+  "year": "2011",
+  "id_confidence": 0.89,
+  "catalogue_url": "https://openlibrary.org/books/OL39883142M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-17T13:07:21+00:00"
+ },
+ "book_050": {
+  "track_id": "book_050",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'Sams Teach Yourself | Windows Phone 7 | Application Development | 24 HOURS' without an author; 2 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-17T13:07:21+00:00"
+ },
+ "book_051": {
+  "track_id": "book_051",
+  "status": "identified",
+  "title": "iOS PROGRAMMING",
+  "author": "Joe Conway, Aaron Hillegass",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.8,
+  "catalogue_url": "https://openlibrary.org/works/OL19337423W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-17T13:15:03+00:00"
+ },
+ "book_052": {
+  "track_id": "book_052",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'HTML5 FOR DUMMIES | e LEARNING' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:15:04+00:00"
+ },
+ "book_053": {
+  "track_id": "book_053",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'HTML5 FOR DUMMIES | e LEARNING' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:15:04+00:00"
+ },
+ "book_054": {
+  "track_id": "book_054",
+  "status": "identified",
+  "title": "iOS PROGRAMMING",
+  "author": "Joe Conway, Aaron Hillegass",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/works/OL19337423W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-17T13:07:21+00:00"
+ },
+ "book_055": {
+  "track_id": "book_055",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Sams Teach Yourself | and Apache | FIFTH EDITION | STARTER | All in One' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:11:02+00:00"
+ },
+ "book_056": {
+  "track_id": "book_056",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_057": {
+  "track_id": "book_057",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Introduction to Android™ | Application Development' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:10:36+00:00"
+ },
+ "book_058": {
+  "track_id": "book_058",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'PHP, MySQL, | JavaScript & HTML5 | ALL-IN-ONE | FOR | DUMMIES' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:15:05+00:00"
+ },
+ "book_059": {
+  "track_id": "book_059",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Meier | Professional | Android | Application Develo' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:15:34+00:00"
+ },
+ "book_060": {
+  "track_id": "book_060",
+  "status": "identified",
+  "title": "Crafting Rails Applications",
+  "author": "Jose Valim",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/works/OL16299784W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-17T13:07:23+00:00"
+ },
+ "book_061": {
+  "track_id": "book_061",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Professional | Android Ope | Programming with' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:10:37+00:00"
+ },
+ "book_062": {
+  "track_id": "book_062",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_063": {
+  "track_id": "book_063",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'TIKA IN ACTION' without an author; 2 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-17T13:07:23+00:00"
+ },
+ "book_064": {
+  "track_id": "book_064",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'WHITE | Idea to iPho' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:15:35+00:00"
+ },
+ "book_065": {
+  "track_id": "book_065",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'In Color | HTML5 Canvas | FOR DUMMIES' without an author; 2 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-17T13:08:15+00:00"
+ },
+ "book_066": {
+  "track_id": "book_066",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text '#1 | 3rd Edition | iPad Application De' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:15:07+00:00"
+ },
+ "book_067": {
+  "track_id": "book_067",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'DEITEL | Android for Progr An App-Dr' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:15:36+00:00"
+ },
+ "book_068": {
+  "track_id": "book_068",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'sitepoint | ASP.NET 4 | ASP.NET 4 WEBSITE | USING C# & VB' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:07:24+00:00"
+ },
+ "book_069": {
+  "track_id": "book_069",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Android™ for Prog | An App-D' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:10:40+00:00"
+ },
+ "book_070": {
+  "track_id": "book_070",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text \"jQuery Cookbook | Java™ SE 7 Programming ESSENTIALS | O'REILLY | dtsx\" matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:10:40+00:00"
+ },
+ "book_071": {
+  "track_id": "book_071",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Visual | HTML5' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:15:04+00:00"
+ },
+ "book_072": {
+  "track_id": "book_072",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text '#1 | 3rd Edition | iPad™ Application Develop' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:07:25+00:00"
+ },
+ "book_073": {
+  "track_id": "book_073",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Java™ SE 7 Programming ESSENTIALS | Sams Teach Yourself | Java™ | 24 Hours' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:07:25+00:00"
+ },
+ "book_074": {
+  "track_id": "book_074",
+  "status": "identified",
+  "title": "HTML5 and CSS3",
+  "author": "Brian P. Hogan",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/works/OL16945035W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-17T13:07:28+00:00"
+ },
+ "book_075": {
+  "track_id": "book_075",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Learn JavaScript and Ajax | WILEY' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:07:26+00:00"
+ },
+ "book_076": {
+  "track_id": "book_076",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Sams Teach Yourself | iOS' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:15:11+00:00"
+ },
+ "book_077": {
+  "track_id": "book_077",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'sitepoint | HTML & CSS | HTML5 & CSS3 FOR THE REAL WORLD'; the closest catalogue title 'HTML5 & CSS3 For The Real World: Powerful HTML5 and CSS3 Techniques You Can Use Today!' leaves ['css', 'html'] unexplained, so it is probably a different book"
+  ],
+  "retrieved_at": "2026-10-17T13:07:54+00:00"
+ },
+ "book_078": {
+  "track_id": "book_078",
+  "status": "identified",
+  "title": "The Java Tutorial",
+  "author": "Sharon Zakhour, Scott Hommel",
+  "edition": "Addison-Wesley Longman, Incorporated 2014",
+  "isbn": "9780134034690",
+  "publisher": "Addison-Wesley Longman, Incorporated",
+  "year": "2014",
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/books/OL34023038M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-17T13:08:23+00:00"
+ },
+ "book_079": {
+  "track_id": "book_079",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not legible enough to identify"
+  ],
+  "retrieved_at": "2026-10-17T13:07:56+00:00"
+ },
+ "book_080": {
+  "track_id": "book_080",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'JavaScript | Eighth Edition | VISUAL QUICKSTART GUIDE' without an author; 3 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-17T13:07:27+00:00"
+ },
+ "book_081": {
+  "track_id": "book_081",
+  "status": "identified",
+  "title": "JavaScript A BEGINNER'S GUIDE",
+  "author": "John Pollock",
+  "edition": "McGraw-Hill Education 2019",
+  "isbn": "9781260457681",
+  "publisher": "McGraw-Hill Education",
+  "year": "2019",
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/books/OL29812984M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-17T13:15:12+00:00"
+ },
+ "book_082": {
+  "track_id": "book_082",
+  "status": "identified",
+  "title": "Beginning Programming with Java",
+  "author": "Burd",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.66,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "title as printed on the spine; no catalogue record found"
+  ],
+  "retrieved_at": "2026-10-17T13:07:27+00:00"
+ },
+ "book_083": {
+  "track_id": "book_083",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Sams Teach Yourself' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:07:56+00:00"
+ },
+ "book_084": {
+  "track_id": "book_084",
+  "status": "identified",
+  "title": "JavaScript: The Good Parts",
+  "author": "Douglas Crockford, Ke luo ke fu de",
+  "edition": "O'Reilly Media, Inc. May 15, 2008",
+  "isbn": "9780596517748",
+  "publisher": "O'Reilly Media, Inc.",
+  "year": "May 15, 2008",
+  "id_confidence": 0.6,
+  "catalogue_url": "https://openlibrary.org/books/OL10781042M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-17T13:07:55+00:00"
+ },
+ "book_085": {
+  "track_id": "book_085",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'HTML5 and CSS3 | MANNING' without an author; 3 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-17T13:07:28+00:00"
+ },
+ "book_086": {
+  "track_id": "book_086",
+  "status": "identified",
+  "title": "HTML5 and CSS3",
+  "author": "Crowder",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.66,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "title as printed on the spine; no catalogue record found"
+  ],
+  "retrieved_at": "2026-10-17T13:07:28+00:00"
+ },
+ "book_087": {
+  "track_id": "book_087",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'the missing' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:07:59+00:00"
+ },
+ "book_088": {
+  "track_id": "book_088",
+  "status": "identified",
+  "title": "HTML5 and CSS3",
+  "author": "Crowder",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.66,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "title as printed on the spine; no catalogue record found"
+  ],
+  "retrieved_at": "2026-10-17T13:07:28+00:00"
+ },
+ "book_089": {
+  "track_id": "book_089",
+  "status": "identified",
+  "title": "Sams Teach Yourself Java in 21 Days",
+  "author": "Rogers Cadenhead",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/works/OL16665025W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-17T13:07:29+00:00"
+ },
+ "book_090": {
+  "track_id": "book_090",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_091": {
+  "track_id": "book_091",
+  "status": "identified",
+  "title": "PHP, MySQL, JavaScript & HTML5 ALL-IN-ONE FOR DUMMIES",
+  "author": "Suehring Valade",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.66,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "title as printed on the spine; no catalogue record found"
+  ],
+  "retrieved_at": "2026-10-17T13:15:37+00:00"
+ },
+ "book_092": {
+  "track_id": "book_092",
+  "status": "identified",
+  "title": "Sams Teach Yourself Java in 21 Days",
+  "author": "Rogers Cadenhead",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.6,
+  "catalogue_url": "https://openlibrary.org/works/OL16665025W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-17T13:07:29+00:00"
+ },
+ "book_093": {
+  "track_id": "book_093",
+  "status": "identified",
+  "title": "JavaScript & jQuery",
+  "author": "David Sawyer McFarland",
+  "edition": null,
+  "isbn": null,
+  "publisher": "O'REILLY",
+  "year": null,
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/works/OL16492360W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-17T13:08:18+00:00"
+ },
+ "book_094": {
+  "track_id": "book_094",
+  "status": "identified",
+  "title": "Java in 21 Days",
+  "author": "Cadenhead",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.66,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "title as printed on the spine; no catalogue record found"
+  ],
+  "retrieved_at": "2026-10-17T13:07:29+00:00"
+ },
+ "book_095": {
+  "track_id": "book_095",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_096": {
+  "track_id": "book_096",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'JavaScript | Eighth Edition | VISUAL QUICKSTART GUIDE' without an author; 3 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-17T13:07:27+00:00"
+ },
+ "book_097": {
+  "track_id": "book_097",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Sams Teach Yourself | Java' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:07:58+00:00"
+ },
+ "book_098": {
+  "track_id": "book_098",
+  "status": "identified",
+  "title": "Programming PHP",
+  "author": "Rasmus Lerdorf, Kevin Tatroe",
+  "edition": "O'Reilly Media, Inc. April 28, 2006",
+  "isbn": "9780596006815",
+  "publisher": "O'Reilly Media, Inc.",
+  "year": "April 28, 2006",
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/books/OL7581095M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-17T13:07:30+00:00"
+ },
+ "book_099": {
+  "track_id": "book_099",
+  "status": "identified",
+  "title": "Head First jQuery",
+  "author": "Ryan Benedetti",
+  "edition": "O'Reilly Media, Incorporated 2011",
+  "isbn": "9781306811972",
+  "publisher": "O'Reilly Media, Incorporated",
+  "year": "2011",
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/books/OL36718989M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-17T13:15:17+00:00"
+ },
+ "book_100": {
+  "track_id": "book_100",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'HTML5 for Beginners | LEARN BY VIDEO'; the closest catalogue title 'HTML5 for Beginners' leaves ['learn', 'video'] unexplained, so it is probably a different book"
+  ],
+  "retrieved_at": "2026-10-17T13:08:20+00:00"
+ },
+ "book_101": {
+  "track_id": "book_101",
+  "status": "identified",
+  "title": "Java Network Programming",
+  "author": "Elliotte Rusty Harold",
+  "edition": "O'Reilly 2000",
+  "isbn": "1565928709",
+  "publisher": "O'Reilly",
+  "year": "2000",
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/books/OL15477416M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-17T13:07:31+00:00"
+ },
+ "book_102": {
+  "track_id": "book_102",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'ADOBE AIR (ADOBE INTEGRATED RUNTIME) WITH AJAX | VISUAL QUICKPRO GUIDE'; the closest catalogue title 'Adobe AIR (Adobe Integrated Runtime) with AJAX' leaves ['guide', 'quickpro', 'visual'] unexplained, so it is probably a different book"
+  ],
+  "retrieved_at": "2026-10-17T13:07:32+00:00"
+ },
+ "book_103": {
+  "track_id": "book_103",
+  "status": "identified",
+  "title": "Java Programming Interviews Exposed",
+  "author": "Noel Markham",
+  "edition": "Wrox Feb 17, 2014",
+  "isbn": "9781118722862",
+  "publisher": "Wrox",
+  "year": "Feb 17, 2014",
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/books/OL26838399M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-17T13:07:32+00:00"
+ },
+ "book_104": {
+  "track_id": "book_104",
+  "status": "identified",
+  "title": "PHP and MySQL Web Development",
+  "author": "Welling Thomson",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.66,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "title as printed on the spine; no catalogue record found"
+  ],
+  "retrieved_at": "2026-10-17T13:15:19+00:00"
+ },
+ "book_105": {
+  "track_id": "book_105",
+  "status": "identified",
+  "title": "JavaScript in Easy Steps",
+  "author": "Mike McGrath",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.56,
+  "catalogue_url": "https://openlibrary.org/works/OL20746976W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-17T13:08:00+00:00"
+ },
+ "book_106": {
+  "track_id": "book_106",
+  "status": "identified",
+  "title": "Learning PHP Design Patterns",
+  "author": "William Sanders",
+  "edition": "O'Reilly Media, Incorporated 2013",
+  "isbn": "9781306811286",
+  "publisher": "O'Reilly Media, Incorporated",
+  "year": "2013",
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/books/OL36714005M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-17T13:07:33+00:00"
+ },
+ "book_107": {
+  "track_id": "book_107",
+  "status": "identified",
+  "title": "JavaScript in Easy Steps",
+  "author": "Mike McGrath",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.89,
+  "catalogue_url": "https://openlibrary.org/works/OL20746976W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-17T13:08:00+00:00"
+ },
+ "book_108": {
+  "track_id": "book_108",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'HTML and CSS Eighth Edition | VISUAL QUICKSTART GUIDE'; the closest catalogue title 'HTML and CSS: Design and Build Websites' leaves ['guide', 'quickstart', 'visual'] unexplained, so it is probably a different book"
+  ],
+  "retrieved_at": "2026-10-17T13:07:34+00:00"
+ },
+ "book_109": {
+  "track_id": "book_109",
+  "status": "identified",
+  "title": "Java Programming",
+  "author": "Sarang",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.66,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "title as printed on the spine; no catalogue record found"
+  ],
+  "retrieved_at": "2026-10-17T13:08:01+00:00"
+ },
+ "book_110": {
+  "track_id": "book_110",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'HTML5 and CSS3 | Seventh Edition | VISUAL QUICKSTART GUIDE' without an author; 3 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-17T13:07:28+00:00"
+ },
+ "book_111": {
+  "track_id": "book_111",
+  "status": "identified",
+  "title": "iOS 6 PROGRAMMING PUSHING THE LIMITS",
+  "author": "Rob Napier, Mugunth Kumar",
+  "edition": "Wiley & Sons, Incorporated, John 2012",
+  "isbn": "9781299187306",
+  "publisher": "Wiley & Sons, Incorporated, John",
+  "year": "2012",
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/books/OL39882215M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-17T13:07:35+00:00"
+ },
+ "book_112": {
+  "track_id": "book_112",
+  "status": "identified",
+  "title": "Learn HTML5 and JavaScript for Android",
+  "author": "Gavin Williams",
+  "edition": "Apress Sep 13, 2012",
+  "isbn": "9781430243496",
+  "publisher": "Apress",
+  "year": "Sep 13, 2012",
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/books/OL28018243M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-17T13:07:35+00:00"
+ },
+ "book_113": {
+  "track_id": "book_113",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Sams Teach Yourself | HTML and CSS | EIGHTH EDITION | 24 Hours' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:07:34+00:00"
+ },
+ "book_114": {
+  "track_id": "book_114",
+  "status": "identified",
+  "title": "iPad Programming",
+  "author": "Daniel H. Steinberg",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/works/OL16155178W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-17T13:15:22+00:00"
+ },
+ "book_115": {
+  "track_id": "book_115",
+  "status": "identified",
+  "title": "ANDROID User Interface Design",
+  "author": "Ian G. Clifton",
+  "edition": "Addison-Wesley Longman, Incorporated 2015",
+  "isbn": "9780134191959",
+  "publisher": "Addison-Wesley Longman, Incorporated",
+  "year": "2015",
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/books/OL34027657M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-17T13:07:35+00:00"
+ },
+ "book_116": {
+  "track_id": "book_116",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'HTML and CSS | Eighth Edition | VISUAL QUICKSTART GUIDE'; the closest catalogue title 'HTML and CSS: Design and Build Websites' leaves ['guide', 'quickstart', 'visual'] unexplained, so it is probably a different book"
+  ],
+  "retrieved_at": "2026-10-17T13:07:34+00:00"
+ },
+ "book_117": {
+  "track_id": "book_117",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'Java | The Java Tutorial | A Short Course on the Basics | Fifth Edition | ORACLE | Addison Wesley' without an author; 2 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-17T13:08:02+00:00"
+ },
+ "book_118": {
+  "track_id": "book_118",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'DEIT | Android for Programm An App-Driven A | livelessons | $195 value! | VIDEO LESSONS AND BOOK SIDE BY SIDE' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:10:54+00:00"
+ },
+ "book_119": {
+  "track_id": "book_119",
+  "status": "identified",
+  "title": "Java FOR DUMMIES",
+  "author": "Barry A. Burd, Barry Burd",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/works/OL3372608W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-17T13:07:36+00:00"
+ },
+ "book_120": {
+  "track_id": "book_120",
+  "status": "identified",
+  "title": "Beginning iOS 5 Application Development",
+  "author": "Wei-Meng Lee",
+  "edition": "Wrox Press 2012",
+  "isbn": "9781118144251",
+  "publisher": "Wrox Press",
+  "year": "2012",
+  "id_confidence": 0.89,
+  "catalogue_url": "https://openlibrary.org/books/OL26029830M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-17T13:07:36+00:00"
+ },
+ "book_121": {
+  "track_id": "book_121",
+  "status": "identified",
+  "title": "Beginning Programming with Java",
+  "author": "Burd",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.66,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "title as printed on the spine; no catalogue record found"
+  ],
+  "retrieved_at": "2026-10-17T13:07:27+00:00"
+ },
+ "book_122": {
+  "track_id": "book_122",
+  "status": "identified",
+  "title": "Learning Java",
+  "author": "Patrick Niemeyer, Pat Niemeyer",
+  "edition": "O'Reilly May 1, 2000",
+  "isbn": "9781565927186",
+  "publisher": "O'Reilly",
+  "year": "May 1, 2000",
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/books/OL8667346M",
+  "dims_cm": {
+   "height": 23.37,
+   "width": 17.78,
+   "thickness": 3.56
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-17T13:15:24+00:00"
+ },
+ "book_123": {
+  "track_id": "book_123",
+  "status": "identified",
+  "title": "Android Programming The Big Nerd Ranch Guide",
+  "author": "Phillips & Hardy",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.66,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "title as printed on the spine; no catalogue record found"
+  ],
+  "retrieved_at": "2026-10-17T13:15:25+00:00"
+ },
+ "book_124": {
+  "track_id": "book_124",
+  "status": "identified",
+  "title": "iPhone and iPad Apps for Absolute Beginners",
+  "author": "Rory Lewis",
+  "edition": "Apress Apr 18, 2013",
+  "isbn": "9781430246190",
+  "publisher": "Apress",
+  "year": "Apr 18, 2013",
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/books/OL28002813M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-17T13:07:37+00:00"
+ },
+ "book_125": {
+  "track_id": "book_125",
+  "status": "identified",
+  "title": "jQuery A BEGINNER'S GUIDE",
+  "author": "John Pollock",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/works/OL19547406W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-17T13:07:37+00:00"
+ },
+ "book_126": {
+  "track_id": "book_126",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows '#1 | Java FOR DUMMIES' without an author; 2 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-17T13:07:36+00:00"
+ },
+ "book_127": {
+  "track_id": "book_127",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'Microsoft Manual of Style | 4 | edition | Microsoft Press | Start Here!'; the closest catalogue title 'Microsoft Manual of Style' leaves ['here', 'start'] unexplained, so it is probably a different book"
+  ],
+  "retrieved_at": "2026-10-17T13:07:38+00:00"
+ },
+ "book_128": {
+  "track_id": "book_128",
+  "status": "identified",
+  "title": "Head First C",
+  "author": "David Griffiths",
+  "edition": "O'Reilly 2012",
+  "isbn": "9781449399917",
+  "publisher": "O'Reilly",
+  "year": "2012",
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/books/OL25555107M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-17T13:07:38+00:00"
+ },
+ "book_129": {
+  "track_id": "book_129",
+  "status": "identified",
+  "title": "Start Here! Fundamentals of Microsoft .NET Programming",
+  "author": "Rod Stephens",
+  "edition": "Microsoft Press 2011",
+  "isbn": "9780735666009",
+  "publisher": "Microsoft Press",
+  "year": "2011",
+  "id_confidence": 0.89,
+  "catalogue_url": "https://openlibrary.org/books/OL35570609M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-17T13:07:38+00:00"
+ },
+ "book_130": {
+  "track_id": "book_130",
+  "status": "identified",
+  "title": "Programming iOS",
+  "author": "Matt Neuburg",
+  "edition": "O'Reilly Media, Incorporated 2013",
+  "isbn": "9781306810043",
+  "publisher": "O'Reilly Media, Incorporated",
+  "year": "2013",
+  "id_confidence": 0.6,
+  "catalogue_url": "https://openlibrary.org/books/OL36715235M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-17T13:07:39+00:00"
+ },
+ "book_131": {
+  "track_id": "book_131",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_132": {
+  "track_id": "book_132",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Microsoft | .NET and SAP | Microsoft Press' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:07:39+00:00"
+ },
+ "book_133": {
+  "track_id": "book_133",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Beginning | SharePoint 2013 | Building Business Solutions' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:07:39+00:00"
+ },
+ "book_134": {
+  "track_id": "book_134",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.42,
+  "catalogue_url": "https://openlibrary.org/works/OL28998921W",
+  "dims_cm": {},
+  "reasons": [
+   "weak match to 'Mastering Virtual Machine Manager 2008 R2' (confidence 0.42)"
+  ],
+  "retrieved_at": "2026-10-17T13:07:47+00:00"
+ },
+ "book_135": {
+  "track_id": "book_135",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Remote Desktop Services Resource Kit' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:07:40+00:00"
+ },
+ "book_137": {
+  "track_id": "book_137",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_007": {
+  "track_id": "book_007",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "catalogue lookup failed; spine text kept for review"
+  ],
+  "retrieved_at": null
+ },
+ "book_136": {
+  "track_id": "book_136",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "catalogue lookup failed; spine text kept for review"
+  ],
+  "retrieved_at": null
+ }
+}

@@ -1,0 +1,1533 @@
+{
+ "0": [
+  {
+   "id": "f_000001_b000",
+   "frame_i": 0,
+   "ref": "frames/f_000001.jpg",
+   "kind": "book",
+   "box": [
+    103.68,
+    0.0,
+    866.1600000000001,
+    145.92
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000001_b001",
+   "frame_i": 0,
+   "ref": "frames/f_000001.jpg",
+   "kind": "book",
+   "box": [
+    948.24,
+    0.0,
+    1682.64,
+    157.44
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000001_b002",
+   "frame_i": 0,
+   "ref": "frames/f_000001.jpg",
+   "kind": "book",
+   "box": [
+    1734.48,
+    0.0,
+    2157.84,
+    165.11999999999998
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000001_b003",
+   "frame_i": 0,
+   "ref": "frames/f_000001.jpg",
+   "kind": "book",
+   "box": [
+    25.92,
+    414.71999999999997,
+    511.91999999999996,
+    3475.2000000000003
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000001_b004",
+   "frame_i": 0,
+   "ref": "frames/f_000001.jpg",
+   "kind": "book",
+   "box": [
+    0.0,
+    430.08,
+    47.519999999999996,
+    3429.12
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000001_b005",
+   "frame_i": 0,
+   "ref": "frames/f_000001.jpg",
+   "kind": "book",
+   "box": [
+    388.8,
+    1221.1200000000001,
+    535.68,
+    3444.48
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000001_b006",
+   "frame_i": 0,
+   "ref": "frames/f_000001.jpg",
+   "kind": "book",
+   "box": [
+    503.28000000000003,
+    1009.9200000000001,
+    641.52,
+    3444.48
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000001_b007",
+   "frame_i": 0,
+   "ref": "frames/f_000001.jpg",
+   "kind": "book",
+   "box": [
+    606.96,
+    560.64,
+    967.6800000000001,
+    3467.52
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000001_b008",
+   "frame_i": 0,
+   "ref": "frames/f_000001.jpg",
+   "kind": "book",
+   "box": [
+    943.92,
+    1182.72,
+    1142.64,
+    3467.52
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000001_b009",
+   "frame_i": 0,
+   "ref": "frames/f_000001.jpg",
+   "kind": "book",
+   "box": [
+    1127.52,
+    1344.0,
+    1458.0,
+    3467.52
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000001_b010",
+   "frame_i": 0,
+   "ref": "frames/f_000001.jpg",
+   "kind": "book",
+   "box": [
+    1436.4,
+    1267.2,
+    1663.2,
+    3467.52
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000001_b011",
+   "frame_i": 0,
+   "ref": "frames/f_000001.jpg",
+   "kind": "book",
+   "box": [
+    1645.92,
+    1259.52,
+    1887.84,
+    3471.36
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000001_b012",
+   "frame_i": 0,
+   "ref": "frames/f_000001.jpg",
+   "kind": "book",
+   "box": [
+    1864.08,
+    1363.1999999999998,
+    2121.12,
+    3467.52
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000001_b013",
+   "frame_i": 0,
+   "ref": "frames/f_000001.jpg",
+   "kind": "book",
+   "box": [
+    2110.32,
+    545.28,
+    2160.0,
+    3456.0
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000001_i000",
+   "frame_i": 0,
+   "ref": "frames/f_000001.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    115.19999999999999,
+    2160.0,
+    3736.3199999999997
+   ],
+   "attrs": {
+    "category": "shelving",
+    "label": "wooden bookshelf",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "1": [
+  {
+   "id": "f_000002_b000",
+   "frame_i": 1,
+   "ref": "frames/f_000002.jpg",
+   "kind": "book",
+   "box": [
+    1831.6799999999998,
+    0.0,
+    2160.0,
+    184.32
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000002_b001",
+   "frame_i": 1,
+   "ref": "frames/f_000002.jpg",
+   "kind": "book",
+   "box": [
+    1051.92,
+    0.0,
+    1794.9599999999998,
+    165.11999999999998
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000002_b002",
+   "frame_i": 1,
+   "ref": "frames/f_000002.jpg",
+   "kind": "book",
+   "box": [
+    246.24,
+    0.0,
+    1013.04,
+    130.56
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000002_b003",
+   "frame_i": 1,
+   "ref": "frames/f_000002.jpg",
+   "kind": "book",
+   "box": [
+    0.0,
+    510.72,
+    250.56,
+    3429.12
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000002_b004",
+   "frame_i": 1,
+   "ref": "frames/f_000002.jpg",
+   "kind": "book",
+   "box": [
+    213.84,
+    537.6,
+    403.92,
+    1113.6
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000002_b005",
+   "frame_i": 1,
+   "ref": "frames/f_000002.jpg",
+   "kind": "book",
+   "box": [
+    179.28,
+    1121.28,
+    511.91999999999996,
+    3452.16
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000002_b006",
+   "frame_i": 1,
+   "ref": "frames/f_000002.jpg",
+   "kind": "book",
+   "box": [
+    365.04,
+    1282.5600000000002,
+    723.6,
+    3463.6800000000003
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000002_b007",
+   "frame_i": 1,
+   "ref": "frames/f_000002.jpg",
+   "kind": "book",
+   "box": [
+    678.24,
+    1213.44,
+    943.92,
+    3486.7200000000003
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000002_b008",
+   "frame_i": 1,
+   "ref": "frames/f_000002.jpg",
+   "kind": "book",
+   "box": [
+    900.7199999999999,
+    1217.28,
+    1224.7199999999998,
+    3494.4
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000002_b009",
+   "frame_i": 1,
+   "ref": "frames/f_000002.jpg",
+   "kind": "book",
+   "box": [
+    1116.72,
+    1324.8,
+    1401.8400000000001,
+    3494.4
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000002_b010",
+   "frame_i": 1,
+   "ref": "frames/f_000002.jpg",
+   "kind": "book",
+   "box": [
+    1378.08,
+    518.4000000000001,
+    1702.0800000000002,
+    3517.44
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000002_b011",
+   "frame_i": 1,
+   "ref": "frames/f_000002.jpg",
+   "kind": "book",
+   "box": [
+    1637.28,
+    1067.52,
+    1836.0,
+    3536.6400000000003
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000002_b012",
+   "frame_i": 1,
+   "ref": "frames/f_000002.jpg",
+   "kind": "book",
+   "box": [
+    1790.6399999999999,
+    430.08,
+    2160.0,
+    3544.32
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000002_i000",
+   "frame_i": 1,
+   "ref": "frames/f_000002.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    88.32,
+    2160.0,
+    3828.48
+   ],
+   "attrs": {
+    "category": "shelving",
+    "label": "wooden bookshelf",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "2": [
+  {
+   "id": "f_000003_b000",
+   "frame_i": 2,
+   "ref": "frames/f_000003.jpg",
+   "kind": "book",
+   "box": [
+    1045.44,
+    0.0,
+    1499.04,
+    253.44
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000003_b001",
+   "frame_i": 2,
+   "ref": "frames/f_000003.jpg",
+   "kind": "book",
+   "box": [
+    1524.9599999999998,
+    0.0,
+    2073.6,
+    261.12
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000003_b002",
+   "frame_i": 2,
+   "ref": "frames/f_000003.jpg",
+   "kind": "book",
+   "box": [
+    306.71999999999997,
+    0.0,
+    976.32,
+    230.39999999999998
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000003_b003",
+   "frame_i": 2,
+   "ref": "frames/f_000003.jpg",
+   "kind": "book",
+   "box": [
+    12.96,
+    1232.64,
+    220.32,
+    3383.04
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000003_b004",
+   "frame_i": 2,
+   "ref": "frames/f_000003.jpg",
+   "kind": "book",
+   "box": [
+    203.04,
+    1236.48,
+    444.96,
+    3390.7200000000003
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000003_b005",
+   "frame_i": 2,
+   "ref": "frames/f_000003.jpg",
+   "kind": "book",
+   "box": [
+    410.4,
+    1332.48,
+    656.64,
+    3390.7200000000003
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000003_b006",
+   "frame_i": 2,
+   "ref": "frames/f_000003.jpg",
+   "kind": "book",
+   "box": [
+    643.68,
+    560.64,
+    920.16,
+    3398.4
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000003_b007",
+   "frame_i": 2,
+   "ref": "frames/f_000003.jpg",
+   "kind": "book",
+   "box": [
+    898.56,
+    1086.7199999999998,
+    1049.76,
+    3409.92
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000003_b008",
+   "frame_i": 2,
+   "ref": "frames/f_000003.jpg",
+   "kind": "book",
+   "box": [
+    1036.8,
+    464.64,
+    1451.52,
+    3421.44
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000003_b009",
+   "frame_i": 2,
+   "ref": "frames/f_000003.jpg",
+   "kind": "book",
+   "box": [
+    1434.24,
+    491.52,
+    1913.76,
+    3448.32
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000003_b010",
+   "frame_i": 2,
+   "ref": "frames/f_000003.jpg",
+   "kind": "book",
+   "box": [
+    1853.28,
+    741.12,
+    2125.44,
+    3467.52
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000003_b011",
+   "frame_i": 2,
+   "ref": "frames/f_000003.jpg",
+   "kind": "book",
+   "box": [
+    2060.64,
+    1228.8,
+    2160.0,
+    3456.0
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000003_i000",
+   "frame_i": 2,
+   "ref": "frames/f_000003.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    180.48,
+    2160.0,
+    3690.24
+   ],
+   "attrs": {
+    "category": "shelving",
+    "label": "wooden bookshelf",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "3": [
+  {
+   "id": "f_000004_b000",
+   "frame_i": 3,
+   "ref": "frames/f_000004.jpg",
+   "kind": "book",
+   "box": [
+    0.0,
+    491.52,
+    144.72,
+    3444.48
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000004_b001",
+   "frame_i": 3,
+   "ref": "frames/f_000004.jpg",
+   "kind": "book",
+   "box": [
+    120.96000000000001,
+    1025.28,
+    295.92,
+    3452.16
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000004_b002",
+   "frame_i": 3,
+   "ref": "frames/f_000004.jpg",
+   "kind": "book",
+   "box": [
+    246.24,
+    376.32,
+    702.0,
+    3475.2000000000003
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000004_b003",
+   "frame_i": 3,
+   "ref": "frames/f_000004.jpg",
+   "kind": "book",
+   "box": [
+    706.32,
+    395.52,
+    1192.3200000000002,
+    3486.7200000000003
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000004_b004",
+   "frame_i": 3,
+   "ref": "frames/f_000004.jpg",
+   "kind": "book",
+   "box": [
+    1166.4,
+    645.12,
+    1404.0,
+    3475.2000000000003
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000004_b005",
+   "frame_i": 3,
+   "ref": "frames/f_000004.jpg",
+   "kind": "book",
+   "box": [
+    1386.72,
+    1136.6399999999999,
+    1544.3999999999999,
+    3471.36
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000004_b006",
+   "frame_i": 3,
+   "ref": "frames/f_000004.jpg",
+   "kind": "book",
+   "box": [
+    1540.08,
+    779.5200000000001,
+    1946.16,
+    3482.88
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000004_b007",
+   "frame_i": 3,
+   "ref": "frames/f_000004.jpg",
+   "kind": "book",
+   "box": [
+    1924.56,
+    445.44,
+    2160.0,
+    3498.2400000000002
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000004_b008",
+   "frame_i": 3,
+   "ref": "frames/f_000004.jpg",
+   "kind": "book",
+   "box": [
+    252.72000000000003,
+    0.0,
+    740.8800000000001,
+    130.56
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000004_b009",
+   "frame_i": 3,
+   "ref": "frames/f_000004.jpg",
+   "kind": "book",
+   "box": [
+    758.16,
+    0.0,
+    1352.16,
+    134.4
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000004_b010",
+   "frame_i": 3,
+   "ref": "frames/f_000004.jpg",
+   "kind": "book",
+   "box": [
+    1391.04,
+    0.0,
+    2023.92,
+    145.92
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000004_i000",
+   "frame_i": 3,
+   "ref": "frames/f_000004.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    126.72,
+    2160.0,
+    3751.68
+   ],
+   "attrs": {
+    "category": "shelving",
+    "label": "wooden bookshelf",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "4": [
+  {
+   "id": "f_000005_b000",
+   "frame_i": 4,
+   "ref": "frames/f_000005.jpg",
+   "kind": "book",
+   "box": [
+    0.0,
+    414.71999999999997,
+    438.48,
+    3432.96
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000005_b001",
+   "frame_i": 4,
+   "ref": "frames/f_000005.jpg",
+   "kind": "book",
+   "box": [
+    371.52,
+    652.8000000000001,
+    654.48,
+    3436.8
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000005_b002",
+   "frame_i": 4,
+   "ref": "frames/f_000005.jpg",
+   "kind": "book",
+   "box": [
+    606.96,
+    1167.36,
+    784.0799999999999,
+    3436.8
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000005_b003",
+   "frame_i": 4,
+   "ref": "frames/f_000005.jpg",
+   "kind": "book",
+   "box": [
+    749.52,
+    794.88,
+    1175.0400000000002,
+    3432.96
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000005_b004",
+   "frame_i": 4,
+   "ref": "frames/f_000005.jpg",
+   "kind": "book",
+   "box": [
+    1142.64,
+    464.64,
+    1630.8,
+    3444.48
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000005_b005",
+   "frame_i": 4,
+   "ref": "frames/f_000005.jpg",
+   "kind": "book",
+   "box": [
+    1559.52,
+    771.84,
+    1848.96,
+    3429.12
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000005_b006",
+   "frame_i": 4,
+   "ref": "frames/f_000005.jpg",
+   "kind": "book",
+   "box": [
+    1760.3999999999999,
+    1290.24,
+    2155.68,
+    3471.36
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000005_b007",
+   "frame_i": 4,
+   "ref": "frames/f_000005.jpg",
+   "kind": "book",
+   "box": [
+    626.4,
+    0.0,
+    1261.4399999999998,
+    168.95999999999998
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000005_b008",
+   "frame_i": 4,
+   "ref": "frames/f_000005.jpg",
+   "kind": "book",
+   "box": [
+    1304.6399999999999,
+    0.0,
+    1924.56,
+    176.64
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000005_b009",
+   "frame_i": 4,
+   "ref": "frames/f_000005.jpg",
+   "kind": "book",
+   "box": [
+    1931.04,
+    0.0,
+    2157.84,
+    180.48
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000005_b010",
+   "frame_i": 4,
+   "ref": "frames/f_000005.jpg",
+   "kind": "book",
+   "box": [
+    0.0,
+    0.0,
+    598.32,
+    149.76
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000005_i000",
+   "frame_i": 4,
+   "ref": "frames/f_000005.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    0.0,
+    2160.0,
+    3709.44
+   ],
+   "attrs": {
+    "category": "shelving",
+    "label": "wooden bookcase shelf",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "5": [
+  {
+   "id": "f_000006_b000",
+   "frame_i": 5,
+   "ref": "frames/f_000006.jpg",
+   "kind": "book",
+   "box": [
+    1779.84,
+    0.0,
+    2157.84,
+    145.92
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000006_b001",
+   "frame_i": 5,
+   "ref": "frames/f_000006.jpg",
+   "kind": "book",
+   "box": [
+    1224.7199999999998,
+    0.0,
+    1758.2399999999998,
+    138.23999999999998
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000006_b002",
+   "frame_i": 5,
+   "ref": "frames/f_000006.jpg",
+   "kind": "book",
+   "box": [
+    574.5600000000001,
+    0.0,
+    1216.08,
+    126.72
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000006_b003",
+   "frame_i": 5,
+   "ref": "frames/f_000006.jpg",
+   "kind": "book",
+   "box": [
+    4.32,
+    0.0,
+    531.36,
+    119.03999999999999
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000006_b004",
+   "frame_i": 5,
+   "ref": "frames/f_000006.jpg",
+   "kind": "book",
+   "box": [
+    0.0,
+    1136.6399999999999,
+    54.0,
+    3486.7200000000003
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000006_b005",
+   "frame_i": 5,
+   "ref": "frames/f_000006.jpg",
+   "kind": "book",
+   "box": [
+    30.240000000000002,
+    779.5200000000001,
+    462.24,
+    3513.6000000000004
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000006_b006",
+   "frame_i": 5,
+   "ref": "frames/f_000006.jpg",
+   "kind": "book",
+   "box": [
+    429.84000000000003,
+    414.71999999999997,
+    909.36,
+    3513.6000000000004
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000006_b007",
+   "frame_i": 5,
+   "ref": "frames/f_000006.jpg",
+   "kind": "book",
+   "box": [
+    835.9200000000001,
+    741.12,
+    1123.2,
+    3505.92
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000006_b008",
+   "frame_i": 5,
+   "ref": "frames/f_000006.jpg",
+   "kind": "book",
+   "box": [
+    1043.28,
+    1290.24,
+    1553.04,
+    3548.1600000000003
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000006_b009",
+   "frame_i": 5,
+   "ref": "frames/f_000006.jpg",
+   "kind": "book",
+   "box": [
+    1486.08,
+    1075.2,
+    1779.84,
+    3502.08
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000006_b010",
+   "frame_i": 5,
+   "ref": "frames/f_000006.jpg",
+   "kind": "book",
+   "box": [
+    1771.1999999999998,
+    1082.8799999999999,
+    2077.92,
+    3517.44
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000006_b011",
+   "frame_i": 5,
+   "ref": "frames/f_000006.jpg",
+   "kind": "book",
+   "box": [
+    2073.6,
+    1132.8,
+    2160.0,
+    3505.92
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000006_i000",
+   "frame_i": 5,
+   "ref": "frames/f_000006.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    0.0,
+    2160.0,
+    3774.72
+   ],
+   "attrs": {
+    "category": "shelving",
+    "label": "wooden bookshelf",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ]
+}

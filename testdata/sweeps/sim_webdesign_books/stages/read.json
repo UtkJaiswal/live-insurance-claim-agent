@@ -1,0 +1,3104 @@
+{
+ "book_003": [
+  {
+   "track_id": "book_003",
+   "det_id": "f_000001_b043",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "",
+   "title": "",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "none",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_004": [
+  {
+   "track_id": "book_004",
+   "det_id": "f_000001_b024",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "Of S",
+   "title": "Of S",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_006": [
+  {
+   "track_id": "book_006",
+   "det_id": "f_000001_b049",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "",
+   "title": "",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "none",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_007": [
+  {
+   "track_id": "book_007",
+   "det_id": "f_000001_b044",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "W",
+   "title": "W",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_008": [
+  {
+   "track_id": "book_008",
+   "det_id": "f_000001_b018",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "LINUX | L B",
+   "title": "LINUX | L B",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_009": [
+  {
+   "track_id": "book_009",
+   "det_id": "f_000001_b032",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "Wi Ap XA | Wi Fo D",
+   "title": "Wi Ap XA",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_010": [
+  {
+   "track_id": "book_010",
+   "det_id": "f_000001_b048",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "Windows 7",
+   "title": "Windows 7",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_011": [
+  {
+   "track_id": "book_011",
+   "det_id": "f_000001_b036",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "",
+   "title": "",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "none",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_012": [
+  {
+   "track_id": "book_012",
+   "det_id": "f_000001_b017",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "Win Fo D",
+   "title": "Win Fo D",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_013": [
+  {
+   "track_id": "book_013",
+   "det_id": "f_000001_b034",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "",
+   "title": "",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "none",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_014": [
+  {
+   "track_id": "book_014",
+   "det_id": "f_000001_b037",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "Windows 8 | W",
+   "title": "Windows 8",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_015": [
+  {
+   "track_id": "book_015",
+   "det_id": "f_000001_b029",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "W IN",
+   "title": "W IN",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_016": [
+  {
+   "track_id": "book_016",
+   "det_id": "f_000001_b013",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "Winc",
+   "title": "Winc",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_017": [
+  {
+   "track_id": "book_017",
+   "det_id": "f_000001_b039",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "iMac | Mac OS X Lion | Mountain Lion | Mac OS X Lion | Mountain Lion | OS X",
+   "title": "Mac OS X Lion Mountain Lion",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_018": [
+  {
+   "track_id": "book_018",
+   "det_id": "f_000001_b016",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "Win Res",
+   "title": "Win Res",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_019": [
+  {
+   "track_id": "book_019",
+   "det_id": "f_000001_b015",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "in Simple St",
+   "title": "",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_020": [
+  {
+   "track_id": "book_020",
+   "det_id": "f_000001_b038",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "Powershell 2.0",
+   "title": "Powershell 2.0",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_021": [
+  {
+   "track_id": "book_021",
+   "det_id": "f_000001_b040",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "Autodesk Revit Architecture 2013 | NO EXPERIENCE REQUIRED",
+   "title": "Autodesk Revit Architecture 2013 | NO EXPERIENCE REQUIRED",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_022": [
+  {
+   "track_id": "book_022",
+   "det_id": "f_000001_b035",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "Illustrator CS6",
+   "title": "Illustrator CS6",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_023": [
+  {
+   "track_id": "book_023",
+   "det_id": "f_000001_b031",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "Simply | Easies | Paul McFedries",
+   "title": "Simply Easies",
+   "author": "Paul McFedries",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_024": [
+  {
+   "track_id": "book_024",
+   "det_id": "f_000001_b041",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "AutoCAD 2013 | NO EXPERIENCE REQUIRED | COREL PAINTSHOP",
+   "title": "AutoCAD 2013 | NO EXPERIENCE REQUIRED",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_025": [
+  {
+   "track_id": "book_025",
+   "det_id": "f_000001_b030",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "PHOTOSHOP for Artists",
+   "title": "PHOTOSHOP for Artists",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_026": [
+  {
+   "track_id": "book_026",
+   "det_id": "f_000001_b010",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "Adobe | Pho | que",
+   "title": "Adobe Pho",
+   "author": "",
+   "publisher": "que",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_027": [
+  {
+   "track_id": "book_027",
+   "det_id": "f_000001_b014",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "THE | ART | Creative | Using Wi",
+   "title": "THE ART Creative Using Wi",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_027",
+   "det_id": "f_000002_b037",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "Adobe Ph",
+   "title": "",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_028": [
+  {
+   "track_id": "book_028",
+   "det_id": "f_000002_b023",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "Photoshop CS6 | The Healthy Mac",
+   "title": "Photoshop CS6",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_028",
+   "det_id": "f_000001_b028",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "Photoshop CS6 | The Healthy Mac",
+   "title": "Photoshop CS6",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_029": [
+  {
+   "track_id": "book_029",
+   "det_id": "f_000002_b048",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "OpenGL",
+   "title": "OpenGL",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_030": [
+  {
+   "track_id": "book_030",
+   "det_id": "f_000002_b022",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "Photoshop CS5",
+   "title": "Photoshop CS5",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_030",
+   "det_id": "f_000001_b021",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "Photoshop CS5",
+   "title": "Photoshop CS5",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_031": [
+  {
+   "track_id": "book_031",
+   "det_id": "f_000001_b009",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "FAB | THE NEW | Autodesk Maya 2014",
+   "title": "Autodesk Maya 2014",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_032": [
+  {
+   "track_id": "book_032",
+   "det_id": "f_000001_b042",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "Illustrator CC | Creative Suite 5 | LEARN | Adobe Muse",
+   "title": "Creative Suite 5",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_033": [
+  {
+   "track_id": "book_033",
+   "det_id": "f_000001_b004",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "Includes 7 bonus | TOP 100 | Adobe Ph",
+   "title": "TOP 100",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_033",
+   "det_id": "f_000002_b021",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "Photoshop CS6 | In Simple Steps",
+   "title": "Photoshop CS6",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_034": [
+  {
+   "track_id": "book_034",
+   "det_id": "f_000001_b045",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "Adobe Muse",
+   "title": "Adobe Muse",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_035": [
+  {
+   "track_id": "book_035",
+   "det_id": "f_000001_b050",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "Photoshop Elements 12",
+   "title": "Photoshop Elements 12",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_036": [
+  {
+   "track_id": "book_036",
+   "det_id": "f_000001_b023",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "Mastering Blender | Maste | SYBEX",
+   "title": "Mastering Blender",
+   "author": "",
+   "publisher": "SYBEX",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_037": [
+  {
+   "track_id": "book_037",
+   "det_id": "f_000001_b022",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "THE DIGITAL NEGATIVE",
+   "title": "THE DIGITAL NEGATIVE",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_037",
+   "det_id": "f_000002_b020",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "Photoshop | THE DIGITAL NEGATIVE",
+   "title": "Photoshop",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_038": [
+  {
+   "track_id": "book_038",
+   "det_id": "f_000001_b007",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "AUTODESK | Autodesk Revit Architecture 20 | NO EXPERIENCE REQUIRE",
+   "title": "Autodesk Revit Architecture 20",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_039": [
+  {
+   "track_id": "book_039",
+   "det_id": "f_000002_b019",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "THE DIGITAL NEGATIVE",
+   "title": "THE DIGITAL NEGATIVE",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_040": [
+  {
+   "track_id": "book_040",
+   "det_id": "f_000001_b012",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "Adobe | Creative Cloud | Design Tools | ALL-IN-ONE | FOR | DUMMIES",
+   "title": "Creative Cloud Design Tools ALL-IN-ONE",
+   "author": "",
+   "publisher": "FOR DUMMIES",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_041": [
+  {
+   "track_id": "book_041",
+   "det_id": "f_000001_b008",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "AUTODESK | Autodesk Revit | Architecture 20 | NO EXPERIENCE REQUIRED",
+   "title": "Autodesk Revit Architecture 20 | NO EXPERIENCE REQUIRED",
+   "author": "",
+   "publisher": "AUTODESK",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_042": [
+  {
+   "track_id": "book_042",
+   "det_id": "f_000001_b046",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "Photoshop Elements 10",
+   "title": "Photoshop Elements 10",
+   "author": "",
+   "publisher": "",
+   "volume": "10",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_042",
+   "det_id": "f_000002_b018",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "",
+   "title": "",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "none",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_043": [
+  {
+   "track_id": "book_043",
+   "det_id": "f_000002_b038",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "Green | Dias | FOUNDATION | FLASH CSS FOR DESIGNERS",
+   "title": "FLASH CSS FOR DESIGNERS",
+   "author": "Green | Dias",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_045": [
+  {
+   "track_id": "book_045",
+   "det_id": "f_000001_b011",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "Green | Dias | FOUNDATION | FLASH CSS FOR DESIGNERS",
+   "title": "FLASH CSS FOR DESIGNERS",
+   "author": "Green | Dias",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_045",
+   "det_id": "f_000002_b039",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "REAL | WORLD | ADOBE | Illustrator CS5",
+   "title": "Illustrator CS5",
+   "author": "",
+   "publisher": "REAL WORLD",
+   "volume": "CS5",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_046": [
+  {
+   "track_id": "book_046",
+   "det_id": "f_000001_b026",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "Mastering Xcode",
+   "title": "Mastering Xcode",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_047": [
+  {
+   "track_id": "book_047",
+   "det_id": "f_000002_b024",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "jQuery and jQuery UI | VISUAL QUICKSTART GUIDE",
+   "title": "jQuery and jQuery UI",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_047",
+   "det_id": "f_000001_b005",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "Adriaan de Jonge | Phil Dutson | jQuery, jQuery UI, and jQuery Mobile | jQuery, and jQu | Recipes and",
+   "title": "jQuery, jQuery UI, and jQuery Mobile",
+   "author": "Adriaan de Jonge Phil Dutson",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_048": [
+  {
+   "track_id": "book_048",
+   "det_id": "f_000002_b046",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "LEARNING IOS DESIGN",
+   "title": "LEARNING IOS DESIGN",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_048",
+   "det_id": "f_000001_b020",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "#1 | Windows 8 | DUMMIES",
+   "title": "Windows 8",
+   "author": "",
+   "publisher": "DUMMIES",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_049": [
+  {
+   "track_id": "book_049",
+   "det_id": "f_000002_b000",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "Joomla! | BIBLE | WILEY",
+   "title": "Joomla! BIBLE",
+   "author": "",
+   "publisher": "WILEY",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_049",
+   "det_id": "f_000001_b000",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "Joomla! | BIBLE | WILEY",
+   "title": "Joomla! BIBLE",
+   "author": "",
+   "publisher": "WILEY",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_050": [
+  {
+   "track_id": "book_050",
+   "det_id": "f_000003_b056",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "Sams Teach Yourself | Windows Phone 7 | Application Development | 24 HOURS",
+   "title": "Windows Phone 7 Application Development",
+   "author": "",
+   "publisher": "Sams Teach Yourself",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_051": [
+  {
+   "track_id": "book_051",
+   "det_id": "f_000003_b057",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "4TH EDITION | iOS PROGRAMMING | THE BIG NERD RANCH GUIDE | KEUR, HILLEGASS & CONWAY",
+   "title": "iOS PROGRAMMING",
+   "author": "KEUR, HILLEGASS & CONWAY",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_052": [
+  {
+   "track_id": "book_052",
+   "det_id": "f_000003_b001",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "HTML5 FOR DUMMIES | e LEARNING",
+   "title": "HTML5",
+   "author": "",
+   "publisher": "FOR DUMMIES",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_053": [
+  {
+   "track_id": "book_053",
+   "det_id": "f_000002_b001",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "HTML5 FOR DUMMIES | e LEARNING",
+   "title": "HTML5",
+   "author": "",
+   "publisher": "FOR DUMMIES",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_053",
+   "det_id": "f_000001_b047",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "HTML5 FOR DUMMIES | e LEARNING",
+   "title": "HTML5",
+   "author": "",
+   "publisher": "FOR DUMMIES",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_054": [
+  {
+   "track_id": "book_054",
+   "det_id": "f_000001_b019",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "3RD EDITION | iOS PROGRAMMING | THE BIG NERD RANCH GUIDE | CONWAY & HILLEGASS",
+   "title": "iOS PROGRAMMING",
+   "author": "CONWAY & HILLEGASS",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_054",
+   "det_id": "f_000003_b058",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "3RD EDITION | iOS PROGRAMMING | THE BIG NERD RANCH GUIDE | CONWAY & HILLEGASS",
+   "title": "iOS PROGRAMMING",
+   "author": "CONWAY & HILLEGASS",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_055": [
+  {
+   "track_id": "book_055",
+   "det_id": "f_000002_b002",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "Sams Teach Yourself | and Apache | FIFTH EDITION | STARTER | All in One",
+   "title": "and Apache",
+   "author": "",
+   "publisher": "Sams Teach Yourself",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_055",
+   "det_id": "f_000001_b003",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "Sams Teach Yourself | and Apache | FIFTH EDITION | STARTER | All in One",
+   "title": "and Apache",
+   "author": "",
+   "publisher": "Sams Teach Yourself",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_057": [
+  {
+   "track_id": "book_057",
+   "det_id": "f_000002_b044",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "Introduction to Android™ | Application Development",
+   "title": "Introduction to Android™ Application Development",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_057",
+   "det_id": "f_000001_b027",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "Introduction to Android™ | Application Development",
+   "title": "Introduction to Android™ Application Development",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_058": [
+  {
+   "track_id": "book_058",
+   "det_id": "f_000002_b003",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "PHP, MySQL, | JavaScript & HTML5 | ALL-IN-ONE | FOR | DUMMIES",
+   "title": "PHP, MySQL, JavaScript & HTML5 ALL-IN-ONE",
+   "author": "",
+   "publisher": "FOR DUMMIES",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_058",
+   "det_id": "f_000001_b002",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "PHP, MySQL, | JavaScript & HTML5 | ALL-IN-ONE | FOR | DUMMIES",
+   "title": "PHP, MySQL, JavaScript & HTML5 ALL-IN-ONE",
+   "author": "",
+   "publisher": "FOR DUMMIES",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_059": [
+  {
+   "track_id": "book_059",
+   "det_id": "f_000002_b047",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "Meier | Professional | Android | Application Develo",
+   "title": "Professional Android Application Develo",
+   "author": "Meier",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_059",
+   "det_id": "f_000003_b060",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "Meier | Professional | Android | Application Develo",
+   "title": "Professional Android Application Develo",
+   "author": "Meier",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_060": [
+  {
+   "track_id": "book_060",
+   "det_id": "f_000002_b004",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "Crafting Rails Applications | Valim",
+   "title": "Crafting Rails Applications",
+   "author": "Valim",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_060",
+   "det_id": "f_000003_b005",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "Crafting Rails Applications | Valim",
+   "title": "Crafting Rails Applications",
+   "author": "Valim",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_061": [
+  {
+   "track_id": "book_061",
+   "det_id": "f_000003_b061",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "Professional | Android Ope | Programming with",
+   "title": "Android Ope Programming with",
+   "author": "",
+   "publisher": "Professional",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_063": [
+  {
+   "track_id": "book_063",
+   "det_id": "f_000002_b005",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "TIKA IN ACTION",
+   "title": "TIKA IN ACTION",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_063",
+   "det_id": "f_000003_b006",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "TIKA IN ACTION",
+   "title": "TIKA IN ACTION",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_064": [
+  {
+   "track_id": "book_064",
+   "det_id": "f_000003_b062",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "WHITE | Idea to iPho",
+   "title": "Idea to iPho",
+   "author": "WHITE",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_065": [
+  {
+   "track_id": "book_065",
+   "det_id": "f_000002_b006",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "In Color | HTML5 Canvas | FOR DUMMIES",
+   "title": "HTML5 Canvas",
+   "author": "",
+   "publisher": "FOR DUMMIES",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_065",
+   "det_id": "f_000003_b007",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "In Color | HTML5 Canvas | FOR DUMMIES",
+   "title": "HTML5 Canvas",
+   "author": "",
+   "publisher": "FOR DUMMIES",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_066": [
+  {
+   "track_id": "book_066",
+   "det_id": "f_000002_b045",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "#1 | 3rd Edition | iPad Application De",
+   "title": "iPad Application De",
+   "author": "",
+   "publisher": "",
+   "volume": "3rd Edition",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_067": [
+  {
+   "track_id": "book_067",
+   "det_id": "f_000003_b063",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "DEITEL | Android for Progr An App-Dr",
+   "title": "Android for Progr An App-Dr",
+   "author": "DEITEL",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_068": [
+  {
+   "track_id": "book_068",
+   "det_id": "f_000002_b007",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "sitepoint | ASP.NET 4 | ASP.NET 4 WEBSITE | USING C# & VB",
+   "title": "ASP.NET 4 WEBSITE",
+   "author": "",
+   "publisher": "sitepoint",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_068",
+   "det_id": "f_000003_b008",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "sitepoint | ASP.NET 4 | ASP.NET 4 WEBSITE | USING C# & VB",
+   "title": "ASP.NET 4 WEBSITE",
+   "author": "",
+   "publisher": "sitepoint",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_069": [
+  {
+   "track_id": "book_069",
+   "det_id": "f_000003_b064",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "Android™ for Prog | An App-D",
+   "title": "Android™ for Prog",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_070": [
+  {
+   "track_id": "book_070",
+   "det_id": "f_000003_b035",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "jQuery Cookbook | Java™ SE 7 Programming ESSENTIALS | O'REILLY | dtsx",
+   "title": "Java™ SE 7 Programming ESSENTIALS",
+   "author": "",
+   "publisher": "dtsx",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_071": [
+  {
+   "track_id": "book_071",
+   "det_id": "f_000002_b008",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "Visual | HTML5",
+   "title": "HTML5",
+   "author": "",
+   "publisher": "Visual",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_071",
+   "det_id": "f_000003_b009",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "Visual | HTML5",
+   "title": "HTML5",
+   "author": "",
+   "publisher": "Visual",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_072": [
+  {
+   "track_id": "book_072",
+   "det_id": "f_000003_b065",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "#1 | 3rd Edition | iPad™ Application Develop",
+   "title": "iPad™ Application Develop",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_073": [
+  {
+   "track_id": "book_073",
+   "det_id": "f_000002_b027",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "Java™ SE 7 Programming ESSENTIALS | Sams Teach Yourself | Java™ | 24 Hours",
+   "title": "Java™",
+   "author": "",
+   "publisher": "Sams Teach Yourself",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_073",
+   "det_id": "f_000003_b036",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "Sams Teach Yourself | Java | 24 Hours",
+   "title": "Java",
+   "author": "",
+   "publisher": "Sams Teach Yourself",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_074": [
+  {
+   "track_id": "book_074",
+   "det_id": "f_000002_b009",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "HTML5 and CSS3 | Hogan",
+   "title": "HTML5 and CSS3",
+   "author": "Hogan",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_074",
+   "det_id": "f_000003_b010",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "HTML5 and CSS3 | Hogan",
+   "title": "HTML5 and CSS3",
+   "author": "Hogan",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_075": [
+  {
+   "track_id": "book_075",
+   "det_id": "f_000002_b028",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "Learn JavaScript and Ajax | WILEY",
+   "title": "Learn JavaScript and Ajax",
+   "author": "",
+   "publisher": "WILEY",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_075",
+   "det_id": "f_000003_b037",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "Learn JavaScript and Ajax | WILEY",
+   "title": "Learn JavaScript and Ajax",
+   "author": "",
+   "publisher": "WILEY",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_076": [
+  {
+   "track_id": "book_076",
+   "det_id": "f_000003_b066",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "Sams Teach Yourself | iOS",
+   "title": "iOS",
+   "author": "",
+   "publisher": "Sams Teach Yourself",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_077": [
+  {
+   "track_id": "book_077",
+   "det_id": "f_000002_b010",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "sitepoint | HTML & CSS | HTML5 & CSS3 FOR THE REAL WORLD",
+   "title": "HTML5 & CSS3 FOR THE REAL WORLD",
+   "author": "",
+   "publisher": "sitepoint",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_077",
+   "det_id": "f_000003_b011",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "sitepoint | HTML & CSS | HTML5 & CSS3 FOR THE REAL WORLD",
+   "title": "HTML5 & CSS3 FOR THE REAL WORLD",
+   "author": "",
+   "publisher": "sitepoint",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_078": [
+  {
+   "track_id": "book_078",
+   "det_id": "f_000002_b029",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "Java | The Java Tutorial | A Short Course on the Basics | Fifth Edition | Zakhour · Kannan · Gallardo | ORACLE | Addison Wesley",
+   "title": "The Java Tutorial",
+   "author": "Zakhour · Kannan · Gallardo",
+   "publisher": "Addison Wesley",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_078",
+   "det_id": "f_000003_b038",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "Java | The Java Tutorial | A Short Course on the Basics | Fifth Edition | Zakhour · Kannan · Gallardo | ORACLE | Addison Wesley",
+   "title": "The Java Tutorial",
+   "author": "Zakhour · Kannan · Gallardo",
+   "publisher": "Addison Wesley",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_079": [
+  {
+   "track_id": "book_079",
+   "det_id": "f_000003_b067",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "Sams Teach Yourself",
+   "title": "",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_080": [
+  {
+   "track_id": "book_080",
+   "det_id": "f_000003_b012",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "JavaScript | Eighth Edition | VISUAL QUICKSTART GUIDE",
+   "title": "JavaScript",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_081": [
+  {
+   "track_id": "book_081",
+   "det_id": "f_000002_b011",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "JavaScript A BEGINNER'S GUIDE | Fourth Edition | Pollock | Mc Graw Hill Education",
+   "title": "JavaScript A BEGINNER'S GUIDE",
+   "author": "Pollock",
+   "publisher": "Mc Graw Hill Education",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_081",
+   "det_id": "f_000003_b013",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "JavaScript A BEGINNER'S GUIDE | Fourth Edition | Pollock | Mc Graw Hill Education",
+   "title": "JavaScript A BEGINNER'S GUIDE",
+   "author": "Pollock",
+   "publisher": "Mc Graw Hill Education",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_082": [
+  {
+   "track_id": "book_082",
+   "det_id": "f_000002_b030",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "#1 | Beginning Programming with Java | FOR DUMMIES | Burd",
+   "title": "Beginning Programming with Java",
+   "author": "Burd",
+   "publisher": "FOR DUMMIES",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_082",
+   "det_id": "f_000003_b039",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "#1 | Beginning Programming with Java | FOR DUMMIES | Burd",
+   "title": "Beginning Programming with Java",
+   "author": "Burd",
+   "publisher": "FOR DUMMIES",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_083": [
+  {
+   "track_id": "book_083",
+   "det_id": "f_000003_b068",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "Sams Teach Yourself",
+   "title": "Sams Teach Yourself",
+   "author": "",
+   "publisher": "Sams",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_084": [
+  {
+   "track_id": "book_084",
+   "det_id": "f_000002_b031",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "JavaScript: The Good Parts | Crockford | O'REILLY",
+   "title": "JavaScript: The Good Parts",
+   "author": "Crockford",
+   "publisher": "O'REILLY",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_084",
+   "det_id": "f_000003_b040",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "#1 | 3rd Edition | Beginning Programming with Java | FOR DUMMIES",
+   "title": "Beginning Programming with Java",
+   "author": "",
+   "publisher": "",
+   "volume": "3rd Edition",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_085": [
+  {
+   "track_id": "book_085",
+   "det_id": "f_000003_b014",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "HTML5 and CSS3 | MANNING",
+   "title": "HTML5 and CSS3",
+   "author": "",
+   "publisher": "MANNING",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_086": [
+  {
+   "track_id": "book_086",
+   "det_id": "f_000002_b012",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "Crowder | HTML5 and CSS3 | MANNING",
+   "title": "HTML5 and CSS3",
+   "author": "Crowder",
+   "publisher": "MANNING",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_086",
+   "det_id": "f_000003_b015",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "Crowder | HTML5 and CSS3 | MANNING",
+   "title": "HTML5 and CSS3",
+   "author": "Crowder",
+   "publisher": "MANNING",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_087": [
+  {
+   "track_id": "book_087",
+   "det_id": "f_000003_b069",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "the missing",
+   "title": "the missing",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_088": [
+  {
+   "track_id": "book_088",
+   "det_id": "f_000002_b013",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "Crowder | HTML5 and CSS3 | MANNING",
+   "title": "HTML5 and CSS3",
+   "author": "Crowder",
+   "publisher": "MANNING",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_088",
+   "det_id": "f_000004_b000",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "Crowder | HTML5 and CSS3 | MANNING",
+   "title": "HTML5 and CSS3",
+   "author": "Crowder",
+   "publisher": "MANNING",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_089": [
+  {
+   "track_id": "book_089",
+   "det_id": "f_000004_b021",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "Sams Teach Yourself | Java | SIXTH EDITION in 21 Days | Cadenhead",
+   "title": "Sams Teach Yourself Java in 21 Days",
+   "author": "Cadenhead",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_089",
+   "det_id": "f_000002_b032",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "Sams Teach Yourself | Java | SIXTH EDITION in 21 Days | Cadenhead",
+   "title": "Sams Teach Yourself Java in 21 Days",
+   "author": "Cadenhead",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_090": [
+  {
+   "track_id": "book_090",
+   "det_id": "f_000003_b070",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "#1 Bestselling Computer Book Series",
+   "title": "",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "none",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_090",
+   "det_id": "f_000004_b042",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "#1 Bestselling Computer Book Series",
+   "title": "",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "none",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_091": [
+  {
+   "track_id": "book_091",
+   "det_id": "f_000002_b014",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "PHP, MySQL, JavaScript & HTML5 ALL-IN-ONE | FOR DUMMIES | Suehring Valade",
+   "title": "PHP, MySQL, JavaScript & HTML5 ALL-IN-ONE FOR DUMMIES",
+   "author": "Suehring Valade",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_091",
+   "det_id": "f_000004_b001",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "PHP, MySQL, JavaScript & HTML5 ALL-IN-ONE | FOR DUMMIES | Suehring Valade",
+   "title": "PHP, MySQL, JavaScript & HTML5 ALL-IN-ONE FOR DUMMIES",
+   "author": "Suehring Valade",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_092": [
+  {
+   "track_id": "book_092",
+   "det_id": "f_000002_b033",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "Sams Teach Yourself | Java | SIXTH EDITION in 21 Days | Cadenhead",
+   "title": "Sams Teach Yourself Java in 21 Days",
+   "author": "Cadenhead",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_092",
+   "det_id": "f_000004_b022",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "Sams Teach Yourself | Java | SIXTH EDITION | in 21 Days | Cadenhead",
+   "title": "Java in 21 Days",
+   "author": "Cadenhead",
+   "publisher": "Sams Teach Yourself",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_093": [
+  {
+   "track_id": "book_093",
+   "det_id": "f_000002_b015",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "the missing manual | JavaScript & jQuery | McFarland | Second Edition | O'REILLY",
+   "title": "JavaScript & jQuery",
+   "author": "McFarland",
+   "publisher": "O'REILLY",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_093",
+   "det_id": "f_000004_b002",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "the missing manual | JavaScript & jQuery | McFarland | Second Edition | O'REILLY",
+   "title": "JavaScript & jQuery",
+   "author": "McFarland",
+   "publisher": "O'REILLY",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_094": [
+  {
+   "track_id": "book_094",
+   "det_id": "f_000004_b023",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "Sams Teach Yourself | Java | SIXTH EDITION | in 21 Days | Cadenhead",
+   "title": "Java in 21 Days",
+   "author": "Cadenhead",
+   "publisher": "Sams Teach Yourself",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_094",
+   "det_id": "f_000002_b034",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "Sams Teach Yourself | Java | SIXTH EDITION | in 21 Days | Cadenhead",
+   "title": "Java in 21 Days",
+   "author": "Cadenhead",
+   "publisher": "Sams Teach Yourself",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_095": [
+  {
+   "track_id": "book_095",
+   "det_id": "f_000003_b071",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "Sams",
+   "title": "",
+   "author": "",
+   "publisher": "Sams",
+   "volume": "",
+   "legibility": "none",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_095",
+   "det_id": "f_000004_b041",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "Sams",
+   "title": "",
+   "author": "",
+   "publisher": "Sams",
+   "volume": "",
+   "legibility": "none",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_096": [
+  {
+   "track_id": "book_096",
+   "det_id": "f_000004_b003",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "JavaScript | Eighth Edition | VISUAL QUICKSTART GUIDE",
+   "title": "JavaScript",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_096",
+   "det_id": "f_000003_b019",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "JavaScript | VISUAL QUICKSTART GUIDE",
+   "title": "JavaScript",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_097": [
+  {
+   "track_id": "book_097",
+   "det_id": "f_000003_b044",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "Sams Teach Yourself | Java",
+   "title": "Java",
+   "author": "",
+   "publisher": "Sams Teach Yourself",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_097",
+   "det_id": "f_000004_b024",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "Sams Teach Yourself | Java",
+   "title": "Java",
+   "author": "",
+   "publisher": "Sams Teach Yourself",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_098": [
+  {
+   "track_id": "book_098",
+   "det_id": "f_000004_b004",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "THIRD EDITION | Programming PHP | MacIntyre & Lerdorf | O'REILLY",
+   "title": "Programming PHP",
+   "author": "MacIntyre & Lerdorf",
+   "publisher": "O'REILLY",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_098",
+   "det_id": "f_000003_b020",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "Programming PHP | MacIntyre & Lerdorf | O'REILLY",
+   "title": "Programming PHP",
+   "author": "MacIntyre & Lerdorf",
+   "publisher": "O'REILLY",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_099": [
+  {
+   "track_id": "book_099",
+   "det_id": "f_000004_b025",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "Head First | jQuery | Benedetti & Cranley | O'REILLY",
+   "title": "Head First jQuery",
+   "author": "Benedetti & Cranley",
+   "publisher": "O'REILLY",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_099",
+   "det_id": "f_000003_b045",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "Head First | jQuery | Benedetti & Cranley | O'REILLY",
+   "title": "Head First jQuery",
+   "author": "Benedetti & Cranley",
+   "publisher": "O'REILLY",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_100": [
+  {
+   "track_id": "book_100",
+   "det_id": "f_000004_b005",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "HTML5 for Beginners | LEARN BY VIDEO",
+   "title": "HTML5 for Beginners",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_100",
+   "det_id": "f_000003_b021",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "HTML5 for Beginners | LEARN BY VIDEO | WORKSHOP",
+   "title": "HTML5 for Beginners",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_101": [
+  {
+   "track_id": "book_101",
+   "det_id": "f_000004_b026",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "FOURTH EDITION | Java Network Programming | Harold | O'REILLY",
+   "title": "Java Network Programming",
+   "author": "Harold",
+   "publisher": "O'REILLY",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_101",
+   "det_id": "f_000003_b046",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "FOURTH EDITION | Java Network Programming | Harold | O'REILLY",
+   "title": "Java Network Programming",
+   "author": "Harold",
+   "publisher": "O'REILLY",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_102": [
+  {
+   "track_id": "book_102",
+   "det_id": "f_000004_b006",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "ADOBE AIR (ADOBE INTEGRATED RUNTIME) WITH AJAX | VISUAL QUICKPRO GUIDE",
+   "title": "ADOBE AIR (ADOBE INTEGRATED RUNTIME) WITH AJAX",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_102",
+   "det_id": "f_000003_b022",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "ADOBE AIR (ADOBE INTEGRATED RUNTIME) WITH AJAX | VISUAL QUICKPRO GUIDE",
+   "title": "ADOBE AIR (ADOBE INTEGRATED RUNTIME) WITH AJAX",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_103": [
+  {
+   "track_id": "book_103",
+   "det_id": "f_000004_b027",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "Markham | Java Programming Interviews Exposed | WROX",
+   "title": "Java Programming Interviews Exposed",
+   "author": "Markham",
+   "publisher": "WROX",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_103",
+   "det_id": "f_000003_b047",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "Markham | Java Programming Interviews Exposed | WROX",
+   "title": "Java Programming Interviews Exposed",
+   "author": "Markham",
+   "publisher": "WROX",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_104": [
+  {
+   "track_id": "book_104",
+   "det_id": "f_000003_b023",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "PHP and MySQL Web Development | Fourth Edition | Welling Thomson | Addison-Wesley",
+   "title": "PHP and MySQL Web Development",
+   "author": "Welling Thomson",
+   "publisher": "Addison-Wesley",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_104",
+   "det_id": "f_000004_b007",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "PHP and MySQL Web Development | Fourth Edition | Welling Thomson | Addison Wesley",
+   "title": "PHP and MySQL Web Development",
+   "author": "Welling Thomson",
+   "publisher": "Addison Wesley",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_105": [
+  {
+   "track_id": "book_105",
+   "det_id": "f_000004_b028",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "JAVASCRIPT IN EASY STEPS | 5th Edition",
+   "title": "JAVASCRIPT IN EASY STEPS",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_105",
+   "det_id": "f_000003_b048",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "Effective JavaScript | Herman",
+   "title": "Effective JavaScript",
+   "author": "Herman",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_106": [
+  {
+   "track_id": "book_106",
+   "det_id": "f_000004_b008",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "Learning PHP Design Patterns | Sanders | O'REILLY",
+   "title": "Learning PHP Design Patterns",
+   "author": "Sanders",
+   "publisher": "O'REILLY",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_106",
+   "det_id": "f_000003_b024",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "Learning PHP Design Patterns | Sanders | O'REILLY",
+   "title": "Learning PHP Design Patterns",
+   "author": "Sanders",
+   "publisher": "O'REILLY",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_107": [
+  {
+   "track_id": "book_107",
+   "det_id": "f_000003_b049",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "JAVASCRIPT IN EASY STEPS | 5th Edition",
+   "title": "JAVASCRIPT IN EASY STEPS",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_107",
+   "det_id": "f_000004_b029",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "JAVASCRIPT IN EASY STEPS | 5th Edition",
+   "title": "JAVASCRIPT IN EASY STEPS",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_108": [
+  {
+   "track_id": "book_108",
+   "det_id": "f_000004_b009",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "HTML and CSS Eighth Edition | VISUAL QUICKSTART GUIDE",
+   "title": "HTML and CSS",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_108",
+   "det_id": "f_000003_b025",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "HTML and CSS | Eighth Edition | VISUAL QUICKSTART GUIDE",
+   "title": "HTML and CSS",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_109": [
+  {
+   "track_id": "book_109",
+   "det_id": "f_000004_b030",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "ORACLE | Java Programming | Sarang | Oracle Press | Mc Graw Hill",
+   "title": "Java Programming",
+   "author": "Sarang",
+   "publisher": "Oracle Press | Mc Graw Hill",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_109",
+   "det_id": "f_000003_b050",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "ORACLE | Java Programming | Sarang | Oracle Press | Mc Graw Hill",
+   "title": "Java Programming",
+   "author": "Sarang",
+   "publisher": "Oracle Press | Mc Graw Hill",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_110": [
+  {
+   "track_id": "book_110",
+   "det_id": "f_000004_b010",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "HTML5 and CSS3 | Seventh Edition | VISUAL QUICKSTART GUIDE",
+   "title": "HTML5 and CSS3",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_110",
+   "det_id": "f_000003_b026",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "HTML5 and CSS3 | Seventh Edition | VISUAL QUICKSTART GUIDE",
+   "title": "HTML5 and CSS3",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_111": [
+  {
+   "track_id": "book_111",
+   "det_id": "f_000004_b031",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "NAPIER KUMAR | iOS 6 PROGRAMMING | PUSHING THE LIMITS | WILEY",
+   "title": "iOS 6 PROGRAMMING PUSHING THE LIMITS",
+   "author": "NAPIER KUMAR",
+   "publisher": "WILEY",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_111",
+   "det_id": "f_000003_b051",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "NAPIER KUMAR | iOS 6 PROGRAMMING | PUSHING THE LIMITS | WILEY",
+   "title": "iOS 6 PROGRAMMING PUSHING THE LIMITS",
+   "author": "NAPIER KUMAR",
+   "publisher": "WILEY",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_112": [
+  {
+   "track_id": "book_112",
+   "det_id": "f_000004_b011",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "eBook Available | Learn HTML5 and JavaScript for Android | Williams | Apress",
+   "title": "Learn HTML5 and JavaScript for Android",
+   "author": "Williams",
+   "publisher": "Apress",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_112",
+   "det_id": "f_000003_b027",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "Learn HTML5 and JavaScript for Android | Williams | Apress",
+   "title": "Learn HTML5 and JavaScript for Android",
+   "author": "Williams",
+   "publisher": "Apress",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_113": [
+  {
+   "track_id": "book_113",
+   "det_id": "f_000003_b028",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "Sams Teach Yourself | HTML and CSS | EIGHTH EDITION | 24 Hours",
+   "title": "HTML and CSS",
+   "author": "",
+   "publisher": "Sams Teach Yourself",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_113",
+   "det_id": "f_000004_b012",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "Sams Teach Yourself | HTML and CSS | EIGHTH EDITION | 24 Hours",
+   "title": "HTML and CSS",
+   "author": "",
+   "publisher": "Sams Teach Yourself",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_114": [
+  {
+   "track_id": "book_114",
+   "det_id": "f_000004_b032",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "iPad Programming | Steinberg/Freeman",
+   "title": "iPad Programming",
+   "author": "Steinberg/Freeman",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_114",
+   "det_id": "f_000003_b052",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "iPad Programming | Steinberg/Freeman",
+   "title": "iPad Programming",
+   "author": "Steinberg/Freeman",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_115": [
+  {
+   "track_id": "book_115",
+   "det_id": "f_000004_b033",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "CLIFTON | ANDROID User Interface Design | Addison Wesley",
+   "title": "ANDROID User Interface Design",
+   "author": "CLIFTON",
+   "publisher": "Addison Wesley",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_115",
+   "det_id": "f_000005_b010",
+   "frame_ref": "frames/f_000005.jpg",
+   "printed_text": "CLIFTON | ANDROID User Interface Design | Addison Wesley",
+   "title": "ANDROID User Interface Design",
+   "author": "CLIFTON",
+   "publisher": "Addison Wesley",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_116": [
+  {
+   "track_id": "book_116",
+   "det_id": "f_000005_b000",
+   "frame_ref": "frames/f_000005.jpg",
+   "printed_text": "HTML and CSS | Eighth Edition | VISUAL QUICKSTART GUIDE",
+   "title": "HTML and CSS",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_116",
+   "det_id": "f_000003_b029",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "HTML and CSS | Eighth Edition | VISUAL QUICKSTART GUIDE",
+   "title": "HTML and CSS",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_117": [
+  {
+   "track_id": "book_117",
+   "det_id": "f_000005_b001",
+   "frame_ref": "frames/f_000005.jpg",
+   "printed_text": "Java | The Java Tutorial | A Short Course on the Basics | Fifth Edition | ORACLE | Addison Wesley",
+   "title": "The Java Tutorial",
+   "author": "",
+   "publisher": "Addison Wesley",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_117",
+   "det_id": "f_000003_b030",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "Java | The Java Tutorial | A Short Course on the Basics | Fifth Edition | ORACLE | Addison Wesley",
+   "title": "The Java Tutorial",
+   "author": "",
+   "publisher": "Addison Wesley",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_118": [
+  {
+   "track_id": "book_118",
+   "det_id": "f_000004_b034",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "DEIT | Android for Programm An App-Driven A | livelessons | $195 value! | VIDEO LESSONS AND BOOK SIDE BY SIDE",
+   "title": "Android for Programm An App-Driven A",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_118",
+   "det_id": "f_000003_b054",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "DEIT | Android for Programm An App-Driven A | livelessons | $195 value! | VIDEO LESSONS AND BOOK SIDE BY SIDE",
+   "title": "Android for Programm An App-Driven A",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_119": [
+  {
+   "track_id": "book_119",
+   "det_id": "f_000005_b002",
+   "frame_ref": "frames/f_000005.jpg",
+   "printed_text": "#1 | 5th Edition | Java FOR DUMMIES | Burd",
+   "title": "Java FOR DUMMIES",
+   "author": "Burd",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_119",
+   "det_id": "f_000004_b015",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "#1 | 5th Edition | Java FOR DUMMIES | Burd",
+   "title": "Java FOR DUMMIES",
+   "author": "Burd",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_120": [
+  {
+   "track_id": "book_120",
+   "det_id": "f_000004_b035",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "Beginning iOS 5 Application Development | WROX",
+   "title": "Beginning iOS 5 Application Development",
+   "author": "",
+   "publisher": "WROX",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_120",
+   "det_id": "f_000005_b012",
+   "frame_ref": "frames/f_000005.jpg",
+   "printed_text": "Beginning iOS 5 Application Development | WROX",
+   "title": "Beginning iOS 5 Application Development",
+   "author": "",
+   "publisher": "WROX",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_121": [
+  {
+   "track_id": "book_121",
+   "det_id": "f_000005_b003",
+   "frame_ref": "frames/f_000005.jpg",
+   "printed_text": "#1 | 3rd Edition | Beginning Programming with Java | FOR DUMMIES | Burd",
+   "title": "Beginning Programming with Java",
+   "author": "Burd",
+   "publisher": "FOR DUMMIES",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_121",
+   "det_id": "f_000004_b016",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "#1 | 3rd Edition | Beginning Programming with Java | FOR DUMMIES | Burd",
+   "title": "Beginning Programming with Java",
+   "author": "Burd",
+   "publisher": "FOR DUMMIES",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_122": [
+  {
+   "track_id": "book_122",
+   "det_id": "f_000004_b017",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "FOURTH EDITION | Learning Java | Niemeyer & Leuck | O'REILLY",
+   "title": "Learning Java",
+   "author": "Niemeyer & Leuck",
+   "publisher": "O'REILLY",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_122",
+   "det_id": "f_000005_b004",
+   "frame_ref": "frames/f_000005.jpg",
+   "printed_text": "FOURTH EDITION | Learning Java | Niemeyer & Leuck | O'REILLY",
+   "title": "Learning Java",
+   "author": "Niemeyer & Leuck",
+   "publisher": "O'REILLY",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_123": [
+  {
+   "track_id": "book_123",
+   "det_id": "f_000004_b036",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "ANDROID PROGRAMMING | THE BIG NERD RANCH GUIDE | PHILLIPS & HARDY | BIG NERD RANCH",
+   "title": "ANDROID PROGRAMMING THE BIG NERD RANCH GUIDE",
+   "author": "PHILLIPS & HARDY",
+   "publisher": "BIG NERD RANCH",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_123",
+   "det_id": "f_000005_b013",
+   "frame_ref": "frames/f_000005.jpg",
+   "printed_text": "ANDROID PROGRAMMING | THE BIG NERD RANCH GUIDE | PHILLIPS & HARDY | BIG NERD RANCH",
+   "title": "ANDROID PROGRAMMING THE BIG NERD RANCH GUIDE",
+   "author": "PHILLIPS & HARDY",
+   "publisher": "BIG NERD RANCH",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_124": [
+  {
+   "track_id": "book_124",
+   "det_id": "f_000004_b037",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "iPhone and iPad Apps for Absolute Beginners | iOS 5 EDITION | Lewis | Apress",
+   "title": "iPhone and iPad Apps for Absolute Beginners",
+   "author": "Lewis",
+   "publisher": "Apress",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_124",
+   "det_id": "f_000005_b014",
+   "frame_ref": "frames/f_000005.jpg",
+   "printed_text": "iPhone and iPad Apps for Absolute Beginners | iOS 5 EDITION | Lewis | Apress*",
+   "title": "iPhone and iPad Apps for Absolute Beginners",
+   "author": "Lewis",
+   "publisher": "Apress*",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_125": [
+  {
+   "track_id": "book_125",
+   "det_id": "f_000005_b005",
+   "frame_ref": "frames/f_000005.jpg",
+   "printed_text": "jQuery A BEGINNER'S GUIDE | Pollock",
+   "title": "jQuery A BEGINNER'S GUIDE",
+   "author": "Pollock",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_125",
+   "det_id": "f_000004_b018",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "jQuery A BEGINNER'S GUIDE | Pollock",
+   "title": "jQuery A BEGINNER'S GUIDE",
+   "author": "Pollock",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_126": [
+  {
+   "track_id": "book_126",
+   "det_id": "f_000005_b006",
+   "frame_ref": "frames/f_000005.jpg",
+   "printed_text": "#1 | Java FOR DUMMIES",
+   "title": "Java FOR DUMMIES",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_126",
+   "det_id": "f_000004_b019",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "#1 | Java FOR DUMMIES",
+   "title": "Java FOR DUMMIES",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_127": [
+  {
+   "track_id": "book_127",
+   "det_id": "f_000005_b015",
+   "frame_ref": "frames/f_000005.jpg",
+   "printed_text": "Microsoft Manual of Style | 4 | edition | Microsoft Press | Start Here!",
+   "title": "Microsoft Manual of Style",
+   "author": "",
+   "publisher": "Microsoft Press",
+   "volume": "4",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_127",
+   "det_id": "f_000004_b038",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "Microsoft Manual of Style | 4 | edition | Microsoft Press",
+   "title": "Microsoft Manual of Style",
+   "author": "",
+   "publisher": "Microsoft Press",
+   "volume": "4",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_128": [
+  {
+   "track_id": "book_128",
+   "det_id": "f_000005_b007",
+   "frame_ref": "frames/f_000005.jpg",
+   "printed_text": "Head First | C | Griffiths & Griffiths | O'REILLY®",
+   "title": "Head First C",
+   "author": "Griffiths & Griffiths",
+   "publisher": "O'REILLY®",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_128",
+   "det_id": "f_000004_b020",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "Head First | C | Griffiths & Griffiths | O'REILLY®",
+   "title": "Head First C",
+   "author": "Griffiths & Griffiths",
+   "publisher": "O'REILLY®",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_129": [
+  {
+   "track_id": "book_129",
+   "det_id": "f_000005_b016",
+   "frame_ref": "frames/f_000005.jpg",
+   "printed_text": "Start Here! | Fundamentals of Microsoft .NET Programming | Microsoft Press",
+   "title": "Start Here! Fundamentals of Microsoft .NET Programming",
+   "author": "",
+   "publisher": "Microsoft Press",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_129",
+   "det_id": "f_000004_b039",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "Start Here! | Fundamentals of Microsoft .NET Programming | Microsoft Press",
+   "title": "Start Here! Fundamentals of Microsoft .NET Programming",
+   "author": "",
+   "publisher": "Microsoft Press",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_130": [
+  {
+   "track_id": "book_130",
+   "det_id": "f_000005_b017",
+   "frame_ref": "frames/f_000005.jpg",
+   "printed_text": "Programming iOS 7 | Neuburg | O'REILLY®",
+   "title": "Programming iOS 7",
+   "author": "Neuburg",
+   "publisher": "O'REILLY®",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_130",
+   "det_id": "f_000004_b040",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "iOS 7 | Neuburg | O'REILLY®",
+   "title": "iOS 7",
+   "author": "Neuburg",
+   "publisher": "O'REILLY®",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_132": [
+  {
+   "track_id": "book_132",
+   "det_id": "f_000005_b018",
+   "frame_ref": "frames/f_000005.jpg",
+   "printed_text": "Microsoft | .NET and SAP | Microsoft Press",
+   "title": ".NET and SAP",
+   "author": "",
+   "publisher": "Microsoft Press",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_133": [
+  {
+   "track_id": "book_133",
+   "det_id": "f_000005_b019",
+   "frame_ref": "frames/f_000005.jpg",
+   "printed_text": "Beginning | SharePoint 2013 | Building Business Solutions",
+   "title": "SharePoint 2013 Building Business Solutions",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_134": [
+  {
+   "track_id": "book_134",
+   "det_id": "f_000005_b020",
+   "frame_ref": "frames/f_000005.jpg",
+   "printed_text": "MASTERING | Virtual Machine Manager 2008 R2 | Michael Linares",
+   "title": "Virtual Machine Manager 2008 R2",
+   "author": "Michael Linares",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_135": [
+  {
+   "track_id": "book_135",
+   "det_id": "f_000005_b021",
+   "frame_ref": "frames/f_000005.jpg",
+   "printed_text": "Remote Desktop Services Resource Kit",
+   "title": "Remote Desktop Services Resource Kit",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_136": [
+  {
+   "track_id": "book_136",
+   "det_id": "f_000005_b009",
+   "frame_ref": "frames/f_000005.jpg",
+   "printed_text": "C++",
+   "title": "C++",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_137": [
+  {
+   "track_id": "book_137",
+   "det_id": "f_000005_b022",
+   "frame_ref": "frames/f_000005.jpg",
+   "printed_text": "",
+   "title": "",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "none",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ]
+}

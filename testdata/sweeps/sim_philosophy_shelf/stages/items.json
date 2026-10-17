@@ -1,0 +1,28 @@
+[
+ {
+  "id": "item_001",
+  "category": "shelving",
+  "label": "wooden bookshelf",
+  "material": "wood",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000006.jpg",
+  "sightings": [
+   "f_000001_i000",
+   "f_000002_i000",
+   "f_000003_i000",
+   "f_000004_i000",
+   "f_000005_i000",
+   "f_000006_i000"
+  ],
+  "dims_cm": {
+   "w": null,
+   "h": null,
+   "d": null
+  },
+  "dims_method": "",
+  "confidence": 0.95,
+  "print_confirmed": false,
+  "statement": null
+ }
+]

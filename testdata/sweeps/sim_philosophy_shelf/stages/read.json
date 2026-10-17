@@ -1,0 +1,428 @@
+{
+ "book_001": [
+  {
+   "track_id": "book_001",
+   "det_id": "f_000002_b004",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "",
+   "title": "",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "none",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_003": [
+  {
+   "track_id": "book_003",
+   "det_id": "f_000001_b003",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "II | GESAMMELTE AUFSÄTZE | Ebert",
+   "title": "GESAMMELTE AUFSÄTZE",
+   "author": "Ebert",
+   "publisher": "",
+   "volume": "II",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_005": [
+  {
+   "track_id": "book_005",
+   "det_id": "f_000001_b006",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "28 | GRIECHEN | SCHRÖDINGER | rde",
+   "title": "GRIECHEN",
+   "author": "SCHRÖDINGER",
+   "publisher": "rde",
+   "volume": "28",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_006": [
+  {
+   "track_id": "book_006",
+   "det_id": "f_000001_b007",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "The Physical World of the Greeks | S. Sambursky | RKP",
+   "title": "The Physical World of the Greeks",
+   "author": "S. Sambursky",
+   "publisher": "RKP",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": true
+  },
+  {
+   "track_id": "book_006",
+   "det_id": "f_000002_b003",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "The Physical World of the Greeks | S. Sambursky | RKP",
+   "title": "The Physical World of the Greeks",
+   "author": "S. Sambursky",
+   "publisher": "RKP",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": true
+  }
+ ],
+ "book_007": [
+  {
+   "track_id": "book_007",
+   "det_id": "f_000002_b005",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "st w 998 | Bubner Antike Themen und ihre moderne Verwandlung",
+   "title": "Antike Themen und ihre moderne Verwandlung",
+   "author": "Bubner",
+   "publisher": "st w",
+   "volume": "998",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_007",
+   "det_id": "f_000001_b008",
+   "frame_ref": "frames/f_000001.jpg",
+   "printed_text": "st w 998 | Bubner Antike Themen und ihre moderne Verwandlung",
+   "title": "Antike Themen und ihre moderne Verwandlung",
+   "author": "Bubner",
+   "publisher": "st w",
+   "volume": "998",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_012": [
+  {
+   "track_id": "book_012",
+   "det_id": "f_000002_b010",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "WILLIAMS | Shame and Necessity | CALIFORNIA",
+   "title": "Shame and Necessity",
+   "author": "WILLIAMS",
+   "publisher": "CALIFORNIA",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_012",
+   "det_id": "f_000003_b006",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "WILLIAMS | Shame and Necessity | CALIFORNIA",
+   "title": "Shame and Necessity",
+   "author": "WILLIAMS",
+   "publisher": "CALIFORNIA",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_013": [
+  {
+   "track_id": "book_013",
+   "det_id": "f_000002_b011",
+   "frame_ref": "frames/f_000002.jpg",
+   "printed_text": "UTB 1136 | Adomeit Antike Denker über den Staat",
+   "title": "Antike Denker über den Staat",
+   "author": "Adomeit",
+   "publisher": "UTB",
+   "volume": "1136",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_013",
+   "det_id": "f_000004_b001",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "UTB 1136 | Adomeit Antike Denker über den Staat",
+   "title": "Antike Denker über den Staat",
+   "author": "Adomeit",
+   "publisher": "UTB",
+   "volume": "1136",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_014": [
+  {
+   "track_id": "book_014",
+   "det_id": "f_000004_b002",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "Erik Wolf | GRIECHISCHES RECHTSDENKEN | I",
+   "title": "GRIECHISCHES RECHTSDENKEN",
+   "author": "Erik Wolf",
+   "publisher": "",
+   "volume": "I",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_014",
+   "det_id": "f_000003_b008",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "Erik Wolf | GRIECHISCHES RECHTSDENKEN | I",
+   "title": "GRIECHISCHES RECHTSDENKEN",
+   "author": "Erik Wolf",
+   "publisher": "",
+   "volume": "I",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_015": [
+  {
+   "track_id": "book_015",
+   "det_id": "f_000004_b003",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "Erik Wolf | GRIECHISCHES RECHTSDENKEN | II",
+   "title": "GRIECHISCHES RECHTSDENKEN",
+   "author": "Erik Wolf",
+   "publisher": "",
+   "volume": "II",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_015",
+   "det_id": "f_000003_b009",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "Erik Wolf | GRIECHISCHES RECHTSDENKEN | II",
+   "title": "GRIECHISCHES RECHTSDENKEN",
+   "author": "Erik Wolf",
+   "publisher": "",
+   "volume": "II",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_016": [
+  {
+   "track_id": "book_016",
+   "det_id": "f_000005_b001",
+   "frame_ref": "frames/f_000005.jpg",
+   "printed_text": "Brisson Einführung in die Philosophie des Mythos",
+   "title": "Einführung in die Philosophie des Mythos",
+   "author": "Brisson",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_016",
+   "det_id": "f_000003_b010",
+   "frame_ref": "frames/f_000003.jpg",
+   "printed_text": "Brisson • Einführung in die Philosophie des Mythos",
+   "title": "Einführung in die Philosophie des Mythos",
+   "author": "Brisson",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_017": [
+  {
+   "track_id": "book_017",
+   "det_id": "f_000005_b002",
+   "frame_ref": "frames/f_000005.jpg",
+   "printed_text": "NF 226 | Veyne Glaubten die Griechen an ihre Mythen? 1226",
+   "title": "Glaubten die Griechen an ihre Mythen?",
+   "author": "Veyne",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_017",
+   "det_id": "f_000004_b005",
+   "frame_ref": "frames/f_000004.jpg",
+   "printed_text": "NF 226 | Veyne Glaubten die Griechen an ihre Mythen? 1226",
+   "title": "Glaubten die Griechen an ihre Mythen?",
+   "author": "Veyne",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_018": [
+  {
+   "track_id": "book_018",
+   "det_id": "f_000006_b005",
+   "frame_ref": "frames/f_000006.jpg",
+   "printed_text": "Grassi Die Theorie des Schönen in der Antike | id",
+   "title": "Die Theorie des Schönen in der Antike",
+   "author": "Grassi",
+   "publisher": "id",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_018",
+   "det_id": "f_000005_b003",
+   "frame_ref": "frames/f_000005.jpg",
+   "printed_text": "Grassi Die Theorie des Schönen in der Antike | id",
+   "title": "Die Theorie des Schönen in der Antike",
+   "author": "Grassi",
+   "publisher": "id",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_019": [
+  {
+   "track_id": "book_019",
+   "det_id": "f_000006_b006",
+   "frame_ref": "frames/f_000006.jpg",
+   "printed_text": "gnv | Schmitter (Hrsg.) Geschichte der Sprachtheorie | 2",
+   "title": "Geschichte der Sprachtheorie",
+   "author": "Schmitter (Hrsg.)",
+   "publisher": "gnv",
+   "volume": "2",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_019",
+   "det_id": "f_000005_b004",
+   "frame_ref": "frames/f_000005.jpg",
+   "printed_text": "gnv | Schmitter (Hrsg.) Geschichte der Sprachtheorie | 2",
+   "title": "Geschichte der Sprachtheorie",
+   "author": "Schmitter (Hrsg.)",
+   "publisher": "gnv",
+   "volume": "2",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_020": [
+  {
+   "track_id": "book_020",
+   "det_id": "f_000006_b007",
+   "frame_ref": "frames/f_000006.jpg",
+   "printed_text": "Obk Cose | Magazin | EUGENIO COSERIU • Die Geschichte der Sprachphilosophie | I",
+   "title": "Die Geschichte der Sprachphilosophie",
+   "author": "EUGENIO COSERIU",
+   "publisher": "",
+   "volume": "I",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_020",
+   "det_id": "f_000005_b005",
+   "frame_ref": "frames/f_000005.jpg",
+   "printed_text": "I | EUGENIO COSERIU · Die Geschichte der Sprachphilosophie | Magazin | Obk | Cose",
+   "title": "Die Geschichte der Sprachphilosophie",
+   "author": "EUGENIO COSERIU",
+   "publisher": "",
+   "volume": "I",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_022": [
+  {
+   "track_id": "book_022",
+   "det_id": "f_000006_b009",
+   "frame_ref": "frames/f_000006.jpg",
+   "printed_text": "458 | RICKEN (Hrsg.) · Philosophen der Antike I",
+   "title": "Philosophen der Antike",
+   "author": "RICKEN (Hrsg.)",
+   "publisher": "",
+   "volume": "I",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_023": [
+  {
+   "track_id": "book_023",
+   "det_id": "f_000006_b010",
+   "frame_ref": "frames/f_000006.jpg",
+   "printed_text": "459 | RICKEN (Hrsg.) · Philosophen der Antike II",
+   "title": "Philosophen der Antike",
+   "author": "RICKEN (Hrsg.)",
+   "publisher": "",
+   "volume": "II",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_024": [
+  {
+   "track_id": "book_024",
+   "det_id": "f_000006_b011",
+   "frame_ref": "frames/f_000006.jpg",
+   "printed_text": "",
+   "title": "",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "none",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ]
+}
