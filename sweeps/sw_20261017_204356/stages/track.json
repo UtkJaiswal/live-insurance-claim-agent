@@ -1,0 +1,476 @@
+{
+ "segments": [
+  [
+   17,
+   20,
+   22,
+   25,
+   28,
+   30,
+   33,
+   35
+  ],
+  [
+   38,
+   40
+  ],
+  [
+   44
+  ],
+  [
+   46
+  ],
+  [
+   48,
+   51
+  ],
+  [
+   54
+  ],
+  [
+   57
+  ],
+  [
+   59
+  ],
+  [
+   62,
+   64,
+   66,
+   68,
+   71,
+   73
+  ],
+  [
+   75,
+   82,
+   84,
+   87,
+   89,
+   91,
+   93
+  ],
+  [
+   77
+  ],
+  [
+   80
+  ],
+  [
+   97
+  ],
+  [
+   100
+  ],
+  [
+   103
+  ],
+  [
+   105
+  ],
+  [
+   107,
+   110
+  ],
+  [
+   113,
+   116,
+   119,
+   121,
+   125
+  ]
+ ],
+ "links": [
+  [
+   17,
+   20
+  ],
+  [
+   17,
+   22
+  ],
+  [
+   17,
+   25
+  ],
+  [
+   17,
+   28
+  ],
+  [
+   20,
+   22
+  ],
+  [
+   20,
+   25
+  ],
+  [
+   20,
+   28
+  ],
+  [
+   20,
+   30
+  ],
+  [
+   22,
+   25
+  ],
+  [
+   22,
+   28
+  ],
+  [
+   22,
+   30
+  ],
+  [
+   22,
+   33
+  ],
+  [
+   25,
+   28
+  ],
+  [
+   25,
+   30
+  ],
+  [
+   25,
+   33
+  ],
+  [
+   25,
+   35
+  ],
+  [
+   28,
+   30
+  ],
+  [
+   28,
+   33
+  ],
+  [
+   28,
+   35
+  ],
+  [
+   30,
+   33
+  ],
+  [
+   30,
+   35
+  ],
+  [
+   33,
+   35
+  ],
+  [
+   38,
+   40
+  ],
+  [
+   48,
+   51
+  ],
+  [
+   62,
+   64
+  ],
+  [
+   64,
+   66
+  ],
+  [
+   66,
+   68
+  ],
+  [
+   68,
+   73
+  ],
+  [
+   71,
+   73
+  ],
+  [
+   75,
+   84
+  ],
+  [
+   82,
+   84
+  ],
+  [
+   82,
+   87
+  ],
+  [
+   82,
+   89
+  ],
+  [
+   82,
+   91
+  ],
+  [
+   84,
+   87
+  ],
+  [
+   84,
+   89
+  ],
+  [
+   84,
+   91
+  ],
+  [
+   84,
+   93
+  ],
+  [
+   87,
+   89
+  ],
+  [
+   87,
+   91
+  ],
+  [
+   89,
+   91
+  ],
+  [
+   107,
+   110
+  ],
+  [
+   113,
+   116
+  ],
+  [
+   113,
+   119
+  ],
+  [
+   116,
+   119
+  ],
+  [
+   116,
+   121
+  ],
+  [
+   119,
+   121
+  ],
+  [
+   119,
+   125
+  ],
+  [
+   121,
+   125
+  ]
+ ],
+ "tracks": [
+  {
+   "id": "book_001",
+   "segment": 9,
+   "row": 0,
+   "position": 1,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "flat",
+   "dets": [
+    "f_000083_b002",
+    "f_000085_b003",
+    "f_000088_b003",
+    "f_000090_b003",
+    "f_000092_b002"
+   ]
+  },
+  {
+   "id": "book_002",
+   "segment": 9,
+   "row": 0,
+   "position": 2,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "flat",
+   "dets": [
+    "f_000083_b001",
+    "f_000085_b002",
+    "f_000088_b002",
+    "f_000090_b002",
+    "f_000092_b001"
+   ]
+  },
+  {
+   "id": "book_003",
+   "segment": 9,
+   "row": 0,
+   "position": 3,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "flat",
+   "dets": [
+    "f_000083_b000",
+    "f_000085_b000",
+    "f_000088_b000",
+    "f_000090_b000",
+    "f_000092_b000"
+   ]
+  },
+  {
+   "id": "book_004",
+   "segment": 9,
+   "row": 0,
+   "position": 4,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "flat",
+   "dets": [
+    "f_000085_b001",
+    "f_000088_b001",
+    "f_000090_b001"
+   ]
+  },
+  {
+   "id": "book_005",
+   "segment": 9,
+   "row": 1,
+   "position": 1,
+   "fragment": false,
+   "spine_facing": false,
+   "orientation": "flat",
+   "dets": [
+    "f_000090_b004"
+   ]
+  },
+  {
+   "id": "book_006",
+   "segment": 9,
+   "row": 2,
+   "position": 1,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "flat",
+   "dets": [
+    "f_000083_b003",
+    "f_000085_b005",
+    "f_000088_b004",
+    "f_000090_b005",
+    "f_000092_b003"
+   ]
+  },
+  {
+   "id": "book_007",
+   "segment": 9,
+   "row": 2,
+   "position": 2,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "flat",
+   "dets": [
+    "f_000083_b004",
+    "f_000085_b004",
+    "f_000088_b005",
+    "f_000090_b006",
+    "f_000092_b004"
+   ]
+  },
+  {
+   "id": "book_008",
+   "segment": 9,
+   "row": 2,
+   "position": 3,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "flat",
+   "dets": [
+    "f_000083_b005",
+    "f_000085_b006",
+    "f_000088_b006",
+    "f_000092_b005"
+   ]
+  },
+  {
+   "id": "book_009",
+   "segment": 11,
+   "row": 0,
+   "position": 1,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "flat",
+   "dets": [
+    "f_000081_b005"
+   ]
+  },
+  {
+   "id": "book_010",
+   "segment": 11,
+   "row": 0,
+   "position": 2,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "flat",
+   "dets": [
+    "f_000081_b004"
+   ]
+  },
+  {
+   "id": "book_011",
+   "segment": 11,
+   "row": 0,
+   "position": 3,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "flat",
+   "dets": [
+    "f_000081_b003"
+   ]
+  },
+  {
+   "id": "book_012",
+   "segment": 11,
+   "row": 0,
+   "position": 4,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "flat",
+   "dets": [
+    "f_000081_b002"
+   ]
+  },
+  {
+   "id": "book_013",
+   "segment": 11,
+   "row": 0,
+   "position": 5,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "flat",
+   "dets": [
+    "f_000081_b001"
+   ]
+  },
+  {
+   "id": "book_014",
+   "segment": 11,
+   "row": 0,
+   "position": 6,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "flat",
+   "dets": [
+    "f_000081_b000"
+   ]
+  }
+ ]
+}

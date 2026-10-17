@@ -1,0 +1,330 @@
+[
+ {
+  "id": "item_001",
+  "category": "furniture",
+  "label": "green plastic chair",
+  "material": "plastic",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000041.jpg",
+  "sightings": [
+   "f_000018_i000",
+   "f_000021_i000",
+   "f_000023_i000",
+   "f_000026_i000",
+   "f_000029_i000",
+   "f_000031_i000",
+   "f_000034_i000",
+   "f_000036_i000",
+   "f_000039_i000",
+   "f_000041_i000",
+   "f_000058_i000",
+   "f_000060_i000",
+   "f_000063_i002",
+   "f_000065_i001",
+   "f_000114_i003",
+   "f_000117_i000",
+   "f_000120_i000",
+   "f_000122_i000",
+   "f_000126_i000"
+  ],
+  "dims_cm": {
+   "w": 81.0,
+   "h": 135.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 12 view(s); depth not measured",
+  "confidence": 0.95,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "chair"
+ },
+ {
+  "id": "item_002",
+  "category": "furniture",
+  "label": "bed with mattress and messy bedding",
+  "material": "fabric",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000111.jpg",
+  "sightings": [
+   "f_000018_i001",
+   "f_000021_i001",
+   "f_000023_i001",
+   "f_000026_i001",
+   "f_000029_i001",
+   "f_000031_i001",
+   "f_000034_i001",
+   "f_000036_i002",
+   "f_000041_i001",
+   "f_000063_i000",
+   "f_000065_i000",
+   "f_000067_i001",
+   "f_000069_i000",
+   "f_000072_i004",
+   "f_000074_i002",
+   "f_000108_i000",
+   "f_000111_i000",
+   "f_000111_i001",
+   "f_000114_i000",
+   "f_000117_i003",
+   "f_000120_i002",
+   "f_000122_i002",
+   "f_000126_i002"
+  ],
+  "dims_cm": {
+   "w": null,
+   "h": null,
+   "d": null
+  },
+  "dims_method": "",
+  "confidence": 0.95,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "bed"
+ },
+ {
+  "id": "item_003",
+  "category": "other",
+  "label": "blue plastic bucket",
+  "material": "plastic",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000114.jpg",
+  "sightings": [
+   "f_000021_i002",
+   "f_000023_i002",
+   "f_000026_i003",
+   "f_000029_i002",
+   "f_000031_i002",
+   "f_000036_i001",
+   "f_000039_i001",
+   "f_000041_i002",
+   "f_000060_i001",
+   "f_000065_i002",
+   "f_000114_i001",
+   "f_000117_i002"
+  ],
+  "dims_cm": {
+   "w": 31.0,
+   "h": 43.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 12 view(s); depth not measured",
+  "confidence": 0.95,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "bucket"
+ },
+ {
+  "id": "item_004",
+  "category": "other",
+  "label": "grey collapsible laundry basket",
+  "material": "fabric",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000114.jpg",
+  "sightings": [
+   "f_000021_i003",
+   "f_000023_i003",
+   "f_000026_i002",
+   "f_000029_i003",
+   "f_000031_i003",
+   "f_000045_i000",
+   "f_000058_i001",
+   "f_000060_i002",
+   "f_000063_i001",
+   "f_000065_i003",
+   "f_000114_i002",
+   "f_000117_i001",
+   "f_000120_i001",
+   "f_000122_i001",
+   "f_000126_i001"
+  ],
+  "dims_cm": {
+   "w": 42.0,
+   "h": 50.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 12 view(s); depth not measured",
+  "confidence": 0.95,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "laundry basket"
+ },
+ {
+  "id": "item_005",
+  "category": "furniture",
+  "label": "tufted headboard",
+  "material": "fabric",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000067.jpg",
+  "sightings": [
+   "f_000067_i000"
+  ],
+  "dims_cm": {
+   "w": null,
+   "h": null,
+   "d": null
+  },
+  "dims_method": "",
+  "confidence": 0.5,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "headboard"
+ },
+ {
+  "id": "item_006",
+  "category": "furniture",
+  "label": "wooden bedside table",
+  "material": "wood",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000072.jpg",
+  "sightings": [
+   "f_000069_i001",
+   "f_000072_i000",
+   "f_000074_i001",
+   "f_000076_i001",
+   "f_000108_i001"
+  ],
+  "dims_cm": {
+   "w": 68.0,
+   "h": 110.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 1 view(s); depth not measured",
+  "confidence": 0.95,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "bedside table"
+ },
+ {
+  "id": "item_007",
+  "category": "other",
+  "label": "backpack",
+  "material": "fabric",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000074.jpg",
+  "sightings": [
+   "f_000069_i002",
+   "f_000072_i003",
+   "f_000074_i003",
+   "f_000108_i003",
+   "f_000111_i002"
+  ],
+  "dims_cm": {
+   "w": 55.0,
+   "h": 57.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 4 view(s); depth not measured",
+  "confidence": 0.95,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "backpack"
+ },
+ {
+  "id": "item_008",
+  "category": "electronics",
+  "label": "open laptop",
+  "material": "aluminium",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000076.jpg",
+  "sightings": [
+   "f_000069_i003",
+   "f_000072_i002",
+   "f_000074_i000",
+   "f_000076_i000",
+   "f_000078_i000",
+   "f_000108_i002"
+  ],
+  "dims_cm": {
+   "w": 50.0,
+   "h": 43.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 3 view(s); depth not measured",
+  "confidence": 0.95,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "laptop"
+ },
+ {
+  "id": "item_009",
+  "category": "other",
+  "label": "stainless steel water bottle",
+  "material": "metal",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000074.jpg",
+  "sightings": [
+   "f_000072_i001",
+   "f_000074_i004"
+  ],
+  "dims_cm": {
+   "w": 11.0,
+   "h": 41.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 2 view(s); depth not measured",
+  "confidence": 0.8,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "water bottle"
+ },
+ {
+  "id": "item_010",
+  "category": "shelving",
+  "label": "wooden bookshelf",
+  "material": "wood",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000090.jpg",
+  "sightings": [
+   "f_000081_i000",
+   "f_000083_i000",
+   "f_000085_i000",
+   "f_000088_i000",
+   "f_000090_i000",
+   "f_000092_i000"
+  ],
+  "dims_cm": {
+   "w": null,
+   "h": null,
+   "d": null
+  },
+  "dims_method": "",
+  "confidence": 0.95,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "bookshelf"
+ },
+ {
+  "id": "item_011",
+  "category": "furniture",
+  "label": "wooden cabinet with open door",
+  "material": "wood",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000098.jpg",
+  "sightings": [
+   "f_000081_i001",
+   "f_000098_i000",
+   "f_000106_i000"
+  ],
+  "dims_cm": {
+   "w": null,
+   "h": null,
+   "d": null
+  },
+  "dims_method": "",
+  "confidence": 0.7,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "cabinet door"
+ }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "measure": "Book count",
+    "target": "within 5%",
+    "result": "9 vs 6 (50.0%)",
+    "passed": false,
+    "detail": ""
+  },
+  {
+    "measure": "Title identification",
+    "target": ">= 70% of legible correct, <= 3% confidently wrong",
+    "result": "66.7% correct (4/6), 20.0% wrong (1/5)",
+    "passed": false,
+    "detail": ""
+  },
+  {
+    "measure": "Spine dimensions",
+    "target": "within 15% (sample of 20)",
+    "result": "height MAPE 55.1%, thickness MAPE n/a",
+    "passed": false,
+    "detail": "matched 1/1 sample books"
+  },
+  {
+    "measure": "Book prices",
+    "target": "within 25% (sample of 15)",
+    "result": "MAPE n/a",
+    "passed": null,
+    "detail": "matched 0/0, 0 price pairs compared"
+  },
+  {
+    "measure": "Non-book items",
+    "target": ">= 80% found, correct category",
+    "result": "100.0% (10/10)",
+    "passed": true,
+    "detail": "1 extra predictions"
+  },
+  {
+    "measure": "Floor area",
+    "target": "within 10%",
+    "result": "19.17 vs 9.44 m2 (103.1%)",
+    "passed": false,
+    "detail": ""
+  },
+  {
+    "measure": "Wall area",
+    "target": "within 15%",
+    "result": "39.11 vs 35.17 m2 (11.2%)",
+    "passed": true,
+    "detail": ""
+  },
+  {
+    "measure": "Time to packet",
+    "target": "under 5 minutes",
+    "result": "61 s",
+    "passed": true,
+    "detail": ""
+  }
+]

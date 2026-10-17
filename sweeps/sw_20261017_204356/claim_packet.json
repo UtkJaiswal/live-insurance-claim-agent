@@ -1,0 +1,735 @@
+{
+  "sweep": {
+    "id": "sw_20261017_204356",
+    "captured_at": "2026-10-17T15:13:56+00:00",
+    "device": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/442.5.993077048 Mobile/15E148 Safari/604.1",
+    "duration_s": 109.3,
+    "country": "US",
+    "currency": "USD"
+  },
+  "room": {
+    "length_m": null,
+    "width_m": null,
+    "height_m": null,
+    "floor_area_m2": null,
+    "wall_area_m2": null,
+    "shelved_wall_area_m2": null,
+    "scale_method": "3D reconstruction (DA3-BASE) scaled by 14 door anchors; up from accelerometer gravity (43 frames)",
+    "confidence": 0.0,
+    "floor_area_ft2": null,
+    "wall_area_ft2": null,
+    "shape_notes": ""
+  },
+  "books": [
+    {
+      "id": "book_001",
+      "shelf": "Unit J shelf 1",
+      "position": 1,
+      "frame_ref": "frames/f_000083.jpg#xywh=458,1701,1663,664",
+      "status": "identified",
+      "title": "The 5 Am Club",
+      "author": "Robin Sharma",
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 33.5,
+      "spine_thickness_cm": null,
+      "id_confidence": 0.66,
+      "replacement_cost": {
+        "amount": 22.66,
+        "source": "waterstones.com (seller: Waterstones) via retailer page fetched with TinyFish (1 matching offer, median)",
+        "url": "https://www.waterstones.com/book/the-5-am-club/robin-sharma/9780008312831",
+        "retrieved_at": "2026-10-17T15:23:12+00:00",
+        "converted": true,
+        "original_amount": 16.99,
+        "original_currency": "GBP"
+      },
+      "used_value": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "condition_assumed": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "orientation": "flat",
+      "spine_text_read": "ROBIN SHARMA | THE 5 AM CLUB | JAICO",
+      "catalogue_url": null,
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out); flat book: thickness not measured (box includes the cover seen at an angle)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_002",
+      "shelf": "Unit J shelf 1",
+      "position": 2,
+      "frame_ref": "frames/f_000092.jpg#xywh=89,1978,1965,468",
+      "status": "identified",
+      "title": "The Monk Who Sold His Ferrari",
+      "author": "Robin S. Sharma",
+      "edition": "JAICO PUBLISHING HOUSE  www.jaicobooks.com 2007",
+      "isbn": "9788179926932",
+      "spine_height_cm": 31.2,
+      "spine_thickness_cm": null,
+      "id_confidence": 0.95,
+      "replacement_cost": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "used_value": {
+        "amount": 13.67,
+        "source": "abebooks.co.uk (seller: Greenworld Books) via retailer page fetched with TinyFish (8 matching offers, median)",
+        "url": "https://www.abebooks.co.uk/9780002557214/Monk-Who-Sold-Ferrari-Sharma-0002557215/plp",
+        "retrieved_at": "2026-10-17T15:12:10+00:00",
+        "condition_assumed": "used, good (as listed by the seller)",
+        "converted": true,
+        "original_amount": 10.24,
+        "original_currency": "GBP"
+      },
+      "orientation": "flat",
+      "spine_text_read": "The Monk Who Sold His Ferrari | ROBIN SHARMA | A JAICO BOOK",
+      "catalogue_url": "https://openlibrary.org/books/OL24982482M",
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out); flat book: thickness not measured (box includes the cover seen at an angle)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_003",
+      "shelf": "Unit J shelf 1",
+      "position": 3,
+      "frame_ref": "frames/f_000085.jpg#xywh=404,699,1639,626",
+      "status": "identified",
+      "title": "Word Power Made Easy",
+      "author": "Norman Lewis",
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 24.8,
+      "spine_thickness_cm": null,
+      "id_confidence": 0.66,
+      "replacement_cost": {
+        "amount": 32.41,
+        "source": "amazon.com (seller: MILLION 82 LLC) via retailer page fetched with TinyFish (2 matching offers, median)",
+        "url": "https://www.amazon.com/Word-Power-Made-Norman-Lewis/dp/B00142GFUC",
+        "retrieved_at": "2026-10-17T15:16:28+00:00",
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "used_value": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "condition_assumed": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "orientation": "flat",
+      "spine_text_read": "Word Power Made Easy | Norman Lewis | G GOYAL Saab",
+      "catalogue_url": null,
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out); flat book: thickness not measured (box includes the cover seen at an angle)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_004",
+      "shelf": "Unit J shelf 1",
+      "position": 4,
+      "frame_ref": "frames/f_000085.jpg#xywh=996,1213,1162,377",
+      "status": "unidentified",
+      "title": null,
+      "author": null,
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 18.6,
+      "spine_thickness_cm": null,
+      "id_confidence": 0.0,
+      "replacement_cost": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "used_value": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "condition_assumed": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "orientation": "flat",
+      "spine_text_read": "A.P.J. ABDUL KALAM",
+      "catalogue_url": null,
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out); flat book: thickness not measured (box includes the cover seen at an angle)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_005",
+      "shelf": "Unit J shelf 2",
+      "position": 1,
+      "frame_ref": "frames/f_000090.jpg#xywh=272,2173,1888,676",
+      "status": "unidentified",
+      "title": null,
+      "author": null,
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 35.2,
+      "spine_thickness_cm": null,
+      "id_confidence": 0.0,
+      "replacement_cost": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "used_value": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "condition_assumed": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "orientation": "flat",
+      "spine_text_read": null,
+      "catalogue_url": null,
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out); flat book: thickness not measured (box includes the cover seen at an angle)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_006",
+      "shelf": "Unit J shelf 3",
+      "position": 1,
+      "frame_ref": "frames/f_000085.jpg#xywh=0,1809,2160,852",
+      "status": "unidentified",
+      "title": null,
+      "author": null,
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 37.3,
+      "spine_thickness_cm": null,
+      "id_confidence": 0.0,
+      "replacement_cost": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "used_value": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "condition_assumed": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "orientation": "flat",
+      "spine_text_read": "5TH EDITION | How to Prepare for DATA INTERPRETATION for CAT | Mc Graw Hill Education",
+      "catalogue_url": null,
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out); flat book: thickness not measured (box includes the cover seen at an angle)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_007",
+      "shelf": "Unit J shelf 3",
+      "position": 2,
+      "frame_ref": "frames/f_000092.jpg#xywh=0,2542,2028,972",
+      "status": "unidentified",
+      "title": null,
+      "author": null,
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 37.0,
+      "spine_thickness_cm": null,
+      "id_confidence": 0.0,
+      "replacement_cost": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "used_value": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "condition_assumed": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "orientation": "flat",
+      "spine_text_read": "5TH EDITION | How to Prepare for DATA INTERPRETATION for CAT | Mc Graw Hill Education",
+      "catalogue_url": null,
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out); flat book: thickness not measured (box includes the cover seen at an angle)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_008",
+      "shelf": "Unit J shelf 3",
+      "position": 3,
+      "frame_ref": "frames/f_000092.jpg#xywh=0,2907,2022,845",
+      "status": "identified",
+      "title": "Visions of the Future",
+      "author": "J. M. T. Thompson",
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 39.1,
+      "spine_thickness_cm": null,
+      "id_confidence": 0.89,
+      "replacement_cost": {
+        "amount": 54.67,
+        "source": "waterstones.com (seller: Waterstones) via retailer page fetched with TinyFish (1 matching offer, median)",
+        "url": "https://www.waterstones.com/book/visions-of-the-future-chemistry-and-life-science/j-m-t-thompson/9780521805391",
+        "retrieved_at": "2026-10-17T15:12:24+00:00",
+        "converted": true,
+        "original_amount": 41.0,
+        "original_currency": "GBP"
+      },
+      "used_value": {
+        "amount": 6.33,
+        "source": "abebooks.co.uk (seller: Book Bear) via retailer page fetched with TinyFish (1 matching offer, median)",
+        "url": "https://www.abebooks.co.uk/Visions-Future-Physics-Electronics-Thompson-Michael/20116228885/bd",
+        "retrieved_at": "2026-10-17T15:12:24+00:00",
+        "condition_assumed": "used, good (as listed by the seller)",
+        "converted": true,
+        "original_amount": 4.75,
+        "original_currency": "GBP"
+      },
+      "orientation": "flat",
+      "spine_text_read": "VISIONS OF THE FUTURE",
+      "catalogue_url": "https://openlibrary.org/works/OL5111250W",
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out); flat book: thickness not measured (box includes the cover seen at an angle)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_010",
+      "shelf": "Unit L shelf 1",
+      "position": 2,
+      "frame_ref": "frames/f_000081.jpg#xywh=1192,1981,650,887",
+      "status": "identified",
+      "title": "Visions of the Future",
+      "author": "J. M. T. Thompson",
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 23.9,
+      "spine_thickness_cm": null,
+      "id_confidence": 0.75,
+      "replacement_cost": {
+        "amount": 54.67,
+        "source": "waterstones.com (seller: Waterstones) via retailer page fetched with TinyFish (1 matching offer, median)",
+        "url": "https://www.waterstones.com/book/visions-of-the-future-chemistry-and-life-science/j-m-t-thompson/9780521805391",
+        "retrieved_at": "2026-10-17T15:12:24+00:00",
+        "converted": true,
+        "original_amount": 41.0,
+        "original_currency": "GBP"
+      },
+      "used_value": {
+        "amount": 6.33,
+        "source": "abebooks.co.uk (seller: Book Bear) via retailer page fetched with TinyFish (1 matching offer, median)",
+        "url": "https://www.abebooks.co.uk/Visions-Future-Physics-Electronics-Thompson-Michael/20116228885/bd",
+        "retrieved_at": "2026-10-17T15:12:24+00:00",
+        "condition_assumed": "used, good (as listed by the seller)",
+        "converted": true,
+        "original_amount": 4.75,
+        "original_currency": "GBP"
+      },
+      "orientation": "flat",
+      "spine_text_read": "VISIONS OF THE FUTURE",
+      "catalogue_url": "https://openlibrary.org/works/OL5111250W",
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out); flat book: thickness not measured (box includes the cover seen at an angle)",
+      "appraisal_reason": null
+    }
+  ],
+  "items": [
+    {
+      "id": "item_001",
+      "category": "furniture",
+      "description": "green plastic chair (plastic)",
+      "brand_model": null,
+      "frame_ref": "frames/f_000041.jpg",
+      "dimensions_cm": {
+        "w": 81.0,
+        "h": 135.0,
+        "d": null
+      },
+      "status": "range",
+      "replacement_cost": {
+        "low": 55.0,
+        "high": 163.99,
+        "source": "retailer page fetched with TinyFish (US), 40 comparable listings, interquartile range",
+        "url": "https://api.search.tinyfish.ai/?query=buy plastic chair online USA&location=US",
+        "retrieved_at": "2026-10-17T15:16:38+00:00"
+      },
+      "confidence": 0.95,
+      "material": "plastic",
+      "dimensions_method": "reconstruction depth x anchor scale, 12 view(s); depth not measured",
+      "appraisal_reason": null
+    },
+    {
+      "id": "item_002",
+      "category": "furniture",
+      "description": "bed with mattress and messy bedding (fabric)",
+      "brand_model": null,
+      "frame_ref": "frames/f_000111.jpg",
+      "dimensions_cm": {
+        "w": null,
+        "h": null,
+        "d": null
+      },
+      "status": "range",
+      "replacement_cost": {
+        "low": 53.99,
+        "high": 399.0,
+        "source": "retailer page fetched with TinyFish (US), 30 comparable listings, interquartile range",
+        "url": "https://api.search.tinyfish.ai/?query=buy fabric bed online USA&location=US",
+        "retrieved_at": "2026-10-17T15:12:54+00:00"
+      },
+      "confidence": 0.95,
+      "material": "fabric",
+      "dimensions_method": null,
+      "appraisal_reason": null
+    },
+    {
+      "id": "item_003",
+      "category": "other",
+      "description": "blue plastic bucket (plastic)",
+      "brand_model": null,
+      "frame_ref": "frames/f_000114.jpg",
+      "dimensions_cm": {
+        "w": 31.0,
+        "h": 43.0,
+        "d": null
+      },
+      "status": "range",
+      "replacement_cost": {
+        "low": 3.97,
+        "high": 29.99,
+        "source": "retailer page fetched with TinyFish (US), 20 comparable listings, interquartile range",
+        "url": "https://api.search.tinyfish.ai/?query=buy bucket online USA&location=US",
+        "retrieved_at": "2026-10-17T15:13:02+00:00"
+      },
+      "confidence": 0.95,
+      "material": "plastic",
+      "dimensions_method": "reconstruction depth x anchor scale, 12 view(s); depth not measured",
+      "appraisal_reason": null
+    },
+    {
+      "id": "item_004",
+      "category": "other",
+      "description": "grey collapsible laundry basket (fabric)",
+      "brand_model": null,
+      "frame_ref": "frames/f_000114.jpg",
+      "dimensions_cm": {
+        "w": 42.0,
+        "h": 50.0,
+        "d": null
+      },
+      "status": "range",
+      "replacement_cost": {
+        "low": 10.36,
+        "high": 25.96,
+        "source": "retailer page fetched with TinyFish (US), 22 comparable listings, interquartile range",
+        "url": "https://api.search.tinyfish.ai/?query=buy laundry basket online USA&location=US",
+        "retrieved_at": "2026-10-17T15:13:07+00:00"
+      },
+      "confidence": 0.95,
+      "material": "fabric",
+      "dimensions_method": "reconstruction depth x anchor scale, 12 view(s); depth not measured",
+      "appraisal_reason": null
+    },
+    {
+      "id": "item_005",
+      "category": "furniture",
+      "description": "tufted headboard (fabric)",
+      "brand_model": null,
+      "frame_ref": "frames/f_000067.jpg",
+      "dimensions_cm": {
+        "w": null,
+        "h": null,
+        "d": null
+      },
+      "status": "range",
+      "replacement_cost": {
+        "low": 88.68,
+        "high": 125.99,
+        "source": "retailer page fetched with TinyFish (US), 19 comparable listings, interquartile range",
+        "url": "https://api.search.tinyfish.ai/?query=buy fabric headboard online USA&location=US",
+        "retrieved_at": "2026-10-17T15:13:06+00:00"
+      },
+      "confidence": 0.5,
+      "material": "fabric",
+      "dimensions_method": null,
+      "appraisal_reason": null
+    },
+    {
+      "id": "item_006",
+      "category": "furniture",
+      "description": "wooden bedside table (wood)",
+      "brand_model": null,
+      "frame_ref": "frames/f_000072.jpg",
+      "dimensions_cm": {
+        "w": 68.0,
+        "h": 110.0,
+        "d": null
+      },
+      "status": "range",
+      "replacement_cost": {
+        "low": 44.96,
+        "high": 103.99,
+        "source": "retailer page fetched with TinyFish (US), 29 comparable listings, interquartile range",
+        "url": "https://api.search.tinyfish.ai/?query=buy wood bedside table online USA&location=US",
+        "retrieved_at": "2026-10-17T15:21:07+00:00"
+      },
+      "confidence": 0.95,
+      "material": "wood",
+      "dimensions_method": "reconstruction depth x anchor scale, 1 view(s); depth not measured",
+      "appraisal_reason": null
+    },
+    {
+      "id": "item_007",
+      "category": "other",
+      "description": "backpack (fabric)",
+      "brand_model": null,
+      "frame_ref": "frames/f_000074.jpg",
+      "dimensions_cm": {
+        "w": 55.0,
+        "h": 57.0,
+        "d": null
+      },
+      "status": "range",
+      "replacement_cost": {
+        "low": 19.99,
+        "high": 99.99,
+        "source": "retailer page fetched with TinyFish (US), 8 comparable listings, interquartile range",
+        "url": "https://api.search.tinyfish.ai/?query=buy backpack online USA&location=US",
+        "retrieved_at": "2026-10-17T15:16:49+00:00"
+      },
+      "confidence": 0.95,
+      "material": "fabric",
+      "dimensions_method": "reconstruction depth x anchor scale, 4 view(s); depth not measured",
+      "appraisal_reason": null
+    },
+    {
+      "id": "item_008",
+      "category": "electronics",
+      "description": "open laptop (aluminium)",
+      "brand_model": null,
+      "frame_ref": "frames/f_000076.jpg",
+      "dimensions_cm": {
+        "w": 50.0,
+        "h": 43.0,
+        "d": null
+      },
+      "status": "range",
+      "replacement_cost": {
+        "low": null,
+        "high": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null
+      },
+      "confidence": 0.95,
+      "material": "aluminium",
+      "dimensions_method": "reconstruction depth x anchor scale, 3 view(s); depth not measured",
+      "appraisal_reason": null
+    },
+    {
+      "id": "item_009",
+      "category": "other",
+      "description": "stainless steel water bottle (metal)",
+      "brand_model": null,
+      "frame_ref": "frames/f_000074.jpg",
+      "dimensions_cm": {
+        "w": 11.0,
+        "h": 41.0,
+        "d": null
+      },
+      "status": "range",
+      "replacement_cost": {
+        "low": 13.49,
+        "high": 34.99,
+        "source": "retailer page fetched with TinyFish (US), 26 comparable listings, interquartile range",
+        "url": "https://api.search.tinyfish.ai/?query=buy water bottle online USA&location=US",
+        "retrieved_at": "2026-10-17T15:20:54+00:00"
+      },
+      "confidence": 0.8,
+      "material": "metal",
+      "dimensions_method": "reconstruction depth x anchor scale, 2 view(s); depth not measured",
+      "appraisal_reason": null
+    },
+    {
+      "id": "item_010",
+      "category": "shelving",
+      "description": "wooden bookshelf (wood)",
+      "brand_model": null,
+      "frame_ref": "frames/f_000090.jpg",
+      "dimensions_cm": {
+        "w": null,
+        "h": null,
+        "d": null
+      },
+      "status": "range",
+      "replacement_cost": {
+        "low": 90.7,
+        "high": 135.99,
+        "source": "retailer page fetched with TinyFish (US), 15 comparable listings, interquartile range",
+        "url": "https://api.search.tinyfish.ai/?query=buy wood bookshelf online USA&location=US",
+        "retrieved_at": "2026-10-17T15:13:31+00:00"
+      },
+      "confidence": 0.95,
+      "material": "wood",
+      "dimensions_method": null,
+      "appraisal_reason": null
+    },
+    {
+      "id": "item_011",
+      "category": "furniture",
+      "description": "wooden cabinet with open door (wood)",
+      "brand_model": null,
+      "frame_ref": "frames/f_000098.jpg",
+      "dimensions_cm": {
+        "w": null,
+        "h": null,
+        "d": null
+      },
+      "status": "range",
+      "replacement_cost": {
+        "low": 39.99,
+        "high": 53.19,
+        "source": "retailer page fetched with TinyFish (US), 29 comparable listings, interquartile range",
+        "url": "https://api.search.tinyfish.ai/?query=buy wood cabinet door online USA&location=US",
+        "retrieved_at": "2026-10-17T15:24:11+00:00"
+      },
+      "confidence": 0.7,
+      "material": "wood",
+      "dimensions_method": null,
+      "appraisal_reason": null
+    }
+  ],
+  "totals": {
+    "book_count": 9,
+    "books_identified": 5,
+    "books_unidentified": 4,
+    "shelf_run_m": 0.0,
+    "books_replacement_cost": 164.41,
+    "books_used_value": 26.33,
+    "items_replacement_cost_low": 421.13,
+    "items_replacement_cost_high": 1173.08,
+    "excluded_from_totals": 5
+  },
+  "review_queue": [
+    {
+      "ref_id": "book_001",
+      "reason": "identification confidence 0.66: title as printed on the spine; no catalogue record found"
+    },
+    {
+      "ref_id": "book_002",
+      "reason": "only a used price was found; no new copy is on sale"
+    },
+    {
+      "ref_id": "book_003",
+      "reason": "identification confidence 0.66: title as printed on the spine; no catalogue record found"
+    },
+    {
+      "ref_id": "book_004",
+      "reason": "spine not legible enough to identify"
+    },
+    {
+      "ref_id": "book_005",
+      "reason": "shelved backwards (page edges facing out): spine not visible"
+    },
+    {
+      "ref_id": "book_006",
+      "reason": "printed text '5TH EDITION | How to Prepare for DATA INTERPRETATION for CAT | Mc Graw Hill Education' matches no catalogue record"
+    },
+    {
+      "ref_id": "book_007",
+      "reason": "printed text '5TH EDITION | How to Prepare for DATA INTERPRETATION for CAT | Mc Graw Hill Education' matches no catalogue record"
+    },
+    {
+      "ref_id": "book_008",
+      "reason": "same title appears more than once: a second copy, or counted twice"
+    },
+    {
+      "ref_id": "book_010",
+      "reason": "same title appears more than once: a second copy, or counted twice"
+    },
+    {
+      "ref_id": "book_010",
+      "reason": "seen once, at the edge of a capture segment: may duplicate a neighbour"
+    },
+    {
+      "ref_id": "item_002",
+      "reason": "dimensions not measured"
+    },
+    {
+      "ref_id": "item_005",
+      "reason": "seen in 1 frame(s) only; detection confidence 0.5"
+    },
+    {
+      "ref_id": "item_005",
+      "reason": "dimensions not measured"
+    },
+    {
+      "ref_id": "item_008",
+      "reason": "no price: no listing found; excluded from totals"
+    },
+    {
+      "ref_id": "item_010",
+      "reason": "dimensions not measured"
+    },
+    {
+      "ref_id": "item_011",
+      "reason": "dimensions not measured"
+    },
+    {
+      "ref_id": "room",
+      "reason": "1 of 4 walls only weakly visible in the sweep"
+    },
+    {
+      "ref_id": "room",
+      "reason": "1 wall(s) not captured: that side is placed 0.3 m beyond the phone's furthest position, so the size on that axis is a lower bound"
+    },
+    {
+      "ref_id": "room",
+      "reason": "ceiling not captured: height is the highest point seen (a lower bound)"
+    },
+    {
+      "ref_id": "room",
+      "reason": "room shape may not be rectangular"
+    },
+    {
+      "ref_id": "room",
+      "reason": "6 reconstructions from staggered frame subsets: floor area 4.8-31.4 m2 (spread 130%)"
+    },
+    {
+      "ref_id": "room",
+      "reason": "room geometry unstable across reconstructions (spread 130% > 40%): room size not reported; median would have been 4.83 x 4.31 x 2.35 m"
+    }
+  ],
+  "excluded_by_policyholder": []
+}

@@ -1,0 +1,124 @@
+{
+ "stages": {
+  "detect": {
+   "seconds": 0.0019,
+   "calls": 0,
+   "in_tokens": 0,
+   "out_tokens": 0,
+   "usd": 0.0,
+   "http_calls": 0,
+   "cache_hits": 0
+  },
+  "track": {
+   "seconds": 4.1327,
+   "calls": 0,
+   "in_tokens": 0,
+   "out_tokens": 0,
+   "usd": 0.0,
+   "http_calls": 0,
+   "cache_hits": 0
+  },
+  "read": {
+   "seconds": 0.0018,
+   "calls": 0,
+   "in_tokens": 0,
+   "out_tokens": 0,
+   "usd": 0.0,
+   "http_calls": 0,
+   "cache_hits": 0
+  },
+  "identify": {
+   "seconds": 1.2357,
+   "calls": 0,
+   "in_tokens": 0,
+   "out_tokens": 0,
+   "usd": 0.0,
+   "http_calls": 0,
+   "cache_hits": 16
+  },
+  "price": {
+   "seconds": 29.3183,
+   "calls": 0,
+   "in_tokens": 0,
+   "out_tokens": 0,
+   "usd": 0.0,
+   "http_calls": 0,
+   "cache_hits": 50
+  },
+  "price_extract": {
+   "seconds": 0.0,
+   "calls": 55,
+   "in_tokens": 51310,
+   "out_tokens": 14401,
+   "usd": 0.0514,
+   "http_calls": 0,
+   "cache_hits": 0
+  },
+  "reconstruct": {
+   "seconds": 42.7224,
+   "calls": 0,
+   "in_tokens": 0,
+   "out_tokens": 0,
+   "usd": 0.0,
+   "http_calls": 0,
+   "cache_hits": 0
+  },
+  "measure": {
+   "seconds": 0.0391,
+   "calls": 0,
+   "in_tokens": 0,
+   "out_tokens": 0,
+   "usd": 0.0,
+   "http_calls": 0,
+   "cache_hits": 0
+  },
+  "items": {
+   "seconds": 25.0603,
+   "calls": 1,
+   "in_tokens": 27414,
+   "out_tokens": 524,
+   "usd": 0.0225,
+   "http_calls": 0,
+   "cache_hits": 0
+  },
+  "room": {
+   "seconds": 30.4159,
+   "calls": 0,
+   "in_tokens": 0,
+   "out_tokens": 0,
+   "usd": 0.0,
+   "http_calls": 0,
+   "cache_hits": 0
+  },
+  "assemble": {
+   "seconds": 0.0008,
+   "calls": 0,
+   "in_tokens": 0,
+   "out_tokens": 0,
+   "usd": 0.0,
+   "http_calls": 0,
+   "cache_hits": 0
+  }
+ },
+ "total_usd": 0.2341,
+ "live": {
+  "tokens": {
+   "text_in": 19469,
+   "audio_in": 14265,
+   "audio_out": 1699,
+   "image_in": 82368
+  },
+  "usd": 0.1602
+ },
+ "processing_s": 66.0,
+ "notes": [
+  "book_013 merged into book_001: same spine text 'THE #1 BESTSELLING AUTHOR ROBIN SHARMA |' in segments 11 and 9",
+  "book_014 merged into book_003: same spine text 'Word Power Made Easy | Norman Lewis' in segments 11 and 9",
+  "book_009 merged into book_008: same spine text 'VISIONS OF THE FUTURE' in segments 11 and 9",
+  "book_011 merged into book_006: same spine text 'Sharma | 5th EDITION | How to Prepare fo' in segments 11 and 9",
+  "book_012 merged into book_007: same spine text 'Sharma | 5th EDITION | How to Prepare fo' in segments 11 and 9"
+ ],
+ "price_source": "TinyFish search + page fetch",
+ "prices_dropped_unverified": 0,
+ "time_to_packet_s": 60.9
+}

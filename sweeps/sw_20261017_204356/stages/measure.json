@@ -1,0 +1,78 @@
+{
+ "scale_method": "3D reconstruction (DA3-BASE) scaled by 14 door anchors",
+ "k_cm_per_unit": 253.99933416584958,
+ "measurements": {
+  "book_001": {
+   "track_id": "book_001",
+   "height_cm": 33.5,
+   "thickness_cm": null,
+   "method": "reconstruction depth x global anchor scale (leave-one-out); flat book: thickness not measured (box includes the cover seen at an angle)",
+   "n_anchors": 11,
+   "confidence": 0.85
+  },
+  "book_002": {
+   "track_id": "book_002",
+   "height_cm": 31.2,
+   "thickness_cm": null,
+   "method": "reconstruction depth x global anchor scale (leave-one-out); flat book: thickness not measured (box includes the cover seen at an angle)",
+   "n_anchors": 11,
+   "confidence": 0.85
+  },
+  "book_003": {
+   "track_id": "book_003",
+   "height_cm": 24.8,
+   "thickness_cm": null,
+   "method": "reconstruction depth x global anchor scale (leave-one-out); flat book: thickness not measured (box includes the cover seen at an angle)",
+   "n_anchors": 11,
+   "confidence": 0.85
+  },
+  "book_004": {
+   "track_id": "book_004",
+   "height_cm": 18.6,
+   "thickness_cm": null,
+   "method": "reconstruction depth x global anchor scale (leave-one-out); flat book: thickness not measured (box includes the cover seen at an angle)",
+   "n_anchors": 11,
+   "confidence": 0.85
+  },
+  "book_005": {
+   "track_id": "book_005",
+   "height_cm": 35.2,
+   "thickness_cm": null,
+   "method": "reconstruction depth x global anchor scale (leave-one-out); flat book: thickness not measured (box includes the cover seen at an angle)",
+   "n_anchors": 11,
+   "confidence": 0.85
+  },
+  "book_006": {
+   "track_id": "book_006",
+   "height_cm": 37.3,
+   "thickness_cm": null,
+   "method": "reconstruction depth x global anchor scale (leave-one-out); flat book: thickness not measured (box includes the cover seen at an angle)",
+   "n_anchors": 11,
+   "confidence": 0.85
+  },
+  "book_007": {
+   "track_id": "book_007",
+   "height_cm": 37.0,
+   "thickness_cm": null,
+   "method": "reconstruction depth x global anchor scale (leave-one-out); flat book: thickness not measured (box includes the cover seen at an angle)",
+   "n_anchors": 11,
+   "confidence": 0.85
+  },
+  "book_008": {
+   "track_id": "book_008",
+   "height_cm": 39.1,
+   "thickness_cm": null,
+   "method": "reconstruction depth x global anchor scale (leave-one-out); flat book: thickness not measured (box includes the cover seen at an angle)",
+   "n_anchors": 11,
+   "confidence": 0.85
+  },
+  "book_010": {
+   "track_id": "book_010",
+   "height_cm": 23.9,
+   "thickness_cm": null,
+   "method": "reconstruction depth x global anchor scale (leave-one-out); flat book: thickness not measured (box includes the cover seen at an angle)",
+   "n_anchors": 11,
+   "confidence": 0.85
+  }
+ }
+}

@@ -1,0 +1,294 @@
+{
+ "book_001": [
+  {
+   "track_id": "book_001",
+   "det_id": "f_000081_b005",
+   "frame_ref": "frames/f_000081.jpg",
+   "printed_text": "VISIONS OF THE FUTURE",
+   "title": "VISIONS OF THE FUTURE",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_002": [
+  {
+   "track_id": "book_002",
+   "det_id": "f_000081_b004",
+   "frame_ref": "frames/f_000081.jpg",
+   "printed_text": "VISIONS OF THE FUTURE",
+   "title": "VISIONS OF THE FUTURE",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_003": [
+  {
+   "track_id": "book_003",
+   "det_id": "f_000081_b003",
+   "frame_ref": "frames/f_000081.jpg",
+   "printed_text": "Sharma | 5th EDITION | How to Prepare for DATA INTERPRETATION for the CAT | VISIONS OF THE FUTURE",
+   "title": "DATA INTERPRETATION for the CAT",
+   "author": "Sharma",
+   "publisher": "",
+   "volume": "5th EDITION",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_004": [
+  {
+   "track_id": "book_004",
+   "det_id": "f_000081_b002",
+   "frame_ref": "frames/f_000081.jpg",
+   "printed_text": "Sharma | 5th EDITION | How to Prepare for DATA INTERPRETATION | VISIONS OF THE FUTURE",
+   "title": "DATA INTERPRETATION",
+   "author": "Sharma",
+   "publisher": "",
+   "volume": "5th EDITION",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_005": [
+  {
+   "track_id": "book_005",
+   "det_id": "f_000081_b001",
+   "frame_ref": "frames/f_000081.jpg",
+   "printed_text": "THE #1 BESTSELLING AUTHOR ROBIN SHARMA | THE 5 AM CLUB",
+   "title": "THE 5 AM CLUB",
+   "author": "ROBIN SHARMA",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_006": [
+  {
+   "track_id": "book_006",
+   "det_id": "f_000081_b000",
+   "frame_ref": "frames/f_000081.jpg",
+   "printed_text": "Word Power Made Easy | Norman Lewis",
+   "title": "Word Power Made Easy",
+   "author": "Norman Lewis",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_007": [
+  {
+   "track_id": "book_007",
+   "det_id": "f_000083_b002",
+   "frame_ref": "frames/f_000083.jpg",
+   "printed_text": "ROBIN SHARMA | THE 5 AM CLUB | JAICO",
+   "title": "THE 5 AM CLUB",
+   "author": "ROBIN SHARMA",
+   "publisher": "JAICO",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_007",
+   "det_id": "f_000090_b003",
+   "frame_ref": "frames/f_000090.jpg",
+   "printed_text": "ROBIN SHARMA | THE 5 AM CLUB",
+   "title": "THE 5 AM CLUB",
+   "author": "ROBIN SHARMA",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_008": [
+  {
+   "track_id": "book_008",
+   "det_id": "f_000092_b001",
+   "frame_ref": "frames/f_000092.jpg",
+   "printed_text": "The Monk Who Sold His Ferrari | ROBIN SHARMA | A JAICO BOOK",
+   "title": "The Monk Who Sold His Ferrari",
+   "author": "ROBIN SHARMA",
+   "publisher": "JAICO BOOK",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_008",
+   "det_id": "f_000083_b001",
+   "frame_ref": "frames/f_000083.jpg",
+   "printed_text": "The Monk Who Sold His Ferrari | ROBIN SHARMA | A JAICO BOOK",
+   "title": "The Monk Who Sold His Ferrari",
+   "author": "ROBIN SHARMA",
+   "publisher": "JAICO BOOK",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_009": [
+  {
+   "track_id": "book_009",
+   "det_id": "f_000085_b000",
+   "frame_ref": "frames/f_000085.jpg",
+   "printed_text": "Word Power Made Easy | Norman Lewis | G GOYAL Saab",
+   "title": "Word Power Made Easy",
+   "author": "Norman Lewis",
+   "publisher": "GOYAL Saab",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_009",
+   "det_id": "f_000083_b000",
+   "frame_ref": "frames/f_000083.jpg",
+   "printed_text": "Word Power Made Easy | Norman Lewis | G GOYAL Saab",
+   "title": "Word Power Made Easy",
+   "author": "Norman Lewis",
+   "publisher": "GOYAL Saab",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_010": [
+  {
+   "track_id": "book_010",
+   "det_id": "f_000085_b001",
+   "frame_ref": "frames/f_000085.jpg",
+   "printed_text": "A.P.J. ABDUL KALAM",
+   "title": "",
+   "author": "A.P.J. ABDUL KALAM",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_012": [
+  {
+   "track_id": "book_012",
+   "det_id": "f_000085_b005",
+   "frame_ref": "frames/f_000085.jpg",
+   "printed_text": "5TH EDITION | How to Prepare for DATA INTERPRETATION for CAT | Mc Graw Hill Education",
+   "title": "How to Prepare for DATA INTERPRETATION for CAT",
+   "author": "",
+   "publisher": "Mc Graw Hill Education",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_012",
+   "det_id": "f_000090_b005",
+   "frame_ref": "frames/f_000090.jpg",
+   "printed_text": "5TH | How to Prepare for DATA INTERPRETATION for CAT",
+   "title": "How to Prepare for DATA INTERPRETATION for CAT",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_013": [
+  {
+   "track_id": "book_013",
+   "det_id": "f_000092_b004",
+   "frame_ref": "frames/f_000092.jpg",
+   "printed_text": "5TH EDITION | How to Prepare for DATA INTERPRETATION for CAT | Mc Graw Hill Education",
+   "title": "How to Prepare for DATA INTERPRETATION for CAT",
+   "author": "",
+   "publisher": "Mc Graw Hill Education",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_013",
+   "det_id": "f_000083_b004",
+   "frame_ref": "frames/f_000083.jpg",
+   "printed_text": "Sharma | 5TH EDITION | How to Prepare for DATA INTERPRETATION for CAT | Mc Graw Hill",
+   "title": "How to Prepare for DATA INTERPRETATION for CAT",
+   "author": "Sharma",
+   "publisher": "Mc Graw Hill",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_014": [
+  {
+   "track_id": "book_014",
+   "det_id": "f_000092_b005",
+   "frame_ref": "frames/f_000092.jpg",
+   "printed_text": "VISIONS OF THE FUTURE",
+   "title": "VISIONS OF THE FUTURE",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_014",
+   "det_id": "f_000085_b006",
+   "frame_ref": "frames/f_000085.jpg",
+   "printed_text": "VISIONS OF THE FUTURE",
+   "title": "VISIONS OF THE FUTURE",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ]
+}

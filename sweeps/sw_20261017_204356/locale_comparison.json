@@ -1,0 +1,52 @@
+{
+ "country_a": "US",
+ "currency_a": "USD",
+ "country_b": "IN",
+ "currency_b": "INR",
+ "books": [
+  {
+   "id": "book_001",
+   "title": "The 5 Am Club",
+   "a": 22.66,
+   "a_conv": true,
+   "b": 319.0,
+   "b_conv": false,
+   "b_source": "crossword.in (seller: Crossword) via retailer page fetched with TinyFish (2 matching offers, median)",
+   "b_url": "https://www.crossword.in/products/the-5-am-club-own-your-morning-elevate-your-life-paperback-19-december-2018-paperback-sharma-robin-1?srsltid=AU7gw4XnDtcBgEA4ZVW9JPEf7inN4hggKOh0XVx4ZI-A_neJ_lRO9nX0",
+   "b_retrieved_at": "2026-10-17T15:11:27+00:00"
+  },
+  {
+   "id": "book_003",
+   "title": "Word Power Made Easy",
+   "a": 32.41,
+   "a_conv": false,
+   "b": 200.0,
+   "b_conv": false,
+   "b_source": "amazon.in (seller: Amazon) via retailer page fetched with TinyFish (6 matching offers, median)",
+   "b_url": "https://www.amazon.in/Word-Power-Made-Norman-Lewis/dp/8183071007",
+   "b_retrieved_at": "2026-10-17T15:21:20+00:00"
+  },
+  {
+   "id": "book_008",
+   "title": "Visions of the Future",
+   "a": 54.67,
+   "a_conv": true,
+   "b": 1101.0,
+   "b_conv": false,
+   "b_source": "amazon.in (seller: Amazon) via retailer page fetched with TinyFish (1 matching offer, median)",
+   "b_url": "https://www.amazon.in/Visions-Future-Socialist-History-S/dp/1854891154",
+   "b_retrieved_at": "2026-10-17T15:11:26+00:00"
+  },
+  {
+   "id": "book_010",
+   "title": "Visions of the Future",
+   "a": 54.67,
+   "a_conv": true,
+   "b": 1101.0,
+   "b_conv": false,
+   "b_source": "amazon.in (seller: Amazon) via retailer page fetched with TinyFish (1 matching offer, median)",
+   "b_url": "https://www.amazon.in/Visions-Future-Socialist-History-S/dp/1854891154",
+   "b_retrieved_at": "2026-10-17T15:11:26+00:00"
+  }
+ ]
+}

@@ -1,0 +1,157 @@
+{
+ "book_001": {
+  "track_id": "book_001",
+  "status": "identified",
+  "title": "The 5 Am Club",
+  "author": "Robin Sharma",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.66,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "title as printed on the spine; no catalogue record found"
+  ],
+  "retrieved_at": "2026-10-17T15:11:09+00:00"
+ },
+ "book_002": {
+  "track_id": "book_002",
+  "status": "identified",
+  "title": "The Monk Who Sold His Ferrari",
+  "author": "Robin S. Sharma",
+  "edition": "JAICO PUBLISHING HOUSE  www.jaicobooks.com 2007",
+  "isbn": "9788179926932",
+  "publisher": "JAICO PUBLISHING HOUSE  www.jaicobooks.com",
+  "year": "2007",
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/books/OL24982482M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-17T15:11:09+00:00"
+ },
+ "book_003": {
+  "track_id": "book_003",
+  "status": "identified",
+  "title": "Word Power Made Easy",
+  "author": "Norman Lewis",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.66,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "title as printed on the spine; no catalogue record found"
+  ],
+  "retrieved_at": "2026-10-17T15:11:08+00:00"
+ },
+ "book_004": {
+  "track_id": "book_004",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not legible enough to identify"
+  ],
+  "retrieved_at": "2026-10-17T15:16:23+00:00"
+ },
+ "book_005": {
+  "track_id": "book_005",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_006": {
+  "track_id": "book_006",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text '5TH EDITION | How to Prepare for DATA INTERPRETATION for CAT | Mc Graw Hill Education' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T15:12:42+00:00"
+ },
+ "book_007": {
+  "track_id": "book_007",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text '5TH EDITION | How to Prepare for DATA INTERPRETATION for CAT | Mc Graw Hill Education' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T15:12:42+00:00"
+ },
+ "book_008": {
+  "track_id": "book_008",
+  "status": "identified",
+  "title": "Visions of the Future",
+  "author": "J. M. T. Thompson",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.89,
+  "catalogue_url": "https://openlibrary.org/works/OL5111250W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-17T15:11:11+00:00"
+ },
+ "book_010": {
+  "track_id": "book_010",
+  "status": "identified",
+  "title": "Visions of the Future",
+  "author": "J. M. T. Thompson",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.75,
+  "catalogue_url": "https://openlibrary.org/works/OL5111250W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-17T15:11:11+00:00"
+ }
+}

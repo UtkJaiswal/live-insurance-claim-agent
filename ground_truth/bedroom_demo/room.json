@@ -1,0 +1,11 @@
+{
+  "length_m": 3.37,
+  "width_m": 2.8,
+  "height_m": 2.85,
+  "floor_area_m2": 9.44,
+  "wall_area_m2": 35.17,
+  "shelved_wall_area_m2": null,
+  "door_height_cm": 205,
+  "wall_area_rule": "gross: perimeter x height, openings not subtracted",
+  "notes": "Tape-measured by the policyholder 2026-10-17. Book 5 AM Club height is the Jaico edition size (21.6 cm); thickness 2.3 cm hand-measured. A green notebook in the stack is not a book. Item list read from the sweep frames, unverified."
+}

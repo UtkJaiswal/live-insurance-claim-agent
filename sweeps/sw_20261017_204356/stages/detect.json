@@ -1,0 +1,3509 @@
+{
+ "17": [
+  {
+   "id": "f_000018_i000",
+   "frame_i": 17,
+   "ref": "frames/f_000018.jpg",
+   "kind": "item",
+   "box": [
+    775.4399999999999,
+    1935.3600000000001,
+    1576.8,
+    3271.68
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "green plastic chair",
+    "product_type": "chair",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000018_i001",
+   "frame_i": 17,
+   "ref": "frames/f_000018.jpg",
+   "kind": "item",
+   "box": [
+    1393.2,
+    2081.28,
+    2153.52,
+    3667.2
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "bed with patterned bedding",
+    "product_type": "bed",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000018_a000",
+   "frame_i": 17,
+   "ref": "frames/f_000018.jpg",
+   "kind": "anchor",
+   "box": [
+    866.1600000000001,
+    192.0,
+    1298.1599999999999,
+    2745.6
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "20": [
+  {
+   "id": "f_000021_i000",
+   "frame_i": 20,
+   "ref": "frames/f_000021.jpg",
+   "kind": "item",
+   "box": [
+    766.8,
+    1985.28,
+    1576.8,
+    3306.24
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "green plastic chair",
+    "product_type": "chair",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000021_i001",
+   "frame_i": 20,
+   "ref": "frames/f_000021.jpg",
+   "kind": "item",
+   "box": [
+    1393.2,
+    2142.7200000000003,
+    2160.0,
+    3697.92
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "bed with patterned sheet",
+    "product_type": "bed",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000021_i002",
+   "frame_i": 20,
+   "ref": "frames/f_000021.jpg",
+   "kind": "item",
+   "box": [
+    1535.76,
+    2334.72,
+    1782.0,
+    2711.04
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "blue plastic bucket",
+    "product_type": "bucket",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000021_i003",
+   "frame_i": 20,
+   "ref": "frames/f_000021.jpg",
+   "kind": "item",
+   "box": [
+    1352.16,
+    2154.2400000000002,
+    1695.6000000000001,
+    2496.0
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "grey laundry bag",
+    "product_type": "laundry bag",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000021_a000",
+   "frame_i": 20,
+   "ref": "frames/f_000021.jpg",
+   "kind": "anchor",
+   "box": [
+    866.1600000000001,
+    288.0,
+    1313.28,
+    2726.3999999999996
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "22": [
+  {
+   "id": "f_000023_i000",
+   "frame_i": 22,
+   "ref": "frames/f_000023.jpg",
+   "kind": "item",
+   "box": [
+    743.04,
+    1935.3600000000001,
+    1566.0,
+    3287.04
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "green plastic chair with black legs",
+    "product_type": "chair",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000023_i001",
+   "frame_i": 22,
+   "ref": "frames/f_000023.jpg",
+   "kind": "item",
+   "box": [
+    1404.0,
+    2081.28,
+    2160.0,
+    3686.3999999999996
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "bed with patterned sheet",
+    "product_type": "bed",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000023_i002",
+   "frame_i": 22,
+   "ref": "frames/f_000023.jpg",
+   "kind": "item",
+   "box": [
+    1503.36,
+    2273.2799999999997,
+    1775.52,
+    2634.2400000000002
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "blue plastic bucket",
+    "product_type": "bucket",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000023_i003",
+   "frame_i": 22,
+   "ref": "frames/f_000023.jpg",
+   "kind": "item",
+   "box": [
+    1343.52,
+    2092.8,
+    1674.0,
+    2449.92
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "mesh laundry hamper",
+    "product_type": "laundry hamper",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000023_a000",
+   "frame_i": 22,
+   "ref": "frames/f_000023.jpg",
+   "kind": "anchor",
+   "box": [
+    838.08,
+    126.72,
+    1278.72,
+    2580.48
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "25": [
+  {
+   "id": "f_000026_i000",
+   "frame_i": 25,
+   "ref": "frames/f_000026.jpg",
+   "kind": "item",
+   "box": [
+    648.0,
+    1935.3600000000001,
+    1412.64,
+    3279.36
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "green plastic chair",
+    "product_type": "chair",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000026_i001",
+   "frame_i": 25,
+   "ref": "frames/f_000026.jpg",
+   "kind": "item",
+   "box": [
+    1276.56,
+    2065.92,
+    2160.0,
+    3651.8399999999997
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "bed with mattress and patterned bedsheet",
+    "product_type": "single bed",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000026_i002",
+   "frame_i": 25,
+   "ref": "frames/f_000026.jpg",
+   "kind": "item",
+   "box": [
+    1205.2800000000002,
+    2092.8,
+    1544.3999999999999,
+    2492.16
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "laundry basket",
+    "product_type": "laundry basket",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000026_i003",
+   "frame_i": 25,
+   "ref": "frames/f_000026.jpg",
+   "kind": "item",
+   "box": [
+    1378.08,
+    2265.6,
+    1630.8,
+    2622.7200000000003
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "blue plastic bucket",
+    "product_type": "bucket",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000026_a000",
+   "frame_i": 25,
+   "ref": "frames/f_000026.jpg",
+   "kind": "anchor",
+   "box": [
+    706.32,
+    188.16,
+    1084.32,
+    2664.96
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "28": [
+  {
+   "id": "f_000029_i000",
+   "frame_i": 28,
+   "ref": "frames/f_000029.jpg",
+   "kind": "item",
+   "box": [
+    654.48,
+    2019.8400000000001,
+    1438.5600000000002,
+    3356.16
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "green plastic chair",
+    "product_type": "chair",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000029_i001",
+   "frame_i": 28,
+   "ref": "frames/f_000029.jpg",
+   "kind": "item",
+   "box": [
+    1313.28,
+    2142.7200000000003,
+    2160.0,
+    3740.16
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "bed with patterned bedsheet",
+    "product_type": "single bed",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000029_i002",
+   "frame_i": 28,
+   "ref": "frames/f_000029.jpg",
+   "kind": "item",
+   "box": [
+    1395.3600000000001,
+    2346.24,
+    1648.08,
+    2711.04
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "blue plastic bucket",
+    "product_type": "bucket",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000029_i003",
+   "frame_i": 28,
+   "ref": "frames/f_000029.jpg",
+   "kind": "item",
+   "box": [
+    1216.08,
+    2177.2799999999997,
+    1550.8799999999999,
+    2496.0
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "laundry bag or bin",
+    "product_type": "laundry basket",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000029_a000",
+   "frame_i": 28,
+   "ref": "frames/f_000029.jpg",
+   "kind": "anchor",
+   "box": [
+    745.1999999999999,
+    307.2,
+    1129.68,
+    2634.2400000000002
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "30": [
+  {
+   "id": "f_000031_i000",
+   "frame_i": 30,
+   "ref": "frames/f_000031.jpg",
+   "kind": "item",
+   "box": [
+    626.4,
+    1989.1200000000001,
+    1412.64,
+    3333.12
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "green plastic chair",
+    "product_type": "chair",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000031_i001",
+   "frame_i": 30,
+   "ref": "frames/f_000031.jpg",
+   "kind": "item",
+   "box": [
+    1289.52,
+    2119.6800000000003,
+    2160.0,
+    3709.44
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "single bed",
+    "product_type": "single bed",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000031_i002",
+   "frame_i": 30,
+   "ref": "frames/f_000031.jpg",
+   "kind": "item",
+   "box": [
+    1362.96,
+    2319.36,
+    1613.52,
+    2688.0
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "blue plastic bucket",
+    "product_type": "bucket",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000031_i003",
+   "frame_i": 30,
+   "ref": "frames/f_000031.jpg",
+   "kind": "item",
+   "box": [
+    1192.3200000000002,
+    2154.2400000000002,
+    1522.8,
+    2480.64
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "waste bin bag",
+    "product_type": "waste basket",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000031_a000",
+   "frame_i": 30,
+   "ref": "frames/f_000031.jpg",
+   "kind": "anchor",
+   "box": [
+    710.64,
+    288.0,
+    1073.52,
+    2611.2000000000003
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "33": [
+  {
+   "id": "f_000034_i000",
+   "frame_i": 33,
+   "ref": "frames/f_000034.jpg",
+   "kind": "item",
+   "box": [
+    581.0400000000001,
+    1973.76,
+    1378.08,
+    3306.24
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "green plastic chair with black wooden legs",
+    "product_type": "chair",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000034_i001",
+   "frame_i": 33,
+   "ref": "frames/f_000034.jpg",
+   "kind": "item",
+   "box": [
+    1261.4399999999998,
+    2112.0,
+    2160.0,
+    3697.92
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "bed with patterned bedsheet and mattress",
+    "product_type": "bed",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000034_a000",
+   "frame_i": 33,
+   "ref": "frames/f_000034.jpg",
+   "kind": "anchor",
+   "box": [
+    658.8,
+    211.2,
+    1034.6399999999999,
+    2745.6
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "35": [
+  {
+   "id": "f_000036_i000",
+   "frame_i": 35,
+   "ref": "frames/f_000036.jpg",
+   "kind": "item",
+   "box": [
+    723.6,
+    1889.28,
+    1609.2,
+    3429.12
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "green plastic chair",
+    "product_type": "chair",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000036_i001",
+   "frame_i": 35,
+   "ref": "frames/f_000036.jpg",
+   "kind": "item",
+   "box": [
+    1566.0,
+    2254.08,
+    1859.76,
+    2661.12
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "blue plastic bucket",
+    "product_type": "bucket",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000036_i002",
+   "frame_i": 35,
+   "ref": "frames/f_000036.jpg",
+   "kind": "item",
+   "box": [
+    1421.28,
+    2035.2,
+    2157.84,
+    3744.0
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "bed with patterned sheet",
+    "product_type": "bed",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000036_a000",
+   "frame_i": 35,
+   "ref": "frames/f_000036.jpg",
+   "kind": "anchor",
+   "box": [
+    810.0,
+    0.0,
+    1261.4399999999998,
+    2522.88
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "38": [
+  {
+   "id": "f_000039_i000",
+   "frame_i": 38,
+   "ref": "frames/f_000039.jpg",
+   "kind": "item",
+   "box": [
+    403.92,
+    1182.72,
+    1827.36,
+    3793.92
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "green plastic chair",
+    "product_type": "chair",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000039_i001",
+   "frame_i": 38,
+   "ref": "frames/f_000039.jpg",
+   "kind": "item",
+   "box": [
+    1566.0,
+    1574.3999999999999,
+    2093.04,
+    2204.16
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "blue plastic bucket",
+    "product_type": "bucket",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000039_a000",
+   "frame_i": 38,
+   "ref": "frames/f_000039.jpg",
+   "kind": "anchor",
+   "box": [
+    0.0,
+    0.0,
+    930.96,
+    2407.68
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "40": [
+  {
+   "id": "f_000041_i000",
+   "frame_i": 40,
+   "ref": "frames/f_000041.jpg",
+   "kind": "item",
+   "box": [
+    295.92,
+    1205.76,
+    1710.72,
+    3836.16
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "green plastic chair",
+    "product_type": "chair",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000041_i001",
+   "frame_i": 40,
+   "ref": "frames/f_000041.jpg",
+   "kind": "item",
+   "box": [
+    1848.96,
+    1136.6399999999999,
+    2160.0,
+    3813.12
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "bed with patterned bedding",
+    "product_type": "bed",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000041_i002",
+   "frame_i": 40,
+   "ref": "frames/f_000041.jpg",
+   "kind": "item",
+   "box": [
+    1354.32,
+    1566.7199999999998,
+    1881.36,
+    2177.2799999999997
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "blue plastic bucket",
+    "product_type": "bucket",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000041_a000",
+   "frame_i": 40,
+   "ref": "frames/f_000041.jpg",
+   "kind": "anchor",
+   "box": [
+    0.0,
+    0.0,
+    671.76,
+    2580.48
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "44": [
+  {
+   "id": "f_000045_i000",
+   "frame_i": 44,
+   "ref": "frames/f_000045.jpg",
+   "kind": "item",
+   "box": [
+    1717.2,
+    2991.36,
+    2160.0,
+    3828.48
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "laundry basket",
+    "product_type": "laundry basket",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000045_a000",
+   "frame_i": 44,
+   "ref": "frames/f_000045.jpg",
+   "kind": "anchor",
+   "box": [
+    0.0,
+    0.0,
+    1328.4,
+    3797.7599999999998
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "46": [
+  {
+   "id": "f_000047_a000",
+   "frame_i": 46,
+   "ref": "frames/f_000047.jpg",
+   "kind": "anchor",
+   "box": [
+    0.0,
+    0.0,
+    1544.3999999999999,
+    3840.0
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "48": [
+  {
+   "id": "f_000049_a000",
+   "frame_i": 48,
+   "ref": "frames/f_000049.jpg",
+   "kind": "anchor",
+   "box": [
+    0.0,
+    410.88,
+    2160.0,
+    3840.0
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "54": [
+  {
+   "id": "f_000055_a000",
+   "frame_i": 54,
+   "ref": "frames/f_000055.jpg",
+   "kind": "anchor",
+   "box": [
+    0.0,
+    0.0,
+    1697.76,
+    3840.0
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "51": [
+  {
+   "id": "f_000052_a000",
+   "frame_i": 51,
+   "ref": "frames/f_000052.jpg",
+   "kind": "anchor",
+   "box": [
+    0.0,
+    0.0,
+    2160.0,
+    3840.0
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "59": [
+  {
+   "id": "f_000060_i000",
+   "frame_i": 59,
+   "ref": "frames/f_000060.jpg",
+   "kind": "item",
+   "box": [
+    641.52,
+    2661.12,
+    1892.16,
+    3836.16
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "green plastic chair",
+    "product_type": "chair",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000060_i001",
+   "frame_i": 59,
+   "ref": "frames/f_000060.jpg",
+   "kind": "item",
+   "box": [
+    1715.0400000000002,
+    3041.28,
+    2160.0,
+    3709.44
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "blue plastic bucket",
+    "product_type": "bucket",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000060_i002",
+   "frame_i": 59,
+   "ref": "frames/f_000060.jpg",
+   "kind": "item",
+   "box": [
+    1432.0800000000002,
+    2722.56,
+    1961.28,
+    3429.12
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "trash can with liner",
+    "product_type": "waste bin",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000060_a000",
+   "frame_i": 59,
+   "ref": "frames/f_000060.jpg",
+   "kind": "anchor",
+   "box": [
+    689.04,
+    0.0,
+    1378.08,
+    3682.56
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "57": [
+  {
+   "id": "f_000058_i000",
+   "frame_i": 57,
+   "ref": "frames/f_000058.jpg",
+   "kind": "item",
+   "box": [
+    717.12,
+    2810.88,
+    2021.7600000000002,
+    3840.0
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "green plastic chair",
+    "product_type": "chair",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000058_i001",
+   "frame_i": 57,
+   "ref": "frames/f_000058.jpg",
+   "kind": "item",
+   "box": [
+    1630.8,
+    2784.0,
+    2151.36,
+    3651.8399999999997
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "laundry hamper",
+    "product_type": "laundry basket",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000058_a000",
+   "frame_i": 57,
+   "ref": "frames/f_000058.jpg",
+   "kind": "anchor",
+   "box": [
+    399.6,
+    0.0,
+    1488.2399999999998,
+    3801.6
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "62": [
+  {
+   "id": "f_000063_i000",
+   "frame_i": 62,
+   "ref": "frames/f_000063.jpg",
+   "kind": "item",
+   "box": [
+    1596.24,
+    3298.56,
+    2157.84,
+    3836.16
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "patterned mattress or cushion",
+    "product_type": "mattress",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000063_i001",
+   "frame_i": 62,
+   "ref": "frames/f_000063.jpg",
+   "kind": "item",
+   "box": [
+    745.1999999999999,
+    3417.6,
+    1285.2,
+    3767.04
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "pop-up laundry basket",
+    "product_type": "laundry basket",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000063_i002",
+   "frame_i": 62,
+   "ref": "frames/f_000063.jpg",
+   "kind": "item",
+   "box": [
+    408.24,
+    3663.3599999999997,
+    1332.72,
+    3836.16
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "green plastic tub",
+    "product_type": "tub",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000063_a000",
+   "frame_i": 62,
+   "ref": "frames/f_000063.jpg",
+   "kind": "anchor",
+   "box": [
+    0.0,
+    253.44,
+    371.52,
+    3824.64
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "64": [
+  {
+   "id": "f_000065_i000",
+   "frame_i": 64,
+   "ref": "frames/f_000065.jpg",
+   "kind": "item",
+   "box": [
+    926.64,
+    1854.72,
+    2160.0,
+    3840.0
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "bed with patterned mattress cover",
+    "product_type": "bed",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000065_i001",
+   "frame_i": 64,
+   "ref": "frames/f_000065.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    2611.2000000000003,
+    948.24,
+    3840.0
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "green plastic chair",
+    "product_type": "chair",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000065_i002",
+   "frame_i": 64,
+   "ref": "frames/f_000065.jpg",
+   "kind": "item",
+   "box": [
+    479.52,
+    2515.2000000000003,
+    1008.72,
+    3264.0
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "blue plastic bucket",
+    "product_type": "bucket",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000065_i003",
+   "frame_i": 64,
+   "ref": "frames/f_000065.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    2254.08,
+    596.1600000000001,
+    3221.7599999999998
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "collapsible laundry hamper",
+    "product_type": "laundry hamper",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "66": [
+  {
+   "id": "f_000067_i000",
+   "frame_i": 66,
+   "ref": "frames/f_000067.jpg",
+   "kind": "item",
+   "box": [
+    1378.08,
+    986.88,
+    2160.0,
+    1601.28
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "tufted headboard",
+    "product_type": "headboard",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000067_i001",
+   "frame_i": 66,
+   "ref": "frames/f_000067.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    1025.28,
+    2160.0,
+    3840.0
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "bed with patterned bedding",
+    "product_type": "bed",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "68": [
+  {
+   "id": "f_000069_i000",
+   "frame_i": 68,
+   "ref": "frames/f_000069.jpg",
+   "kind": "item",
+   "box": [
+    414.72,
+    695.04,
+    2157.84,
+    1470.72
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "bed with upholstered headboard",
+    "product_type": "double bed",
+    "material": "fabric and wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000069_i001",
+   "frame_i": 68,
+   "ref": "frames/f_000069.jpg",
+   "kind": "item",
+   "box": [
+    1697.76,
+    1459.2,
+    2157.84,
+    3513.6000000000004
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "wooden bedside table",
+    "product_type": "bedside table",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000069_i002",
+   "frame_i": 68,
+   "ref": "frames/f_000069.jpg",
+   "kind": "item",
+   "box": [
+    1408.3200000000002,
+    948.48,
+    2062.7999999999997,
+    1593.6
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "backpack",
+    "product_type": "backpack",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000069_i003",
+   "frame_i": 68,
+   "ref": "frames/f_000069.jpg",
+   "kind": "item",
+   "box": [
+    1980.72,
+    1470.72,
+    2157.84,
+    1674.24
+   ],
+   "attrs": {
+    "category": "electronics",
+    "label": "laptop edge",
+    "product_type": "laptop",
+    "material": "metal",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "71": [
+  {
+   "id": "f_000072_i000",
+   "frame_i": 71,
+   "ref": "frames/f_000072.jpg",
+   "kind": "item",
+   "box": [
+    511.91999999999996,
+    1332.48,
+    1496.8799999999999,
+    2926.08
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "wooden bedside table",
+    "product_type": "bedside table",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000072_i001",
+   "frame_i": 71,
+   "ref": "frames/f_000072.jpg",
+   "kind": "item",
+   "box": [
+    933.12,
+    1048.3200000000002,
+    1097.28,
+    1704.96
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "stainless steel water bottle",
+    "product_type": "water bottle",
+    "material": "metal",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000072_i002",
+   "frame_i": 71,
+   "ref": "frames/f_000072.jpg",
+   "kind": "item",
+   "box": [
+    814.32,
+    1052.16,
+    1414.8,
+    1574.3999999999999
+   ],
+   "attrs": {
+    "category": "electronics",
+    "label": "laptop",
+    "product_type": "laptop",
+    "material": "metal",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000072_i003",
+   "frame_i": 71,
+   "ref": "frames/f_000072.jpg",
+   "kind": "item",
+   "box": [
+    596.1600000000001,
+    940.8,
+    1030.32,
+    1463.04
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "backpack",
+    "product_type": "backpack",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000072_i004",
+   "frame_i": 71,
+   "ref": "frames/f_000072.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    768.0,
+    1073.52,
+    2899.2
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "bed with headboard and mattress",
+    "product_type": "double bed",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "75": [
+  {
+   "id": "f_000076_i000",
+   "frame_i": 75,
+   "ref": "frames/f_000076.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    986.88,
+    2160.0,
+    3840.0
+   ],
+   "attrs": {
+    "category": "electronics",
+    "label": "open laptop",
+    "product_type": "laptop",
+    "material": "aluminium",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000076_i001",
+   "frame_i": 75,
+   "ref": "frames/f_000076.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    2142.7200000000003,
+    2160.0,
+    3836.16
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "wooden desk",
+    "product_type": "study table",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "73": [
+  {
+   "id": "f_000074_i000",
+   "frame_i": 73,
+   "ref": "frames/f_000074.jpg",
+   "kind": "item",
+   "box": [
+    665.28,
+    1470.72,
+    1524.9599999999998,
+    2234.8799999999997
+   ],
+   "attrs": {
+    "category": "electronics",
+    "label": "laptop",
+    "product_type": "laptop",
+    "material": "metal",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000074_i001",
+   "frame_i": 73,
+   "ref": "frames/f_000074.jpg",
+   "kind": "item",
+   "box": [
+    423.36,
+    1866.24,
+    1663.2,
+    3840.0
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "wooden bedside table",
+    "product_type": "bedside table",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000074_i002",
+   "frame_i": 73,
+   "ref": "frames/f_000074.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    1221.1200000000001,
+    1041.12,
+    3840.0
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "bed with headboard and mattress",
+    "product_type": "bed",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000074_i003",
+   "frame_i": 73,
+   "ref": "frames/f_000074.jpg",
+   "kind": "item",
+   "box": [
+    282.96000000000004,
+    1332.48,
+    948.24,
+    1985.28
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "backpack",
+    "product_type": "backpack",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000074_i004",
+   "frame_i": 73,
+   "ref": "frames/f_000074.jpg",
+   "kind": "item",
+   "box": [
+    974.1600000000001,
+    1589.76,
+    1216.08,
+    2449.92
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "stainless steel water bottle",
+    "product_type": "water bottle",
+    "material": "metal",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "77": [
+  {
+   "id": "f_000078_i000",
+   "frame_i": 77,
+   "ref": "frames/f_000078.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    1639.68,
+    2151.36,
+    3840.0
+   ],
+   "attrs": {
+    "category": "electronics",
+    "label": "laptop",
+    "product_type": "laptop",
+    "material": "metal, plastic, glass",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000078_a000",
+   "frame_i": 77,
+   "ref": "frames/f_000078.jpg",
+   "kind": "anchor",
+   "box": [
+    1261.4399999999998,
+    0.0,
+    2160.0,
+    2131.2000000000003
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "80": [
+  {
+   "id": "f_000081_b000",
+   "frame_i": 80,
+   "ref": "frames/f_000081.jpg",
+   "kind": "book",
+   "box": [
+    1632.96,
+    1616.6399999999999,
+    2147.04,
+    2334.72
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000081_b001",
+   "frame_i": 80,
+   "ref": "frames/f_000081.jpg",
+   "kind": "book",
+   "box": [
+    1425.6000000000001,
+    1728.0,
+    1820.8799999999999,
+    2369.2799999999997
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000081_b002",
+   "frame_i": 80,
+   "ref": "frames/f_000081.jpg",
+   "kind": "book",
+   "box": [
+    1226.8799999999999,
+    1797.1200000000001,
+    1896.48,
+    2496.0
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000081_b003",
+   "frame_i": 80,
+   "ref": "frames/f_000081.jpg",
+   "kind": "book",
+   "box": [
+    1216.08,
+    1916.16,
+    1881.36,
+    2588.1600000000003
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000081_b004",
+   "frame_i": 80,
+   "ref": "frames/f_000081.jpg",
+   "kind": "book",
+   "box": [
+    1192.3200000000002,
+    1981.44,
+    1842.48,
+    2868.48
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000081_b005",
+   "frame_i": 80,
+   "ref": "frames/f_000081.jpg",
+   "kind": "book",
+   "box": [
+    1170.72,
+    2065.92,
+    1794.9599999999998,
+    2899.2
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000081_i000",
+   "frame_i": 80,
+   "ref": "frames/f_000081.jpg",
+   "kind": "item",
+   "box": [
+    596.1600000000001,
+    0.0,
+    2160.0,
+    3793.92
+   ],
+   "attrs": {
+    "category": "shelving",
+    "label": "wooden shelf unit",
+    "product_type": "shelving unit",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000081_i001",
+   "frame_i": 80,
+   "ref": "frames/f_000081.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    0.0,
+    879.1199999999999,
+    2661.12
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "wooden cabinet door",
+    "product_type": "cabinet door",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "82": [
+  {
+   "id": "f_000083_b000",
+   "frame_i": 82,
+   "ref": "frames/f_000083.jpg",
+   "kind": "book",
+   "box": [
+    965.52,
+    1102.08,
+    2147.04,
+    1877.76
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000083_b001",
+   "frame_i": 82,
+   "ref": "frames/f_000083.jpg",
+   "kind": "book",
+   "box": [
+    658.8,
+    1547.52,
+    2147.04,
+    2077.44
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000083_b002",
+   "frame_i": 82,
+   "ref": "frames/f_000083.jpg",
+   "kind": "book",
+   "box": [
+    457.91999999999996,
+    1701.1200000000001,
+    2121.12,
+    2365.44
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000083_b003",
+   "frame_i": 82,
+   "ref": "frames/f_000083.jpg",
+   "kind": "book",
+   "box": [
+    473.04,
+    1946.88,
+    2153.52,
+    2764.7999999999997
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000083_b004",
+   "frame_i": 82,
+   "ref": "frames/f_000083.jpg",
+   "kind": "book",
+   "box": [
+    438.48,
+    2123.52,
+    2153.52,
+    3125.7599999999998
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000083_b005",
+   "frame_i": 82,
+   "ref": "frames/f_000083.jpg",
+   "kind": "book",
+   "box": [
+    399.6,
+    2311.68,
+    2147.04,
+    3264.0
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000083_i000",
+   "frame_i": 82,
+   "ref": "frames/f_000083.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    0.0,
+    2153.52,
+    3774.72
+   ],
+   "attrs": {
+    "category": "shelving",
+    "label": "wooden bookcase shelf",
+    "product_type": "shelving",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "84": [
+  {
+   "id": "f_000085_b000",
+   "frame_i": 84,
+   "ref": "frames/f_000085.jpg",
+   "kind": "book",
+   "box": [
+    403.92,
+    698.88,
+    2043.36,
+    1324.8
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000085_b001",
+   "frame_i": 84,
+   "ref": "frames/f_000085.jpg",
+   "kind": "book",
+   "box": [
+    995.76,
+    1213.44,
+    2157.84,
+    1589.76
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000085_b002",
+   "frame_i": 84,
+   "ref": "frames/f_000085.jpg",
+   "kind": "book",
+   "box": [
+    73.44000000000001,
+    1209.6,
+    1736.64,
+    1655.04
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000085_b003",
+   "frame_i": 84,
+   "ref": "frames/f_000085.jpg",
+   "kind": "book",
+   "box": [
+    0.0,
+    1370.8799999999999,
+    1719.3600000000001,
+    1877.76
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000085_b004",
+   "frame_i": 84,
+   "ref": "frames/f_000085.jpg",
+   "kind": "book",
+   "box": [
+    0.0,
+    1593.6,
+    2112.48,
+    2257.92
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000085_b005",
+   "frame_i": 84,
+   "ref": "frames/f_000085.jpg",
+   "kind": "book",
+   "box": [
+    0.0,
+    1808.6399999999999,
+    2160.0,
+    2661.12
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000085_b006",
+   "frame_i": 84,
+   "ref": "frames/f_000085.jpg",
+   "kind": "book",
+   "box": [
+    0.0,
+    2108.1600000000003,
+    2153.52,
+    2899.2
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000085_i000",
+   "frame_i": 84,
+   "ref": "frames/f_000085.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    0.0,
+    2153.52,
+    3797.7599999999998
+   ],
+   "attrs": {
+    "category": "shelving",
+    "label": "wooden bookshelf",
+    "product_type": "bookshelf",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "87": [
+  {
+   "id": "f_000088_b000",
+   "frame_i": 87,
+   "ref": "frames/f_000088.jpg",
+   "kind": "book",
+   "box": [
+    233.28,
+    840.96,
+    1736.64,
+    1390.08
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000088_b001",
+   "frame_i": 87,
+   "ref": "frames/f_000088.jpg",
+   "kind": "book",
+   "box": [
+    743.04,
+    1317.1200000000001,
+    1870.56,
+    1666.56
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000088_b002",
+   "frame_i": 87,
+   "ref": "frames/f_000088.jpg",
+   "kind": "book",
+   "box": [
+    0.0,
+    1290.24,
+    1313.28,
+    1697.28
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000088_b003",
+   "frame_i": 87,
+   "ref": "frames/f_000088.jpg",
+   "kind": "book",
+   "box": [
+    0.0,
+    1405.44,
+    1451.52,
+    1931.52
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000088_b004",
+   "frame_i": 87,
+   "ref": "frames/f_000088.jpg",
+   "kind": "book",
+   "box": [
+    0.0,
+    1616.6399999999999,
+    1805.76,
+    2261.7599999999998
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000088_b005",
+   "frame_i": 87,
+   "ref": "frames/f_000088.jpg",
+   "kind": "book",
+   "box": [
+    0.0,
+    1916.16,
+    1797.12,
+    2661.12
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000088_b006",
+   "frame_i": 87,
+   "ref": "frames/f_000088.jpg",
+   "kind": "book",
+   "box": [
+    0.0,
+    2181.12,
+    1784.1599999999999,
+    2860.8
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000088_i000",
+   "frame_i": 87,
+   "ref": "frames/f_000088.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    0.0,
+    2155.68,
+    3840.0
+   ],
+   "attrs": {
+    "category": "shelving",
+    "label": "wooden bookshelf",
+    "product_type": "bookshelf",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "89": [
+  {
+   "id": "f_000090_b000",
+   "frame_i": 89,
+   "ref": "frames/f_000090.jpg",
+   "kind": "book",
+   "box": [
+    794.88,
+    1336.32,
+    2160.0,
+    1923.84
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000090_b001",
+   "frame_i": 89,
+   "ref": "frames/f_000090.jpg",
+   "kind": "book",
+   "box": [
+    1362.96,
+    1854.72,
+    2160.0,
+    2108.1600000000003
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000090_b002",
+   "frame_i": 89,
+   "ref": "frames/f_000090.jpg",
+   "kind": "book",
+   "box": [
+    457.91999999999996,
+    1800.9599999999998,
+    2006.64,
+    2223.3599999999997
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000090_b003",
+   "frame_i": 89,
+   "ref": "frames/f_000090.jpg",
+   "kind": "book",
+   "box": [
+    254.88,
+    1935.3600000000001,
+    2086.56,
+    2453.76
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000090_b004",
+   "frame_i": 89,
+   "ref": "frames/f_000090.jpg",
+   "kind": "book",
+   "box": [
+    272.16,
+    2173.4399999999996,
+    2160.0,
+    2849.2799999999997
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000090_b005",
+   "frame_i": 89,
+   "ref": "frames/f_000090.jpg",
+   "kind": "book",
+   "box": [
+    220.32,
+    2403.84,
+    2160.0,
+    3256.3199999999997
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000090_b006",
+   "frame_i": 89,
+   "ref": "frames/f_000090.jpg",
+   "kind": "book",
+   "box": [
+    192.23999999999998,
+    2611.2000000000003,
+    2160.0,
+    3406.08
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000090_i000",
+   "frame_i": 89,
+   "ref": "frames/f_000090.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    0.0,
+    2160.0,
+    3840.0
+   ],
+   "attrs": {
+    "category": "shelving",
+    "label": "wooden bookshelf",
+    "product_type": "bookshelf",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "93": [],
+ "91": [
+  {
+   "id": "f_000092_b000",
+   "frame_i": 91,
+   "ref": "frames/f_000092.jpg",
+   "kind": "book",
+   "box": [
+    419.04,
+    1585.9199999999998,
+    1842.48,
+    2204.16
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000092_b001",
+   "frame_i": 91,
+   "ref": "frames/f_000092.jpg",
+   "kind": "book",
+   "box": [
+    88.56,
+    1977.6000000000001,
+    2054.16,
+    2446.08
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000092_b002",
+   "frame_i": 91,
+   "ref": "frames/f_000092.jpg",
+   "kind": "book",
+   "box": [
+    0.0,
+    2135.04,
+    1566.0,
+    2691.8399999999997
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000092_b003",
+   "frame_i": 91,
+   "ref": "frames/f_000092.jpg",
+   "kind": "book",
+   "box": [
+    0.0,
+    2376.96,
+    1976.4,
+    3087.36
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000092_b004",
+   "frame_i": 91,
+   "ref": "frames/f_000092.jpg",
+   "kind": "book",
+   "box": [
+    0.0,
+    2542.08,
+    2028.2399999999998,
+    3513.6000000000004
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000092_b005",
+   "frame_i": 91,
+   "ref": "frames/f_000092.jpg",
+   "kind": "book",
+   "box": [
+    0.0,
+    2906.88,
+    2021.7600000000002,
+    3751.68
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000092_i000",
+   "frame_i": 91,
+   "ref": "frames/f_000092.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    7.68,
+    2138.4,
+    3816.96
+   ],
+   "attrs": {
+    "category": "shelving",
+    "label": "wooden bookcase shelf compartment",
+    "product_type": "bookcase",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "97": [
+  {
+   "id": "f_000098_i000",
+   "frame_i": 97,
+   "ref": "frames/f_000098.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    0.0,
+    2160.0,
+    3840.0
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "wooden cabinet with open door",
+    "product_type": "cabinet",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "100": [
+  {
+   "id": "f_000101_a000",
+   "frame_i": 100,
+   "ref": "frames/f_000101.jpg",
+   "kind": "anchor",
+   "box": [
+    814.32,
+    856.32,
+    2160.0,
+    3836.16
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "103": [
+  {
+   "id": "f_000104_a000",
+   "frame_i": 103,
+   "ref": "frames/f_000104.jpg",
+   "kind": "anchor",
+   "box": [
+    0.0,
+    0.0,
+    1084.32,
+    3594.2400000000002
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "105": [
+  {
+   "id": "f_000106_i000",
+   "frame_i": 105,
+   "ref": "frames/f_000106.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    0.0,
+    1771.1999999999998,
+    2507.52
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "wooden wardrobe with mirror",
+    "product_type": "wardrobe",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "107": [
+  {
+   "id": "f_000108_i000",
+   "frame_i": 107,
+   "ref": "frames/f_000108.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    725.76,
+    1848.96,
+    3809.2799999999997
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "bed with upholstered headboard and mattress",
+    "product_type": "bed",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000108_i001",
+   "frame_i": 107,
+   "ref": "frames/f_000108.jpg",
+   "kind": "item",
+   "box": [
+    1736.64,
+    1332.48,
+    2151.36,
+    3225.6
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "wooden study desk",
+    "product_type": "study table",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000108_i002",
+   "frame_i": 107,
+   "ref": "frames/f_000108.jpg",
+   "kind": "item",
+   "box": [
+    1790.6399999999999,
+    1313.2800000000002,
+    2160.0,
+    1655.04
+   ],
+   "attrs": {
+    "category": "electronics",
+    "label": "laptop computer",
+    "product_type": "laptop",
+    "material": "metal",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000108_i003",
+   "frame_i": 107,
+   "ref": "frames/f_000108.jpg",
+   "kind": "item",
+   "box": [
+    1082.16,
+    848.64,
+    1710.72,
+    1520.64
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "backpack",
+    "product_type": "backpack",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "110": [
+  {
+   "id": "f_000111_i000",
+   "frame_i": 110,
+   "ref": "frames/f_000111.jpg",
+   "kind": "item",
+   "box": [
+    676.08,
+    698.88,
+    2160.0,
+    1432.32
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "padded headboard",
+    "product_type": "headboard",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000111_i001",
+   "frame_i": 110,
+   "ref": "frames/f_000111.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    710.4,
+    2160.0,
+    3836.16
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "bed with mattress and messy bedding",
+    "product_type": "double bed",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000111_i002",
+   "frame_i": 110,
+   "ref": "frames/f_000111.jpg",
+   "kind": "item",
+   "box": [
+    1803.6,
+    952.3199999999999,
+    2157.84,
+    1643.52
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "backpack",
+    "product_type": "backpack",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "113": [
+  {
+   "id": "f_000114_i000",
+   "frame_i": 113,
+   "ref": "frames/f_000114.jpg",
+   "kind": "item",
+   "box": [
+    857.5200000000001,
+    2300.16,
+    2160.0,
+    3840.0
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "bed with patterned duvet",
+    "product_type": "bed",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000114_i001",
+   "frame_i": 113,
+   "ref": "frames/f_000114.jpg",
+   "kind": "item",
+   "box": [
+    365.04,
+    2891.52,
+    926.64,
+    3697.92
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "blue plastic bucket",
+    "product_type": "bucket",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000114_i002",
+   "frame_i": 113,
+   "ref": "frames/f_000114.jpg",
+   "kind": "item",
+   "box": [
+    10.8,
+    2595.84,
+    643.68,
+    3536.6400000000003
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "grey collapsible laundry basket",
+    "product_type": "laundry basket",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000114_i003",
+   "frame_i": 113,
+   "ref": "frames/f_000114.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    2956.8,
+    334.8,
+    3836.16
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "green plastic chair",
+    "product_type": "chair",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "116": [
+  {
+   "id": "f_000117_i000",
+   "frame_i": 116,
+   "ref": "frames/f_000117.jpg",
+   "kind": "item",
+   "box": [
+    272.16,
+    2883.84,
+    1308.96,
+    3840.0
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "green plastic chair",
+    "product_type": "chair",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000117_i001",
+   "frame_i": 116,
+   "ref": "frames/f_000117.jpg",
+   "kind": "item",
+   "box": [
+    1177.2,
+    2952.96,
+    1641.6,
+    3682.56
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "fabric laundry basket",
+    "product_type": "laundry basket",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000117_i002",
+   "frame_i": 116,
+   "ref": "frames/f_000117.jpg",
+   "kind": "item",
+   "box": [
+    1386.72,
+    3264.0,
+    1794.9599999999998,
+    3832.32
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "blue plastic bucket",
+    "product_type": "bucket",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000117_i003",
+   "frame_i": 116,
+   "ref": "frames/f_000117.jpg",
+   "kind": "item",
+   "box": [
+    1587.6,
+    2952.96,
+    2155.68,
+    3840.0
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "bed with patterned sheet",
+    "product_type": "bed",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000117_a000",
+   "frame_i": 116,
+   "ref": "frames/f_000117.jpg",
+   "kind": "anchor",
+   "box": [
+    224.64,
+    410.88,
+    920.16,
+    3632.64
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "119": [
+  {
+   "id": "f_000120_i000",
+   "frame_i": 119,
+   "ref": "frames/f_000120.jpg",
+   "kind": "item",
+   "box": [
+    473.04,
+    3183.3599999999997,
+    1177.2,
+    3840.0
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "green plastic chair",
+    "product_type": "chair",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000120_i001",
+   "frame_i": 119,
+   "ref": "frames/f_000120.jpg",
+   "kind": "item",
+   "box": [
+    1250.6399999999999,
+    3344.64,
+    1686.96,
+    3836.16
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "collapsible fabric basket",
+    "product_type": "laundry basket",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000120_i002",
+   "frame_i": 119,
+   "ref": "frames/f_000120.jpg",
+   "kind": "item",
+   "box": [
+    1524.9599999999998,
+    3363.84,
+    2160.0,
+    3840.0
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "mattress",
+    "product_type": "mattress",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000120_a000",
+   "frame_i": 119,
+   "ref": "frames/f_000120.jpg",
+   "kind": "anchor",
+   "box": [
+    371.52,
+    1290.24,
+    1045.44,
+    3840.0
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "121": [
+  {
+   "id": "f_000122_i000",
+   "frame_i": 121,
+   "ref": "frames/f_000122.jpg",
+   "kind": "item",
+   "box": [
+    205.2,
+    2764.7999999999997,
+    1192.3200000000002,
+    3832.32
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "green plastic chair",
+    "product_type": "chair",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000122_i001",
+   "frame_i": 121,
+   "ref": "frames/f_000122.jpg",
+   "kind": "item",
+   "box": [
+    1252.8,
+    2956.8,
+    1669.68,
+    3540.48
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "laundry hamper / waste bin",
+    "product_type": "laundry hamper",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000122_i002",
+   "frame_i": 121,
+   "ref": "frames/f_000122.jpg",
+   "kind": "item",
+   "box": [
+    976.32,
+    3010.56,
+    2160.0,
+    3840.0
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "bed with patterned bedsheet",
+    "product_type": "bed",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000122_a000",
+   "frame_i": 121,
+   "ref": "frames/f_000122.jpg",
+   "kind": "anchor",
+   "box": [
+    488.16,
+    913.92,
+    1149.1200000000001,
+    3390.7200000000003
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "125": [
+  {
+   "id": "f_000126_i000",
+   "frame_i": 125,
+   "ref": "frames/f_000126.jpg",
+   "kind": "item",
+   "box": [
+    272.16,
+    2745.6,
+    1218.2399999999998,
+    3840.0
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "green plastic chair",
+    "product_type": "chair",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000126_i001",
+   "frame_i": 125,
+   "ref": "frames/f_000126.jpg",
+   "kind": "item",
+   "box": [
+    1324.08,
+    2949.12,
+    1736.64,
+    3490.56
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "laundry basket",
+    "product_type": "laundry basket",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000126_i002",
+   "frame_i": 125,
+   "ref": "frames/f_000126.jpg",
+   "kind": "item",
+   "box": [
+    943.92,
+    3010.56,
+    2160.0,
+    3840.0
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "bed with patterned sheet",
+    "product_type": "bed",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000126_a000",
+   "frame_i": 125,
+   "ref": "frames/f_000126.jpg",
+   "kind": "anchor",
+   "box": [
+    544.32,
+    940.8,
+    1205.2800000000002,
+    3356.16
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ]
+}
