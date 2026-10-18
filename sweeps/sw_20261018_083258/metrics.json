@@ -1,0 +1,143 @@
+{
+ "stages": {
+  "detect": {
+   "seconds": 0.0022,
+   "calls": 0,
+   "in_tokens": 0,
+   "out_tokens": 0,
+   "usd": 0.0,
+   "http_calls": 0,
+   "cache_hits": 0
+  },
+  "track": {
+   "seconds": 5.0924,
+   "calls": 0,
+   "in_tokens": 0,
+   "out_tokens": 0,
+   "usd": 0.0,
+   "http_calls": 0,
+   "cache_hits": 0
+  },
+  "read": {
+   "seconds": 0.0012,
+   "calls": 0,
+   "in_tokens": 0,
+   "out_tokens": 0,
+   "usd": 0.0,
+   "http_calls": 0,
+   "cache_hits": 0
+  },
+  "identify": {
+   "seconds": 1.3213,
+   "calls": 0,
+   "in_tokens": 0,
+   "out_tokens": 0,
+   "usd": 0.0,
+   "http_calls": 0,
+   "cache_hits": 14
+  },
+  "price": {
+   "seconds": 43.3463,
+   "calls": 0,
+   "in_tokens": 0,
+   "out_tokens": 0,
+   "usd": 0.0,
+   "http_calls": 0,
+   "cache_hits": 61
+  },
+  "price_extract": {
+   "seconds": 0.0,
+   "calls": 83,
+   "in_tokens": 87617,
+   "out_tokens": 17339,
+   "usd": 0.0696,
+   "http_calls": 0,
+   "cache_hits": 0
+  },
+  "items": {
+   "seconds": 29.9145,
+   "calls": 1,
+   "in_tokens": 29569,
+   "out_tokens": 652,
+   "usd": 0.0246,
+   "http_calls": 0,
+   "cache_hits": 0
+  },
+  "reconstruct": {
+   "seconds": 55.4655,
+   "calls": 0,
+   "in_tokens": 0,
+   "out_tokens": 0,
+   "usd": 0.0,
+   "http_calls": 0,
+   "cache_hits": 0
+  },
+  "measure": {
+   "seconds": 0.0434,
+   "calls": 0,
+   "in_tokens": 0,
+   "out_tokens": 0,
+   "usd": 0.0,
+   "http_calls": 0,
+   "cache_hits": 0
+  },
+  "room": {
+   "seconds": 40.5353,
+   "calls": 0,
+   "in_tokens": 0,
+   "out_tokens": 0,
+   "usd": 0.0,
+   "http_calls": 0,
+   "cache_hits": 0
+  },
+  "assemble": {
+   "seconds": 0.0005,
+   "calls": 0,
+   "in_tokens": 0,
+   "out_tokens": 0,
+   "usd": 0.0,
+   "http_calls": 0,
+   "cache_hits": 0
+  }
+ },
+ "total_usd": 0.3343,
+ "live": {
+  "tokens": {
+   "text_in": 28374,
+   "audio_in": 14419,
+   "audio_out": 1805,
+   "image_in": 153846
+  },
+  "usd": 0.24
+ },
+ "processing_s": 91.4,
+ "notes": [
+  "book_014: dropped read of 'ignited minds' from f_000102_b002 (neighbour book_015)",
+  "book_008 absorbed into book_011: seen in 1 frame(s), 58% inside its shelf position",
+  "book_018 absorbed into book_010: seen in 1 frame(s), 100% inside its shelf position",
+  "segment 10 (1 frame, 5 unreadable books) dropped as a re-view of segment 11",
+  "f_000072_b000: dropped, too small to read (8% of frame height)",
+  "f_000075_b000: dropped, too small to read (4% of frame height)",
+  "f_000075_b001: dropped, too small to read (4% of frame height)",
+  "f_000082_b005: dropped, too small to read (10% of frame height)",
+  "f_000085_b003: dropped, second box on the same spine",
+  "f_000085_b000: dropped, second box on the same spine",
+  "f_000087_b000: dropped, second box on the same spine",
+  "f_000089_b000: dropped, second box on the same spine",
+  "f_000096_b006: dropped, second box on the same spine",
+  "f_000102_b006: dropped, second box on the same spine",
+  "f_000107_b005: dropped, too small to read (6% of frame height)",
+  "f_000107_b004: dropped, too small to read (7% of frame height)",
+  "f_000107_b006: dropped, too small to read (4% of frame height)",
+  "f_000107_b003: dropped, too small to read (8% of frame height)",
+  "f_000107_b002: dropped, too small to read (9% of frame height)",
+  "f_000109_b003: dropped, too small to read (5% of frame height)",
+  "f_000109_b002: dropped, too small to read (6% of frame height)",
+  "f_000109_b004: dropped, too small to read (4% of frame height)",
+  "f_000109_b001: dropped, too small to read (7% of frame height)",
+  "f_000109_b000: dropped, too small to read (9% of frame height)"
+ ],
+ "price_source": "TinyFish search + page fetch",
+ "prices_dropped_unverified": 0,
+ "time_to_packet_s": 77.0
+}

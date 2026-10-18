@@ -1,0 +1,506 @@
+{
+ "book_001": [
+  {
+   "track_id": "book_001",
+   "det_id": "f_000075_b000",
+   "frame_ref": "frames/f_000075.jpg",
+   "printed_text": "",
+   "title": "",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "none",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_002": [
+  {
+   "track_id": "book_002",
+   "det_id": "f_000072_b000",
+   "frame_ref": "frames/f_000072.jpg",
+   "printed_text": "",
+   "title": "",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "none",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_002",
+   "det_id": "f_000075_b001",
+   "frame_ref": "frames/f_000075.jpg",
+   "printed_text": "",
+   "title": "",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "none",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_004": [
+  {
+   "track_id": "book_004",
+   "det_id": "f_000082_b000",
+   "frame_ref": "frames/f_000082.jpg",
+   "printed_text": "CAT",
+   "title": "",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_005": [
+  {
+   "track_id": "book_005",
+   "det_id": "f_000082_b001",
+   "frame_ref": "frames/f_000082.jpg",
+   "printed_text": "",
+   "title": "",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "none",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_006": [
+  {
+   "track_id": "book_006",
+   "det_id": "f_000082_b002",
+   "frame_ref": "frames/f_000082.jpg",
+   "printed_text": "",
+   "title": "",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "none",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_007": [
+  {
+   "track_id": "book_007",
+   "det_id": "f_000082_b003",
+   "frame_ref": "frames/f_000082.jpg",
+   "printed_text": "",
+   "title": "",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "none",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_008": [
+  {
+   "track_id": "book_008",
+   "det_id": "f_000082_b004",
+   "frame_ref": "frames/f_000082.jpg",
+   "printed_text": "",
+   "title": "",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "none",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_009": [
+  {
+   "track_id": "book_009",
+   "det_id": "f_000082_b005",
+   "frame_ref": "frames/f_000082.jpg",
+   "printed_text": "",
+   "title": "",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "none",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_010": [
+  {
+   "track_id": "book_010",
+   "det_id": "f_000105_b001",
+   "frame_ref": "frames/f_000105.jpg",
+   "printed_text": "",
+   "title": "",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "none",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_011": [
+  {
+   "track_id": "book_011",
+   "det_id": "f_000114_b002",
+   "frame_ref": "frames/f_000114.jpg",
+   "printed_text": "ROBIN SHARMA | THE 5 AM CLUB | The Monk Who Sold His Ferrari | ROBIN SHARMA | IGNITED MINDS",
+   "title": "THE 5 AM CLUB",
+   "author": "ROBIN SHARMA",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_011",
+   "det_id": "f_000107_b001",
+   "frame_ref": "frames/f_000107.jpg",
+   "printed_text": "",
+   "title": "",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "none",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_012": [
+  {
+   "track_id": "book_012",
+   "det_id": "f_000109_b001",
+   "frame_ref": "frames/f_000109.jpg",
+   "printed_text": "SHARMA",
+   "title": "",
+   "author": "SHARMA",
+   "publisher": "",
+   "volume": "",
+   "legibility": "partial",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_012",
+   "det_id": "f_000107_b002",
+   "frame_ref": "frames/f_000107.jpg",
+   "printed_text": "",
+   "title": "",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "none",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_013": [
+  {
+   "track_id": "book_013",
+   "det_id": "f_000114_b005",
+   "frame_ref": "frames/f_000114.jpg",
+   "printed_text": "NEW | REVISED & EXPANDED | OVER 700 PAGES | Word Power | Made Easy | Norman Lewis",
+   "title": "Word Power Made Easy",
+   "author": "Norman Lewis",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_013",
+   "det_id": "f_000107_b005",
+   "frame_ref": "frames/f_000107.jpg",
+   "printed_text": "",
+   "title": "",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "none",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_014": [
+  {
+   "track_id": "book_014",
+   "det_id": "f_000114_b000",
+   "frame_ref": "frames/f_000114.jpg",
+   "printed_text": "Sharma | 5TH EDITION | How to Prepare for DATA INTERPRETATION for CAT",
+   "title": "How to Prepare for DATA INTERPRETATION for CAT",
+   "author": "Sharma",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_014",
+   "det_id": "f_000112_b005",
+   "frame_ref": "frames/f_000112.jpg",
+   "printed_text": "Sharma | 5TH EDITION | How to Prepare for DATA INTERPRETATION for CAT",
+   "title": "How to Prepare for DATA INTERPRETATION for CAT",
+   "author": "Sharma",
+   "publisher": "",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_015": [
+  {
+   "track_id": "book_015",
+   "det_id": "f_000100_b000",
+   "frame_ref": "frames/f_000100.jpg",
+   "printed_text": "Sharma | 5TH EDITION | How to Prepare for DATA INTERPRETATION for CAT | Mc Graw Hill Education",
+   "title": "How to Prepare for DATA INTERPRETATION for CAT",
+   "author": "Sharma",
+   "publisher": "Mc Graw Hill Education",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_015",
+   "det_id": "f_000096_b006",
+   "frame_ref": "frames/f_000096.jpg",
+   "printed_text": "Sharma | 5TH EDITION | How to Prepare for DATA INTERPRETATION for CAT | Mc Graw Hill Education",
+   "title": "How to Prepare for DATA INTERPRETATION for CAT",
+   "author": "Sharma",
+   "publisher": "Mc Graw Hill Education",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_016": [
+  {
+   "track_id": "book_016",
+   "det_id": "f_000096_b005",
+   "frame_ref": "frames/f_000096.jpg",
+   "printed_text": "Sharma | 5TH EDITION | How to Prepare for DATA INTERPRETATION for CAT | Mc Graw Hill Education",
+   "title": "How to Prepare for DATA INTERPRETATION for CAT",
+   "author": "Sharma",
+   "publisher": "Mc Graw Hill Education",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_016",
+   "det_id": "f_000089_b001",
+   "frame_ref": "frames/f_000089.jpg",
+   "printed_text": "Sharma | 5TH EDITION | How to Prepare for DATA INTERPRETATION for CAT | Mc Graw Hill Education",
+   "title": "How to Prepare for DATA INTERPRETATION for CAT",
+   "author": "Sharma",
+   "publisher": "Mc Graw Hill Education",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_017": [
+  {
+   "track_id": "book_017",
+   "det_id": "f_000102_b004",
+   "frame_ref": "frames/f_000102.jpg",
+   "printed_text": "",
+   "title": "",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "none",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_017",
+   "det_id": "f_000096_b004",
+   "frame_ref": "frames/f_000096.jpg",
+   "printed_text": "",
+   "title": "",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "none",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_018": [
+  {
+   "track_id": "book_018",
+   "det_id": "f_000085_b003",
+   "frame_ref": "frames/f_000085.jpg",
+   "printed_text": "ROBIN SHARMA | THE 5 AM CLUB | A JAICO BOOK",
+   "title": "THE 5 AM CLUB",
+   "author": "ROBIN SHARMA",
+   "publisher": "JAICO BOOK",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_018",
+   "det_id": "f_000091_b003",
+   "frame_ref": "frames/f_000091.jpg",
+   "printed_text": "ROBIN SHARMA | THE 5 AM CLUB | A JAICO BOOK",
+   "title": "THE 5 AM CLUB",
+   "author": "ROBIN SHARMA",
+   "publisher": "JAICO BOOK",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_019": [
+  {
+   "track_id": "book_019",
+   "det_id": "f_000100_b004",
+   "frame_ref": "frames/f_000100.jpg",
+   "printed_text": "The Monk Who Sold His Ferrari | ROBIN SHARMA | A JAICO BOOK",
+   "title": "The Monk Who Sold His Ferrari",
+   "author": "ROBIN SHARMA",
+   "publisher": "JAICO BOOK",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_019",
+   "det_id": "f_000102_b002",
+   "frame_ref": "frames/f_000102.jpg",
+   "printed_text": "IGNITED MINDS | A.P.J. ABDUL KALAM | PENGUIN BOOKS",
+   "title": "IGNITED MINDS",
+   "author": "A.P.J. ABDUL KALAM",
+   "publisher": "PENGUIN BOOKS",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_020": [
+  {
+   "track_id": "book_020",
+   "det_id": "f_000100_b005",
+   "frame_ref": "frames/f_000100.jpg",
+   "printed_text": "IGNITED MINDS | A.P.J. ABDUL KALAM | PENGUIN BOOKS",
+   "title": "IGNITED MINDS",
+   "author": "A.P.J. ABDUL KALAM",
+   "publisher": "PENGUIN BOOKS",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_020",
+   "det_id": "f_000102_b001",
+   "frame_ref": "frames/f_000102.jpg",
+   "printed_text": "IGNITED MINDS | A.P.J. ABDUL KALAM | PENGUIN BOOKS",
+   "title": "IGNITED MINDS",
+   "author": "A.P.J. ABDUL KALAM",
+   "publisher": "PENGUIN BOOKS",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_021": [
+  {
+   "track_id": "book_021",
+   "det_id": "f_000098_b006",
+   "frame_ref": "frames/f_000098.jpg",
+   "printed_text": "NEW REVISED & EXPANDED OVER 700 PAGES | No. 1 | Word Power Made Easy | Norman Lewis | GOYAL Saab",
+   "title": "Word Power Made Easy",
+   "author": "Norman Lewis",
+   "publisher": "GOYAL Saab",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  },
+  {
+   "track_id": "book_021",
+   "det_id": "f_000100_b006",
+   "frame_ref": "frames/f_000100.jpg",
+   "printed_text": "NEW REVISED & EXPANDED OVER 700 PAGES | No. 1 | Word Power Made Easy | Norman Lewis | GOYAL Saab",
+   "title": "Word Power Made Easy",
+   "author": "Norman Lewis",
+   "publisher": "GOYAL Saab",
+   "volume": "",
+   "legibility": "clear",
+   "dropped": "",
+   "rank": 1,
+   "looks_antiquarian": false
+  }
+ ],
+ "book_022": [
+  {
+   "track_id": "book_022",
+   "det_id": "f_000105_b000",
+   "frame_ref": "frames/f_000105.jpg",
+   "printed_text": "",
+   "title": "",
+   "author": "",
+   "publisher": "",
+   "volume": "",
+   "legibility": "none",
+   "dropped": "",
+   "rank": 0,
+   "looks_antiquarian": false
+  }
+ ]
+}

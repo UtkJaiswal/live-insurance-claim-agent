@@ -1,0 +1,193 @@
+{
+ "book_001": {
+  "track_id": "book_001",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_007": {
+  "track_id": "book_007",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_009": {
+  "track_id": "book_009",
+  "status": "identified",
+  "title": "How to Prepare for DATA INTERPRETATION for CAT",
+  "author": "Sharma",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.66,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "title as printed on the spine; no catalogue record found"
+  ],
+  "retrieved_at": "2026-10-17T15:11:09+00:00"
+ },
+ "book_010": {
+  "track_id": "book_010",
+  "status": "identified",
+  "title": "How to Prepare for DATA INTERPRETATION for CAT",
+  "author": "Sharma",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.66,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "title as printed on the spine; no catalogue record found"
+  ],
+  "retrieved_at": "2026-10-17T15:11:09+00:00"
+ },
+ "book_011": {
+  "track_id": "book_011",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_012": {
+  "track_id": "book_012",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.56,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'ROBIN SHARMA | THE 5 AM CLUB | The Monk Who Sold His Ferrari | ROBIN SHARMA | IGNITED MINDS' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-17T15:11:09+00:00"
+ },
+ "book_013": {
+  "track_id": "book_013",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.56,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'ROBIN SHARMA | THE 5 AM CLUB | A JAICO BOOK' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-17T15:11:09+00:00"
+ },
+ "book_014": {
+  "track_id": "book_014",
+  "status": "identified",
+  "title": "The Monk Who Sold His Ferrari",
+  "author": "Robin S. Sharma",
+  "edition": "JAICO PUBLISHING HOUSE  www.jaicobooks.com 2007",
+  "isbn": "9788179926932",
+  "publisher": "JAICO PUBLISHING HOUSE  www.jaicobooks.com",
+  "year": "2007",
+  "id_confidence": 0.8,
+  "catalogue_url": "https://openlibrary.org/books/OL24982482M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-17T15:11:09+00:00"
+ },
+ "book_015": {
+  "track_id": "book_015",
+  "status": "identified",
+  "title": "Ignited Minds",
+  "author": "A. P. J. Abdul Kalam",
+  "edition": "Penguin Nov 01, 2014",
+  "isbn": "9780143424123",
+  "publisher": "Penguin",
+  "year": "Nov 01, 2014",
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/books/OL28989038M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T03:06:09+00:00"
+ },
+ "book_016": {
+  "track_id": "book_016",
+  "status": "identified",
+  "title": "Word Power Made Easy",
+  "author": "Norman Lewis",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/works/OL1578299W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-17T15:11:08+00:00"
+ },
+ "book_017": {
+  "track_id": "book_017",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ }
+}

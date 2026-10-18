@@ -1,0 +1,4902 @@
+{
+ "18": [
+  {
+   "id": "f_000019_i000",
+   "frame_i": 18,
+   "ref": "frames/f_000019.jpg",
+   "kind": "item",
+   "box": [
+    1108.08,
+    1866.24,
+    1928.88,
+    2661.12
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "bed with mattress and sheets",
+    "product_type": "single bed",
+    "material": "fabric and metal",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000019_i001",
+   "frame_i": 18,
+   "ref": "frames/f_000019.jpg",
+   "kind": "item",
+   "box": [
+    822.96,
+    1923.84,
+    1073.52,
+    2231.04
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "laundry basket",
+    "product_type": "laundry basket",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000019_i002",
+   "frame_i": 18,
+   "ref": "frames/f_000019.jpg",
+   "kind": "item",
+   "box": [
+    976.32,
+    2027.52,
+    1140.48,
+    2280.96
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "plastic bucket",
+    "product_type": "bucket",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000019_a000",
+   "frame_i": 18,
+   "ref": "frames/f_000019.jpg",
+   "kind": "anchor",
+   "box": [
+    0.0,
+    0.0,
+    697.6800000000001,
+    3840.0
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "21": [
+  {
+   "id": "f_000022_i000",
+   "frame_i": 21,
+   "ref": "frames/f_000022.jpg",
+   "kind": "item",
+   "box": [
+    1084.32,
+    2123.52,
+    1805.76,
+    2926.08
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "bed with mattress and patterned bedsheet",
+    "product_type": "bed",
+    "material": "metal",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000022_i001",
+   "frame_i": 21,
+   "ref": "frames/f_000022.jpg",
+   "kind": "item",
+   "box": [
+    803.52,
+    2184.96,
+    1043.28,
+    2496.0
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "fabric laundry basket",
+    "product_type": "laundry hamper",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000022_i002",
+   "frame_i": 21,
+   "ref": "frames/f_000022.jpg",
+   "kind": "item",
+   "box": [
+    959.04,
+    2284.7999999999997,
+    1125.3600000000001,
+    2545.92
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "blue plastic bucket",
+    "product_type": "bucket",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000022_i003",
+   "frame_i": 21,
+   "ref": "frames/f_000022.jpg",
+   "kind": "item",
+   "box": [
+    749.52,
+    2449.92,
+    1054.08,
+    2588.1600000000003
+   ],
+   "attrs": {
+    "category": "rug",
+    "label": "patterned floor mat",
+    "product_type": "mat",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000022_a000",
+   "frame_i": 21,
+   "ref": "frames/f_000022.jpg",
+   "kind": "anchor",
+   "box": [
+    0.0,
+    0.0,
+    693.36,
+    3840.0
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "23": [
+  {
+   "id": "f_000024_i000",
+   "frame_i": 23,
+   "ref": "frames/f_000024.jpg",
+   "kind": "item",
+   "box": [
+    1075.68,
+    2035.2,
+    1736.64,
+    2807.04
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "single bed with mattress and bedding",
+    "product_type": "single bed",
+    "material": "fabric, metal",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000024_i001",
+   "frame_i": 23,
+   "ref": "frames/f_000024.jpg",
+   "kind": "item",
+   "box": [
+    810.0,
+    2096.6400000000003,
+    1047.6,
+    2403.84
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "laundry basket",
+    "product_type": "laundry basket",
+    "material": "fabric, plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000024_i002",
+   "frame_i": 23,
+   "ref": "frames/f_000024.jpg",
+   "kind": "item",
+   "box": [
+    954.72,
+    2188.7999999999997,
+    1131.8400000000001,
+    2449.92
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "blue plastic bucket",
+    "product_type": "bucket",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000024_i003",
+   "frame_i": 23,
+   "ref": "frames/f_000024.jpg",
+   "kind": "item",
+   "box": [
+    751.68,
+    2376.96,
+    1049.76,
+    2484.48
+   ],
+   "attrs": {
+    "category": "rug",
+    "label": "floor mat",
+    "product_type": "bath mat",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000024_a000",
+   "frame_i": 23,
+   "ref": "frames/f_000024.jpg",
+   "kind": "anchor",
+   "box": [
+    0.0,
+    0.0,
+    693.36,
+    3805.44
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "26": [
+  {
+   "id": "f_000027_i000",
+   "frame_i": 26,
+   "ref": "frames/f_000027.jpg",
+   "kind": "item",
+   "box": [
+    1125.3600000000001,
+    1820.1599999999999,
+    1928.88,
+    2607.36
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "bed frame with mattress and bedding",
+    "product_type": "single bed",
+    "material": "fabric and metal",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000027_i001",
+   "frame_i": 26,
+   "ref": "frames/f_000027.jpg",
+   "kind": "item",
+   "box": [
+    995.76,
+    1973.76,
+    1179.3600000000001,
+    2227.2
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "blue plastic bucket",
+    "product_type": "bucket",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000027_i002",
+   "frame_i": 26,
+   "ref": "frames/f_000027.jpg",
+   "kind": "item",
+   "box": [
+    855.36,
+    1873.92,
+    1099.44,
+    2173.4399999999996
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "laundry hamper bag",
+    "product_type": "laundry hamper",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000027_a000",
+   "frame_i": 26,
+   "ref": "frames/f_000027.jpg",
+   "kind": "anchor",
+   "box": [
+    0.0,
+    0.0,
+    753.8399999999999,
+    3840.0
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "28": [
+  {
+   "id": "f_000029_i000",
+   "frame_i": 28,
+   "ref": "frames/f_000029.jpg",
+   "kind": "item",
+   "box": [
+    1075.68,
+    1835.52,
+    1892.16,
+    2607.36
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "bed with mattress",
+    "product_type": "bed",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000029_i001",
+   "frame_i": 28,
+   "ref": "frames/f_000029.jpg",
+   "kind": "item",
+   "box": [
+    797.04,
+    1889.28,
+    1043.28,
+    2204.16
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "laundry hamper bag",
+    "product_type": "laundry hamper",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000029_i002",
+   "frame_i": 28,
+   "ref": "frames/f_000029.jpg",
+   "kind": "item",
+   "box": [
+    948.24,
+    1989.1200000000001,
+    1131.8400000000001,
+    2242.56
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "blue plastic bucket",
+    "product_type": "bucket",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000029_i003",
+   "frame_i": 28,
+   "ref": "frames/f_000029.jpg",
+   "kind": "item",
+   "box": [
+    740.8800000000001,
+    2184.96,
+    1030.32,
+    2280.96
+   ],
+   "attrs": {
+    "category": "rug",
+    "label": "small black patterned floor mat",
+    "product_type": "floor mat",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "30": [
+  {
+   "id": "f_000031_i000",
+   "frame_i": 30,
+   "ref": "frames/f_000031.jpg",
+   "kind": "item",
+   "box": [
+    1404.0,
+    1797.1200000000001,
+    2160.0,
+    2711.04
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "bed with mattress and bedding",
+    "product_type": "bed",
+    "material": "metal",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000031_i001",
+   "frame_i": 30,
+   "ref": "frames/f_000031.jpg",
+   "kind": "item",
+   "box": [
+    1131.8400000000001,
+    1831.6799999999998,
+    1404.0,
+    2161.9199999999996
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "fabric laundry hamper",
+    "product_type": "laundry hamper",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000031_i002",
+   "frame_i": 30,
+   "ref": "frames/f_000031.jpg",
+   "kind": "item",
+   "box": [
+    1302.48,
+    1946.88,
+    1481.7600000000002,
+    2215.68
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "blue plastic bucket",
+    "product_type": "bucket",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000031_a000",
+   "frame_i": 30,
+   "ref": "frames/f_000031.jpg",
+   "kind": "anchor",
+   "box": [
+    855.36,
+    360.96,
+    1069.2,
+    2242.56
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000031_a001",
+   "frame_i": 30,
+   "ref": "frames/f_000031.jpg",
+   "kind": "anchor",
+   "box": [
+    0.0,
+    0.0,
+    866.1600000000001,
+    3832.32
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "33": [
+  {
+   "id": "f_000034_i000",
+   "frame_i": 33,
+   "ref": "frames/f_000034.jpg",
+   "kind": "item",
+   "box": [
+    889.92,
+    1958.4,
+    1164.24,
+    2319.36
+   ],
+   "attrs": {
+    "category": "decor",
+    "label": "laundry basket",
+    "product_type": "laundry basket",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000034_i001",
+   "frame_i": 33,
+   "ref": "frames/f_000034.jpg",
+   "kind": "item",
+   "box": [
+    1062.72,
+    2069.76,
+    1244.1599999999999,
+    2365.44
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "plastic bucket",
+    "product_type": "bucket",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000034_i002",
+   "frame_i": 33,
+   "ref": "frames/f_000034.jpg",
+   "kind": "item",
+   "box": [
+    1209.6000000000001,
+    1866.24,
+    2160.0,
+    2864.64
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "single bed",
+    "product_type": "single bed",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000034_i003",
+   "frame_i": 33,
+   "ref": "frames/f_000034.jpg",
+   "kind": "item",
+   "box": [
+    831.6,
+    2284.7999999999997,
+    1149.1200000000001,
+    2415.36
+   ],
+   "attrs": {
+    "category": "rug",
+    "label": "small floor mat",
+    "product_type": "floor mat",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000034_a000",
+   "frame_i": 33,
+   "ref": "frames/f_000034.jpg",
+   "kind": "anchor",
+   "box": [
+    568.08,
+    510.72,
+    697.6800000000001,
+    2319.36
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000034_a001",
+   "frame_i": 33,
+   "ref": "frames/f_000034.jpg",
+   "kind": "anchor",
+   "box": [
+    0.0,
+    0.0,
+    676.08,
+    3840.0
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "35": [
+  {
+   "id": "f_000036_i000",
+   "frame_i": 35,
+   "ref": "frames/f_000036.jpg",
+   "kind": "item",
+   "box": [
+    928.8,
+    1716.48,
+    2151.36,
+    2880.0
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "bed with mattress and duvet",
+    "product_type": "single bed",
+    "material": "wood, fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000036_i001",
+   "frame_i": 35,
+   "ref": "frames/f_000036.jpg",
+   "kind": "item",
+   "box": [
+    596.1600000000001,
+    1839.36,
+    900.7199999999999,
+    2242.56
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "laundry hamper",
+    "product_type": "laundry basket",
+    "material": "fabric, metal",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000036_i002",
+   "frame_i": 35,
+   "ref": "frames/f_000036.jpg",
+   "kind": "item",
+   "box": [
+    1905.1200000000001,
+    2127.36,
+    2155.68,
+    3513.6000000000004
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "wooden nightstand or desk corner",
+    "product_type": "nightstand",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000036_i003",
+   "frame_i": 35,
+   "ref": "frames/f_000036.jpg",
+   "kind": "item",
+   "box": [
+    775.4399999999999,
+    1962.24,
+    976.32,
+    2292.48
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "blue plastic bucket",
+    "product_type": "bucket",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000036_a000",
+   "frame_i": 35,
+   "ref": "frames/f_000036.jpg",
+   "kind": "anchor",
+   "box": [
+    71.28,
+    46.08,
+    384.47999999999996,
+    2403.84
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "37": [
+  {
+   "id": "f_000038_i000",
+   "frame_i": 37,
+   "ref": "frames/f_000038.jpg",
+   "kind": "item",
+   "box": [
+    1036.8,
+    1958.4,
+    1378.08,
+    2403.84
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "fabric laundry hamper",
+    "product_type": "laundry hamper",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000038_i001",
+   "frame_i": 37,
+   "ref": "frames/f_000038.jpg",
+   "kind": "item",
+   "box": [
+    1231.1999999999998,
+    2119.6800000000003,
+    1455.8400000000001,
+    2492.16
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "blue plastic bucket",
+    "product_type": "bucket",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000038_i002",
+   "frame_i": 37,
+   "ref": "frames/f_000038.jpg",
+   "kind": "item",
+   "box": [
+    1328.4,
+    1889.28,
+    2160.0,
+    3429.12
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "bed with patterned bedsheet",
+    "product_type": "bed",
+    "material": "wood and fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000038_i003",
+   "frame_i": 37,
+   "ref": "frames/f_000038.jpg",
+   "kind": "item",
+   "box": [
+    924.48,
+    2376.96,
+    1343.52,
+    2568.96
+   ],
+   "attrs": {
+    "category": "rug",
+    "label": "small patterned floor mat",
+    "product_type": "mat",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000038_a000",
+   "frame_i": 37,
+   "ref": "frames/f_000038.jpg",
+   "kind": "anchor",
+   "box": [
+    520.56,
+    0.0,
+    822.96,
+    2572.8
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "39": [
+  {
+   "id": "f_000040_i000",
+   "frame_i": 39,
+   "ref": "frames/f_000040.jpg",
+   "kind": "item",
+   "box": [
+    1343.52,
+    3010.56,
+    1902.96,
+    3356.16
+   ],
+   "attrs": {
+    "category": "rug",
+    "label": "small patterned floor mat",
+    "product_type": "floor mat",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000040_i001",
+   "frame_i": 39,
+   "ref": "frames/f_000040.jpg",
+   "kind": "item",
+   "box": [
+    1492.56,
+    2515.2000000000003,
+    1924.56,
+    3087.36
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "laundry hamper basket",
+    "product_type": "laundry hamper",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000040_i002",
+   "frame_i": 39,
+   "ref": "frames/f_000040.jpg",
+   "kind": "item",
+   "box": [
+    1740.96,
+    2745.6,
+    2080.08,
+    3256.3199999999997
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "blue plastic bucket",
+    "product_type": "bucket",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000040_a000",
+   "frame_i": 39,
+   "ref": "frames/f_000040.jpg",
+   "kind": "anchor",
+   "box": [
+    911.52,
+    253.44,
+    1313.28,
+    3360.0
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "42": [
+  {
+   "id": "f_000043_i000",
+   "frame_i": 42,
+   "ref": "frames/f_000043.jpg",
+   "kind": "item",
+   "box": [
+    1663.2,
+    3294.72,
+    2160.0,
+    3836.16
+   ],
+   "attrs": {
+    "category": "decor",
+    "label": "fabric laundry hamper",
+    "product_type": "laundry hamper",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000043_a000",
+   "frame_i": 42,
+   "ref": "frames/f_000043.jpg",
+   "kind": "anchor",
+   "box": [
+    146.88000000000002,
+    0.0,
+    1261.4399999999998,
+    3797.7599999999998
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "45": [
+  {
+   "id": "f_000046_a000",
+   "frame_i": 45,
+   "ref": "frames/f_000046.jpg",
+   "kind": "anchor",
+   "box": [
+    0.0,
+    0.0,
+    1481.7600000000002,
+    3840.0
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "49": [
+  {
+   "id": "f_000050_a000",
+   "frame_i": 49,
+   "ref": "frames/f_000050.jpg",
+   "kind": "anchor",
+   "box": [
+    0.0,
+    0.0,
+    2160.0,
+    3840.0
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "47": [
+  {
+   "id": "f_000048_a000",
+   "frame_i": 47,
+   "ref": "frames/f_000048.jpg",
+   "kind": "anchor",
+   "box": [
+    0.0,
+    645.12,
+    2160.0,
+    3840.0
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "52": [
+  {
+   "id": "f_000053_a000",
+   "frame_i": 52,
+   "ref": "frames/f_000053.jpg",
+   "kind": "anchor",
+   "box": [
+    0.0,
+    0.0,
+    2021.7600000000002,
+    3840.0
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "54": [
+  {
+   "id": "f_000055_i000",
+   "frame_i": 54,
+   "ref": "frames/f_000055.jpg",
+   "kind": "item",
+   "box": [
+    756.0,
+    3025.92,
+    1954.8,
+    3820.8
+   ],
+   "attrs": {
+    "category": "rug",
+    "label": "patterned floor mat",
+    "product_type": "mat",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000055_i001",
+   "frame_i": 54,
+   "ref": "frames/f_000055.jpg",
+   "kind": "item",
+   "box": [
+    926.64,
+    1866.24,
+    1827.36,
+    3110.4
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "fabric laundry hamper",
+    "product_type": "laundry hamper",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000055_i002",
+   "frame_i": 54,
+   "ref": "frames/f_000055.jpg",
+   "kind": "item",
+   "box": [
+    1486.08,
+    2284.7999999999997,
+    2153.52,
+    3344.64
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "blue plastic bucket",
+    "product_type": "bucket",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "56": [
+  {
+   "id": "f_000057_i000",
+   "frame_i": 56,
+   "ref": "frames/f_000057.jpg",
+   "kind": "item",
+   "box": [
+    1587.6,
+    414.71999999999997,
+    2160.0,
+    1102.08
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "padded bed headboard",
+    "product_type": "headboard",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000057_i001",
+   "frame_i": 56,
+   "ref": "frames/f_000057.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    418.56,
+    2160.0,
+    3836.16
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "bed with patterned bedding",
+    "product_type": "bed",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "59": [
+  {
+   "id": "f_000060_i000",
+   "frame_i": 59,
+   "ref": "frames/f_000060.jpg",
+   "kind": "item",
+   "box": [
+    23.759999999999998,
+    1240.32,
+    2151.36,
+    3816.96
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "bed with upholstered headboard and mattress",
+    "product_type": "double bed",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "61": [
+  {
+   "id": "f_000062_b000",
+   "frame_i": 61,
+   "ref": "frames/f_000062.jpg",
+   "kind": "book",
+   "box": [
+    511.91999999999996,
+    2626.5600000000004,
+    1496.8799999999999,
+    3444.48
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000062_i000",
+   "frame_i": 61,
+   "ref": "frames/f_000062.jpg",
+   "kind": "item",
+   "box": [
+    781.92,
+    1363.1999999999998,
+    1805.76,
+    2369.2799999999997
+   ],
+   "attrs": {
+    "category": "electronics",
+    "label": "laptop",
+    "product_type": "laptop",
+    "material": "metal",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000062_i001",
+   "frame_i": 61,
+   "ref": "frames/f_000062.jpg",
+   "kind": "item",
+   "box": [
+    1341.36,
+    1827.84,
+    1710.72,
+    2999.04
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "stainless steel water bottle",
+    "product_type": "water bottle",
+    "material": "metal",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000062_i002",
+   "frame_i": 61,
+   "ref": "frames/f_000062.jpg",
+   "kind": "item",
+   "box": [
+    689.04,
+    2315.52,
+    2157.84,
+    3816.96
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "wooden bedside table",
+    "product_type": "bedside table",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000062_i003",
+   "frame_i": 61,
+   "ref": "frames/f_000062.jpg",
+   "kind": "item",
+   "box": [
+    423.36,
+    1858.56,
+    2021.7600000000002,
+    2711.04
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "backpack",
+    "product_type": "backpack",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000062_i004",
+   "frame_i": 61,
+   "ref": "frames/f_000062.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    1866.24,
+    762.4799999999999,
+    3832.32
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "bed with mattress",
+    "product_type": "bed",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000062_i005",
+   "frame_i": 61,
+   "ref": "frames/f_000062.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    1213.44,
+    822.96,
+    2000.64
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "tufted headboard",
+    "product_type": "headboard",
+    "material": "leatherette",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "64": [
+  {
+   "id": "f_000065_b000",
+   "frame_i": 64,
+   "ref": "frames/f_000065.jpg",
+   "kind": "book",
+   "box": [
+    0.0,
+    2661.12,
+    797.04,
+    3840.0
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000065_i000",
+   "frame_i": 64,
+   "ref": "frames/f_000065.jpg",
+   "kind": "item",
+   "box": [
+    8.64,
+    2184.96,
+    2023.92,
+    3840.0
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "wooden desk",
+    "product_type": "desk",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000065_i001",
+   "frame_i": 64,
+   "ref": "frames/f_000065.jpg",
+   "kind": "item",
+   "box": [
+    544.32,
+    1670.4,
+    1030.32,
+    3183.3599999999997
+   ],
+   "attrs": {
+    "category": "decor",
+    "label": "stainless steel water bottle",
+    "product_type": "water bottle",
+    "material": "stainless steel",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000065_i002",
+   "frame_i": 64,
+   "ref": "frames/f_000065.jpg",
+   "kind": "item",
+   "box": [
+    207.36,
+    994.5600000000001,
+    1330.56,
+    2334.72
+   ],
+   "attrs": {
+    "category": "electronics",
+    "label": "laptop",
+    "product_type": "laptop",
+    "material": "metal",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000065_i003",
+   "frame_i": 64,
+   "ref": "frames/f_000065.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    1593.6,
+    1669.68,
+    2745.6
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "black backpack",
+    "product_type": "backpack",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000065_i004",
+   "frame_i": 64,
+   "ref": "frames/f_000065.jpg",
+   "kind": "item",
+   "box": [
+    1555.2,
+    0.0,
+    2160.0,
+    2161.9199999999996
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "wooden wardrobe",
+    "product_type": "wardrobe",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "66": [
+  {
+   "id": "f_000067_b000",
+   "frame_i": 66,
+   "ref": "frames/f_000067.jpg",
+   "kind": "book",
+   "box": [
+    0.0,
+    2415.36,
+    991.44,
+    3287.04
+   ],
+   "attrs": {
+    "orientation": "flat",
+    "spine_facing": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000067_i000",
+   "frame_i": 66,
+   "ref": "frames/f_000067.jpg",
+   "kind": "item",
+   "box": [
+    794.88,
+    1516.8000000000002,
+    1125.3600000000001,
+    2745.6
+   ],
+   "attrs": {
+    "category": "decor",
+    "label": "stainless steel water bottle",
+    "product_type": "water bottle",
+    "material": "metal",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000067_i001",
+   "frame_i": 66,
+   "ref": "frames/f_000067.jpg",
+   "kind": "item",
+   "box": [
+    295.92,
+    1025.28,
+    1261.4399999999998,
+    2123.52
+   ],
+   "attrs": {
+    "category": "electronics",
+    "label": "laptop",
+    "product_type": "laptop",
+    "material": "metal",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000067_i002",
+   "frame_i": 66,
+   "ref": "frames/f_000067.jpg",
+   "kind": "item",
+   "box": [
+    110.16,
+    1981.44,
+    1928.88,
+    3820.8
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "wooden bedside table",
+    "product_type": "bedside table",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000067_i003",
+   "frame_i": 66,
+   "ref": "frames/f_000067.jpg",
+   "kind": "item",
+   "box": [
+    1412.64,
+    0.0,
+    2160.0,
+    2042.88
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "wooden wardrobe",
+    "product_type": "wardrobe",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000067_i004",
+   "frame_i": 66,
+   "ref": "frames/f_000067.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    1543.68,
+    1576.8,
+    2492.16
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "black backpack",
+    "product_type": "backpack",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "69": [
+  {
+   "id": "f_000070_i000",
+   "frame_i": 69,
+   "ref": "frames/f_000070.jpg",
+   "kind": "item",
+   "box": [
+    371.52,
+    1044.48,
+    2160.0,
+    3540.48
+   ],
+   "attrs": {
+    "category": "electronics",
+    "label": "laptop",
+    "product_type": "laptop",
+    "material": "metal",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000070_i001",
+   "frame_i": 69,
+   "ref": "frames/f_000070.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    1800.9599999999998,
+    319.68,
+    2784.0
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "mattress corner",
+    "product_type": "mattress",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "71": [
+  {
+   "id": "f_000072_b000",
+   "frame_i": 71,
+   "ref": "frames/f_000072.jpg",
+   "kind": "book",
+   "box": [
+    1520.6399999999999,
+    1774.0800000000002,
+    1818.72,
+    2100.48
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000072_i000",
+   "frame_i": 71,
+   "ref": "frames/f_000072.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    1685.76,
+    1928.88,
+    3836.16
+   ],
+   "attrs": {
+    "category": "electronics",
+    "label": "laptop",
+    "product_type": "laptop",
+    "material": "metal and plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000072_i001",
+   "frame_i": 71,
+   "ref": "frames/f_000072.jpg",
+   "kind": "item",
+   "box": [
+    576.72,
+    0.0,
+    2160.0,
+    3018.2400000000002
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "wooden wardrobe shelving unit",
+    "product_type": "wardrobe",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "74": [
+  {
+   "id": "f_000075_b000",
+   "frame_i": 74,
+   "ref": "frames/f_000075.jpg",
+   "kind": "book",
+   "box": [
+    1745.2800000000002,
+    1582.08,
+    1825.2,
+    1743.3600000000001
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000075_b001",
+   "frame_i": 74,
+   "ref": "frames/f_000075.jpg",
+   "kind": "book",
+   "box": [
+    1794.9599999999998,
+    1605.12,
+    1896.48,
+    1758.72
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000075_i000",
+   "frame_i": 74,
+   "ref": "frames/f_000075.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    1474.56,
+    2153.52,
+    3840.0
+   ],
+   "attrs": {
+    "category": "electronics",
+    "label": "laptop computer",
+    "product_type": "laptop",
+    "material": "metal, plastic, glass",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000075_i001",
+   "frame_i": 74,
+   "ref": "frames/f_000075.jpg",
+   "kind": "item",
+   "box": [
+    714.96,
+    0.0,
+    2155.68,
+    1739.52
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "wooden cabinet and shelf",
+    "product_type": "wardrobe",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000075_i002",
+   "frame_i": 74,
+   "ref": "frames/f_000075.jpg",
+   "kind": "item",
+   "box": [
+    1613.52,
+    307.2,
+    2160.0,
+    1793.2800000000002
+   ],
+   "attrs": {
+    "category": "shelving",
+    "label": "shelving unit",
+    "product_type": "shelving unit",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "76": [
+  {
+   "id": "f_000077_i000",
+   "frame_i": 76,
+   "ref": "frames/f_000077.jpg",
+   "kind": "item",
+   "box": [
+    321.84,
+    360.96,
+    2149.2,
+    3544.32
+   ],
+   "attrs": {
+    "category": "electronics",
+    "label": "laptop",
+    "product_type": "laptop",
+    "material": "metal",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000077_i001",
+   "frame_i": 76,
+   "ref": "frames/f_000077.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    1451.52,
+    2155.68,
+    3840.0
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "backpack",
+    "product_type": "backpack",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "79": [
+  {
+   "id": "f_000080_i000",
+   "frame_i": 79,
+   "ref": "frames/f_000080.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    0.0,
+    250.56,
+    1578.24
+   ],
+   "attrs": {
+    "category": "electronics",
+    "label": "laptop",
+    "product_type": "laptop",
+    "material": "metal",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000080_i001",
+   "frame_i": 79,
+   "ref": "frames/f_000080.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    1482.24,
+    1343.52,
+    3840.0
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "wooden study table",
+    "product_type": "study table",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000080_i002",
+   "frame_i": 79,
+   "ref": "frames/f_000080.jpg",
+   "kind": "item",
+   "box": [
+    1166.4,
+    0.0,
+    2157.84,
+    1770.24
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "wooden wardrobe cabinet",
+    "product_type": "wardrobe",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "81": [
+  {
+   "id": "f_000082_b000",
+   "frame_i": 81,
+   "ref": "frames/f_000082.jpg",
+   "kind": "book",
+   "box": [
+    1492.56,
+    1992.96,
+    1669.68,
+    2519.04
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000082_b001",
+   "frame_i": 81,
+   "ref": "frames/f_000082.jpg",
+   "kind": "book",
+   "box": [
+    1566.0,
+    2081.28,
+    1749.6000000000001,
+    2557.44
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000082_b002",
+   "frame_i": 81,
+   "ref": "frames/f_000082.jpg",
+   "kind": "book",
+   "box": [
+    1652.4,
+    2173.4399999999996,
+    1805.76,
+    2603.52
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000082_b003",
+   "frame_i": 81,
+   "ref": "frames/f_000082.jpg",
+   "kind": "book",
+   "box": [
+    1686.96,
+    2211.8399999999997,
+    1870.56,
+    2645.7599999999998
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000082_b004",
+   "frame_i": 81,
+   "ref": "frames/f_000082.jpg",
+   "kind": "book",
+   "box": [
+    1721.52,
+    2284.7999999999997,
+    1905.1200000000001,
+    2684.16
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000082_b005",
+   "frame_i": 81,
+   "ref": "frames/f_000082.jpg",
+   "kind": "book",
+   "box": [
+    1786.32,
+    2346.24,
+    2021.7600000000002,
+    2711.04
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000082_i000",
+   "frame_i": 81,
+   "ref": "frames/f_000082.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    0.0,
+    2160.0,
+    3797.7599999999998
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "wooden cabinet with open door and shelves",
+    "product_type": "cabinet",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "84": [
+  {
+   "id": "f_000085_b000",
+   "frame_i": 84,
+   "ref": "frames/f_000085.jpg",
+   "kind": "book",
+   "box": [
+    295.92,
+    1670.4,
+    855.36,
+    3210.24
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000085_b001",
+   "frame_i": 84,
+   "ref": "frames/f_000085.jpg",
+   "kind": "book",
+   "box": [
+    403.92,
+    1793.2800000000002,
+    959.04,
+    3237.12
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000085_b002",
+   "frame_i": 84,
+   "ref": "frames/f_000085.jpg",
+   "kind": "book",
+   "box": [
+    606.96,
+    1866.24,
+    1054.08,
+    3233.2799999999997
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000085_b003",
+   "frame_i": 84,
+   "ref": "frames/f_000085.jpg",
+   "kind": "book",
+   "box": [
+    775.4399999999999,
+    2000.64,
+    1140.48,
+    3210.24
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000085_b004",
+   "frame_i": 84,
+   "ref": "frames/f_000085.jpg",
+   "kind": "book",
+   "box": [
+    900.7199999999999,
+    2004.48,
+    1205.2800000000002,
+    3221.7599999999998
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000085_b005",
+   "frame_i": 84,
+   "ref": "frames/f_000085.jpg",
+   "kind": "book",
+   "box": [
+    1008.72,
+    2081.28,
+    1289.52,
+    3237.12
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000085_b006",
+   "frame_i": 84,
+   "ref": "frames/f_000085.jpg",
+   "kind": "book",
+   "box": [
+    1121.04,
+    2200.3199999999997,
+    1574.6399999999999,
+    3252.48
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000085_i000",
+   "frame_i": 84,
+   "ref": "frames/f_000085.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    0.0,
+    2160.0,
+    3774.72
+   ],
+   "attrs": {
+    "category": "shelving",
+    "label": "wooden shelf unit",
+    "product_type": "shelving",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "86": [
+  {
+   "id": "f_000087_b000",
+   "frame_i": 86,
+   "ref": "frames/f_000087.jpg",
+   "kind": "book",
+   "box": [
+    479.52,
+    1459.2,
+    1021.68,
+    2991.36
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000087_b001",
+   "frame_i": 86,
+   "ref": "frames/f_000087.jpg",
+   "kind": "book",
+   "box": [
+    589.6800000000001,
+    1608.96,
+    1136.16,
+    3018.2400000000002
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000087_b002",
+   "frame_i": 86,
+   "ref": "frames/f_000087.jpg",
+   "kind": "book",
+   "box": [
+    784.0799999999999,
+    1689.6,
+    1216.08,
+    3025.92
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000087_b003",
+   "frame_i": 86,
+   "ref": "frames/f_000087.jpg",
+   "kind": "book",
+   "box": [
+    954.72,
+    1854.72,
+    1190.16,
+    3010.56
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000087_b004",
+   "frame_i": 86,
+   "ref": "frames/f_000087.jpg",
+   "kind": "book",
+   "box": [
+    1084.32,
+    1820.1599999999999,
+    1378.08,
+    3022.08
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000087_b005",
+   "frame_i": 86,
+   "ref": "frames/f_000087.jpg",
+   "kind": "book",
+   "box": [
+    1185.8400000000001,
+    1908.48,
+    1466.64,
+    3041.28
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000087_b006",
+   "frame_i": 86,
+   "ref": "frames/f_000087.jpg",
+   "kind": "book",
+   "box": [
+    1289.52,
+    2016.0,
+    1749.6000000000001,
+    3064.32
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000087_i000",
+   "frame_i": 86,
+   "ref": "frames/f_000087.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    0.0,
+    2160.0,
+    3793.92
+   ],
+   "attrs": {
+    "category": "shelving",
+    "label": "wooden cabinet with shelf",
+    "product_type": "storage cabinet",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "88": [
+  {
+   "id": "f_000089_b000",
+   "frame_i": 88,
+   "ref": "frames/f_000089.jpg",
+   "kind": "book",
+   "box": [
+    315.35999999999996,
+    1240.32,
+    926.64,
+    3025.92
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000089_b001",
+   "frame_i": 88,
+   "ref": "frames/f_000089.jpg",
+   "kind": "book",
+   "box": [
+    438.48,
+    1393.92,
+    1043.28,
+    3072.0
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000089_b002",
+   "frame_i": 88,
+   "ref": "frames/f_000089.jpg",
+   "kind": "book",
+   "box": [
+    676.08,
+    1520.64,
+    1177.2,
+    3068.1600000000003
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000089_b003",
+   "frame_i": 88,
+   "ref": "frames/f_000089.jpg",
+   "kind": "book",
+   "box": [
+    879.1199999999999,
+    1739.52,
+    1116.72,
+    3041.28
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000089_b004",
+   "frame_i": 88,
+   "ref": "frames/f_000089.jpg",
+   "kind": "book",
+   "box": [
+    1038.96,
+    1704.96,
+    1352.16,
+    3064.32
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000089_b005",
+   "frame_i": 88,
+   "ref": "frames/f_000089.jpg",
+   "kind": "book",
+   "box": [
+    1162.0800000000002,
+    1785.6000000000001,
+    1451.52,
+    3068.1600000000003
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000089_b006",
+   "frame_i": 88,
+   "ref": "frames/f_000089.jpg",
+   "kind": "book",
+   "box": [
+    1302.48,
+    1889.28,
+    1790.6399999999999,
+    3075.84
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000089_i000",
+   "frame_i": 88,
+   "ref": "frames/f_000089.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    0.0,
+    2160.0,
+    3840.0
+   ],
+   "attrs": {
+    "category": "shelving",
+    "label": "wooden shelf cabinet",
+    "product_type": "shelf",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "90": [
+  {
+   "id": "f_000091_b000",
+   "frame_i": 90,
+   "ref": "frames/f_000091.jpg",
+   "kind": "book",
+   "box": [
+    559.44,
+    1117.4399999999998,
+    1149.1200000000001,
+    3002.88
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000091_b001",
+   "frame_i": 90,
+   "ref": "frames/f_000091.jpg",
+   "kind": "book",
+   "box": [
+    682.5600000000001,
+    1290.24,
+    1023.8399999999999,
+    3041.28
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000091_b002",
+   "frame_i": 90,
+   "ref": "frames/f_000091.jpg",
+   "kind": "book",
+   "box": [
+    933.12,
+    1416.96,
+    1386.72,
+    3037.44
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000091_b003",
+   "frame_i": 90,
+   "ref": "frames/f_000091.jpg",
+   "kind": "book",
+   "box": [
+    1125.3600000000001,
+    1635.84,
+    1378.08,
+    3022.08
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000091_b004",
+   "frame_i": 90,
+   "ref": "frames/f_000091.jpg",
+   "kind": "book",
+   "box": [
+    1302.48,
+    1605.12,
+    1602.72,
+    3033.6000000000004
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000091_b005",
+   "frame_i": 90,
+   "ref": "frames/f_000091.jpg",
+   "kind": "book",
+   "box": [
+    1432.0800000000002,
+    1716.48,
+    1702.0800000000002,
+    3045.1200000000003
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000091_b006",
+   "frame_i": 90,
+   "ref": "frames/f_000091.jpg",
+   "kind": "book",
+   "box": [
+    1576.8,
+    1820.1599999999999,
+    2071.44,
+    3060.48
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000091_i000",
+   "frame_i": 90,
+   "ref": "frames/f_000091.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    0.0,
+    2160.0,
+    3770.88
+   ],
+   "attrs": {
+    "category": "shelving",
+    "label": "wooden cabinet with shelves",
+    "product_type": "cabinet",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "93": [
+  {
+   "id": "f_000094_b000",
+   "frame_i": 93,
+   "ref": "frames/f_000094.jpg",
+   "kind": "book",
+   "box": [
+    550.8,
+    1036.8000000000002,
+    1149.1200000000001,
+    2945.28
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000094_b001",
+   "frame_i": 93,
+   "ref": "frames/f_000094.jpg",
+   "kind": "book",
+   "box": [
+    667.4399999999999,
+    1224.96,
+    995.76,
+    2999.04
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000094_b002",
+   "frame_i": 93,
+   "ref": "frames/f_000094.jpg",
+   "kind": "book",
+   "box": [
+    909.36,
+    1363.1999999999998,
+    1421.28,
+    2995.2000000000003
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000094_b003",
+   "frame_i": 93,
+   "ref": "frames/f_000094.jpg",
+   "kind": "book",
+   "box": [
+    1116.72,
+    1593.6,
+    1334.8799999999999,
+    2983.6800000000003
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000094_b004",
+   "frame_i": 93,
+   "ref": "frames/f_000094.jpg",
+   "kind": "book",
+   "box": [
+    1289.52,
+    1570.56,
+    1587.6,
+    2999.04
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000094_b005",
+   "frame_i": 93,
+   "ref": "frames/f_000094.jpg",
+   "kind": "book",
+   "box": [
+    1414.8,
+    1670.4,
+    1645.92,
+    3010.56
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000094_b006",
+   "frame_i": 93,
+   "ref": "frames/f_000094.jpg",
+   "kind": "book",
+   "box": [
+    1555.2,
+    1797.1200000000001,
+    2086.56,
+    3048.96
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000094_i000",
+   "frame_i": 93,
+   "ref": "frames/f_000094.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    0.0,
+    2160.0,
+    3793.92
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "wooden shelf unit or cabinet interior",
+    "product_type": "wardrobe",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "95": [
+  {
+   "id": "f_000096_b000",
+   "frame_i": 95,
+   "ref": "frames/f_000096.jpg",
+   "kind": "book",
+   "box": [
+    1401.8400000000001,
+    1716.48,
+    1961.28,
+    2918.4
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000096_b001",
+   "frame_i": 95,
+   "ref": "frames/f_000096.jpg",
+   "kind": "book",
+   "box": [
+    1257.12,
+    1616.6399999999999,
+    1613.52,
+    2899.2
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000096_b002",
+   "frame_i": 95,
+   "ref": "frames/f_000096.jpg",
+   "kind": "book",
+   "box": [
+    1129.68,
+    1509.1200000000001,
+    1486.08,
+    2880.0
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000096_b003",
+   "frame_i": 95,
+   "ref": "frames/f_000096.jpg",
+   "kind": "book",
+   "box": [
+    976.32,
+    1551.3600000000001,
+    1216.08,
+    2872.32
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000096_b004",
+   "frame_i": 95,
+   "ref": "frames/f_000096.jpg",
+   "kind": "book",
+   "box": [
+    756.0,
+    1328.6399999999999,
+    1317.6,
+    2891.52
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000096_b005",
+   "frame_i": 95,
+   "ref": "frames/f_000096.jpg",
+   "kind": "book",
+   "box": [
+    511.91999999999996,
+    1205.76,
+    1185.8400000000001,
+    2880.0
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000096_b006",
+   "frame_i": 95,
+   "ref": "frames/f_000096.jpg",
+   "kind": "book",
+   "box": [
+    399.6,
+    1036.8000000000002,
+    1073.52,
+    2849.2799999999997
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000096_i000",
+   "frame_i": 95,
+   "ref": "frames/f_000096.jpg",
+   "kind": "item",
+   "box": [
+    1149.1200000000001,
+    1205.76,
+    2151.36,
+    2488.32
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "duffel bag",
+    "product_type": "bag",
+    "material": "fabric",
+    "brand_model": "Northeastern University",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000096_i001",
+   "frame_i": 95,
+   "ref": "frames/f_000096.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    0.0,
+    2160.0,
+    3797.7599999999998
+   ],
+   "attrs": {
+    "category": "shelving",
+    "label": "wooden shelf",
+    "product_type": "bookcase",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "97": [
+  {
+   "id": "f_000098_b000",
+   "frame_i": 97,
+   "ref": "frames/f_000098.jpg",
+   "kind": "book",
+   "box": [
+    473.04,
+    1213.44,
+    1101.6,
+    3041.28
+   ],
+   "attrs": {
+    "orientation": "leaning",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000098_b001",
+   "frame_i": 97,
+   "ref": "frames/f_000098.jpg",
+   "kind": "book",
+   "box": [
+    589.6800000000001,
+    1393.92,
+    948.24,
+    3087.36
+   ],
+   "attrs": {
+    "orientation": "leaning",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000098_b002",
+   "frame_i": 97,
+   "ref": "frames/f_000098.jpg",
+   "kind": "book",
+   "box": [
+    822.96,
+    1505.28,
+    1354.32,
+    3083.52
+   ],
+   "attrs": {
+    "orientation": "leaning",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000098_b003",
+   "frame_i": 97,
+   "ref": "frames/f_000098.jpg",
+   "kind": "book",
+   "box": [
+    1030.32,
+    1720.32,
+    1285.2,
+    3072.0
+   ],
+   "attrs": {
+    "orientation": "leaning",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000098_b004",
+   "frame_i": 97,
+   "ref": "frames/f_000098.jpg",
+   "kind": "book",
+   "box": [
+    1185.8400000000001,
+    1670.4,
+    1544.3999999999999,
+    3087.36
+   ],
+   "attrs": {
+    "orientation": "leaning",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000098_b005",
+   "frame_i": 97,
+   "ref": "frames/f_000098.jpg",
+   "kind": "book",
+   "box": [
+    1321.92,
+    1777.92,
+    1663.2,
+    3102.7200000000003
+   ],
+   "attrs": {
+    "orientation": "leaning",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000098_b006",
+   "frame_i": 97,
+   "ref": "frames/f_000098.jpg",
+   "kind": "book",
+   "box": [
+    1468.8000000000002,
+    1889.28,
+    2021.7600000000002,
+    3141.12
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000098_i000",
+   "frame_i": 97,
+   "ref": "frames/f_000098.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    0.0,
+    2160.0,
+    3778.56
+   ],
+   "attrs": {
+    "category": "shelving",
+    "label": "wooden shelf cabinet",
+    "product_type": "shelving",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "99": [
+  {
+   "id": "f_000100_b000",
+   "frame_i": 99,
+   "ref": "frames/f_000100.jpg",
+   "kind": "book",
+   "box": [
+    438.48,
+    1190.4,
+    1136.16,
+    2976.0
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000100_b001",
+   "frame_i": 99,
+   "ref": "frames/f_000100.jpg",
+   "kind": "book",
+   "box": [
+    561.6,
+    1363.1999999999998,
+    954.72,
+    3018.2400000000002
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000100_b002",
+   "frame_i": 99,
+   "ref": "frames/f_000100.jpg",
+   "kind": "book",
+   "box": [
+    794.88,
+    1474.56,
+    1352.16,
+    3022.08
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000100_b003",
+   "frame_i": 99,
+   "ref": "frames/f_000100.jpg",
+   "kind": "book",
+   "box": [
+    1008.72,
+    1678.08,
+    1261.4399999999998,
+    3014.4
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000100_b004",
+   "frame_i": 99,
+   "ref": "frames/f_000100.jpg",
+   "kind": "book",
+   "box": [
+    1149.1200000000001,
+    1635.84,
+    1524.9599999999998,
+    3018.2400000000002
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000100_b005",
+   "frame_i": 99,
+   "ref": "frames/f_000100.jpg",
+   "kind": "book",
+   "box": [
+    1267.9199999999998,
+    1716.48,
+    1641.6,
+    3045.1200000000003
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000100_b006",
+   "frame_i": 99,
+   "ref": "frames/f_000100.jpg",
+   "kind": "book",
+   "box": [
+    1432.0800000000002,
+    1854.72,
+    1991.52,
+    3068.1600000000003
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "101": [
+  {
+   "id": "f_000102_b000",
+   "frame_i": 101,
+   "ref": "frames/f_000102.jpg",
+   "kind": "book",
+   "box": [
+    1308.96,
+    1758.72,
+    1870.56,
+    2945.28
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000102_b001",
+   "frame_i": 101,
+   "ref": "frames/f_000102.jpg",
+   "kind": "book",
+   "box": [
+    1157.76,
+    1635.84,
+    1527.12,
+    2926.08
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000102_b002",
+   "frame_i": 101,
+   "ref": "frames/f_000102.jpg",
+   "kind": "book",
+   "box": [
+    1041.12,
+    1551.3600000000001,
+    1423.44,
+    2903.04
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000102_b003",
+   "frame_i": 101,
+   "ref": "frames/f_000102.jpg",
+   "kind": "book",
+   "box": [
+    900.7199999999999,
+    1582.08,
+    1136.16,
+    2899.2
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000102_b004",
+   "frame_i": 101,
+   "ref": "frames/f_000102.jpg",
+   "kind": "book",
+   "box": [
+    671.76,
+    1363.1999999999998,
+    1239.84,
+    2910.7200000000003
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000102_b005",
+   "frame_i": 101,
+   "ref": "frames/f_000102.jpg",
+   "kind": "book",
+   "box": [
+    438.48,
+    1251.8400000000001,
+    1036.8,
+    2918.4
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000102_b006",
+   "frame_i": 101,
+   "ref": "frames/f_000102.jpg",
+   "kind": "book",
+   "box": [
+    334.8,
+    1086.7199999999998,
+    1015.1999999999999,
+    2880.0
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000102_i000",
+   "frame_i": 101,
+   "ref": "frames/f_000102.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    0.0,
+    2160.0,
+    3793.92
+   ],
+   "attrs": {
+    "category": "shelving",
+    "label": "wooden cabinet shelving unit",
+    "product_type": "cabinet",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "104": [
+  {
+   "id": "f_000105_b000",
+   "frame_i": 104,
+   "ref": "frames/f_000105.jpg",
+   "kind": "book",
+   "box": [
+    30.240000000000002,
+    1977.6000000000001,
+    386.64,
+    3056.6400000000003
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000105_b001",
+   "frame_i": 104,
+   "ref": "frames/f_000105.jpg",
+   "kind": "book",
+   "box": [
+    2.16,
+    1808.6399999999999,
+    196.56,
+    3018.2400000000002
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000105_i000",
+   "frame_i": 104,
+   "ref": "frames/f_000105.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    0.0,
+    2160.0,
+    3840.0
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "wooden shelf unit or cabinet interior",
+    "product_type": "cabinet",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "106": [
+  {
+   "id": "f_000107_b000",
+   "frame_i": 106,
+   "ref": "frames/f_000107.jpg",
+   "kind": "book",
+   "box": [
+    194.4,
+    3310.08,
+    479.52,
+    3809.2799999999997
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000107_b001",
+   "frame_i": 106,
+   "ref": "frames/f_000107.jpg",
+   "kind": "book",
+   "box": [
+    393.12,
+    3417.6,
+    594.0,
+    3816.96
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000107_b002",
+   "frame_i": 106,
+   "ref": "frames/f_000107.jpg",
+   "kind": "book",
+   "box": [
+    529.2,
+    3486.7200000000003,
+    658.8,
+    3816.96
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000107_b003",
+   "frame_i": 106,
+   "ref": "frames/f_000107.jpg",
+   "kind": "book",
+   "box": [
+    587.5200000000001,
+    3517.44,
+    723.6,
+    3813.12
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000107_b004",
+   "frame_i": 106,
+   "ref": "frames/f_000107.jpg",
+   "kind": "book",
+   "box": [
+    691.2,
+    3567.36,
+    803.52,
+    3832.32
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000107_b005",
+   "frame_i": 106,
+   "ref": "frames/f_000107.jpg",
+   "kind": "book",
+   "box": [
+    766.8,
+    3613.4399999999996,
+    864.0,
+    3840.0
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000107_b006",
+   "frame_i": 106,
+   "ref": "frames/f_000107.jpg",
+   "kind": "book",
+   "box": [
+    859.6800000000001,
+    3674.8799999999997,
+    1075.68,
+    3840.0
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000107_i000",
+   "frame_i": 106,
+   "ref": "frames/f_000107.jpg",
+   "kind": "item",
+   "box": [
+    1645.92,
+    2568.96,
+    2142.72,
+    3098.88
+   ],
+   "attrs": {
+    "category": "electronics",
+    "label": "wireless charger or payment puck",
+    "product_type": "wireless charger",
+    "material": "plastic",
+    "brand_model": "pine labs",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000107_i001",
+   "frame_i": 106,
+   "ref": "frames/f_000107.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    1866.24,
+    939.6,
+    2449.92
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "UNO card game box",
+    "product_type": "board game",
+    "material": "cardboard",
+    "brand_model": "UNO",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000107_i002",
+   "frame_i": 106,
+   "ref": "frames/f_000107.jpg",
+   "kind": "item",
+   "box": [
+    1242.0,
+    1528.3200000000002,
+    2149.2,
+    2092.8
+   ],
+   "attrs": {
+    "category": "other",
+    "label": "cardboard product box",
+    "product_type": "box",
+    "material": "cardboard",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000107_i003",
+   "frame_i": 106,
+   "ref": "frames/f_000107.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    0.0,
+    2149.2,
+    3797.7599999999998
+   ],
+   "attrs": {
+    "category": "shelving",
+    "label": "wooden bookcase shelf",
+    "product_type": "bookcase",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "108": [
+  {
+   "id": "f_000109_b000",
+   "frame_i": 108,
+   "ref": "frames/f_000109.jpg",
+   "kind": "book",
+   "box": [
+    41.04,
+    3502.08,
+    248.4,
+    3840.0
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000109_b001",
+   "frame_i": 108,
+   "ref": "frames/f_000109.jpg",
+   "kind": "book",
+   "box": [
+    205.2,
+    3559.6800000000003,
+    403.92,
+    3840.0
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000109_b002",
+   "frame_i": 108,
+   "ref": "frames/f_000109.jpg",
+   "kind": "book",
+   "box": [
+    352.08000000000004,
+    3601.9199999999996,
+    473.04,
+    3840.0
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000109_b003",
+   "frame_i": 108,
+   "ref": "frames/f_000109.jpg",
+   "kind": "book",
+   "box": [
+    438.48,
+    3644.16,
+    552.96,
+    3840.0
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000109_b004",
+   "frame_i": 108,
+   "ref": "frames/f_000109.jpg",
+   "kind": "book",
+   "box": [
+    557.28,
+    3674.8799999999997,
+    781.92,
+    3840.0
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000109_i000",
+   "frame_i": 108,
+   "ref": "frames/f_000109.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    0.0,
+    2151.36,
+    3793.92
+   ],
+   "attrs": {
+    "category": "shelving",
+    "label": "wooden bookcase shelf",
+    "product_type": "bookcase",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000109_i001",
+   "frame_i": 108,
+   "ref": "frames/f_000109.jpg",
+   "kind": "item",
+   "box": [
+    1289.52,
+    2711.04,
+    1905.1200000000001,
+    3156.48
+   ],
+   "attrs": {
+    "category": "electronics",
+    "label": "wireless charger pad",
+    "product_type": "wireless charger",
+    "material": "plastic",
+    "brand_model": "pine labs",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "111": [
+  {
+   "id": "f_000112_b000",
+   "frame_i": 111,
+   "ref": "frames/f_000112.jpg",
+   "kind": "book",
+   "box": [
+    207.36,
+    3014.4,
+    488.16,
+    3820.8
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000112_b001",
+   "frame_i": 111,
+   "ref": "frames/f_000112.jpg",
+   "kind": "book",
+   "box": [
+    386.64,
+    3041.28,
+    626.4,
+    3832.32
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000112_b002",
+   "frame_i": 111,
+   "ref": "frames/f_000112.jpg",
+   "kind": "book",
+   "box": [
+    488.16,
+    3060.48,
+    745.1999999999999,
+    3828.48
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000112_b003",
+   "frame_i": 111,
+   "ref": "frames/f_000112.jpg",
+   "kind": "book",
+   "box": [
+    594.0,
+    3075.84,
+    855.36,
+    3828.48
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000112_b004",
+   "frame_i": 111,
+   "ref": "frames/f_000112.jpg",
+   "kind": "book",
+   "box": [
+    723.6,
+    3102.7200000000003,
+    1142.64,
+    3824.64
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000112_b005",
+   "frame_i": 111,
+   "ref": "frames/f_000112.jpg",
+   "kind": "book",
+   "box": [
+    25.92,
+    2979.84,
+    321.84,
+    3820.8
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000112_b006",
+   "frame_i": 111,
+   "ref": "frames/f_000112.jpg",
+   "kind": "book",
+   "box": [
+    0.0,
+    2968.32,
+    203.04,
+    3816.96
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000112_i000",
+   "frame_i": 111,
+   "ref": "frames/f_000112.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    0.0,
+    2160.0,
+    3801.6
+   ],
+   "attrs": {
+    "category": "shelving",
+    "label": "wooden bookcase shelf unit",
+    "product_type": "bookcase",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "113": [
+  {
+   "id": "f_000114_b000",
+   "frame_i": 113,
+   "ref": "frames/f_000114.jpg",
+   "kind": "book",
+   "box": [
+    73.44000000000001,
+    2906.88,
+    412.56,
+    3836.16
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000114_b001",
+   "frame_i": 113,
+   "ref": "frames/f_000114.jpg",
+   "kind": "book",
+   "box": [
+    272.16,
+    2929.92,
+    561.6,
+    3832.32
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000114_b002",
+   "frame_i": 113,
+   "ref": "frames/f_000114.jpg",
+   "kind": "book",
+   "box": [
+    457.91999999999996,
+    2968.32,
+    710.64,
+    3832.32
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000114_b003",
+   "frame_i": 113,
+   "ref": "frames/f_000114.jpg",
+   "kind": "book",
+   "box": [
+    565.9200000000001,
+    2983.6800000000003,
+    781.92,
+    3836.16
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000114_b004",
+   "frame_i": 113,
+   "ref": "frames/f_000114.jpg",
+   "kind": "book",
+   "box": [
+    658.8,
+    3014.4,
+    855.36,
+    3832.32
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000114_b005",
+   "frame_i": 113,
+   "ref": "frames/f_000114.jpg",
+   "kind": "book",
+   "box": [
+    779.76,
+    3022.08,
+    1149.1200000000001,
+    3836.16
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000114_b006",
+   "frame_i": 113,
+   "ref": "frames/f_000114.jpg",
+   "kind": "book",
+   "box": [
+    1000.08,
+    3087.36,
+    1209.6000000000001,
+    3840.0
+   ],
+   "attrs": {
+    "orientation": "upright",
+    "spine_facing": true,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000114_i000",
+   "frame_i": 113,
+   "ref": "frames/f_000114.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    0.0,
+    2160.0,
+    3840.0
+   ],
+   "attrs": {
+    "category": "shelving",
+    "label": "wooden bookcase shelf",
+    "product_type": "bookcase",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "116": [
+  {
+   "id": "f_000117_i000",
+   "frame_i": 116,
+   "ref": "frames/f_000117.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    0.0,
+    2160.0,
+    3793.92
+   ],
+   "attrs": {
+    "category": "shelving",
+    "label": "wooden shelving unit",
+    "product_type": "shelving unit",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "121": [],
+ "123": [],
+ "126": [
+  {
+   "id": "f_000127_a000",
+   "frame_i": 126,
+   "ref": "frames/f_000127.jpg",
+   "kind": "anchor",
+   "box": [
+    589.6800000000001,
+    126.72,
+    2160.0,
+    3840.0
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "128": [
+  {
+   "id": "f_000129_a000",
+   "frame_i": 128,
+   "ref": "frames/f_000129.jpg",
+   "kind": "anchor",
+   "box": [
+    0.0,
+    122.88,
+    1630.8,
+    3836.16
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "131": [],
+ "134": [
+  {
+   "id": "f_000135_a000",
+   "frame_i": 134,
+   "ref": "frames/f_000135.jpg",
+   "kind": "anchor",
+   "box": [
+    1710.72,
+    533.76,
+    2160.0,
+    3832.32
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "137": [
+  {
+   "id": "f_000138_a000",
+   "frame_i": 137,
+   "ref": "frames/f_000138.jpg",
+   "kind": "anchor",
+   "box": [
+    0.0,
+    625.9200000000001,
+    663.12,
+    3840.0
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "139": [
+  {
+   "id": "f_000140_i000",
+   "frame_i": 139,
+   "ref": "frames/f_000140.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    3336.96,
+    2160.0,
+    3836.16
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "bed with patterned bedding",
+    "product_type": "bed",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "141": [
+  {
+   "id": "f_000142_i000",
+   "frame_i": 141,
+   "ref": "frames/f_000142.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    2542.08,
+    2160.0,
+    3840.0
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "bed with upholstered headboard",
+    "product_type": "bed",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "143": [
+  {
+   "id": "f_000144_i000",
+   "frame_i": 143,
+   "ref": "frames/f_000144.jpg",
+   "kind": "item",
+   "box": [
+    1030.32,
+    288.0,
+    2160.0,
+    602.88
+   ],
+   "attrs": {
+    "category": "lighting",
+    "label": "tube light",
+    "product_type": "tube light",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000144_i001",
+   "frame_i": 143,
+   "ref": "frames/f_000144.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    2415.36,
+    1719.3600000000001,
+    3836.16
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "bed with upholstered headboard",
+    "product_type": "double bed",
+    "material": "fabric",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "145": [
+  {
+   "id": "f_000146_i000",
+   "frame_i": 145,
+   "ref": "frames/f_000146.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    157.44,
+    1198.8000000000002,
+    353.28
+   ],
+   "attrs": {
+    "category": "lighting",
+    "label": "tube light",
+    "product_type": "tube light",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000146_i001",
+   "frame_i": 145,
+   "ref": "frames/f_000146.jpg",
+   "kind": "item",
+   "box": [
+    1142.64,
+    645.12,
+    2160.0,
+    3809.2799999999997
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "wooden wardrobe with open door",
+    "product_type": "wardrobe",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000146_i002",
+   "frame_i": 145,
+   "ref": "frames/f_000146.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    2929.92,
+    591.84,
+    3840.0
+   ],
+   "attrs": {
+    "category": "electronics",
+    "label": "laptop",
+    "product_type": "laptop",
+    "material": "metal",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "148": [
+  {
+   "id": "f_000149_i000",
+   "frame_i": 148,
+   "ref": "frames/f_000149.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    0.0,
+    1468.8000000000002,
+    3840.0
+   ],
+   "attrs": {
+    "category": "furniture",
+    "label": "wooden wardrobe unit",
+    "product_type": "wardrobe",
+    "material": "wood",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000149_i001",
+   "frame_i": 148,
+   "ref": "frames/f_000149.jpg",
+   "kind": "item",
+   "box": [
+    1442.88,
+    2088.96,
+    1596.24,
+    2353.92
+   ],
+   "attrs": {
+    "category": "appliance",
+    "label": "plug-in mosquito repellent",
+    "product_type": "mosquito repellent",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "150": [
+  {
+   "id": "f_000151_a000",
+   "frame_i": 150,
+   "ref": "frames/f_000151.jpg",
+   "kind": "anchor",
+   "box": [
+    358.56,
+    399.35999999999996,
+    2160.0,
+    3840.0
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "152": [
+  {
+   "id": "f_000153_a000",
+   "frame_i": 152,
+   "ref": "frames/f_000153.jpg",
+   "kind": "anchor",
+   "box": [
+    0.0,
+    126.72,
+    2160.0,
+    3840.0
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "154": [
+  {
+   "id": "f_000155_a000",
+   "frame_i": 154,
+   "ref": "frames/f_000155.jpg",
+   "kind": "anchor",
+   "box": [
+    1257.12,
+    341.76,
+    2160.0,
+    3840.0
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "157": [
+  {
+   "id": "f_000158_i000",
+   "frame_i": 157,
+   "ref": "frames/f_000158.jpg",
+   "kind": "item",
+   "box": [
+    0.0,
+    1574.3999999999999,
+    2080.08,
+    3325.44
+   ],
+   "attrs": {
+    "category": "appliance",
+    "label": "ceiling fan",
+    "product_type": "ceiling fan",
+    "material": "metal",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "159": [
+  {
+   "id": "f_000160_i000",
+   "frame_i": 159,
+   "ref": "frames/f_000160.jpg",
+   "kind": "item",
+   "box": [
+    1550.8799999999999,
+    414.71999999999997,
+    2160.0,
+    1032.96
+   ],
+   "attrs": {
+    "category": "appliance",
+    "label": "ceiling fan blade",
+    "product_type": "ceiling fan",
+    "material": "metal",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "162": [
+  {
+   "id": "f_000163_a000",
+   "frame_i": 162,
+   "ref": "frames/f_000163.jpg",
+   "kind": "anchor",
+   "box": [
+    300.24,
+    2607.36,
+    738.72,
+    3828.48
+   ],
+   "attrs": {
+    "kind": "door",
+    "fully_visible": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ],
+ "167": [
+  {
+   "id": "f_000168_i000",
+   "frame_i": 167,
+   "ref": "frames/f_000168.jpg",
+   "kind": "item",
+   "box": [
+    58.32,
+    445.44,
+    2153.52,
+    1716.48
+   ],
+   "attrs": {
+    "category": "appliance",
+    "label": "ceiling fan",
+    "product_type": "ceiling fan",
+    "material": "metal",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": false,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  },
+  {
+   "id": "f_000168_i001",
+   "frame_i": 167,
+   "ref": "frames/f_000168.jpg",
+   "kind": "item",
+   "box": [
+    1779.84,
+    2369.2799999999997,
+    2157.84,
+    2511.36
+   ],
+   "attrs": {
+    "category": "lighting",
+    "label": "LED tube light",
+    "product_type": "tube light",
+    "material": "plastic",
+    "brand_model": "",
+    "is_artwork": false,
+    "cut_off": true,
+    "_frame_w": 2160,
+    "_frame_h": 3840
+   }
+  }
+ ]
+}

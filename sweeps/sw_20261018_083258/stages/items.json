@@ -1,0 +1,463 @@
+[
+ {
+  "id": "item_001",
+  "category": "furniture",
+  "label": "single bed with mattress and bedding",
+  "material": "fabric, metal",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000024.jpg",
+  "sightings": [
+   "f_000019_i000",
+   "f_000022_i000",
+   "f_000024_i000",
+   "f_000027_i000",
+   "f_000029_i000",
+   "f_000031_i000",
+   "f_000034_i002",
+   "f_000036_i000",
+   "f_000038_i002",
+   "f_000057_i000",
+   "f_000057_i001",
+   "f_000060_i000",
+   "f_000062_i004",
+   "f_000062_i005",
+   "f_000070_i001",
+   "f_000140_i000",
+   "f_000142_i000",
+   "f_000144_i001"
+  ],
+  "dims_cm": {
+   "w": 104.0,
+   "h": 121.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 1 view(s); depth not measured",
+  "confidence": 0.95,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "bed"
+ },
+ {
+  "id": "item_002",
+  "category": "other",
+  "label": "fabric laundry hamper",
+  "material": "fabric",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000055.jpg",
+  "sightings": [
+   "f_000019_i001",
+   "f_000022_i001",
+   "f_000024_i001",
+   "f_000027_i002",
+   "f_000029_i001",
+   "f_000031_i001",
+   "f_000034_i000",
+   "f_000036_i001",
+   "f_000038_i000",
+   "f_000040_i001",
+   "f_000043_i000",
+   "f_000055_i001"
+  ],
+  "dims_cm": {
+   "w": 52.0,
+   "h": 67.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 9 view(s); depth not measured",
+  "confidence": 0.95,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "laundry hamper"
+ },
+ {
+  "id": "item_003",
+  "category": "other",
+  "label": "blue plastic bucket",
+  "material": "plastic",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000055.jpg",
+  "sightings": [
+   "f_000019_i002",
+   "f_000022_i002",
+   "f_000024_i002",
+   "f_000027_i001",
+   "f_000029_i002",
+   "f_000031_i002",
+   "f_000034_i001",
+   "f_000036_i003",
+   "f_000038_i001",
+   "f_000040_i002",
+   "f_000055_i002"
+  ],
+  "dims_cm": {
+   "w": 34.0,
+   "h": 53.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 9 view(s); depth not measured",
+  "confidence": 0.95,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "bucket"
+ },
+ {
+  "id": "item_004",
+  "category": "rug",
+  "label": "patterned floor mat",
+  "material": "fabric",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000055.jpg",
+  "sightings": [
+   "f_000022_i003",
+   "f_000024_i003",
+   "f_000029_i003",
+   "f_000034_i003",
+   "f_000038_i003",
+   "f_000040_i000",
+   "f_000055_i000"
+  ],
+  "dims_cm": {
+   "w": 64.0,
+   "h": 28.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 5 view(s); depth not measured",
+  "confidence": 0.95,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "mat"
+ },
+ {
+  "id": "item_005",
+  "category": "furniture",
+  "label": "wooden bedside table",
+  "material": "wood",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000067.jpg",
+  "sightings": [
+   "f_000036_i002",
+   "f_000062_i002",
+   "f_000065_i000",
+   "f_000067_i002",
+   "f_000080_i001"
+  ],
+  "dims_cm": {
+   "w": null,
+   "h": null,
+   "d": null
+  },
+  "dims_method": "",
+  "confidence": 0.9,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "bedside table"
+ },
+ {
+  "id": "item_006",
+  "category": "electronics",
+  "label": "laptop",
+  "material": "metal",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000077.jpg",
+  "sightings": [
+   "f_000062_i000",
+   "f_000065_i002",
+   "f_000067_i001",
+   "f_000070_i000",
+   "f_000072_i000",
+   "f_000075_i000",
+   "f_000077_i000",
+   "f_000080_i000",
+   "f_000146_i002"
+  ],
+  "dims_cm": {
+   "w": 65.0,
+   "h": 78.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 5 view(s); depth not measured",
+  "confidence": 0.95,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "laptop"
+ },
+ {
+  "id": "item_007",
+  "category": "decor",
+  "label": "stainless steel water bottle",
+  "material": "stainless steel",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000065.jpg",
+  "sightings": [
+   "f_000062_i001",
+   "f_000065_i001",
+   "f_000067_i000"
+  ],
+  "dims_cm": {
+   "w": 14.0,
+   "h": 46.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 2 view(s); depth not measured",
+  "confidence": 0.9,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "water bottle"
+ },
+ {
+  "id": "item_008",
+  "category": "other",
+  "label": "black backpack",
+  "material": "fabric",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000065.jpg",
+  "sightings": [
+   "f_000062_i003",
+   "f_000065_i003",
+   "f_000067_i004",
+   "f_000077_i001"
+  ],
+  "dims_cm": {
+   "w": 61.0,
+   "h": 39.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 2 view(s); depth not measured",
+  "confidence": 0.95,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "backpack"
+ },
+ {
+  "id": "item_009",
+  "category": "shelving",
+  "label": "wooden shelf cabinet",
+  "material": "wood",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000089.jpg",
+  "sightings": [
+   "f_000065_i004",
+   "f_000067_i003",
+   "f_000072_i001",
+   "f_000075_i001",
+   "f_000075_i002",
+   "f_000080_i002",
+   "f_000082_i000",
+   "f_000085_i000",
+   "f_000087_i000",
+   "f_000089_i000",
+   "f_000091_i000",
+   "f_000094_i000",
+   "f_000096_i001",
+   "f_000098_i000",
+   "f_000102_i000",
+   "f_000107_i003",
+   "f_000109_i000",
+   "f_000112_i000",
+   "f_000114_i000",
+   "f_000117_i000",
+   "f_000146_i001",
+   "f_000149_i000"
+  ],
+  "dims_cm": {
+   "w": null,
+   "h": null,
+   "d": null
+  },
+  "dims_method": "",
+  "confidence": 0.95,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "wardrobe"
+ },
+ {
+  "id": "item_010",
+  "category": "other",
+  "label": "duffel bag",
+  "material": "fabric",
+  "brand_model": "Northeastern University",
+  "is_artwork": false,
+  "frame_ref": "frames/f_000096.jpg",
+  "sightings": [
+   "f_000096_i000"
+  ],
+  "dims_cm": {
+   "w": null,
+   "h": null,
+   "d": null
+  },
+  "dims_method": "",
+  "confidence": 0.5,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "bag"
+ },
+ {
+  "id": "item_011",
+  "category": "furniture",
+  "label": "wooden shelf unit or cabinet interior",
+  "material": "wood",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000105.jpg",
+  "sightings": [
+   "f_000105_i000"
+  ],
+  "dims_cm": {
+   "w": null,
+   "h": null,
+   "d": null
+  },
+  "dims_method": "",
+  "confidence": 0.5,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "cabinet"
+ },
+ {
+  "id": "item_012",
+  "category": "electronics",
+  "label": "wireless charger pad",
+  "material": "plastic",
+  "brand_model": "pine labs",
+  "is_artwork": false,
+  "frame_ref": "frames/f_000109.jpg",
+  "sightings": [
+   "f_000107_i000",
+   "f_000109_i001"
+  ],
+  "dims_cm": {
+   "w": 14.0,
+   "h": 12.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 2 view(s); depth not measured",
+  "confidence": 0.8,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "wireless charger"
+ },
+ {
+  "id": "item_013",
+  "category": "other",
+  "label": "UNO card game box",
+  "material": "cardboard",
+  "brand_model": "UNO",
+  "is_artwork": false,
+  "frame_ref": "frames/f_000107.jpg",
+  "sightings": [
+   "f_000107_i001"
+  ],
+  "dims_cm": {
+   "w": 29.0,
+   "h": 18.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 1 view(s); depth not measured",
+  "confidence": 0.7,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "board game"
+ },
+ {
+  "id": "item_014",
+  "category": "other",
+  "label": "cardboard product box",
+  "material": "cardboard",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000107.jpg",
+  "sightings": [
+   "f_000107_i002"
+  ],
+  "dims_cm": {
+   "w": 28.0,
+   "h": 18.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 1 view(s); depth not measured",
+  "confidence": 0.7,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "box"
+ },
+ {
+  "id": "item_015",
+  "category": "lighting",
+  "label": "tube light",
+  "material": "plastic",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000144.jpg",
+  "sightings": [
+   "f_000144_i000",
+   "f_000146_i000",
+   "f_000168_i001"
+  ],
+  "dims_cm": {
+   "w": 107.0,
+   "h": 24.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 2 view(s); depth not measured",
+  "confidence": 0.9,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "tube light"
+ },
+ {
+  "id": "item_016",
+  "category": "appliance",
+  "label": "plug-in mosquito repellent",
+  "material": "plastic",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000149.jpg",
+  "sightings": [
+   "f_000149_i001"
+  ],
+  "dims_cm": {
+   "w": 9.0,
+   "h": 15.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 1 view(s); depth not measured",
+  "confidence": 0.7,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "mosquito repellent"
+ },
+ {
+  "id": "item_017",
+  "category": "appliance",
+  "label": "ceiling fan",
+  "material": "metal",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000158.jpg",
+  "sightings": [
+   "f_000158_i000",
+   "f_000160_i000",
+   "f_000168_i000"
+  ],
+  "dims_cm": {
+   "w": 160.0,
+   "h": 114.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 2 view(s); depth not measured",
+  "confidence": 0.9,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "ceiling fan"
+ }
+]

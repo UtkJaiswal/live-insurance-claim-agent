@@ -1,0 +1,63 @@
+{
+ "country_a": "IN",
+ "currency_a": "INR",
+ "country_b": "US",
+ "currency_b": "USD",
+ "books": [
+  {
+   "id": "book_009",
+   "title": "How to Prepare for DATA INTERPRETATION for CAT",
+   "a": 349.0,
+   "a_conv": false,
+   "b": 30.73,
+   "b_conv": false,
+   "b_source": "amazon.com (seller: Pappy Mart) via retailer page fetched with TinyFish (1 matching offer, lower quartile)",
+   "b_url": "https://www.amazon.com/How-Prepare-Data-Interpretation-Cat/dp/9354600611",
+   "b_retrieved_at": "2026-10-18T03:07:46+00:00"
+  },
+  {
+   "id": "book_010",
+   "title": "How to Prepare for DATA INTERPRETATION for CAT",
+   "a": 349.0,
+   "a_conv": false,
+   "b": 30.73,
+   "b_conv": false,
+   "b_source": "amazon.com (seller: Pappy Mart) via retailer page fetched with TinyFish (1 matching offer, lower quartile)",
+   "b_url": "https://www.amazon.com/How-Prepare-Data-Interpretation-Cat/dp/9354600611",
+   "b_retrieved_at": "2026-10-18T03:07:46+00:00"
+  },
+  {
+   "id": "book_014",
+   "title": "The Monk Who Sold His Ferrari",
+   "a": 225.0,
+   "a_conv": false,
+   "b": null,
+   "b_conv": false,
+   "b_source": null,
+   "b_url": null,
+   "b_retrieved_at": null
+  },
+  {
+   "id": "book_015",
+   "title": "Ignited Minds",
+   "a": 210.0,
+   "a_conv": false,
+   "b": null,
+   "b_conv": false,
+   "b_source": null,
+   "b_url": null,
+   "b_retrieved_at": null
+  },
+  {
+   "id": "book_016",
+   "title": "Word Power Made Easy",
+   "a": 131.0,
+   "a_conv": false,
+   "b": 15.72,
+   "b_conv": false,
+   "b_source": "amazon.com (seller: Hawking Books) via retailer page fetched with TinyFish (2 matching offers, lower quartile)",
+   "b_url": "https://www.amazon.com/Word-Power-Made-Norman-Lewis/dp/B00142GFUC",
+   "b_retrieved_at": "2026-10-17T15:16:28+00:00"
+  }
+ ]
+}

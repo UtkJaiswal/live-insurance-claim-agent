@@ -1,0 +1,963 @@
+{
+  "sweep": {
+    "id": "sw_20261018_083258",
+    "captured_at": "2026-10-18T03:02:58+00:00",
+    "device": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/442.5.993077048 Mobile/15E148 Safari/604.1",
+    "duration_s": 150.6,
+    "country": "IN",
+    "currency": "INR"
+  },
+  "room": {
+    "length_m": null,
+    "width_m": null,
+    "height_m": null,
+    "floor_area_m2": null,
+    "wall_area_m2": null,
+    "shelved_wall_area_m2": null,
+    "scale_method": "3D reconstruction (DA3-BASE) scaled by 10 door anchors; up from accelerometer gravity (48 frames)",
+    "confidence": 0.0,
+    "floor_area_ft2": null,
+    "wall_area_ft2": null,
+    "shape_notes": ""
+  },
+  "books": [
+    {
+      "id": "book_001",
+      "shelf": "Unit J shelf 1",
+      "position": 1,
+      "frame_ref": "frames/f_000067.jpg#xywh=0,2415,991,872",
+      "status": "unidentified",
+      "title": null,
+      "author": null,
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 41.0,
+      "spine_thickness_cm": null,
+      "id_confidence": 0.0,
+      "replacement_cost": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "used_value": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "condition_assumed": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "orientation": "flat",
+      "spine_text_read": null,
+      "catalogue_url": null,
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out); flat book: thickness not measured (box includes the cover seen at an angle)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_007",
+      "shelf": "Unit L shelf 1",
+      "position": 1,
+      "frame_ref": "frames/f_000105.jpg#xywh=2,1809,195,1209",
+      "status": "unidentified",
+      "title": null,
+      "author": null,
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 57.7,
+      "spine_thickness_cm": 8.5,
+      "id_confidence": 0.0,
+      "replacement_cost": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "used_value": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "condition_assumed": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "orientation": "upright",
+      "spine_text_read": null,
+      "catalogue_url": null,
+      "measurement_method": "standard-format prior (median upright book = 21 cm)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_009",
+      "shelf": "Unit L shelf 2",
+      "position": 2,
+      "frame_ref": "frames/f_000114.jpg#xywh=73,2907,340,929",
+      "status": "identified",
+      "title": "How to Prepare for DATA INTERPRETATION for CAT",
+      "author": "Sharma",
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 30.6,
+      "spine_thickness_cm": 11.2,
+      "id_confidence": 0.66,
+      "replacement_cost": {
+        "amount": 349.0,
+        "source": "amazon.in (seller: Amazon) via retailer page fetched with TinyFish (2 matching offers, lower quartile)",
+        "url": "https://www.amazon.in/How-Prepare-Data-Interpretation-Cat/dp/9339205596",
+        "retrieved_at": "2026-10-18T03:06:17+00:00",
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "used_value": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "condition_assumed": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "orientation": "upright",
+      "spine_text_read": "Sharma | 5TH EDITION | How to Prepare for DATA INTERPRETATION for CAT",
+      "catalogue_url": null,
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_010",
+      "shelf": "Unit L shelf 2",
+      "position": 3,
+      "frame_ref": "frames/f_000100.jpg#xywh=438,1190,698,1786",
+      "status": "identified",
+      "title": "How to Prepare for DATA INTERPRETATION for CAT",
+      "author": "Sharma",
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 54.7,
+      "spine_thickness_cm": 19.0,
+      "id_confidence": 0.66,
+      "replacement_cost": {
+        "amount": 349.0,
+        "source": "amazon.in (seller: Amazon) via retailer page fetched with TinyFish (2 matching offers, lower quartile)",
+        "url": "https://www.amazon.in/How-Prepare-Data-Interpretation-Cat/dp/9339205596",
+        "retrieved_at": "2026-10-18T03:06:17+00:00",
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "used_value": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "condition_assumed": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "orientation": "upright",
+      "spine_text_read": "Sharma | 5TH EDITION | How to Prepare for DATA INTERPRETATION for CAT | Mc Graw Hill Education",
+      "catalogue_url": null,
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_011",
+      "shelf": "Unit L shelf 2",
+      "position": 4,
+      "frame_ref": "frames/f_000100.jpg#xywh=562,1363,393,1655",
+      "status": "unidentified",
+      "title": null,
+      "author": null,
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 50.7,
+      "spine_thickness_cm": 10.9,
+      "id_confidence": 0.0,
+      "replacement_cost": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "used_value": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "condition_assumed": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "orientation": "upright",
+      "spine_text_read": null,
+      "catalogue_url": null,
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_012",
+      "shelf": "Unit L shelf 2",
+      "position": 5,
+      "frame_ref": "frames/f_000102.jpg#xywh=672,1363,568,1548",
+      "status": "unidentified",
+      "title": null,
+      "author": null,
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 45.5,
+      "spine_thickness_cm": 16.6,
+      "id_confidence": 0.56,
+      "replacement_cost": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "used_value": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "condition_assumed": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "orientation": "upright",
+      "spine_text_read": "ROBIN SHARMA | THE 5 AM CLUB | The Monk Who Sold His Ferrari | ROBIN SHARMA | IGNITED MINDS",
+      "catalogue_url": null,
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_013",
+      "shelf": "Unit L shelf 2",
+      "position": 6,
+      "frame_ref": "frames/f_000091.jpg#xywh=1125,1636,253,1386",
+      "status": "unidentified",
+      "title": null,
+      "author": null,
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 39.2,
+      "spine_thickness_cm": 7.3,
+      "id_confidence": 0.56,
+      "replacement_cost": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "used_value": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "condition_assumed": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "orientation": "upright",
+      "spine_text_read": "ROBIN SHARMA | THE 5 AM CLUB | A JAICO BOOK",
+      "catalogue_url": null,
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_014",
+      "shelf": "Unit L shelf 2",
+      "position": 7,
+      "frame_ref": "frames/f_000100.jpg#xywh=1149,1636,376,1382",
+      "status": "identified",
+      "title": "The Monk Who Sold His Ferrari",
+      "author": "Robin S. Sharma",
+      "edition": "JAICO PUBLISHING HOUSE  www.jaicobooks.com 2007",
+      "isbn": "9788179926932",
+      "spine_height_cm": 39.4,
+      "spine_thickness_cm": 10.6,
+      "id_confidence": 0.8,
+      "replacement_cost": {
+        "amount": 225.0,
+        "source": "crossword.in (seller: Crossword) via retailer page fetched with TinyFish (2 matching offers, lower quartile)",
+        "url": "https://www.crossword.in/products/the-monk-who-sold-his-ferrari-gujarati-paperback-robin-sharma-1?srsltid=AU7gw4Wcb4wLYP1hlBMOxITU-tW85lhHox_L8mp4p0zQYd_C4lXSj2YR",
+        "retrieved_at": "2026-10-17T15:11:25+00:00",
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "used_value": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "condition_assumed": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "orientation": "upright",
+      "spine_text_read": "The Monk Who Sold His Ferrari | ROBIN SHARMA | A JAICO BOOK",
+      "catalogue_url": "https://openlibrary.org/books/OL24982482M",
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_015",
+      "shelf": "Unit L shelf 2",
+      "position": 8,
+      "frame_ref": "frames/f_000100.jpg#xywh=1268,1716,374,1329",
+      "status": "identified",
+      "title": "Ignited Minds",
+      "author": "A. P. J. Abdul Kalam",
+      "edition": "Penguin Nov 01, 2014",
+      "isbn": "9780143424123",
+      "spine_height_cm": 37.0,
+      "spine_thickness_cm": 10.5,
+      "id_confidence": 0.95,
+      "replacement_cost": {
+        "amount": 210.0,
+        "source": "crossword.in (seller: Crossword) via retailer page fetched with TinyFish (1 matching offer, lower quartile)",
+        "url": "https://www.crossword.in/products/ignited-minds-unleasing-the-power-within-india-paperback-a-p-j-abdul-kalam?srsltid=AU7gw4Wmr5V5YaqJenOh3Y_ksN5PCdwW-367T-811_oxD1e-X_7IlKGm",
+        "retrieved_at": "2026-10-18T03:06:17+00:00",
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "used_value": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "condition_assumed": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "orientation": "upright",
+      "spine_text_read": "IGNITED MINDS | A.P.J. ABDUL KALAM | PENGUIN BOOKS",
+      "catalogue_url": "https://openlibrary.org/books/OL28989038M",
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_016",
+      "shelf": "Unit L shelf 2",
+      "position": 9,
+      "frame_ref": "frames/f_000098.jpg#xywh=1469,1889,553,1252",
+      "status": "identified",
+      "title": "Word Power Made Easy",
+      "author": "Norman Lewis",
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 33.6,
+      "spine_thickness_cm": 15.1,
+      "id_confidence": 0.95,
+      "replacement_cost": {
+        "amount": 131.0,
+        "source": "amazon.in (seller: Amazon) via retailer page fetched with TinyFish (2 matching offers, lower quartile)",
+        "url": "https://www.amazon.in/Word-Power-Made-Norman-Lewis/dp/8183071007",
+        "retrieved_at": "2026-10-17T15:21:20+00:00",
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "used_value": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "condition_assumed": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "orientation": "upright",
+      "spine_text_read": "NEW | REVISED & EXPANDED | OVER 700 PAGES | Word Power | Made Easy | Norman Lewis",
+      "catalogue_url": "https://openlibrary.org/works/OL1578299W",
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out)",
+      "appraisal_reason": null
+    },
+    {
+      "id": "book_017",
+      "shelf": "Unit L shelf 2",
+      "position": 10,
+      "frame_ref": "frames/f_000114.jpg#xywh=1000,3087,210,753",
+      "status": "unidentified",
+      "title": null,
+      "author": null,
+      "edition": null,
+      "isbn": null,
+      "spine_height_cm": 24.0,
+      "spine_thickness_cm": 6.7,
+      "id_confidence": 0.0,
+      "replacement_cost": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "used_value": {
+        "amount": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null,
+        "condition_assumed": null,
+        "converted": false,
+        "original_amount": null,
+        "original_currency": null
+      },
+      "orientation": "upright",
+      "spine_text_read": null,
+      "catalogue_url": null,
+      "measurement_method": "reconstruction depth x global anchor scale (leave-one-out)",
+      "appraisal_reason": null
+    }
+  ],
+  "items": [
+    {
+      "id": "item_001",
+      "category": "furniture",
+      "description": "single bed with mattress and bedding (fabric, metal)",
+      "brand_model": null,
+      "frame_ref": "frames/f_000024.jpg",
+      "dimensions_cm": {
+        "w": 104.0,
+        "h": 121.0,
+        "d": null
+      },
+      "status": "range",
+      "replacement_cost": {
+        "low": 6509.0,
+        "high": 14629.0,
+        "source": "retailer page fetched with TinyFish (IN), 30 comparable listings, interquartile range",
+        "url": "https://api.search.tinyfish.ai/?query=buy fabric, metal bed online India&location=IN",
+        "retrieved_at": "2026-10-18T03:06:29+00:00"
+      },
+      "confidence": 0.95,
+      "material": "fabric, metal",
+      "dimensions_method": "reconstruction depth x anchor scale, 1 view(s); depth not measured",
+      "appraisal_reason": null
+    },
+    {
+      "id": "item_002",
+      "category": "other",
+      "description": "fabric laundry hamper (fabric)",
+      "brand_model": null,
+      "frame_ref": "frames/f_000055.jpg",
+      "dimensions_cm": {
+        "w": 52.0,
+        "h": 67.0,
+        "d": null
+      },
+      "status": "range",
+      "replacement_cost": {
+        "low": null,
+        "high": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null
+      },
+      "confidence": 0.95,
+      "material": "fabric",
+      "dimensions_method": "reconstruction depth x anchor scale, 9 view(s); depth not measured",
+      "appraisal_reason": null
+    },
+    {
+      "id": "item_003",
+      "category": "other",
+      "description": "blue plastic bucket (plastic)",
+      "brand_model": null,
+      "frame_ref": "frames/f_000055.jpg",
+      "dimensions_cm": {
+        "w": 34.0,
+        "h": 53.0,
+        "d": null
+      },
+      "status": "range",
+      "replacement_cost": {
+        "low": 569.0,
+        "high": 1144.0,
+        "source": "retailer page fetched with TinyFish (IN), 11 comparable listings, interquartile range",
+        "url": "https://api.search.tinyfish.ai/?query=buy bucket online India&location=IN",
+        "retrieved_at": "2026-10-17T15:08:53+00:00"
+      },
+      "confidence": 0.95,
+      "material": "plastic",
+      "dimensions_method": "reconstruction depth x anchor scale, 9 view(s); depth not measured",
+      "appraisal_reason": null
+    },
+    {
+      "id": "item_004",
+      "category": "rug",
+      "description": "patterned floor mat (fabric)",
+      "brand_model": null,
+      "frame_ref": "frames/f_000055.jpg",
+      "dimensions_cm": {
+        "w": 64.0,
+        "h": 28.0,
+        "d": null
+      },
+      "status": "range",
+      "replacement_cost": {
+        "low": null,
+        "high": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null
+      },
+      "confidence": 0.95,
+      "material": "fabric",
+      "dimensions_method": "reconstruction depth x anchor scale, 5 view(s); depth not measured",
+      "appraisal_reason": null
+    },
+    {
+      "id": "item_005",
+      "category": "furniture",
+      "description": "wooden bedside table (wood)",
+      "brand_model": null,
+      "frame_ref": "frames/f_000067.jpg",
+      "dimensions_cm": {
+        "w": null,
+        "h": null,
+        "d": null
+      },
+      "status": "range",
+      "replacement_cost": {
+        "low": 4990.0,
+        "high": 10999.0,
+        "source": "retailer page fetched with TinyFish (IN), 16 comparable listings, interquartile range",
+        "url": "https://api.search.tinyfish.ai/?query=buy wood bedside table online India&location=IN",
+        "retrieved_at": "2026-10-17T15:08:52+00:00"
+      },
+      "confidence": 0.9,
+      "material": "wood",
+      "dimensions_method": null,
+      "appraisal_reason": null
+    },
+    {
+      "id": "item_006",
+      "category": "electronics",
+      "description": "laptop (metal)",
+      "brand_model": null,
+      "frame_ref": "frames/f_000077.jpg",
+      "dimensions_cm": {
+        "w": 65.0,
+        "h": 78.0,
+        "d": null
+      },
+      "status": "range",
+      "replacement_cost": {
+        "low": 44990.0,
+        "high": 50991.0,
+        "source": "retailer page fetched with TinyFish (IN), 5 comparable listings, interquartile range",
+        "url": "https://api.search.tinyfish.ai/?query=buy laptop online India&location=IN",
+        "retrieved_at": "2026-10-17T15:08:53+00:00"
+      },
+      "confidence": 0.95,
+      "material": "metal",
+      "dimensions_method": "reconstruction depth x anchor scale, 5 view(s); depth not measured",
+      "appraisal_reason": null
+    },
+    {
+      "id": "item_007",
+      "category": "decor",
+      "description": "stainless steel water bottle (stainless steel)",
+      "brand_model": null,
+      "frame_ref": "frames/f_000065.jpg",
+      "dimensions_cm": {
+        "w": 14.0,
+        "h": 46.0,
+        "d": null
+      },
+      "status": "range",
+      "replacement_cost": {
+        "low": 359.0,
+        "high": 889.0,
+        "source": "retailer page fetched with TinyFish (IN), 19 comparable listings, interquartile range",
+        "url": "https://api.search.tinyfish.ai/?query=buy stainless steel water bottle online India&location=IN",
+        "retrieved_at": "2026-10-17T15:11:54+00:00"
+      },
+      "confidence": 0.9,
+      "material": "stainless steel",
+      "dimensions_method": "reconstruction depth x anchor scale, 2 view(s); depth not measured",
+      "appraisal_reason": null
+    },
+    {
+      "id": "item_008",
+      "category": "other",
+      "description": "black backpack (fabric)",
+      "brand_model": null,
+      "frame_ref": "frames/f_000065.jpg",
+      "dimensions_cm": {
+        "w": 61.0,
+        "h": 39.0,
+        "d": null
+      },
+      "status": "range",
+      "replacement_cost": {
+        "low": 460.0,
+        "high": 1149.0,
+        "source": "retailer page fetched with TinyFish (IN), 13 comparable listings, interquartile range",
+        "url": "https://api.search.tinyfish.ai/?query=buy backpack online India&location=IN",
+        "retrieved_at": "2026-10-17T15:09:00+00:00"
+      },
+      "confidence": 0.95,
+      "material": "fabric",
+      "dimensions_method": "reconstruction depth x anchor scale, 2 view(s); depth not measured",
+      "appraisal_reason": null
+    },
+    {
+      "id": "item_009",
+      "category": "shelving",
+      "description": "wooden shelf cabinet (wood)",
+      "brand_model": null,
+      "frame_ref": "frames/f_000089.jpg",
+      "dimensions_cm": {
+        "w": null,
+        "h": null,
+        "d": null
+      },
+      "status": "range",
+      "replacement_cost": {
+        "low": 13199.0,
+        "high": 34999.0,
+        "source": "retailer page fetched with TinyFish (IN), 17 comparable listings, interquartile range",
+        "url": "https://api.search.tinyfish.ai/?query=buy wood wardrobe online India&location=IN",
+        "retrieved_at": "2026-10-17T13:54:02+00:00"
+      },
+      "confidence": 0.95,
+      "material": "wood",
+      "dimensions_method": null,
+      "appraisal_reason": null
+    },
+    {
+      "id": "item_010",
+      "category": "other",
+      "description": "duffel bag (fabric)",
+      "brand_model": "Northeastern University",
+      "frame_ref": "frames/f_000096.jpg",
+      "dimensions_cm": {
+        "w": null,
+        "h": null,
+        "d": null
+      },
+      "status": "priced",
+      "replacement_cost": {
+        "low": 1960.0,
+        "high": 1960.0,
+        "source": "retailer page fetched with TinyFish (IN), 8 comparable listings",
+        "url": "https://api.search.tinyfish.ai/?query=buy Northeastern University online India&location=IN",
+        "retrieved_at": "2026-10-18T03:06:40+00:00"
+      },
+      "confidence": 0.5,
+      "material": "fabric",
+      "dimensions_method": null,
+      "appraisal_reason": null
+    },
+    {
+      "id": "item_011",
+      "category": "furniture",
+      "description": "wooden shelf unit or cabinet interior (wood)",
+      "brand_model": null,
+      "frame_ref": "frames/f_000105.jpg",
+      "dimensions_cm": {
+        "w": null,
+        "h": null,
+        "d": null
+      },
+      "status": "range",
+      "replacement_cost": {
+        "low": 3599.0,
+        "high": 6345.0,
+        "source": "retailer page fetched with TinyFish (IN), 19 comparable listings, interquartile range",
+        "url": "https://api.search.tinyfish.ai/?query=buy wood cabinet online India&location=IN",
+        "retrieved_at": "2026-10-18T03:06:39+00:00"
+      },
+      "confidence": 0.5,
+      "material": "wood",
+      "dimensions_method": null,
+      "appraisal_reason": null
+    },
+    {
+      "id": "item_012",
+      "category": "electronics",
+      "description": "wireless charger pad (plastic)",
+      "brand_model": "pine labs",
+      "frame_ref": "frames/f_000109.jpg",
+      "dimensions_cm": {
+        "w": 14.0,
+        "h": 12.0,
+        "d": null
+      },
+      "status": "range",
+      "replacement_cost": {
+        "low": null,
+        "high": null,
+        "source": null,
+        "url": null,
+        "retrieved_at": null
+      },
+      "confidence": 0.8,
+      "material": "plastic",
+      "dimensions_method": "reconstruction depth x anchor scale, 2 view(s); depth not measured",
+      "appraisal_reason": null
+    },
+    {
+      "id": "item_013",
+      "category": "other",
+      "description": "UNO card game box (cardboard)",
+      "brand_model": "UNO",
+      "frame_ref": "frames/f_000107.jpg",
+      "dimensions_cm": {
+        "w": 29.0,
+        "h": 18.0,
+        "d": null
+      },
+      "status": "range",
+      "replacement_cost": {
+        "low": 109.0,
+        "high": 178.0,
+        "source": "retailer page fetched with TinyFish (IN), 18 comparable listings, interquartile range",
+        "url": "https://api.search.tinyfish.ai/?query=buy UNO board game online India&location=IN",
+        "retrieved_at": "2026-10-18T03:06:45+00:00"
+      },
+      "confidence": 0.7,
+      "material": "cardboard",
+      "dimensions_method": "reconstruction depth x anchor scale, 1 view(s); depth not measured",
+      "appraisal_reason": null
+    },
+    {
+      "id": "item_014",
+      "category": "other",
+      "description": "cardboard product box (cardboard)",
+      "brand_model": null,
+      "frame_ref": "frames/f_000107.jpg",
+      "dimensions_cm": {
+        "w": 28.0,
+        "h": 18.0,
+        "d": null
+      },
+      "status": "range",
+      "replacement_cost": {
+        "low": 249.0,
+        "high": 549.0,
+        "source": "retailer page fetched with TinyFish (IN), 45 comparable listings, interquartile range",
+        "url": "https://api.search.tinyfish.ai/?query=buy box online India&location=IN",
+        "retrieved_at": "2026-10-18T03:06:44+00:00"
+      },
+      "confidence": 0.7,
+      "material": "cardboard",
+      "dimensions_method": "reconstruction depth x anchor scale, 1 view(s); depth not measured",
+      "appraisal_reason": null
+    },
+    {
+      "id": "item_015",
+      "category": "lighting",
+      "description": "tube light (plastic)",
+      "brand_model": null,
+      "frame_ref": "frames/f_000144.jpg",
+      "dimensions_cm": {
+        "w": 107.0,
+        "h": 24.0,
+        "d": null
+      },
+      "status": "range",
+      "replacement_cost": {
+        "low": 378.0,
+        "high": 2179.0,
+        "source": "retailer page fetched with TinyFish (IN), 16 comparable listings, interquartile range",
+        "url": "https://api.search.tinyfish.ai/?query=buy tube light online India&location=IN",
+        "retrieved_at": "2026-10-18T03:06:52+00:00"
+      },
+      "confidence": 0.9,
+      "material": "plastic",
+      "dimensions_method": "reconstruction depth x anchor scale, 2 view(s); depth not measured",
+      "appraisal_reason": null
+    },
+    {
+      "id": "item_016",
+      "category": "appliance",
+      "description": "plug-in mosquito repellent (plastic)",
+      "brand_model": null,
+      "frame_ref": "frames/f_000149.jpg",
+      "dimensions_cm": {
+        "w": 9.0,
+        "h": 15.0,
+        "d": null
+      },
+      "status": "range",
+      "replacement_cost": {
+        "low": 186.0,
+        "high": 299.0,
+        "source": "retailer page fetched with TinyFish (IN), 26 comparable listings, interquartile range",
+        "url": "https://api.search.tinyfish.ai/?query=buy mosquito repellent online India&location=IN",
+        "retrieved_at": "2026-10-18T03:06:52+00:00"
+      },
+      "confidence": 0.7,
+      "material": "plastic",
+      "dimensions_method": "reconstruction depth x anchor scale, 1 view(s); depth not measured",
+      "appraisal_reason": null
+    },
+    {
+      "id": "item_017",
+      "category": "appliance",
+      "description": "ceiling fan (metal)",
+      "brand_model": null,
+      "frame_ref": "frames/f_000158.jpg",
+      "dimensions_cm": {
+        "w": 160.0,
+        "h": 114.0,
+        "d": null
+      },
+      "status": "range",
+      "replacement_cost": {
+        "low": 893.0,
+        "high": 996.0,
+        "source": "retailer page fetched with TinyFish (IN), 6 comparable listings, interquartile range",
+        "url": "https://api.search.tinyfish.ai/?query=buy ceiling fan online India&location=IN",
+        "retrieved_at": "2026-10-18T03:06:53+00:00"
+      },
+      "confidence": 0.9,
+      "material": "metal",
+      "dimensions_method": "reconstruction depth x anchor scale, 2 view(s); depth not measured",
+      "appraisal_reason": null
+    }
+  ],
+  "totals": {
+    "book_count": 11,
+    "books_identified": 5,
+    "books_unidentified": 6,
+    "shelf_run_m": 1.16,
+    "books_replacement_cost": 1264.0,
+    "books_used_value": 0.0,
+    "items_replacement_cost_low": 78450.0,
+    "items_replacement_cost_high": 127306.0,
+    "excluded_from_totals": 9
+  },
+  "review_queue": [
+    {
+      "ref_id": "book_001",
+      "reason": "shelved backwards (page edges facing out): spine not visible"
+    },
+    {
+      "ref_id": "book_007",
+      "reason": "spine not readable"
+    },
+    {
+      "ref_id": "book_007",
+      "reason": "no scale anchor on this shelf: dimensions assume a 21 cm median book"
+    },
+    {
+      "ref_id": "book_009",
+      "reason": "identification confidence 0.66: title as printed on the spine; no catalogue record found"
+    },
+    {
+      "ref_id": "book_009",
+      "reason": "same title appears more than once: a second copy, or counted twice"
+    },
+    {
+      "ref_id": "book_010",
+      "reason": "identification confidence 0.66: title as printed on the spine; no catalogue record found"
+    },
+    {
+      "ref_id": "book_010",
+      "reason": "same title appears more than once: a second copy, or counted twice"
+    },
+    {
+      "ref_id": "book_011",
+      "reason": "spine not readable"
+    },
+    {
+      "ref_id": "book_012",
+      "reason": "printed text 'ROBIN SHARMA | THE 5 AM CLUB | The Monk Who Sold His Ferrari | ROBIN SHARMA | IGNITED MINDS' read with low confidence; no catalogue match"
+    },
+    {
+      "ref_id": "book_013",
+      "reason": "printed text 'ROBIN SHARMA | THE 5 AM CLUB | A JAICO BOOK' read with low confidence; no catalogue match"
+    },
+    {
+      "ref_id": "book_017",
+      "reason": "spine not readable"
+    },
+    {
+      "ref_id": "item_002",
+      "reason": "no price: only 1 comparable listing(s) found; too few for a price range; excluded from totals"
+    },
+    {
+      "ref_id": "item_004",
+      "reason": "no price: only 3 comparable listing(s) found; too few for a price range; excluded from totals"
+    },
+    {
+      "ref_id": "item_005",
+      "reason": "dimensions not measured"
+    },
+    {
+      "ref_id": "item_009",
+      "reason": "dimensions not measured"
+    },
+    {
+      "ref_id": "item_010",
+      "reason": "seen in 1 frame(s) only; detection confidence 0.5"
+    },
+    {
+      "ref_id": "item_010",
+      "reason": "dimensions not measured"
+    },
+    {
+      "ref_id": "item_011",
+      "reason": "seen in 1 frame(s) only; detection confidence 0.5"
+    },
+    {
+      "ref_id": "item_011",
+      "reason": "dimensions not measured"
+    },
+    {
+      "ref_id": "item_012",
+      "reason": "no price: no listing found; excluded from totals"
+    },
+    {
+      "ref_id": "room",
+      "reason": "1 of 4 walls only weakly visible in the sweep"
+    },
+    {
+      "ref_id": "room",
+      "reason": "1 wall(s) not captured: that side is placed 0.3 m beyond the phone's furthest position, so the size on that axis is a lower bound"
+    },
+    {
+      "ref_id": "room",
+      "reason": "6 reconstructions from staggered frame subsets: floor area 13.0-33.2 m2 (spread 106%)"
+    },
+    {
+      "ref_id": "room",
+      "reason": "room geometry unstable across reconstructions (spread 106% > 40%): room size not reported; median would have been 5.50 x 3.58 x 2.96 m"
+    }
+  ],
+  "excluded_by_policyholder": []
+}

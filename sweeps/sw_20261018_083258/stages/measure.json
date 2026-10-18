@@ -1,0 +1,94 @@
+{
+ "scale_method": "3D reconstruction (DA3-BASE) scaled by 10 door anchors",
+ "k_cm_per_unit": 293.97864003263317,
+ "measurements": {
+  "book_001": {
+   "track_id": "book_001",
+   "height_cm": 41.0,
+   "thickness_cm": null,
+   "method": "reconstruction depth x global anchor scale (leave-one-out); flat book: thickness not measured (box includes the cover seen at an angle)",
+   "n_anchors": 10,
+   "confidence": 0.85
+  },
+  "book_007": {
+   "track_id": "book_007",
+   "height_cm": 57.7,
+   "thickness_cm": 8.5,
+   "method": "standard-format prior (median upright book = 21 cm)",
+   "n_anchors": 0,
+   "confidence": 0.3
+  },
+  "book_009": {
+   "track_id": "book_009",
+   "height_cm": 30.6,
+   "thickness_cm": 11.2,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 10,
+   "confidence": 0.85
+  },
+  "book_010": {
+   "track_id": "book_010",
+   "height_cm": 54.7,
+   "thickness_cm": 19.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 10,
+   "confidence": 0.85
+  },
+  "book_011": {
+   "track_id": "book_011",
+   "height_cm": 50.7,
+   "thickness_cm": 10.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 10,
+   "confidence": 0.85
+  },
+  "book_012": {
+   "track_id": "book_012",
+   "height_cm": 45.5,
+   "thickness_cm": 16.6,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 10,
+   "confidence": 0.85
+  },
+  "book_013": {
+   "track_id": "book_013",
+   "height_cm": 39.2,
+   "thickness_cm": 7.3,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 10,
+   "confidence": 0.85
+  },
+  "book_014": {
+   "track_id": "book_014",
+   "height_cm": 39.4,
+   "thickness_cm": 10.6,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 10,
+   "confidence": 0.85
+  },
+  "book_015": {
+   "track_id": "book_015",
+   "height_cm": 37.0,
+   "thickness_cm": 10.5,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 10,
+   "confidence": 0.85
+  },
+  "book_016": {
+   "track_id": "book_016",
+   "height_cm": 33.6,
+   "thickness_cm": 15.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 10,
+   "confidence": 0.85
+  },
+  "book_017": {
+   "track_id": "book_017",
+   "height_cm": 24.0,
+   "thickness_cm": 6.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 10,
+   "confidence": 0.85
+  }
+ }
+}
