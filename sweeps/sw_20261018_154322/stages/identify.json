@@ -1,0 +1,6604 @@
+{
+ "book_001": {
+  "track_id": "book_001",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_002": {
+  "track_id": "book_002",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_003": {
+  "track_id": "book_003",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_094": {
+  "track_id": "book_094",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_161": {
+  "track_id": "book_161",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_163": {
+  "track_id": "book_163",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_214": {
+  "track_id": "book_214",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_223": {
+  "track_id": "book_223",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_224": {
+  "track_id": "book_224",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_225": {
+  "track_id": "book_225",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_226": {
+  "track_id": "book_226",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_229": {
+  "track_id": "book_229",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_230": {
+  "track_id": "book_230",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_232": {
+  "track_id": "book_232",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_299": {
+  "track_id": "book_299",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_304": {
+  "track_id": "book_304",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_318": {
+  "track_id": "book_318",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_377": {
+  "track_id": "book_377",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_380": {
+  "track_id": "book_380",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_381": {
+  "track_id": "book_381",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_397": {
+  "track_id": "book_397",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_398": {
+  "track_id": "book_398",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_399": {
+  "track_id": "book_399",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not readable"
+  ],
+  "retrieved_at": null
+ },
+ "book_008": {
+  "track_id": "book_008",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'DINOSAUR DICTIONARY' without an author; 2 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:18:56+00:00"
+ },
+ "book_005": {
+  "track_id": "book_005",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'WOW! | WOW! | WOW! | DK' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:18:56+00:00"
+ },
+ "book_006": {
+  "track_id": "book_006",
+  "status": "identified",
+  "title": "The Children's Dinosaur ENCYCLOPEDIA",
+  "author": "Jinny Johnson",
+  "edition": "BURLINGTON BOOKS, New Burlington Books 2004",
+  "isbn": "9781861556837",
+  "publisher": "BURLINGTON BOOKS, New Burlington Books",
+  "year": "2004",
+  "id_confidence": 0.75,
+  "catalogue_url": "https://openlibrary.org/books/OL8630513M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:18:56+00:00"
+ },
+ "book_009": {
+  "track_id": "book_009",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'DINOSAUR DICTIONARY | Book of World Records: Animal World' without an author; 2 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:18:56+00:00"
+ },
+ "book_007": {
+  "track_id": "book_007",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.56,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'THE GREAT DINOSAUR SEARCH | ROSIE HEYWOOD | USBORNE' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:18:56+00:00"
+ },
+ "book_004": {
+  "track_id": "book_004",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'WOW! | WOW! | WOW! | DK' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:18:56+00:00"
+ },
+ "book_011": {
+  "track_id": "book_011",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows \"The World We Live In | A Child's First Library of Learning | TIME LIFE\" without an author; 4 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:18:56+00:00"
+ },
+ "book_010": {
+  "track_id": "book_010",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows \"Animals in Action | A Child's First Library of Learning | TIME LIFE\" without an author; 3 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:18:56+00:00"
+ },
+ "book_012": {
+  "track_id": "book_012",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows \"Things Around Us | A Child's First Library of Learning | TIME LIFE\" without an author; 6 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:18:56+00:00"
+ },
+ "book_014": {
+  "track_id": "book_014",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'EYEWITNESS SPY | DORLING KINDERSLEY' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:18:56+00:00"
+ },
+ "book_015": {
+  "track_id": "book_015",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'EYEWITNESS SPY | DORLING KINDERSLEY' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:18:56+00:00"
+ },
+ "book_013": {
+  "track_id": "book_013",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": "Time-Life Books",
+  "year": "1983",
+  "id_confidence": 0.4,
+  "catalogue_url": "https://openlibrary.org/books/OL24935118M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [
+   "weak match to \"A child's first library of learning\" (confidence 0.4)"
+  ],
+  "retrieved_at": "2026-10-18T10:18:56+00:00"
+ },
+ "book_016": {
+  "track_id": "book_016",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows \"Insect World | A Child's First Library of Learning | TIME LIFE\"; the closest catalogue title 'Insect world.' leaves ['child', 'learning', 'library'] unexplained, so it is probably a different book"
+  ],
+  "retrieved_at": "2026-10-18T10:18:56+00:00"
+ },
+ "book_017": {
+  "track_id": "book_017",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.56,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Murray | CULTURAL ATLAS FOR YOUNG PEOPLE | AFRICA Revised Edition | Facts On File' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:18:57+00:00"
+ },
+ "book_019": {
+  "track_id": "book_019",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'WOW! EARTH lots of amazing things about the Eart | DK' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:20:52+00:00"
+ },
+ "book_018": {
+  "track_id": "book_018",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.56,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'I Wonder Why ROMANS WORE TOGAS | FIONA MACDONALD' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:18:58+00:00"
+ },
+ "book_020": {
+  "track_id": "book_020",
+  "status": "identified",
+  "title": "I Wonder Why PINE TREES HAVE NEEDLES",
+  "author": "Jackie Gaff",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/works/OL3949113W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:18:58+00:00"
+ },
+ "book_021": {
+  "track_id": "book_021",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.56,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'I Wonder Why THE SEA IS SALTY | ANITA GANERI | KINGFISHER' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:18:58+00:00"
+ },
+ "book_022": {
+  "track_id": "book_022",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'Hinduism | World of Faiths' without an author; 4 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:18:58+00:00"
+ },
+ "book_023": {
+  "track_id": "book_023",
+  "status": "identified",
+  "title": "Microscopic life",
+  "author": "Richard Walker",
+  "edition": "Kingfisher October 14, 2004",
+  "isbn": "9780753457788",
+  "publisher": "Kingfisher",
+  "year": "October 14, 2004",
+  "id_confidence": 0.56,
+  "catalogue_url": "https://openlibrary.org/books/OL7987153M",
+  "dims_cm": {
+   "height": 56.39,
+   "width": 27.69,
+   "thickness": 1.02
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:18:59+00:00"
+ },
+ "book_024": {
+  "track_id": "book_024",
+  "status": "identified",
+  "title": "I Wonder Why VOLCANOES BLOW THEIR TOPS",
+  "author": "Rosie Greenwood",
+  "edition": "Kingfisher Books Ltd March 15, 2004",
+  "isbn": "9780753409350",
+  "publisher": "Kingfisher Books Ltd",
+  "year": "March 15, 2004",
+  "id_confidence": 0.8,
+  "catalogue_url": "https://openlibrary.org/books/OL9475620M",
+  "dims_cm": {
+   "height": 27.43,
+   "width": 22.35,
+   "thickness": 0.51
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:18:59+00:00"
+ },
+ "book_026": {
+  "track_id": "book_026",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.56,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'I Wonder Why CATERPILLARS EAT SO MUCH BELINDA WEBER' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:19:00+00:00"
+ },
+ "book_025": {
+  "track_id": "book_025",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Book of World Records: Animal World' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:00+00:00"
+ },
+ "book_027": {
+  "track_id": "book_027",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not legible enough to identify"
+  ],
+  "retrieved_at": "2026-10-18T10:19:00+00:00"
+ },
+ "book_028": {
+  "track_id": "book_028",
+  "status": "identified",
+  "title": "Nature's savage cats",
+  "author": "Alice Burdett",
+  "edition": "Electric Paper 1993",
+  "isbn": "1897584008",
+  "publisher": "Electric Paper",
+  "year": "1993",
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/books/OL18080111M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:00+00:00"
+ },
+ "book_029": {
+  "track_id": "book_029",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'KINGFISHER KNOWLEDGE MICROSCOPIC LIFE | KINGFISHER' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:00+00:00"
+ },
+ "book_030": {
+  "track_id": "book_030",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'SCHOLASTIC discover more | THE ELEMENTS' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:01+00:00"
+ },
+ "book_032": {
+  "track_id": "book_032",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'Japan in Pictures | Lerner Books' without an author; 5 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:19:02+00:00"
+ },
+ "book_034": {
+  "track_id": "book_034",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'NIGERIA in Pictures | Lerner Books' without an author; 3 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:19:02+00:00"
+ },
+ "book_035": {
+  "track_id": "book_035",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.56,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Total GUITAR TUTOR | TERRY BURROWS | SEVENOAKS' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:19:03+00:00"
+ },
+ "book_036": {
+  "track_id": "book_036",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'READ AND DISCOVER | Incredible Adventures | P' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:03+00:00"
+ },
+ "book_038": {
+  "track_id": "book_038",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'READ AND DISCOVER | Favourite Pets' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:04+00:00"
+ },
+ "book_037": {
+  "track_id": "book_037",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text '1 2 NOW I CAN WALK AND TALK 3 4 5 | WHSMITH' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:03+00:00"
+ },
+ "book_039": {
+  "track_id": "book_039",
+  "status": "identified",
+  "title": "Ukraine",
+  "author": "Catherine W. Cooper",
+  "edition": "Chelsea House Publishers 2003",
+  "isbn": "0791067831",
+  "publisher": "Chelsea House Publishers",
+  "year": "2003",
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/books/OL3553986M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:04+00:00"
+ },
+ "book_033": {
+  "track_id": "book_033",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'SOLAR POWER | Terrapin' without an author; 3 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:19:04+00:00"
+ },
+ "book_040": {
+  "track_id": "book_040",
+  "status": "identified",
+  "title": "555 Questions & Answers",
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": "hello friend",
+  "year": null,
+  "id_confidence": 0.75,
+  "catalogue_url": "https://openlibrary.org/works/OL31286774W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:19:04+00:00"
+ },
+ "book_041": {
+  "track_id": "book_041",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Smithsonian SCIENCE 101 WEATHER | C Collins' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:21:00+00:00"
+ },
+ "book_042": {
+  "track_id": "book_042",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.42,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Smithsonian SCIENCE 101 WEATHER | C Collins' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:21:00+00:00"
+ },
+ "book_043": {
+  "track_id": "book_043",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.42,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text \"Resnick/ Tallarico | The Kids' FUN-FILLED QUESTION & ANSWER BOOK | kidsbooks\" read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:19:05+00:00"
+ },
+ "book_044": {
+  "track_id": "book_044",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Your Body Illness & Injury | HEALTHY KIDS' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:06+00:00"
+ },
+ "book_045": {
+  "track_id": "book_045",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Keeping Fit | HEALTHY KIDS' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:06+00:00"
+ },
+ "book_047": {
+  "track_id": "book_047",
+  "status": "identified",
+  "title": "See inside Maths",
+  "author": "Alex Frith, Minna Lacey",
+  "edition": "USBORNE Apr 24, 2008",
+  "isbn": "9780746087565",
+  "publisher": "USBORNE",
+  "year": "Apr 24, 2008",
+  "id_confidence": 0.79,
+  "catalogue_url": "https://openlibrary.org/books/OL26862204M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:07+00:00"
+ },
+ "book_046": {
+  "track_id": "book_046",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'SPACE | OM' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:07+00:00"
+ },
+ "book_048": {
+  "track_id": "book_048",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'Tell Me WHY? | CHANCELLOR PRESS' without an author; 2 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:19:07+00:00"
+ },
+ "book_049": {
+  "track_id": "book_049",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'Tell Me WHY?' without an author; 2 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:19:07+00:00"
+ },
+ "book_050": {
+  "track_id": "book_050",
+  "status": "identified",
+  "title": "See inside Maths",
+  "author": "Alex Frith, Minna Lacey",
+  "edition": "USBORNE Apr 24, 2008",
+  "isbn": "9780746087565",
+  "publisher": "USBORNE",
+  "year": "Apr 24, 2008",
+  "id_confidence": 0.59,
+  "catalogue_url": "https://openlibrary.org/books/OL26862204M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:08+00:00"
+ },
+ "book_051": {
+  "track_id": "book_051",
+  "status": "identified",
+  "title": "Tell Me About...",
+  "author": "Rosemary Ashworth",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.75,
+  "catalogue_url": "https://openlibrary.org/works/OL30750229W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:19:08+00:00"
+ },
+ "book_053": {
+  "track_id": "book_053",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'TELL ME ABOUT? | OCTOPUS INDIA' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:08+00:00"
+ },
+ "book_054": {
+  "track_id": "book_054",
+  "status": "identified",
+  "title": "World Atlas of Dinosaurs",
+  "author": "Susannah Davidson",
+  "edition": null,
+  "isbn": null,
+  "publisher": "USBORNE",
+  "year": null,
+  "id_confidence": 0.75,
+  "catalogue_url": "https://openlibrary.org/works/OL33965927W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:19:09+00:00"
+ },
+ "book_052": {
+  "track_id": "book_052",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'TELL ME ABOUT? | OCTOPUS INDIA' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:09+00:00"
+ },
+ "book_055": {
+  "track_id": "book_055",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows \"FIRST CHILDREN'S ENCYCLOPEDIA | DK\" without an author; 2 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:19:09+00:00"
+ },
+ "book_056": {
+  "track_id": "book_056",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'TELL ME WHERE? | CHANCELLOR PRESS' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:10+00:00"
+ },
+ "book_058": {
+  "track_id": "book_058",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'Healthy Eating | HEALTHY KIDS' without an author; 2 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:19:10+00:00"
+ },
+ "book_059": {
+  "track_id": "book_059",
+  "status": "identified",
+  "title": "Prachi Science Class 8",
+  "author": "S.K. Jain Shailesh K.Jain",
+  "edition": null,
+  "isbn": null,
+  "publisher": "PRACHI",
+  "year": null,
+  "id_confidence": 0.6,
+  "catalogue_url": "https://openlibrary.org/works/OL26425221W",
+  "dims_cm": {},
+  "reasons": [
+   "spine shows a short title ('SCIENCE'); matched the author's only work containing it",
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:19:11+00:00"
+ },
+ "book_061": {
+  "track_id": "book_061",
+  "status": "identified",
+  "title": "Welcome to Canada",
+  "author": "Alison Auch",
+  "edition": "Compass Point Books 2003",
+  "isbn": "0756503728",
+  "publisher": "Compass Point Books",
+  "year": "2003",
+  "id_confidence": 0.8,
+  "catalogue_url": "https://openlibrary.org/books/OL3552410M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:11+00:00"
+ },
+ "book_060": {
+  "track_id": "book_060",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'STENCILS AND PRINTS | ART' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:11+00:00"
+ },
+ "book_063": {
+  "track_id": "book_063",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'AMAZING ANIMALS | DK' without an author; 3 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:19:12+00:00"
+ },
+ "book_062": {
+  "track_id": "book_062",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'STENCILS AND PRINTS | ART' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:12+00:00"
+ },
+ "book_064": {
+  "track_id": "book_064",
+  "status": "identified",
+  "title": "Welcome to Japan",
+  "author": "Alison J. Auch, Joan Stewart",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.8,
+  "catalogue_url": "https://openlibrary.org/works/OL22465417W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:19:12+00:00"
+ },
+ "book_065": {
+  "track_id": "book_065",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'DK | ILLUSTRATED | FAMILY | ENCYCLOPEDIA' without an author; 3 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:19:13+00:00"
+ },
+ "book_066": {
+  "track_id": "book_066",
+  "status": "identified",
+  "title": "100 things you should know about SAVING THE EARTH",
+  "author": "Anna Claybourne",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.75,
+  "catalogue_url": "https://openlibrary.org/works/OL15043455W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:19:13+00:00"
+ },
+ "book_067": {
+  "track_id": "book_067",
+  "status": "identified",
+  "title": "100 things you should know about SPACE",
+  "author": "Sue Becklake",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.75,
+  "catalogue_url": "https://openlibrary.org/works/OL17321560W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:19:13+00:00"
+ },
+ "book_068": {
+  "track_id": "book_068",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'PLANET EARTH' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:14+00:00"
+ },
+ "book_057": {
+  "track_id": "book_057",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'My First Ocean Life Encyclopedia | P' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:10+00:00"
+ },
+ "book_070": {
+  "track_id": "book_070",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.56,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'USBORNE BEGINNERS | Living in space | Katie' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:19:14+00:00"
+ },
+ "book_071": {
+  "track_id": "book_071",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text \"Nature's Children | PENGUINS & ELEPHA\" matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:21:09+00:00"
+ },
+ "book_072": {
+  "track_id": "book_072",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text '100 FACTS | EVOLUTION' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:15+00:00"
+ },
+ "book_073": {
+  "track_id": "book_073",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text \"Nature's Children | GULLS & SHARKS\" matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:21:10+00:00"
+ },
+ "book_069": {
+  "track_id": "book_069",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'PLANET EARTH' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:16+00:00"
+ },
+ "book_075": {
+  "track_id": "book_075",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text \"Nature's Children | CHIPMUNKS & BEA\" matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:21:11+00:00"
+ },
+ "book_074": {
+  "track_id": "book_074",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'PEGASUS ENCYCLOPEDIA | INVENTIONS & INVENTORS | MK' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:21:11+00:00"
+ },
+ "book_076": {
+  "track_id": "book_076",
+  "status": "identified",
+  "title": "Taking Time Out",
+  "author": "Thomas Ross Miller",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.8,
+  "catalogue_url": "https://openlibrary.org/works/OL4041155W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:19:16+00:00"
+ },
+ "book_077": {
+  "track_id": "book_077",
+  "status": "identified",
+  "title": "Rain Forests",
+  "author": "Adele D. Richardson",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.8,
+  "catalogue_url": "https://openlibrary.org/works/OL28359448W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:19:17+00:00"
+ },
+ "book_078": {
+  "track_id": "book_078",
+  "status": "identified",
+  "title": "My Giant Sticker Puzzle Book 1",
+  "author": "Roger Priddy",
+  "edition": "Priddy Books August 21, 2007",
+  "isbn": "9780312500955",
+  "publisher": "Priddy Books",
+  "year": "August 21, 2007",
+  "id_confidence": 0.74,
+  "catalogue_url": "https://openlibrary.org/books/OL10393043M",
+  "dims_cm": {
+   "height": 27.43,
+   "width": 21.34,
+   "thickness": 1.52
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:17+00:00"
+ },
+ "book_079": {
+  "track_id": "book_079",
+  "status": "identified",
+  "title": "A field guide to Indian mammals",
+  "author": "Vivek Menon",
+  "edition": null,
+  "isbn": null,
+  "publisher": "GREEN INDIA GUIDES",
+  "year": null,
+  "id_confidence": 0.6,
+  "catalogue_url": "https://openlibrary.org/works/OL1038680W",
+  "dims_cm": {},
+  "reasons": [
+   "spine shows a short title ('INDIAN MAMMALS'); matched the author's only work containing it",
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:19:17+00:00"
+ },
+ "book_080": {
+  "track_id": "book_080",
+  "status": "identified",
+  "title": "Transportation",
+  "author": "Lambert, Mark",
+  "edition": "Thomson Learning 1993",
+  "isbn": "1568471181",
+  "publisher": "Thomson Learning",
+  "year": "1993",
+  "id_confidence": 0.6,
+  "catalogue_url": "https://openlibrary.org/books/OL1415519M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:18+00:00"
+ },
+ "book_081": {
+  "track_id": "book_081",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Green Kids Saving Water' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:18+00:00"
+ },
+ "book_082": {
+  "track_id": "book_082",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Green Kids | Saving Water | LITTLE HARE' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:18+00:00"
+ },
+ "book_083": {
+  "track_id": "book_083",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": "National Geographic",
+  "year": "2014",
+  "id_confidence": 0.42,
+  "catalogue_url": "https://openlibrary.org/books/OL28685147M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [
+   "weak match to 'Quiz whiz 4' (confidence 0.42)"
+  ],
+  "retrieved_at": "2026-10-18T10:19:19+00:00"
+ },
+ "book_084": {
+  "track_id": "book_084",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.45,
+  "catalogue_url": "https://openlibrary.org/works/OL17739057W",
+  "dims_cm": {},
+  "reasons": [
+   "weak match to 'A concise guide to dreams' (confidence 0.45)"
+  ],
+  "retrieved_at": "2026-10-18T10:19:19+00:00"
+ },
+ "book_085": {
+  "track_id": "book_085",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text \"Do it YOURSELF | ARORA'S\" matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:19+00:00"
+ },
+ "book_086": {
+  "track_id": "book_086",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.42,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Resnick Odmiello Tallarico | TRIVIA FUN: FANTASTIC QUESTIONS AND ANSWERS | Kidsbooks' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:19:19+00:00"
+ },
+ "book_088": {
+  "track_id": "book_088",
+  "status": "identified",
+  "title": "A Pocket Guide to Herbs",
+  "author": "Jenny Linford",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.6,
+  "catalogue_url": "https://openlibrary.org/works/OL33896909W",
+  "dims_cm": {},
+  "reasons": [
+   "spine shows a short title ('HERBS'); matched the author's only work containing it",
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:19:20+00:00"
+ },
+ "book_090": {
+  "track_id": "book_090",
+  "status": "identified",
+  "title": "101 great science experiments",
+  "author": "Neil Ardley",
+  "edition": "DK CHILDREN December 27, 2000",
+  "isbn": "9780789449214",
+  "publisher": "DK CHILDREN",
+  "year": "December 27, 2000",
+  "id_confidence": 0.8,
+  "catalogue_url": "https://openlibrary.org/books/OL8155581M",
+  "dims_cm": {
+   "height": 28.19,
+   "width": 22.35,
+   "thickness": 1.52
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:21+00:00"
+ },
+ "book_089": {
+  "track_id": "book_089",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'DICTIONARY | DK' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:21+00:00"
+ },
+ "book_092": {
+  "track_id": "book_092",
+  "status": "identified",
+  "title": "101 great science experiments",
+  "author": "Neil Ardley",
+  "edition": "DK CHILDREN December 27, 2000",
+  "isbn": "9780789449214",
+  "publisher": "DK CHILDREN",
+  "year": "December 27, 2000",
+  "id_confidence": 0.8,
+  "catalogue_url": "https://openlibrary.org/books/OL8155581M",
+  "dims_cm": {
+   "height": 28.19,
+   "width": 22.35,
+   "thickness": 1.52
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:22+00:00"
+ },
+ "book_093": {
+  "track_id": "book_093",
+  "status": "identified",
+  "title": "Fossils and Bones (Quest)",
+  "author": "Saviour Pirotta",
+  "edition": null,
+  "isbn": null,
+  "publisher": "WAYLAND",
+  "year": null,
+  "id_confidence": 0.75,
+  "catalogue_url": "https://openlibrary.org/works/OL458672W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:19:22+00:00"
+ },
+ "book_095": {
+  "track_id": "book_095",
+  "status": "identified",
+  "title": "The human body",
+  "author": "Ruth Dowling Bruun",
+  "edition": "Random House 1982",
+  "isbn": "0394944240",
+  "publisher": "Random House",
+  "year": "1982",
+  "id_confidence": 0.8,
+  "catalogue_url": "https://openlibrary.org/books/OL3485669M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:22+00:00"
+ },
+ "book_096": {
+  "track_id": "book_096",
+  "status": "identified",
+  "title": "A concise guide to trees",
+  "author": "Jenny Linford",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.8,
+  "catalogue_url": "https://openlibrary.org/works/OL24157362W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:19:23+00:00"
+ },
+ "book_097": {
+  "track_id": "book_097",
+  "status": "identified",
+  "title": "The human body",
+  "author": "Ruth Dowling Bruun",
+  "edition": "Random House 1982",
+  "isbn": "0394944240",
+  "publisher": "Random House",
+  "year": "1982",
+  "id_confidence": 0.8,
+  "catalogue_url": "https://openlibrary.org/books/OL3485669M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:23+00:00"
+ },
+ "book_098": {
+  "track_id": "book_098",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.42,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'TREES | Jenny Linford' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:19:23+00:00"
+ },
+ "book_099": {
+  "track_id": "book_099",
+  "status": "identified",
+  "title": "The Big Book Of Search And Learn",
+  "author": "Tony Tallarico",
+  "edition": "KidsBooks 2004",
+  "isbn": "1588652211",
+  "publisher": "KidsBooks",
+  "year": "2004",
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/books/OL25310717M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:24+00:00"
+ },
+ "book_101": {
+  "track_id": "book_101",
+  "status": "identified",
+  "title": "The Kingfisher book of horse & pony stories",
+  "author": "Jenny Oldfield",
+  "edition": "Kingfisher 2006",
+  "isbn": "9780753412800",
+  "publisher": "Kingfisher",
+  "year": "2006",
+  "id_confidence": 0.8,
+  "catalogue_url": "https://openlibrary.org/books/OL32112802M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:24+00:00"
+ },
+ "book_102": {
+  "track_id": "book_102",
+  "status": "identified",
+  "title": "Quiz whiz 3",
+  "author": "National Geographic Society (U.S.)",
+  "edition": "National Geographic 2014",
+  "isbn": "9781426314858",
+  "publisher": "National Geographic",
+  "year": "2014",
+  "id_confidence": 0.75,
+  "catalogue_url": "https://openlibrary.org/books/OL30098535M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:25+00:00"
+ },
+ "book_110": {
+  "track_id": "book_110",
+  "status": "identified",
+  "title": "The Kingfisher book of horse & pony stories",
+  "author": "Jenny Oldfield",
+  "edition": "Kingfisher 2006",
+  "isbn": "9780753412800",
+  "publisher": "Kingfisher",
+  "year": "2006",
+  "id_confidence": 0.8,
+  "catalogue_url": "https://openlibrary.org/books/OL32112802M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:24+00:00"
+ },
+ "book_103": {
+  "track_id": "book_103",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.42,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'ROCKS & MINERALS | James Lagomarsino' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:19:25+00:00"
+ },
+ "book_104": {
+  "track_id": "book_104",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'KINGFISHER KNOWLEDGE | KFK | LIFE IN ANCIENT ROME | KINGFISHER' without an author; 2 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:19:25+00:00"
+ },
+ "book_105": {
+  "track_id": "book_105",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'QUIZ WHIZ 3 | NATIONAL GEOGRAPHIC KIDS' without an author; 2 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:19:25+00:00"
+ },
+ "book_107": {
+  "track_id": "book_107",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'QUIZ WHIZ 2 | NATIONAL GEOGRAPHIC KIDS' without an author; 2 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:19:26+00:00"
+ },
+ "book_106": {
+  "track_id": "book_106",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'FIRST BIG BOOK OF SCIENCE | NATIONAL GEOGRAPHIC KIDS' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:27+00:00"
+ },
+ "book_108": {
+  "track_id": "book_108",
+  "status": "identified",
+  "title": "How to read faces",
+  "author": "Li Tao",
+  "edition": "Hamlyn Publishing Group 1989",
+  "isbn": "9780600564515",
+  "publisher": "Hamlyn Publishing Group",
+  "year": "1989",
+  "id_confidence": 0.75,
+  "catalogue_url": "https://openlibrary.org/books/OL10918267M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:27+00:00"
+ },
+ "book_109": {
+  "track_id": "book_109",
+  "status": "identified",
+  "title": "Movers and Shapers (Bodyscope)",
+  "author": "Patricia Macnair",
+  "edition": "Kingfisher Books Ltd October 18, 2004",
+  "isbn": "9780753409664",
+  "publisher": "Kingfisher Books Ltd",
+  "year": "October 18, 2004",
+  "id_confidence": 0.78,
+  "catalogue_url": "https://openlibrary.org/books/OL9768645M",
+  "dims_cm": {
+   "height": 25.91,
+   "width": 19.81,
+   "thickness": 1.27
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:27+00:00"
+ },
+ "book_111": {
+  "track_id": "book_111",
+  "status": "identified",
+  "title": "Harry S. Truman: thirty-third president of the United States",
+  "author": "George Edward Stanley, Meryl Henderson",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.8,
+  "catalogue_url": "https://openlibrary.org/works/OL15059065W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:19:27+00:00"
+ },
+ "book_112": {
+  "track_id": "book_112",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'QUIZ WHIZ! 1 | NATIONAL GEOGRAPHIC' without an author; 2 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:19:27+00:00"
+ },
+ "book_113": {
+  "track_id": "book_113",
+  "status": "identified",
+  "title": "1001 Science Questions Answered",
+  "author": null,
+  "edition": "Reader's Digest 2008",
+  "isbn": "9781921344527",
+  "publisher": "Reader's Digest",
+  "year": "2008",
+  "id_confidence": 0.56,
+  "catalogue_url": "https://openlibrary.org/books/OL25416490M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:28+00:00"
+ },
+ "book_115": {
+  "track_id": "book_115",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text \"1000 SCIENCE QUESTIONS ANSWERED | Reader's Digest\" matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:29+00:00"
+ },
+ "book_116": {
+  "track_id": "book_116",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text '3-MINUTE Jungle Tales' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:29+00:00"
+ },
+ "book_121": {
+  "track_id": "book_121",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text '3-MINUTE Jungle Tales | publications international, ltd.' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:30+00:00"
+ },
+ "book_117": {
+  "track_id": "book_117",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'BOOK 1 MEGAPLUS GK QUIZ' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:21:24+00:00"
+ },
+ "book_118": {
+  "track_id": "book_118",
+  "status": "identified",
+  "title": "Leonardo Da Vinci: Young Artist, Writer, and Inventor",
+  "author": "George Edward Stanley",
+  "edition": null,
+  "isbn": null,
+  "publisher": "Aladdin",
+  "year": null,
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/works/OL137997W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:19:30+00:00"
+ },
+ "book_125": {
+  "track_id": "book_125",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'BOOK 2 | MEGAPLUS GK QUIZ | BPI' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:21:25+00:00"
+ },
+ "book_114": {
+  "track_id": "book_114",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text '6 Science | A Book Paradise' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:30+00:00"
+ },
+ "book_119": {
+  "track_id": "book_119",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text '3-MINUTE Jungle Tales' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:30+00:00"
+ },
+ "book_120": {
+  "track_id": "book_120",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'QUIZ BOOK for clever kids | MEGAPLUS GK QUIZ | BPI' without an author; 2 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:19:30+00:00"
+ },
+ "book_122": {
+  "track_id": "book_122",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'BOOK 2 | MEGAPLUS GK QUIZ | BPI' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:21:26+00:00"
+ },
+ "book_100": {
+  "track_id": "book_100",
+  "status": "identified",
+  "title": "Rocks & Minerals",
+  "author": "James Lagomarsino",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.66,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "title as printed on the spine; no catalogue record found"
+  ],
+  "retrieved_at": "2026-10-18T10:19:24+00:00"
+ },
+ "book_126": {
+  "track_id": "book_126",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.56,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'The Secret History of Unicorns | J. Renison | k' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:21:26+00:00"
+ },
+ "book_124": {
+  "track_id": "book_124",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'KINGFISHER KNOWLEDGE | KFK | ROCKS & FOSSILS | KINGFISHER | KINGFISHER KNOWLEDGE | KFK | THE MIDDLE EAST | KINGFISHER | KINGFISHER KNOWLEDGE | KFK | CASTLES & FORTS | KINGFISHER KNOWLEDGE | KFK | ENDANGERED' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:32+00:00"
+ },
+ "book_127": {
+  "track_id": "book_127",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'KINGFISHER KNOWLEDGE | KFK | THE MIDDLE EAST' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:32+00:00"
+ },
+ "book_128": {
+  "track_id": "book_128",
+  "status": "identified",
+  "title": "Endangered Planet",
+  "author": "David Burnie, Tony Juniper",
+  "edition": "Kingfisher October 14, 2004",
+  "isbn": "9780753457764",
+  "publisher": "Kingfisher",
+  "year": "October 14, 2004",
+  "id_confidence": 0.75,
+  "catalogue_url": "https://openlibrary.org/books/OL7987152M",
+  "dims_cm": {
+   "height": 27.69,
+   "width": 22.86,
+   "thickness": 1.02
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:32+00:00"
+ },
+ "book_129": {
+  "track_id": "book_129",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'Old MacDonald Had a Farm | Publications International, Ltd.' without an author; 6 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:19:33+00:00"
+ },
+ "book_130": {
+  "track_id": "book_130",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text '123 SESAME STREET | First Look and Find ELMO & FRIENDS | Publications International, Ltd.' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:33+00:00"
+ },
+ "book_131": {
+  "track_id": "book_131",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'KINGFISHER KNOWLEDGE | KFK | PIRATES & SMUGGLERS'; the closest catalogue title 'Pirates & smugglers' leaves ['kfk', 'knowledge'] unexplained, so it is probably a different book"
+  ],
+  "retrieved_at": "2026-10-18T10:19:33+00:00"
+ },
+ "book_132": {
+  "track_id": "book_132",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'KINGFISHER KNOWLEDGE | KFK | CASTLES & FORTS | KINGFISHER' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:34+00:00"
+ },
+ "book_139": {
+  "track_id": "book_139",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text '123 SESAME STREET | First Look and Find | ELMO & FRIENDS | pi kids' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:33+00:00"
+ },
+ "book_133": {
+  "track_id": "book_133",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'KINGFISHER KNOWLEDGE | KFK | MUMMIES' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:34+00:00"
+ },
+ "book_134": {
+  "track_id": "book_134",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'KINGFISHER KNOWLEDGE | KFK | ARCHAEOLOGY | KINGFISHER' without an author; 5 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:19:35+00:00"
+ },
+ "book_135": {
+  "track_id": "book_135",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'My First 500 Words | Illustrated by Jenny Tulip | B A' without an author; 2 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:19:35+00:00"
+ },
+ "book_136": {
+  "track_id": "book_136",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'My First 500 Words | Illustrated by Jenny Tulip' without an author; 2 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:19:35+00:00"
+ },
+ "book_137": {
+  "track_id": "book_137",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'KINGFISHER KNOWLEDGE | KFK | GENES & DNA' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:36+00:00"
+ },
+ "book_138": {
+  "track_id": "book_138",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'KINGFISHER KNOWLEDGE | KFK | ARCHAEOLOGY | KINGFISHER' without an author; 5 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:19:36+00:00"
+ },
+ "book_141": {
+  "track_id": "book_141",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'KINGFISHER KNOWLEDGE | KFK | EPIDEMICS & PLAGUES | KINGFISHER' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:36+00:00"
+ },
+ "book_143": {
+  "track_id": "book_143",
+  "status": "identified",
+  "title": "I SPY MYSTERY: A Book of Picture Riddles",
+  "author": "Jean Marzollo, Walter Wick",
+  "edition": "Scholastic June 2006",
+  "isbn": "9780439252485",
+  "publisher": "Scholastic",
+  "year": "June 2006",
+  "id_confidence": 0.6,
+  "catalogue_url": "https://openlibrary.org/books/OL7511358M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:37+00:00"
+ },
+ "book_148": {
+  "track_id": "book_148",
+  "status": "identified",
+  "title": "I SPY MYSTERY: A Book of Picture Riddles",
+  "author": "Jean Marzollo, Walter Wick",
+  "edition": "Scholastic June 2006",
+  "isbn": "9780439252485",
+  "publisher": "Scholastic",
+  "year": "June 2006",
+  "id_confidence": 0.6,
+  "catalogue_url": "https://openlibrary.org/books/OL7511358M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:37+00:00"
+ },
+ "book_147": {
+  "track_id": "book_147",
+  "status": "identified",
+  "title": "I SPY MYSTERY: A Book of Picture Riddles",
+  "author": "Jean Marzollo, Walter Wick",
+  "edition": "Scholastic June 2006",
+  "isbn": "9780439252485",
+  "publisher": "Scholastic",
+  "year": "June 2006",
+  "id_confidence": 0.8,
+  "catalogue_url": "https://openlibrary.org/books/OL7511358M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:39+00:00"
+ },
+ "book_142": {
+  "track_id": "book_142",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'EPIDEMICS & PLAGUES | KINGFISHER' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:37+00:00"
+ },
+ "book_150": {
+  "track_id": "book_150",
+  "status": "identified",
+  "title": "I SPY MYSTERY: A Book of Picture Riddles",
+  "author": "Jean Marzollo, Walter Wick",
+  "edition": "Scholastic June 2006",
+  "isbn": "9780439252485",
+  "publisher": "Scholastic",
+  "year": "June 2006",
+  "id_confidence": 0.8,
+  "catalogue_url": "https://openlibrary.org/books/OL7511358M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:37+00:00"
+ },
+ "book_144": {
+  "track_id": "book_144",
+  "status": "identified",
+  "title": "Take it to the hoop, Magic Johnson",
+  "author": "Quincy Troupe",
+  "edition": "Jump At The Sun September 1, 2000",
+  "isbn": "9780786805105",
+  "publisher": "Jump At The Sun",
+  "year": "September 1, 2000",
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/books/OL11087198M",
+  "dims_cm": {
+   "height": 31.24,
+   "width": 23.88,
+   "thickness": 1.02
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:38+00:00"
+ },
+ "book_160": {
+  "track_id": "book_160",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'QUIZ WHIZ | KING' without an author; 2 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:19:27+00:00"
+ },
+ "book_123": {
+  "track_id": "book_123",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'my first book of DINOSAURS | TS' without an author; 5 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:19:38+00:00"
+ },
+ "book_140": {
+  "track_id": "book_140",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'KINGFISHER KNOWLEDGE | KFK | DINOSAURS | KINGFISHER' without an author; 2 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:19:38+00:00"
+ },
+ "book_146": {
+  "track_id": "book_146",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows \"MARVEL HEROES | MOVIE THEATER STORYBOOK & MOVIE PROJECTOR | Reader's Digest Children's Books\"; the closest catalogue title 'Toy Story 3 Movie Theater Storybook & Movie Projector' leaves ['heroes', 'marvel'] unexplained, so it is probably a different book"
+  ],
+  "retrieved_at": "2026-10-18T10:19:38+00:00"
+ },
+ "book_145": {
+  "track_id": "book_145",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.42,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'THE WORLD OF EXPLORATION | PHILIP STEELE' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:19:38+00:00"
+ },
+ "book_149": {
+  "track_id": "book_149",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.56,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'KINGFISHER KNOWLEDGE ANIMAL GIANTS | KINGFISHER KNOWLEDGE COMMUNICATION | NED HALLEY | KINGFISHER | KINGFISHER KNOWLEDGE DISASTERS | KINGFISHER | THE WORLD OF DISASTERS | PHILIP STEELE | KINGFISHER | THE VIKING WORLD | THE WORLD OF CASTLES | PHILIP WILKINSON | KINGFISHER | LIFE AND TIMES IN' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:21:35+00:00"
+ },
+ "book_151": {
+  "track_id": "book_151",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.42,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'THE WORLD OF ASTRONOMY | LIFE AND TIMES IN ANCIENT GREECE | LIFE AND TIMES IN ANCIENT ROME | KINGFISHER KNOWLEDGE DANGEROUS CREATURES | KINGFISHER KNOWLEDGE ANIMAL GIANTS | KINGFISHER | KINGFISHER KNOWLEDGE COMMUNICATION | NED HALLEY | KINGFISHER | KINGFISHER KNOWLEDGE DISASTERS | KINGFISHER | THE WORLD OF DISASTERS | PHILIP STEELE | KINGFISHER | THE VIKING WORLD | THE WORLD OF CASTLES | PHILIP WILKINSON | KINGFISHER | LIFE AND TIMES IN | WORLD OF SHIPS | PHILIP WILKINSON | KINGFISHER | EXPLORATION | PHILIP STEELE | KINGFISHER' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:21:35+00:00"
+ },
+ "book_152": {
+  "track_id": "book_152",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not legible enough to identify"
+  ],
+  "retrieved_at": "2026-10-18T10:21:35+00:00"
+ },
+ "book_153": {
+  "track_id": "book_153",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.56,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'KINGFISHER KNOWLEDGE COMMUNICATION | NED HALLEY | KINGFISHER' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:19:40+00:00"
+ },
+ "book_154": {
+  "track_id": "book_154",
+  "status": "identified",
+  "title": "Life and times in ancient Greece",
+  "author": "Julie Ferris",
+  "edition": "Kingfisher 2007",
+  "isbn": "9780753461501",
+  "publisher": "Kingfisher",
+  "year": "2007",
+  "id_confidence": 0.56,
+  "catalogue_url": "https://openlibrary.org/books/OL23103494M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:40+00:00"
+ },
+ "book_155": {
+  "track_id": "book_155",
+  "status": "identified",
+  "title": "This is London",
+  "author": "M. Sasek",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.8,
+  "catalogue_url": "https://openlibrary.org/works/OL18180640W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:19:41+00:00"
+ },
+ "book_156": {
+  "track_id": "book_156",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'EARTHQUAKES, VOLCANOES AND TSUNAMIS | Terrapin' without an author; 4 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:19:41+00:00"
+ },
+ "book_157": {
+  "track_id": "book_157",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.56,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'THE WORLD OF PYRAMIDS | ANNE MILLARD | KINGFISHER' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:19:41+00:00"
+ },
+ "book_158": {
+  "track_id": "book_158",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'VOLCANOES & EARTHQUAKES | KINGFISHER' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:42+00:00"
+ },
+ "book_159": {
+  "track_id": "book_159",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not legible enough to identify"
+  ],
+  "retrieved_at": "2026-10-18T10:19:42+00:00"
+ },
+ "book_162": {
+  "track_id": "book_162",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.56,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'THE USBORNE | INTERNET-LINKED | BOOK OF ASTRONOMY & SPACE | MILES & SMITH | USBORNE' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:19:42+00:00"
+ },
+ "book_164": {
+  "track_id": "book_164",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'KINGFISHER VOYAGES | WILD WEATHER | KINGFISHER' without an author; 6 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:19:43+00:00"
+ },
+ "book_165": {
+  "track_id": "book_165",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.42,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'ANCIENT GREECE | PETER HICKS | WAYLAND' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:19:43+00:00"
+ },
+ "book_166": {
+  "track_id": "book_166",
+  "status": "identified",
+  "title": "Penguin Post",
+  "author": "Debi Gliori",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.66,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "title as printed on the spine; no catalogue record found"
+  ],
+  "retrieved_at": "2026-10-18T10:19:43+00:00"
+ },
+ "book_167": {
+  "track_id": "book_167",
+  "status": "identified",
+  "title": "The Hunchback of Notre Dame",
+  "author": "Van Gool",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.66,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "title as printed on the spine; no catalogue record found"
+  ],
+  "retrieved_at": "2026-10-18T10:19:44+00:00"
+ },
+ "book_169": {
+  "track_id": "book_169",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'ANIMAL ENCYCLOPEDIA | INSECTS & SPIDERS' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:44+00:00"
+ },
+ "book_170": {
+  "track_id": "book_170",
+  "status": "identified",
+  "title": "The INCREDIBLE Book EATING BOY",
+  "author": "Oliver Jeffers",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.6,
+  "catalogue_url": "https://openlibrary.org/works/OL5823167W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:19:44+00:00"
+ },
+ "book_171": {
+  "track_id": "book_171",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'KINGFISHER VOYAGES | Oceans | KINGFISHER' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:45+00:00"
+ },
+ "book_172": {
+  "track_id": "book_172",
+  "status": "identified",
+  "title": "The INCREDIBLE Book EATING BOY",
+  "author": "Oliver Jeffers",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.8,
+  "catalogue_url": "https://openlibrary.org/works/OL5823167W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:19:45+00:00"
+ },
+ "book_173": {
+  "track_id": "book_173",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.42,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'LUCY COUSINS | HOORAY FOR FISH! WITH DVD | WALKER BOOKS' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:21:41+00:00"
+ },
+ "book_181": {
+  "track_id": "book_181",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Planet Earth | KINGFISHER' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:48+00:00"
+ },
+ "book_174": {
+  "track_id": "book_174",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Mountains | KINGFISHER' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:46+00:00"
+ },
+ "book_183": {
+  "track_id": "book_183",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.56,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'LUCY COUSINS | HOORAY FOR FISH! WITH DVD | WALKER BOOKS' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:21:42+00:00"
+ },
+ "book_175": {
+  "track_id": "book_175",
+  "status": "identified",
+  "title": "Chanda AND THE MIRROR OF MOONLIGHT",
+  "author": "Margaret Bateson-Hill, Asha Kathoria",
+  "edition": "Zero to Ten October 2001",
+  "isbn": "9781840892178",
+  "publisher": "Zero to Ten",
+  "year": "October 2001",
+  "id_confidence": 0.6,
+  "catalogue_url": "https://openlibrary.org/books/OL12565490M",
+  "dims_cm": {
+   "height": 29.46,
+   "width": 22.35,
+   "thickness": 1.02
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:46+00:00"
+ },
+ "book_176": {
+  "track_id": "book_176",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'INSIDE ACCESS | SHARKS | KINGFISHER' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:46+00:00"
+ },
+ "book_177": {
+  "track_id": "book_177",
+  "status": "identified",
+  "title": "Chanda AND THE MIRROR OF MOONLIGHT",
+  "author": "Margaret Bateson-Hill, Asha Kathoria",
+  "edition": "Zero to Ten October 2001",
+  "isbn": "9781840892178",
+  "publisher": "Zero to Ten",
+  "year": "October 2001",
+  "id_confidence": 0.6,
+  "catalogue_url": "https://openlibrary.org/books/OL12565490M",
+  "dims_cm": {
+   "height": 29.46,
+   "width": 22.35,
+   "thickness": 1.02
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:46+00:00"
+ },
+ "book_178": {
+  "track_id": "book_178",
+  "status": "identified",
+  "title": "Let's Talk About Where Babies Come from",
+  "author": "Robie H. Harris",
+  "edition": "Walker Books Ltd August 2, 2004",
+  "isbn": "9781844281732",
+  "publisher": "Walker Books Ltd",
+  "year": "August 2, 2004",
+  "id_confidence": 0.6,
+  "catalogue_url": "https://openlibrary.org/books/OL8954367M",
+  "dims_cm": {
+   "height": 29.72,
+   "width": 24.38,
+   "thickness": 0.76
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:47+00:00"
+ },
+ "book_179": {
+  "track_id": "book_179",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'For the Love of Beanie Babies | Publications International, Ltd.' without an author; 3 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:19:47+00:00"
+ },
+ "book_185": {
+  "track_id": "book_185",
+  "status": "identified",
+  "title": "A Child's Treasury of NURSERY RHYMES",
+  "author": "Kady MacDonald Denton",
+  "edition": "Kingfisher Mar 21, 2019",
+  "isbn": "9780753444887",
+  "publisher": "Kingfisher",
+  "year": "Mar 21, 2019",
+  "id_confidence": 0.6,
+  "catalogue_url": "https://openlibrary.org/books/OL28237724M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:49+00:00"
+ },
+ "book_184": {
+  "track_id": "book_184",
+  "status": "identified",
+  "title": "Rooster's Off to See the World",
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": "Scholastic",
+  "year": null,
+  "id_confidence": 0.56,
+  "catalogue_url": "https://openlibrary.org/works/OL10701729M",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:19:49+00:00"
+ },
+ "book_192": {
+  "track_id": "book_192",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Robots | KINGFISHER' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T13:15:36+00:00"
+ },
+ "book_186": {
+  "track_id": "book_186",
+  "status": "identified",
+  "title": "A Child's Treasury of NURSERY RHYMES",
+  "author": "Kady MacDonald Denton",
+  "edition": "Kingfisher Mar 21, 2019",
+  "isbn": "9780753444887",
+  "publisher": "Kingfisher",
+  "year": "Mar 21, 2019",
+  "id_confidence": 0.6,
+  "catalogue_url": "https://openlibrary.org/books/OL28237724M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:49+00:00"
+ },
+ "book_188": {
+  "track_id": "book_188",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Weather | KINGFISHER' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:50+00:00"
+ },
+ "book_187": {
+  "track_id": "book_187",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Materials | KINGFISHER' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:50+00:00"
+ },
+ "book_189": {
+  "track_id": "book_189",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'A TREASURY FOR Six Year Olds | SANDY CREEK' without an author; 2 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:19:50+00:00"
+ },
+ "book_190": {
+  "track_id": "book_190",
+  "status": "identified",
+  "title": "Glorious History Of India",
+  "author": "Nita Mehta",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.66,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "title as printed on the spine; no catalogue record found"
+  ],
+  "retrieved_at": "2026-10-18T10:19:50+00:00"
+ },
+ "book_191": {
+  "track_id": "book_191",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Birds | KINGFISHER' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:51+00:00"
+ },
+ "book_182": {
+  "track_id": "book_182",
+  "status": "identified",
+  "title": "Maps and Mapping",
+  "author": "Deborah Chancellor",
+  "edition": "Kingfisher Books Ltd April 19, 2004",
+  "isbn": "9780753409466",
+  "publisher": "Kingfisher Books Ltd",
+  "year": "April 19, 2004",
+  "id_confidence": 0.56,
+  "catalogue_url": "https://openlibrary.org/books/OL9344800M",
+  "dims_cm": {
+   "height": 25.91,
+   "width": 19.56,
+   "thickness": 1.02
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:51+00:00"
+ },
+ "book_193": {
+  "track_id": "book_193",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'Animal Disguises | KINGFISHER' without an author; 3 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:19:52+00:00"
+ },
+ "book_195": {
+  "track_id": "book_195",
+  "status": "identified",
+  "title": "Numeric Puzzles",
+  "author": null,
+  "edition": "Hinkler Books 2000-01-01",
+  "isbn": "9781488930775",
+  "publisher": "Hinkler Books",
+  "year": "2000-01-01",
+  "id_confidence": 0.56,
+  "catalogue_url": "https://openlibrary.org/books/OL43410278M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:52+00:00"
+ },
+ "book_196": {
+  "track_id": "book_196",
+  "status": "identified",
+  "title": "Numeric Puzzles",
+  "author": null,
+  "edition": "Hinkler Books 2000-01-01",
+  "isbn": "9781488930775",
+  "publisher": "Hinkler Books",
+  "year": "2000-01-01",
+  "id_confidence": 0.56,
+  "catalogue_url": "https://openlibrary.org/books/OL43410278M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:52+00:00"
+ },
+ "book_197": {
+  "track_id": "book_197",
+  "status": "identified",
+  "title": "Puff, the Magic Dragon",
+  "author": "Peter Yarrow, Lenny Lipton",
+  "edition": "Sterling August 1, 2007",
+  "isbn": "9781402747823",
+  "publisher": "Sterling",
+  "year": "August 1, 2007",
+  "id_confidence": 0.8,
+  "catalogue_url": "https://openlibrary.org/books/OL9825341M",
+  "dims_cm": {
+   "height": 29.97,
+   "width": 28.19,
+   "thickness": 2.29
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:53+00:00"
+ },
+ "book_194": {
+  "track_id": "book_194",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows \"Winnie the Pooh | Roo's Big Nature Day\"; the closest catalogue title \"Roo's Big Nature Day\" leaves ['pooh', 'winnie'] unexplained, so it is probably a different book"
+  ],
+  "retrieved_at": "2026-10-18T10:19:53+00:00"
+ },
+ "book_199": {
+  "track_id": "book_199",
+  "status": "identified",
+  "title": "Puff, the Magic Dragon",
+  "author": "Peter Yarrow, Lenny Lipton",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/works/OL18168671W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:19:53+00:00"
+ },
+ "book_198": {
+  "track_id": "book_198",
+  "status": "identified",
+  "title": "Earthquakes",
+  "author": "Seymour Simon",
+  "edition": "Collins, HarperCollins 2006",
+  "isbn": "9780060877149",
+  "publisher": "Collins, HarperCollins",
+  "year": "2006",
+  "id_confidence": 0.8,
+  "catalogue_url": "https://openlibrary.org/books/OL23118035M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:53+00:00"
+ },
+ "book_200": {
+  "track_id": "book_200",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'JUNIOR ENCYCLOPAEDIA | EYEWITNESS JUNIORS • 10 AMAZING CROCODILES & REPTILES' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:21:49+00:00"
+ },
+ "book_201": {
+  "track_id": "book_201",
+  "status": "identified",
+  "title": "The Usborne First Encyclopedia of Space",
+  "author": "Theresa Dowswell",
+  "edition": "Usborne Publishing Ltd May 25, 2001",
+  "isbn": "9780746041864",
+  "publisher": "Usborne Publishing Ltd",
+  "year": "May 25, 2001",
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/books/OL7958429M",
+  "dims_cm": {
+   "height": 27.69,
+   "width": 21.84,
+   "thickness": 1.52
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:54+00:00"
+ },
+ "book_202": {
+  "track_id": "book_202",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'HURRICANES | VOLCANOES | Collins' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:54+00:00"
+ },
+ "book_203": {
+  "track_id": "book_203",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'Peter Pan | BRIMAR' without an author; 2 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:19:55+00:00"
+ },
+ "book_204": {
+  "track_id": "book_204",
+  "status": "identified",
+  "title": "Judaism (World Faiths)",
+  "author": "Trevor Barnes",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.8,
+  "catalogue_url": "https://openlibrary.org/works/OL3824182W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:19:55+00:00"
+ },
+ "book_205": {
+  "track_id": "book_205",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'ANIMALS THAT TRAVEL | NATIONAL GEOGRAPHIC SOCIETY' without an author; 3 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:19:55+00:00"
+ },
+ "book_207": {
+  "track_id": "book_207",
+  "status": "identified",
+  "title": "ULTIMATE FAMILY VISUAL dictionary",
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": "DK",
+  "year": null,
+  "id_confidence": 0.56,
+  "catalogue_url": "https://openlibrary.org/works/OL20097720W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:19:56+00:00"
+ },
+ "book_206": {
+  "track_id": "book_206",
+  "status": "identified",
+  "title": "Junior Encyclopaedia",
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": "INFINITY BOOKS",
+  "year": null,
+  "id_confidence": 0.89,
+  "catalogue_url": "https://openlibrary.org/works/OL44192179W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:19:56+00:00"
+ },
+ "book_208": {
+  "track_id": "book_208",
+  "status": "identified",
+  "title": "Phonics First 6",
+  "author": "Hunter Calder",
+  "edition": "BPI (India) PVT Ltd December 2002",
+  "isbn": "9788176931175",
+  "publisher": "BPI (India) PVT Ltd",
+  "year": "December 2002",
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/books/OL13171844M",
+  "dims_cm": {
+   "height": 27.69,
+   "width": 21.34,
+   "thickness": 0.51
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:56+00:00"
+ },
+ "book_209": {
+  "track_id": "book_209",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'ANIMALS Discovery CHANNEL OXFORD' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:57+00:00"
+ },
+ "book_211": {
+  "track_id": "book_211",
+  "status": "identified",
+  "title": "One Duck Stuck",
+  "author": "Phyllis Root",
+  "edition": "Candlewick March 1, 2003",
+  "isbn": "9780763615666",
+  "publisher": "Candlewick",
+  "year": "March 1, 2003",
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/books/OL8036078M",
+  "dims_cm": {
+   "height": 16.76,
+   "width": 15.49,
+   "thickness": 1.78
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:57+00:00"
+ },
+ "book_210": {
+  "track_id": "book_210",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'The World of KNOWLEDGE DK' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:57+00:00"
+ },
+ "book_212": {
+  "track_id": "book_212",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'The world of KNOWLEDGE | MK' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:58+00:00"
+ },
+ "book_213": {
+  "track_id": "book_213",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not legible enough to identify"
+  ],
+  "retrieved_at": "2026-10-18T10:19:58+00:00"
+ },
+ "book_215": {
+  "track_id": "book_215",
+  "status": "identified",
+  "title": "Olde Tyme Mother Goose",
+  "author": "Dalmatian Press",
+  "edition": "Dalmatian Press November 2004",
+  "isbn": "9781403708816",
+  "publisher": "Dalmatian Press",
+  "year": "November 2004",
+  "id_confidence": 0.75,
+  "catalogue_url": "https://openlibrary.org/books/OL11641539M",
+  "dims_cm": {
+   "height": 23.11,
+   "width": 23.11,
+   "thickness": 2.29
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:58+00:00"
+ },
+ "book_218": {
+  "track_id": "book_218",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.56,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'THE WONDER OF WATER | Nita Berry | CBT' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:19:59+00:00"
+ },
+ "book_217": {
+  "track_id": "book_217",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'LARGE PRINT | 5 minute | FAIRY TALES' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:59+00:00"
+ },
+ "book_219": {
+  "track_id": "book_219",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'NATURE ENCYCLOPEDIA' without an author; 2 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:20:00+00:00"
+ },
+ "book_220": {
+  "track_id": "book_220",
+  "status": "identified",
+  "title": "Runny Babbit",
+  "author": "Shel Silverstein",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.8,
+  "catalogue_url": "https://openlibrary.org/works/OL3368276W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:20:00+00:00"
+ },
+ "book_222": {
+  "track_id": "book_222",
+  "status": "identified",
+  "title": "Brundibár",
+  "author": "Sendak/Kushner",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.66,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "title as printed on the spine; no catalogue record found"
+  ],
+  "retrieved_at": "2026-10-18T10:20:00+00:00"
+ },
+ "book_221": {
+  "track_id": "book_221",
+  "status": "identified",
+  "title": "The Biggest Pumpkin Ever",
+  "author": "Steven Kroll",
+  "edition": "Holiday House 1984",
+  "isbn": "0823405052",
+  "publisher": "Holiday House",
+  "year": "1984",
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/books/OL3176089M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:20:01+00:00"
+ },
+ "book_216": {
+  "track_id": "book_216",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'LEVEL 2 READY TO READ | LARGE PRINT | 5 minute | FAIRY TALES' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:20:01+00:00"
+ },
+ "book_228": {
+  "track_id": "book_228",
+  "status": "identified",
+  "title": "Science Experiments",
+  "author": "Jane Bingham",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.89,
+  "catalogue_url": "https://openlibrary.org/works/OL5736650W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:20:01+00:00"
+ },
+ "book_233": {
+  "track_id": "book_233",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'THE COMPLETE BOOK OF CAT CARE' without an author; 3 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:20:01+00:00"
+ },
+ "book_234": {
+  "track_id": "book_234",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'THE COMPLETE BOOK OF CAT CARE | THE KINGFISHER First Dinosaur Picture Atlas | -PIERSON-' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:20:02+00:00"
+ },
+ "book_236": {
+  "track_id": "book_236",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'LIVING EARTH | DK' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:20:02+00:00"
+ },
+ "book_237": {
+  "track_id": "book_237",
+  "status": "identified",
+  "title": "Formula one",
+  "author": "Bob Judd",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.75,
+  "catalogue_url": "https://openlibrary.org/works/OL3579980W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:20:03+00:00"
+ },
+ "book_251": {
+  "track_id": "book_251",
+  "status": "identified",
+  "title": "1001 Science Questions Answered",
+  "author": null,
+  "edition": "Reader's Digest 2008",
+  "isbn": "9781921344527",
+  "publisher": "Reader's Digest",
+  "year": "2008",
+  "id_confidence": 0.56,
+  "catalogue_url": "https://openlibrary.org/books/OL25416490M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:19:28+00:00"
+ },
+ "book_235": {
+  "track_id": "book_235",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text \"First Dinosaur Picture Atlas | The Best-Ever Book of DINOSAURS | AMANDA O'NEILL | Kingfisher\" matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:20:02+00:00"
+ },
+ "book_238": {
+  "track_id": "book_238",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'yn Encyclopedia of PHOTOGRAPHY | HAMLYN' without an author; 3 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:20:03+00:00"
+ },
+ "book_239": {
+  "track_id": "book_239",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'Discovery | ELECTRONICS AND TECHNOLOGY'; the closest catalogue title 'Electronic technology' leaves ['discovery', 'electronics'] unexplained, so it is probably a different book"
+  ],
+  "retrieved_at": "2026-10-18T10:20:03+00:00"
+ },
+ "book_240": {
+  "track_id": "book_240",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text \"Nature | A Child's First Library of Learning\" matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:20:04+00:00"
+ },
+ "book_241": {
+  "track_id": "book_241",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.42,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Great Inventions • Computers | Brian Williams' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:20:04+00:00"
+ },
+ "book_250": {
+  "track_id": "book_250",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'SPACE lots of amazing things about space' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-17T15:12:44+00:00"
+ },
+ "book_249": {
+  "track_id": "book_249",
+  "status": "identified",
+  "title": "A Child's First Library of Learning",
+  "author": "C. E. Berry",
+  "edition": "Time-Life Books 1983",
+  "isbn": "9780809473298",
+  "publisher": "Time-Life Books",
+  "year": "1983",
+  "id_confidence": 0.56,
+  "catalogue_url": "https://openlibrary.org/books/OL24935118M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:20:08+00:00"
+ },
+ "book_253": {
+  "track_id": "book_253",
+  "status": "identified",
+  "title": "A Child's First Library of Learning",
+  "author": "C. E. Berry",
+  "edition": "Time-Life Books 1983",
+  "isbn": "9780809473298",
+  "publisher": "Time-Life Books",
+  "year": "1983",
+  "id_confidence": 0.56,
+  "catalogue_url": "https://openlibrary.org/books/OL24935118M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:20:08+00:00"
+ },
+ "book_243": {
+  "track_id": "book_243",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.42,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Discovery | ELECTRONICS AND TECHNOLOGY | KIMBERLEY FRY' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:20:05+00:00"
+ },
+ "book_244": {
+  "track_id": "book_244",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text \"1,001 Computer Hints & Tips | Reader's Digest\" matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:20:05+00:00"
+ },
+ "book_246": {
+  "track_id": "book_246",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text \"CHILDREN'S DICTIONARY | KINGFISHER\" matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:20:06+00:00"
+ },
+ "book_242": {
+  "track_id": "book_242",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.56,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'First Explorers | RAINFORESTS | AUDREY VINCENT' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:20:04+00:00"
+ },
+ "book_245": {
+  "track_id": "book_245",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text \"Nature | A Child's First Library of Learning | TIME LIFE\" matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:20:06+00:00"
+ },
+ "book_248": {
+  "track_id": "book_248",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text \"1,001 Computer Hints & Tips | Reader's Digest\" matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:20:06+00:00"
+ },
+ "book_247": {
+  "track_id": "book_247",
+  "status": "identified",
+  "title": "Rand McNally Children's World Atlas",
+  "author": "Rand McNally",
+  "edition": "Rand McNally 1989",
+  "isbn": "0528833480",
+  "publisher": "Rand McNally",
+  "year": "1989",
+  "id_confidence": 0.89,
+  "catalogue_url": "https://openlibrary.org/books/OL16663470M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:20:06+00:00"
+ },
+ "book_254": {
+  "track_id": "book_254",
+  "status": "identified",
+  "title": "The Children's Book of ART",
+  "author": "Rosie Dickins",
+  "edition": "Usborne Publishing October 28, 2005",
+  "isbn": "9780746070079",
+  "publisher": "Usborne Publishing",
+  "year": "October 28, 2005",
+  "id_confidence": 0.6,
+  "catalogue_url": "https://openlibrary.org/books/OL7958948M",
+  "dims_cm": {
+   "height": 27.18,
+   "width": 23.88,
+   "thickness": 1.78
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:20:08+00:00"
+ },
+ "book_255": {
+  "track_id": "book_255",
+  "status": "identified",
+  "title": "Aviation Art",
+  "author": "John Blake",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.6,
+  "catalogue_url": "https://openlibrary.org/works/OL6032374W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:20:08+00:00"
+ },
+ "book_256": {
+  "track_id": "book_256",
+  "status": "identified",
+  "title": "The Day the World Exploded",
+  "author": "Simon Winchester",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.6,
+  "catalogue_url": "https://openlibrary.org/works/OL1840008W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:20:09+00:00"
+ },
+ "book_257": {
+  "track_id": "book_257",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Dic tion ary FOR CHILDREN | MACMILLAN' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:20:09+00:00"
+ },
+ "book_258": {
+  "track_id": "book_258",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'HUMAN BODY lots of amazing things about the human bod' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:22:04+00:00"
+ },
+ "book_259": {
+  "track_id": "book_259",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'MY FIRST PICTURE DICTIONARY | Derrydale' without an author; 6 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:20:10+00:00"
+ },
+ "book_252": {
+  "track_id": "book_252",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'Seas and Oceans' without an author; 2 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:20:10+00:00"
+ },
+ "book_260": {
+  "track_id": "book_260",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.45,
+  "catalogue_url": "https://openlibrary.org/works/OL2657843W",
+  "dims_cm": {},
+  "reasons": [
+   "weak match to 'Understanding Human Anatomy & Physiology' (confidence 0.45)"
+  ],
+  "retrieved_at": "2026-10-18T10:20:10+00:00"
+ },
+ "book_261": {
+  "track_id": "book_261",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'THE ENCYCLOPEDIA OF GOLF' without an author; 5 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:20:10+00:00"
+ },
+ "book_262": {
+  "track_id": "book_262",
+  "status": "identified",
+  "title": "Usborne mysteries and marvels of science",
+  "author": "Phillip Clarke",
+  "edition": null,
+  "isbn": null,
+  "publisher": "Usborne",
+  "year": null,
+  "id_confidence": 0.72,
+  "catalogue_url": "https://openlibrary.org/works/OL24190717W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:20:11+00:00"
+ },
+ "book_263": {
+  "track_id": "book_263",
+  "status": "identified",
+  "title": "Visual Dictionary",
+  "author": "Jean-Claude Corbeil",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.66,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "title as printed on the spine; no catalogue record found"
+  ],
+  "retrieved_at": "2026-10-18T10:20:11+00:00"
+ },
+ "book_271": {
+  "track_id": "book_271",
+  "status": "identified",
+  "title": "ILLUSTRATED ENCYCLOPEDIA World of Animals",
+  "author": "Susanna Davidson & Mike Unwin",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.66,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "title as printed on the spine; no catalogue record found"
+  ],
+  "retrieved_at": "2026-10-18T10:20:14+00:00"
+ },
+ "book_264": {
+  "track_id": "book_264",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'VOLCANOES | KINGFISHER' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:20:11+00:00"
+ },
+ "book_265": {
+  "track_id": "book_265",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": "KINGFISHER",
+  "year": null,
+  "id_confidence": 0.54,
+  "catalogue_url": "https://openlibrary.org/works/OL19978696W",
+  "dims_cm": {},
+  "reasons": [
+   "weak match to 'Everything you need to know about dinosaurs' (confidence 0.54)"
+  ],
+  "retrieved_at": "2026-10-18T10:20:12+00:00"
+ },
+ "book_267": {
+  "track_id": "book_267",
+  "status": "identified",
+  "title": "Volcanoes",
+  "author": "Seymour Simon",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.75,
+  "catalogue_url": "https://openlibrary.org/works/OL118124W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:20:12+00:00"
+ },
+ "book_266": {
+  "track_id": "book_266",
+  "status": "identified",
+  "title": "Music",
+  "author": "Roger Kamien",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.56,
+  "catalogue_url": "https://openlibrary.org/works/OL2770497W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:20:12+00:00"
+ },
+ "book_268": {
+  "track_id": "book_268",
+  "status": "identified",
+  "title": "essential atlas of botany",
+  "author": "Eric A. Bye",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.75,
+  "catalogue_url": "https://openlibrary.org/works/OL18167457W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:20:13+00:00"
+ },
+ "book_269": {
+  "track_id": "book_269",
+  "status": "identified",
+  "title": "Hannibal and his 37 elephants",
+  "author": "Marilyn Hirsh",
+  "edition": "Holiday House 1977",
+  "isbn": "0823403009",
+  "publisher": "Holiday House",
+  "year": "1977",
+  "id_confidence": 0.6,
+  "catalogue_url": "https://openlibrary.org/books/OL4534848M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:20:13+00:00"
+ },
+ "book_270": {
+  "track_id": "book_270",
+  "status": "identified",
+  "title": "Fantasy Quests",
+  "author": "Andy Dixon",
+  "edition": "Usborne Pub January 2003",
+  "isbn": "9780746033937",
+  "publisher": "Usborne Pub",
+  "year": "January 2003",
+  "id_confidence": 0.8,
+  "catalogue_url": "https://openlibrary.org/books/OL7958287M",
+  "dims_cm": {
+   "height": 33.27,
+   "width": 24.38,
+   "thickness": 1.27
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:20:13+00:00"
+ },
+ "book_272": {
+  "track_id": "book_272",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'KINGFISHER First Animal Picture Atlas' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:20:14+00:00"
+ },
+ "book_273": {
+  "track_id": "book_273",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'The Book of THE EARTH' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:20:15+00:00"
+ },
+ "book_274": {
+  "track_id": "book_274",
+  "status": "identified",
+  "title": "Hannibal and his 37 elephants",
+  "author": "Marilyn Hirsh",
+  "edition": "Holiday House 1977",
+  "isbn": "0823403009",
+  "publisher": "Holiday House",
+  "year": "1977",
+  "id_confidence": 0.6,
+  "catalogue_url": "https://openlibrary.org/books/OL4534848M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:20:15+00:00"
+ },
+ "book_275": {
+  "track_id": "book_275",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.42,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'THE USBORNE INTERNET-LINKED FIRST ENCYCLOPEDIA OF OUR WORLD F. BROOKS' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:22:09+00:00"
+ },
+ "book_276": {
+  "track_id": "book_276",
+  "status": "identified",
+  "title": "The features of Protestantism",
+  "author": "Lawrence Eugene Sullivan, Lawrence E. Sullivan",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.6,
+  "catalogue_url": "https://openlibrary.org/works/OL4975169W",
+  "dims_cm": {},
+  "reasons": [
+   "spine shows a short title ('PROTESTANTISM'); matched the author's only work containing it",
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:20:15+00:00"
+ },
+ "book_277": {
+  "track_id": "book_277",
+  "status": "identified",
+  "title": "Why are jungles in danger?",
+  "author": "Sue Nicholson",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.75,
+  "catalogue_url": "https://openlibrary.org/works/OL24464358W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:20:16+00:00"
+ },
+ "book_278": {
+  "track_id": "book_278",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Book of World Records: Sporting Records' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:20:16+00:00"
+ },
+ "book_294": {
+  "track_id": "book_294",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'ANIMALS | Discovery' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:19:57+00:00"
+ },
+ "book_280": {
+  "track_id": "book_280",
+  "status": "identified",
+  "title": "Life on a Victorian Steamship",
+  "author": "Andrew Langley",
+  "edition": "Heinemann Library April 16, 1997",
+  "isbn": "9780431057156",
+  "publisher": "Heinemann Library",
+  "year": "April 16, 1997",
+  "id_confidence": 0.79,
+  "catalogue_url": "https://openlibrary.org/books/OL10217808M",
+  "dims_cm": {
+   "height": 27.43,
+   "width": 21.08,
+   "thickness": 0.25
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:20:17+00:00"
+ },
+ "book_281": {
+  "track_id": "book_281",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'KINGFISHER | FIRST PICTURE ATLAS | KINGFISHER' without an author; 4 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:20:17+00:00"
+ },
+ "book_282": {
+  "track_id": "book_282",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.42,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'I Wonder Why CAMELS HAVE HUMPS | AND OTHER QUESTIONS ABOUT ANIMALS | ANITA GANERI | SOUTHWESTERN' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:20:17+00:00"
+ },
+ "book_283": {
+  "track_id": "book_283",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.42,
+  "catalogue_url": "https://openlibrary.org/works/OL8074085W",
+  "dims_cm": {},
+  "reasons": [
+   "weak match to 'Time for Kids Almanac 2004' (confidence 0.42)"
+  ],
+  "retrieved_at": "2026-10-18T10:20:18+00:00"
+ },
+ "book_284": {
+  "track_id": "book_284",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'Buddhism | World of Faiths' without an author; 2 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:20:18+00:00"
+ },
+ "book_285": {
+  "track_id": "book_285",
+  "status": "identified",
+  "title": "Nature got there first",
+  "author": "Phil Gates",
+  "edition": "Kingfisher 1995",
+  "isbn": "1856975878",
+  "publisher": "Kingfisher",
+  "year": "1995",
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/books/OL1116678M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:20:18+00:00"
+ },
+ "book_286": {
+  "track_id": "book_286",
+  "status": "identified",
+  "title": "I Wonder Why CAMELS HAVE HUMPS",
+  "author": "Anita Ganeri",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.66,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "title as printed on the spine; no catalogue record found"
+  ],
+  "retrieved_at": "2026-10-18T10:20:19+00:00"
+ },
+ "book_295": {
+  "track_id": "book_295",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.42,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'JOHNSON | OCEAN LIFE ENCYCLOPEDIA | Kiddz Books' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-17T15:12:44+00:00"
+ },
+ "book_288": {
+  "track_id": "book_288",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'Sikhism | World of Faiths' without an author; 4 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:20:19+00:00"
+ },
+ "book_287": {
+  "track_id": "book_287",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'EARTH | Discovery CHANNEL' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:20:19+00:00"
+ },
+ "book_289": {
+  "track_id": "book_289",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'SCHOLASTIC discover more | planets' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:20:20+00:00"
+ },
+ "book_290": {
+  "track_id": "book_290",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.56,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'ANIMAL WORLD | Lt. Col. A. David and Shiv Kumar | CBT' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:20:20+00:00"
+ },
+ "book_291": {
+  "track_id": "book_291",
+  "status": "identified",
+  "title": "Hide And Seek First Words",
+  "author": "Dawn Sirett",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.56,
+  "catalogue_url": "https://openlibrary.org/works/OL17418201W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:20:20+00:00"
+ },
+ "book_292": {
+  "track_id": "book_292",
+  "status": "identified",
+  "title": "See inside Your Body",
+  "author": "Katie Daynes and Colin King",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.66,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "title as printed on the spine; no catalogue record found"
+  ],
+  "retrieved_at": "2026-10-18T10:20:21+00:00"
+ },
+ "book_293": {
+  "track_id": "book_293",
+  "status": "identified",
+  "title": "Hide And Seek First Words",
+  "author": "Dawn Sirett",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.89,
+  "catalogue_url": "https://openlibrary.org/works/OL17418201W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:20:21+00:00"
+ },
+ "book_312": {
+  "track_id": "book_312",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.56,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'An Usborne Flap Book | See inside Your Body | Katie Daynes and Colin Kir' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:20:21+00:00"
+ },
+ "book_296": {
+  "track_id": "book_296",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'TOP 10 OF EVERYTHING | hamlyn' without an author; 3 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:20:22+00:00"
+ },
+ "book_300": {
+  "track_id": "book_300",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows \"PEGASUS CHILDREN'S ENCYCLOPEDIA DISCOVERIES\"; the closest catalogue title 'Pegasus Childrens Encyclopedia' leaves ['children', 'discoveries'] unexplained, so it is probably a different book"
+  ],
+  "retrieved_at": "2026-10-18T10:20:22+00:00"
+ },
+ "book_298": {
+  "track_id": "book_298",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'STAR WARS CLONE WARS progressive books' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:20:23+00:00"
+ },
+ "book_301": {
+  "track_id": "book_301",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'The Book of HABITATS' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:20:23+00:00"
+ },
+ "book_302": {
+  "track_id": "book_302",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text \"SUBHADRA SEN GUPTA | Nature's Children CHIPMUNKS & BEAVERS\" matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:20:23+00:00"
+ },
+ "book_303": {
+  "track_id": "book_303",
+  "status": "identified",
+  "title": "Animals and me",
+  "author": "Marie Greenwood",
+  "edition": "DK, Dorling Kindersley 2010",
+  "isbn": "9781405356954",
+  "publisher": "DK, Dorling Kindersley",
+  "year": "2010",
+  "id_confidence": 0.56,
+  "catalogue_url": "https://openlibrary.org/books/OL25100491M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:20:24+00:00"
+ },
+ "book_305": {
+  "track_id": "book_305",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": "F. Watts",
+  "year": "1983",
+  "id_confidence": 0.45,
+  "catalogue_url": "https://openlibrary.org/books/OL3510491M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [
+   "weak match to 'Exploring magnetism' (confidence 0.45)"
+  ],
+  "retrieved_at": "2026-10-18T10:20:24+00:00"
+ },
+ "book_306": {
+  "track_id": "book_306",
+  "status": "identified",
+  "title": "What Makes Me Me?",
+  "author": "Robert Winston, Robert M.L. Winston",
+  "edition": "DK CHILDREN August 16, 2004",
+  "isbn": "9780756603250",
+  "publisher": "DK CHILDREN",
+  "year": "August 16, 2004",
+  "id_confidence": 0.6,
+  "catalogue_url": "https://openlibrary.org/books/OL7994533M",
+  "dims_cm": {
+   "height": 27.69,
+   "width": 21.59,
+   "thickness": 1.52
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:20:24+00:00"
+ },
+ "book_307": {
+  "track_id": "book_307",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'Our Earth | SECRETS OF A WILDLIFE WATCHER'; the closest catalogue title 'Our earth' leaves ['secrets', 'watcher', 'wildlife'] unexplained, so it is probably a different book"
+  ],
+  "retrieved_at": "2026-10-18T10:20:25+00:00"
+ },
+ "book_308": {
+  "track_id": "book_308",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'ATLAS OF THE WORLD | USBORNE' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:20:25+00:00"
+ },
+ "book_309": {
+  "track_id": "book_309",
+  "status": "identified",
+  "title": "The ship book",
+  "author": "Michael Berenstain",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/works/OL4137274W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:20:25+00:00"
+ },
+ "book_310": {
+  "track_id": "book_310",
+  "status": "identified",
+  "title": "Cottontails Little Rabbits of Field and Forest",
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": "NATIONAL GEOGRAPHIC SOCIETY",
+  "year": null,
+  "id_confidence": 0.89,
+  "catalogue_url": "https://openlibrary.org/works/OL32959147W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:20:26+00:00"
+ },
+ "book_311": {
+  "track_id": "book_311",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Diabetes' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:20:26+00:00"
+ },
+ "book_313": {
+  "track_id": "book_313",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows \"LET'S EXPLORE SCIENCE | Magnets & Batteries\"; the closest catalogue title 'Magnets & batteries' leaves ['explore', 'let', 'science'] unexplained, so it is probably a different book"
+  ],
+  "retrieved_at": "2026-10-18T10:20:26+00:00"
+ },
+ "book_314": {
+  "track_id": "book_314",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'BIG MACHINES | USBORNE' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:20:27+00:00"
+ },
+ "book_315": {
+  "track_id": "book_315",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text \"Geography a children's encyclopedia | DK\" matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:20:27+00:00"
+ },
+ "book_316": {
+  "track_id": "book_316",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.42,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'adventures in ANTARCTICA | Suravi Thomas & Rishi Thomas | DK' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:20:27+00:00"
+ },
+ "book_319": {
+  "track_id": "book_319",
+  "status": "identified",
+  "title": "Children's Encyclopedia of the Ancient World",
+  "author": "John Haywood, Charlotte Hurdman",
+  "edition": null,
+  "isbn": null,
+  "publisher": "Southwestern",
+  "year": null,
+  "id_confidence": 0.87,
+  "catalogue_url": "https://openlibrary.org/works/OL21051048W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:20:28+00:00"
+ },
+ "book_320": {
+  "track_id": "book_320",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'ANIMAL babies | Practical Pet Care Handbook | SMALL PETS | DK' without an author; 2 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:20:28+00:00"
+ },
+ "book_322": {
+  "track_id": "book_322",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not legible enough to identify"
+  ],
+  "retrieved_at": "2026-10-18T10:20:29+00:00"
+ },
+ "book_323": {
+  "track_id": "book_323",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'Creative Costumes' without an author; 2 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:20:29+00:00"
+ },
+ "book_328": {
+  "track_id": "book_328",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine not legible enough to identify"
+  ],
+  "retrieved_at": "2026-10-18T10:20:29+00:00"
+ },
+ "book_321": {
+  "track_id": "book_321",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'atlas of astronomy | sterling' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:20:29+00:00"
+ },
+ "book_324": {
+  "track_id": "book_324",
+  "status": "identified",
+  "title": "See How They Grow: Frog",
+  "author": "Angela Royston",
+  "edition": "DK Preschool May 1, 2001",
+  "isbn": "9780789476562",
+  "publisher": "DK Preschool",
+  "year": "May 1, 2001",
+  "id_confidence": 0.75,
+  "catalogue_url": "https://openlibrary.org/books/OL8156212M",
+  "dims_cm": {
+   "height": 20.07,
+   "width": 19.81,
+   "thickness": 0.51
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:20:30+00:00"
+ },
+ "book_325": {
+  "track_id": "book_325",
+  "status": "identified",
+  "title": "Do plants eat meat?",
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.75,
+  "catalogue_url": "https://openlibrary.org/works/OL20983638W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:20:30+00:00"
+ },
+ "book_317": {
+  "track_id": "book_317",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'THE UNIVERSE | Kipp | Mercury' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:20:30+00:00"
+ },
+ "book_327": {
+  "track_id": "book_327",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.56,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text \"FELDMAN | MILIA'S BIG DAY | Marantha Books\" read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:20:31+00:00"
+ },
+ "book_326": {
+  "track_id": "book_326",
+  "status": "identified",
+  "title": "Little People Big Book About NATURE",
+  "author": "Time-Life for Children (Firm)",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.75,
+  "catalogue_url": "https://openlibrary.org/works/OL18461796W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:20:31+00:00"
+ },
+ "book_329": {
+  "track_id": "book_329",
+  "status": "identified",
+  "title": "Flying the Atlantic (Behind the Scenes)",
+  "author": "Peter Mellett",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.8,
+  "catalogue_url": "https://openlibrary.org/works/OL1812361W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:20:31+00:00"
+ },
+ "book_335": {
+  "track_id": "book_335",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'ANIMAL' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:20:34+00:00"
+ },
+ "book_330": {
+  "track_id": "book_330",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text \"Disney's Mickey Wonders Why | Music\" matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:20:31+00:00"
+ },
+ "book_331": {
+  "track_id": "book_331",
+  "status": "identified",
+  "title": "71+10 New Science Projects",
+  "author": "C. L Garg, Amit Garg",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.89,
+  "catalogue_url": "https://openlibrary.org/works/OL38130049W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:20:32+00:00"
+ },
+ "book_332": {
+  "track_id": "book_332",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.42,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Glass IN A WEEKEND | MOIRA NEAL AND LYNDA HOWARTH | NH NEW HOLLAND' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:20:32+00:00"
+ },
+ "book_333": {
+  "track_id": "book_333",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.42,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'THE USBORNE COMPLETE BOOK OF THE MICROSCOPE | KIRSTEEN ROGERS | USBORNE' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:20:32+00:00"
+ },
+ "book_334": {
+  "track_id": "book_334",
+  "status": "identified",
+  "title": "What's the Biggest?",
+  "author": "Barbara R. Fogel",
+  "edition": "NY: Random House (1966) 1966-01-01",
+  "isbn": null,
+  "publisher": "NY: Random House (1966)",
+  "year": "1966-01-01",
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/books/OL43461316M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:20:32+00:00"
+ },
+ "book_336": {
+  "track_id": "book_336",
+  "status": "identified",
+  "title": "Painting Glass IN A WEEKEND",
+  "author": "Moira Neal, Lynda Howarth",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.8,
+  "catalogue_url": "https://openlibrary.org/works/OL24183556W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:20:33+00:00"
+ },
+ "book_337": {
+  "track_id": "book_337",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'Green Kids | Looking After My Environment' without an author; 2 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:20:34+00:00"
+ },
+ "book_339": {
+  "track_id": "book_339",
+  "status": "identified",
+  "title": "Ancient African town",
+  "author": "Fiona MacDonald, Gerald Wood",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.6,
+  "catalogue_url": "https://openlibrary.org/works/OL487460W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:20:34+00:00"
+ },
+ "book_340": {
+  "track_id": "book_340",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'THE ULTIMATE INDIA QUIZ' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:20:35+00:00"
+ },
+ "book_338": {
+  "track_id": "book_338",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Your Teeth | HEALTHY KIDS' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:20:35+00:00"
+ },
+ "book_344": {
+  "track_id": "book_344",
+  "status": "identified",
+  "title": "Baby's Book of Nature",
+  "author": "Roger Priddy",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.8,
+  "catalogue_url": "https://openlibrary.org/works/OL37814945W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:20:36+00:00"
+ },
+ "book_342": {
+  "track_id": "book_342",
+  "status": "identified",
+  "title": "Math Curse",
+  "author": "Jon Scieszka",
+  "edition": "Viking Juvenile September 6, 2007",
+  "isbn": "9780670062997",
+  "publisher": "Viking Juvenile",
+  "year": "September 6, 2007",
+  "id_confidence": 0.56,
+  "catalogue_url": "https://openlibrary.org/books/OL9595463M",
+  "dims_cm": {
+   "height": 27.69,
+   "width": 27.43,
+   "thickness": 0.51
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:20:35+00:00"
+ },
+ "book_345": {
+  "track_id": "book_345",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'METROPOLIS | ANCIENT AFRICAN TOWN' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:20:36+00:00"
+ },
+ "book_347": {
+  "track_id": "book_347",
+  "status": "identified",
+  "title": "A First Thesaurus",
+  "author": "Harriet Wittels",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.8,
+  "catalogue_url": "https://openlibrary.org/works/OL2029162W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:20:37+00:00"
+ },
+ "book_349": {
+  "track_id": "book_349",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text \"AWESOME INDIA A Children's Guide & Travel Companion | RobinAge\" matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:22:31+00:00"
+ },
+ "book_346": {
+  "track_id": "book_346",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'The Knowledge' without an author; 2 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:20:38+00:00"
+ },
+ "book_350": {
+  "track_id": "book_350",
+  "status": "identified",
+  "title": "Our Star--The Sun (Window on the Universe)",
+  "author": "Robert Estalella",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.72,
+  "catalogue_url": "https://openlibrary.org/works/OL3923438W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:20:38+00:00"
+ },
+ "book_358": {
+  "track_id": "book_358",
+  "status": "identified",
+  "title": "Encyclopedia Of Family Health & Wellness 9",
+  "author": "Gordon",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.66,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "title as printed on the spine; no catalogue record found"
+  ],
+  "retrieved_at": "2026-10-17T15:12:44+00:00"
+ },
+ "book_352": {
+  "track_id": "book_352",
+  "status": "identified",
+  "title": "Art Fraud Detective",
+  "author": "Anna Nilsen",
+  "edition": "Kingfisher Books Ltd April 18, 2005",
+  "isbn": "9780753411957",
+  "publisher": "Kingfisher Books Ltd",
+  "year": "April 18, 2005",
+  "id_confidence": 0.8,
+  "catalogue_url": "https://openlibrary.org/books/OL7986889M",
+  "dims_cm": {
+   "height": 28.45,
+   "width": 23.88,
+   "thickness": 1.02
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:20:39+00:00"
+ },
+ "book_351": {
+  "track_id": "book_351",
+  "status": "identified",
+  "title": "Secrets of animal survival",
+  "author": "National Geographic Society",
+  "edition": "National Geographic Society 1983",
+  "isbn": "0870444263",
+  "publisher": "National Geographic Society",
+  "year": "1983",
+  "id_confidence": 0.89,
+  "catalogue_url": "https://openlibrary.org/books/OL3785549M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:20:39+00:00"
+ },
+ "book_353": {
+  "track_id": "book_353",
+  "status": "identified",
+  "title": "Tea",
+  "author": "Viola Van Wachendorf",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/works/OL31966785W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:20:39+00:00"
+ },
+ "book_343": {
+  "track_id": "book_343",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Green Kids | Our World' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:20:39+00:00"
+ },
+ "book_354": {
+  "track_id": "book_354",
+  "status": "identified",
+  "title": "The Holiday Activity Book",
+  "author": "Jane Bull",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.95,
+  "catalogue_url": "https://openlibrary.org/works/OL31957721W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:20:40+00:00"
+ },
+ "book_357": {
+  "track_id": "book_357",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'LIES (PEOPLE BELIEVE) ABOUT ANIMALS | Science and Nature/Animals'; the closest catalogue title 'Lies (people believe) about animals' leaves ['nature', 'science'] unexplained, so it is probably a different book"
+  ],
+  "retrieved_at": "2026-10-18T10:20:40+00:00"
+ },
+ "book_359": {
+  "track_id": "book_359",
+  "status": "identified",
+  "title": "Dogs working for people",
+  "author": "Joanna Foster",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.75,
+  "catalogue_url": "https://openlibrary.org/works/OL3454913W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:20:41+00:00"
+ },
+ "book_355": {
+  "track_id": "book_355",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'EARTH ENCYCLOPEDIA | REE' without an author; 3 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:20:40+00:00"
+ },
+ "book_360": {
+  "track_id": "book_360",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows \"Children's SCIENCE Encyclopedia | p\" without an author; 2 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:20:41+00:00"
+ },
+ "book_361": {
+  "track_id": "book_361",
+  "status": "identified",
+  "title": "Lies (people believe) about animals",
+  "author": "Susan Sussman",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.8,
+  "catalogue_url": "https://openlibrary.org/works/OL1977618W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:20:42+00:00"
+ },
+ "book_363": {
+  "track_id": "book_363",
+  "status": "identified",
+  "title": "Tigress",
+  "author": "Nick Dowson",
+  "edition": "Walker Books, Limited 2012",
+  "isbn": "9781406343618",
+  "publisher": "Walker Books, Limited",
+  "year": "2012",
+  "id_confidence": 0.6,
+  "catalogue_url": "https://openlibrary.org/books/OL39500900M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:20:42+00:00"
+ },
+ "book_362": {
+  "track_id": "book_362",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'DREAMLAND | 365 FACTS ON SPACE' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:20:42+00:00"
+ },
+ "book_366": {
+  "track_id": "book_366",
+  "status": "identified",
+  "title": "Think of a Number",
+  "author": "Johnny Ball",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.8,
+  "catalogue_url": "https://openlibrary.org/works/OL7978128W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:20:43+00:00"
+ },
+ "book_371": {
+  "track_id": "book_371",
+  "status": "identified",
+  "title": "Top 10 Of Everything 2009",
+  "author": "Russell Ash",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.66,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "title as printed on the spine; no catalogue record found"
+  ],
+  "retrieved_at": "2026-10-18T10:20:45+00:00"
+ },
+ "book_365": {
+  "track_id": "book_365",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Explore | Houghton Mifflin' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:20:44+00:00"
+ },
+ "book_367": {
+  "track_id": "book_367",
+  "status": "identified",
+  "title": "The Great Explorers: the European discovery of America",
+  "author": "Samuel Eliot Morison",
+  "edition": null,
+  "isbn": null,
+  "publisher": "WHSMITH",
+  "year": null,
+  "id_confidence": 0.85,
+  "catalogue_url": "https://openlibrary.org/works/OL2917780W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:20:44+00:00"
+ },
+ "book_368": {
+  "track_id": "book_368",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'DREAMLAND | 365 FACTS ON S' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:20:44+00:00"
+ },
+ "book_364": {
+  "track_id": "book_364",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text \"McDougal Littell Science | Earth's Waters\" matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:20:44+00:00"
+ },
+ "book_369": {
+  "track_id": "book_369",
+  "status": "identified",
+  "title": "Now you can read about space travel",
+  "author": "Stephen Attmore",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.75,
+  "catalogue_url": "https://openlibrary.org/works/OL4653847W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:20:44+00:00"
+ },
+ "book_356": {
+  "track_id": "book_356",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Question and Answer Encyclopedia | The Natural World | p' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:20:45+00:00"
+ },
+ "book_370": {
+  "track_id": "book_370",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text '365 FACTS ABOUT THE HUMAN BO' matches no catalogue record"
+  ],
+  "retrieved_at": "2026-10-18T10:22:38+00:00"
+ },
+ "book_031": {
+  "track_id": "book_031",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.42,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'KINGFISHER KNOWLEDGE MICROSCOPIC LIFE | JACKIE GAFF | KINGFISHER' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:20:55+00:00"
+ },
+ "book_087": {
+  "track_id": "book_087",
+  "status": "identified",
+  "title": "A concise guide to dreams",
+  "author": "Philip Clucas",
+  "edition": "Parragon 2008",
+  "isbn": "9781407511382",
+  "publisher": "Parragon",
+  "year": "2008",
+  "id_confidence": 0.57,
+  "catalogue_url": "https://openlibrary.org/books/OL26338266M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:21:14+00:00"
+ },
+ "book_372": {
+  "track_id": "book_372",
+  "status": "identified",
+  "title": "365 Facts About the Human Body",
+  "author": "Om Book Editorial Team",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.56,
+  "catalogue_url": "https://openlibrary.org/works/OL32818852W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:20:45+00:00"
+ },
+ "book_373": {
+  "track_id": "book_373",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'THE USBORNE | INTERNET-LINKED | ENCYCLOPEDIA OF PLANET EARTH'; the closest catalogue title 'Encyclopedia of Planet Earth' leaves ['internet', 'linked'] unexplained, so it is probably a different book"
+  ],
+  "retrieved_at": "2026-10-18T10:20:46+00:00"
+ },
+ "book_374": {
+  "track_id": "book_374",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows 'ENCYCLOPEDIA of SPACE' without an author; 2 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:20:46+00:00"
+ },
+ "book_375": {
+  "track_id": "book_375",
+  "status": "identified",
+  "title": "MAGNIFICENT MAZES - 20th CENTURY",
+  "author": "Anna Nilsen",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.66,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "title as printed on the spine; no catalogue record found"
+  ],
+  "retrieved_at": "2026-10-18T10:22:40+00:00"
+ },
+ "book_376": {
+  "track_id": "book_376",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.0,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "spine shows \"CHILDREN'S ILLUSTRATED ENCYCLOPEDIA | DK\" without an author; 3 different authors have a book with this title, so the work cannot be determined"
+  ],
+  "retrieved_at": "2026-10-18T10:20:47+00:00"
+ },
+ "book_378": {
+  "track_id": "book_378",
+  "status": "identified",
+  "title": "The Little Brainwaves Investigate... HUMAN BODY",
+  "author": "Caroline Bingham",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.75,
+  "catalogue_url": "https://openlibrary.org/works/OL16238100W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:20:47+00:00"
+ },
+ "book_379": {
+  "track_id": "book_379",
+  "status": "identified",
+  "title": "Our Ocean Home",
+  "author": "Robert Lyn Nelson",
+  "edition": "NorthWord Press 1997",
+  "isbn": "1559715960",
+  "publisher": "NorthWord Press",
+  "year": "1997",
+  "id_confidence": 0.8,
+  "catalogue_url": "https://openlibrary.org/books/OL1006966M",
+  "dims_cm": {
+   "height": null,
+   "width": null,
+   "thickness": null
+  },
+  "reasons": [],
+  "retrieved_at": "2026-10-18T10:20:47+00:00"
+ },
+ "book_091": {
+  "track_id": "book_091",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.42,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'ANIMAL FACTFILE | Patrick Hook | P' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:21:16+00:00"
+ },
+ "book_279": {
+  "track_id": "book_279",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.42,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'Tibbetts/Roocroft | California Condors' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:22:10+00:00"
+ },
+ "book_297": {
+  "track_id": "book_297",
+  "status": "identified",
+  "title": "I'm Glad the Sky is Painted Blue",
+  "author": "Robyn Belton",
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.6,
+  "catalogue_url": "https://openlibrary.org/works/OL27277105W",
+  "dims_cm": {},
+  "reasons": [
+   "edition not determinable from the spine; identified at work level"
+  ],
+  "retrieved_at": "2026-10-18T10:22:16+00:00"
+ },
+ "book_341": {
+  "track_id": "book_341",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.42,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'OCEANOGRAPHY | A Brief Introduction | K. Siddhartha' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:22:29+00:00"
+ },
+ "book_348": {
+  "track_id": "book_348",
+  "status": "unidentified",
+  "title": null,
+  "author": null,
+  "edition": null,
+  "isbn": null,
+  "publisher": null,
+  "year": null,
+  "id_confidence": 0.56,
+  "catalogue_url": null,
+  "dims_cm": {},
+  "reasons": [
+   "printed text 'THE CHANGING FACE OF NIGERIA | ROB BOWDEN and ROY MACCO' read with low confidence; no catalogue match"
+  ],
+  "retrieved_at": "2026-10-18T10:22:31+00:00"
+ }
+}

@@ -1,0 +1,5613 @@
+{
+ "segments": [
+  [
+   22
+  ],
+  [
+   26
+  ],
+  [
+   29,
+   31,
+   33,
+   39,
+   41,
+   43,
+   44,
+   45,
+   46
+  ],
+  [
+   48,
+   49,
+   50,
+   53,
+   57,
+   59,
+   60,
+   63,
+   65,
+   67,
+   71
+  ],
+  [
+   75,
+   78,
+   81,
+   83,
+   84
+  ],
+  [
+   88
+  ],
+  [
+   92,
+   97
+  ],
+  [
+   101
+  ],
+  [
+   105,
+   107,
+   109
+  ],
+  [
+   112
+  ],
+  [
+   114
+  ],
+  [
+   116
+  ],
+  [
+   118
+  ],
+  [
+   120
+  ],
+  [
+   123,
+   126,
+   128,
+   131,
+   134,
+   136,
+   138,
+   140,
+   142,
+   144,
+   146,
+   150,
+   153
+  ]
+ ],
+ "links": [
+  [
+   29,
+   31
+  ],
+  [
+   29,
+   33
+  ],
+  [
+   31,
+   33
+  ],
+  [
+   31,
+   39
+  ],
+  [
+   31,
+   41
+  ],
+  [
+   33,
+   39
+  ],
+  [
+   33,
+   41
+  ],
+  [
+   39,
+   41
+  ],
+  [
+   39,
+   45
+  ],
+  [
+   41,
+   43
+  ],
+  [
+   41,
+   44
+  ],
+  [
+   41,
+   45
+  ],
+  [
+   41,
+   46
+  ],
+  [
+   43,
+   44
+  ],
+  [
+   43,
+   45
+  ],
+  [
+   44,
+   45
+  ],
+  [
+   48,
+   49
+  ],
+  [
+   48,
+   50
+  ],
+  [
+   48,
+   53
+  ],
+  [
+   48,
+   57
+  ],
+  [
+   49,
+   50
+  ],
+  [
+   49,
+   53
+  ],
+  [
+   49,
+   57
+  ],
+  [
+   49,
+   59
+  ],
+  [
+   50,
+   53
+  ],
+  [
+   50,
+   57
+  ],
+  [
+   50,
+   59
+  ],
+  [
+   50,
+   60
+  ],
+  [
+   53,
+   57
+  ],
+  [
+   53,
+   59
+  ],
+  [
+   53,
+   60
+  ],
+  [
+   57,
+   59
+  ],
+  [
+   57,
+   60
+  ],
+  [
+   59,
+   60
+  ],
+  [
+   59,
+   63
+  ],
+  [
+   60,
+   63
+  ],
+  [
+   63,
+   65
+  ],
+  [
+   65,
+   67
+  ],
+  [
+   67,
+   71
+  ],
+  [
+   75,
+   78
+  ],
+  [
+   78,
+   81
+  ],
+  [
+   78,
+   83
+  ],
+  [
+   78,
+   84
+  ],
+  [
+   81,
+   83
+  ],
+  [
+   81,
+   84
+  ],
+  [
+   83,
+   84
+  ],
+  [
+   92,
+   97
+  ],
+  [
+   105,
+   107
+  ],
+  [
+   107,
+   109
+  ],
+  [
+   123,
+   126
+  ],
+  [
+   123,
+   128
+  ],
+  [
+   123,
+   131
+  ],
+  [
+   123,
+   134
+  ],
+  [
+   126,
+   128
+  ],
+  [
+   126,
+   131
+  ],
+  [
+   126,
+   134
+  ],
+  [
+   126,
+   136
+  ],
+  [
+   128,
+   131
+  ],
+  [
+   128,
+   134
+  ],
+  [
+   128,
+   136
+  ],
+  [
+   128,
+   138
+  ],
+  [
+   131,
+   134
+  ],
+  [
+   131,
+   136
+  ],
+  [
+   131,
+   138
+  ],
+  [
+   131,
+   140
+  ],
+  [
+   134,
+   136
+  ],
+  [
+   134,
+   138
+  ],
+  [
+   134,
+   140
+  ],
+  [
+   134,
+   142
+  ],
+  [
+   136,
+   138
+  ],
+  [
+   136,
+   140
+  ],
+  [
+   136,
+   142
+  ],
+  [
+   136,
+   144
+  ],
+  [
+   138,
+   140
+  ],
+  [
+   138,
+   142
+  ],
+  [
+   138,
+   144
+  ],
+  [
+   138,
+   146
+  ],
+  [
+   140,
+   142
+  ],
+  [
+   140,
+   144
+  ],
+  [
+   140,
+   146
+  ],
+  [
+   140,
+   150
+  ],
+  [
+   142,
+   144
+  ],
+  [
+   142,
+   146
+  ],
+  [
+   142,
+   150
+  ],
+  [
+   142,
+   153
+  ],
+  [
+   144,
+   146
+  ],
+  [
+   144,
+   150
+  ],
+  [
+   144,
+   153
+  ],
+  [
+   146,
+   150
+  ],
+  [
+   146,
+   153
+  ],
+  [
+   150,
+   153
+  ]
+ ],
+ "tracks": [
+  {
+   "id": "book_001",
+   "segment": 2,
+   "row": 0,
+   "position": 1,
+   "fragment": false,
+   "spine_facing": false,
+   "orientation": "upright",
+   "dets": [
+    "f_000030_b001"
+   ]
+  },
+  {
+   "id": "book_002",
+   "segment": 2,
+   "row": 0,
+   "position": 2,
+   "fragment": false,
+   "spine_facing": false,
+   "orientation": "upright",
+   "dets": [
+    "f_000030_b000",
+    "f_000032_b000",
+    "f_000034_b000"
+   ]
+  },
+  {
+   "id": "book_003",
+   "segment": 3,
+   "row": 0,
+   "position": 1,
+   "fragment": false,
+   "spine_facing": false,
+   "orientation": "upright",
+   "dets": [
+    "f_000049_b000"
+   ]
+  },
+  {
+   "id": "book_004",
+   "segment": 3,
+   "row": 1,
+   "position": 1,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000072_b000"
+   ]
+  },
+  {
+   "id": "book_005",
+   "segment": 3,
+   "row": 1,
+   "position": 2,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000072_b001"
+   ]
+  },
+  {
+   "id": "book_006",
+   "segment": 3,
+   "row": 1,
+   "position": 3,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000072_b002"
+   ]
+  },
+  {
+   "id": "book_007",
+   "segment": 3,
+   "row": 1,
+   "position": 4,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000072_b003"
+   ]
+  },
+  {
+   "id": "book_008",
+   "segment": 3,
+   "row": 1,
+   "position": 5,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000072_b004"
+   ]
+  },
+  {
+   "id": "book_009",
+   "segment": 3,
+   "row": 1,
+   "position": 6,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b023",
+    "f_000072_b005"
+   ]
+  },
+  {
+   "id": "book_010",
+   "segment": 3,
+   "row": 1,
+   "position": 7,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b022",
+    "f_000072_b006"
+   ]
+  },
+  {
+   "id": "book_011",
+   "segment": 3,
+   "row": 1,
+   "position": 8,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b021",
+    "f_000072_b007"
+   ]
+  },
+  {
+   "id": "book_012",
+   "segment": 3,
+   "row": 1,
+   "position": 9,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b020",
+    "f_000072_b008"
+   ]
+  },
+  {
+   "id": "book_013",
+   "segment": 3,
+   "row": 1,
+   "position": 10,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b019",
+    "f_000072_b009"
+   ]
+  },
+  {
+   "id": "book_014",
+   "segment": 3,
+   "row": 1,
+   "position": 11,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000072_b021"
+   ]
+  },
+  {
+   "id": "book_015",
+   "segment": 3,
+   "row": 1,
+   "position": 12,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000072_b022"
+   ]
+  },
+  {
+   "id": "book_016",
+   "segment": 3,
+   "row": 1,
+   "position": 13,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b018",
+    "f_000072_b010"
+   ]
+  },
+  {
+   "id": "book_017",
+   "segment": 3,
+   "row": 1,
+   "position": 14,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000072_b011"
+   ]
+  },
+  {
+   "id": "book_018",
+   "segment": 3,
+   "row": 1,
+   "position": 15,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000072_b023"
+   ]
+  },
+  {
+   "id": "book_019",
+   "segment": 3,
+   "row": 1,
+   "position": 16,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b017",
+    "f_000072_b012"
+   ]
+  },
+  {
+   "id": "book_020",
+   "segment": 3,
+   "row": 1,
+   "position": 17,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b049",
+    "f_000072_b024"
+   ]
+  },
+  {
+   "id": "book_021",
+   "segment": 3,
+   "row": 1,
+   "position": 18,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000072_b025"
+   ]
+  },
+  {
+   "id": "book_022",
+   "segment": 3,
+   "row": 1,
+   "position": 19,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000072_b013"
+   ]
+  },
+  {
+   "id": "book_023",
+   "segment": 3,
+   "row": 1,
+   "position": 20,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b048",
+    "f_000072_b026"
+   ]
+  },
+  {
+   "id": "book_024",
+   "segment": 3,
+   "row": 1,
+   "position": 21,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000072_b027"
+   ]
+  },
+  {
+   "id": "book_025",
+   "segment": 3,
+   "row": 1,
+   "position": 22,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b016",
+    "f_000072_b015"
+   ]
+  },
+  {
+   "id": "book_026",
+   "segment": 3,
+   "row": 1,
+   "position": 23,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000072_b028"
+   ]
+  },
+  {
+   "id": "book_027",
+   "segment": 3,
+   "row": 1,
+   "position": 24,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000072_b029"
+   ]
+  },
+  {
+   "id": "book_028",
+   "segment": 3,
+   "row": 1,
+   "position": 25,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b015",
+    "f_000072_b016"
+   ]
+  },
+  {
+   "id": "book_029",
+   "segment": 3,
+   "row": 1,
+   "position": 26,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b047",
+    "f_000072_b030"
+   ]
+  },
+  {
+   "id": "book_030",
+   "segment": 3,
+   "row": 1,
+   "position": 27,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b014",
+    "f_000072_b017"
+   ]
+  },
+  {
+   "id": "book_031",
+   "segment": 3,
+   "row": 1,
+   "position": 28,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b046",
+    "f_000072_b032"
+   ]
+  },
+  {
+   "id": "book_032",
+   "segment": 3,
+   "row": 1,
+   "position": 29,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000072_b031"
+   ]
+  },
+  {
+   "id": "book_033",
+   "segment": 3,
+   "row": 1,
+   "position": 30,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b013",
+    "f_000072_b019"
+   ]
+  },
+  {
+   "id": "book_034",
+   "segment": 3,
+   "row": 1,
+   "position": 31,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b045",
+    "f_000072_b033"
+   ]
+  },
+  {
+   "id": "book_035",
+   "segment": 3,
+   "row": 1,
+   "position": 32,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b012"
+   ]
+  },
+  {
+   "id": "book_036",
+   "segment": 3,
+   "row": 1,
+   "position": 33,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b044",
+    "f_000072_b034"
+   ]
+  },
+  {
+   "id": "book_037",
+   "segment": 3,
+   "row": 1,
+   "position": 34,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b011"
+   ]
+  },
+  {
+   "id": "book_038",
+   "segment": 3,
+   "row": 1,
+   "position": 35,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000072_b035"
+   ]
+  },
+  {
+   "id": "book_039",
+   "segment": 3,
+   "row": 1,
+   "position": 36,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b043",
+    "f_000072_b036"
+   ]
+  },
+  {
+   "id": "book_040",
+   "segment": 3,
+   "row": 1,
+   "position": 37,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b010"
+   ]
+  },
+  {
+   "id": "book_041",
+   "segment": 3,
+   "row": 1,
+   "position": 38,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000072_b037"
+   ]
+  },
+  {
+   "id": "book_042",
+   "segment": 3,
+   "row": 1,
+   "position": 39,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b042",
+    "f_000072_b038"
+   ]
+  },
+  {
+   "id": "book_043",
+   "segment": 3,
+   "row": 1,
+   "position": 40,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000066_b032",
+    "f_000068_b009"
+   ]
+  },
+  {
+   "id": "book_044",
+   "segment": 3,
+   "row": 1,
+   "position": 41,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000072_b039"
+   ]
+  },
+  {
+   "id": "book_045",
+   "segment": 3,
+   "row": 1,
+   "position": 42,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b041",
+    "f_000072_b040"
+   ]
+  },
+  {
+   "id": "book_046",
+   "segment": 3,
+   "row": 1,
+   "position": 43,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b008"
+   ]
+  },
+  {
+   "id": "book_047",
+   "segment": 3,
+   "row": 1,
+   "position": 44,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000066_b018"
+   ]
+  },
+  {
+   "id": "book_048",
+   "segment": 3,
+   "row": 1,
+   "position": 45,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b040"
+   ]
+  },
+  {
+   "id": "book_049",
+   "segment": 3,
+   "row": 1,
+   "position": 46,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000072_b041"
+   ]
+  },
+  {
+   "id": "book_050",
+   "segment": 3,
+   "row": 1,
+   "position": 47,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000066_b038",
+    "f_000068_b007"
+   ]
+  },
+  {
+   "id": "book_051",
+   "segment": 3,
+   "row": 1,
+   "position": 48,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000072_b042"
+   ]
+  },
+  {
+   "id": "book_052",
+   "segment": 3,
+   "row": 1,
+   "position": 49,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b039",
+    "f_000072_b043"
+   ]
+  },
+  {
+   "id": "book_053",
+   "segment": 3,
+   "row": 1,
+   "position": 50,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b038"
+   ]
+  },
+  {
+   "id": "book_054",
+   "segment": 3,
+   "row": 1,
+   "position": 51,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b006"
+   ]
+  },
+  {
+   "id": "book_055",
+   "segment": 3,
+   "row": 1,
+   "position": 52,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000066_b006",
+    "f_000068_b005"
+   ]
+  },
+  {
+   "id": "book_056",
+   "segment": 3,
+   "row": 1,
+   "position": 53,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000066_b037",
+    "f_000068_b037"
+   ]
+  },
+  {
+   "id": "book_057",
+   "segment": 3,
+   "row": 1,
+   "position": 54,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000066_b003"
+   ]
+  },
+  {
+   "id": "book_058",
+   "segment": 3,
+   "row": 1,
+   "position": 55,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000066_b035",
+    "f_000068_b036"
+   ]
+  },
+  {
+   "id": "book_059",
+   "segment": 3,
+   "row": 1,
+   "position": 56,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000066_b010",
+    "f_000068_b004"
+   ]
+  },
+  {
+   "id": "book_060",
+   "segment": 3,
+   "row": 1,
+   "position": 57,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000066_b034",
+    "f_000068_b003"
+   ]
+  },
+  {
+   "id": "book_061",
+   "segment": 3,
+   "row": 1,
+   "position": 58,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b035"
+   ]
+  },
+  {
+   "id": "book_062",
+   "segment": 3,
+   "row": 1,
+   "position": 59,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b002"
+   ]
+  },
+  {
+   "id": "book_063",
+   "segment": 3,
+   "row": 1,
+   "position": 60,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000066_b014",
+    "f_000068_b001"
+   ]
+  },
+  {
+   "id": "book_064",
+   "segment": 3,
+   "row": 1,
+   "position": 61,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b034"
+   ]
+  },
+  {
+   "id": "book_065",
+   "segment": 3,
+   "row": 1,
+   "position": 62,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000066_b001",
+    "f_000068_b000"
+   ]
+  },
+  {
+   "id": "book_066",
+   "segment": 3,
+   "row": 1,
+   "position": 63,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b033"
+   ]
+  },
+  {
+   "id": "book_067",
+   "segment": 3,
+   "row": 1,
+   "position": 64,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b032"
+   ]
+  },
+  {
+   "id": "book_068",
+   "segment": 3,
+   "row": 1,
+   "position": 65,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b031"
+   ]
+  },
+  {
+   "id": "book_069",
+   "segment": 3,
+   "row": 1,
+   "position": 66,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b030"
+   ]
+  },
+  {
+   "id": "book_070",
+   "segment": 3,
+   "row": 1,
+   "position": 67,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b029"
+   ]
+  },
+  {
+   "id": "book_071",
+   "segment": 3,
+   "row": 1,
+   "position": 68,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b028"
+   ]
+  },
+  {
+   "id": "book_072",
+   "segment": 3,
+   "row": 1,
+   "position": 69,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000066_b016"
+   ]
+  },
+  {
+   "id": "book_073",
+   "segment": 3,
+   "row": 1,
+   "position": 70,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b027"
+   ]
+  },
+  {
+   "id": "book_074",
+   "segment": 3,
+   "row": 1,
+   "position": 71,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000066_b017"
+   ]
+  },
+  {
+   "id": "book_075",
+   "segment": 3,
+   "row": 1,
+   "position": 72,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b026"
+   ]
+  },
+  {
+   "id": "book_076",
+   "segment": 3,
+   "row": 1,
+   "position": 73,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000066_b000"
+   ]
+  },
+  {
+   "id": "book_077",
+   "segment": 3,
+   "row": 1,
+   "position": 74,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000068_b025"
+   ]
+  },
+  {
+   "id": "book_078",
+   "segment": 3,
+   "row": 1,
+   "position": 75,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000064_b000",
+    "f_000066_b002"
+   ]
+  },
+  {
+   "id": "book_079",
+   "segment": 3,
+   "row": 1,
+   "position": 76,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000066_b024",
+    "f_000068_b024"
+   ]
+  },
+  {
+   "id": "book_080",
+   "segment": 3,
+   "row": 1,
+   "position": 77,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000064_b001",
+    "f_000066_b008"
+   ]
+  },
+  {
+   "id": "book_081",
+   "segment": 3,
+   "row": 1,
+   "position": 78,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000064_b002",
+    "f_000066_b009"
+   ]
+  },
+  {
+   "id": "book_082",
+   "segment": 3,
+   "row": 1,
+   "position": 79,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000066_b020"
+   ]
+  },
+  {
+   "id": "book_083",
+   "segment": 3,
+   "row": 1,
+   "position": 80,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000066_b036"
+   ]
+  },
+  {
+   "id": "book_084",
+   "segment": 3,
+   "row": 1,
+   "position": 81,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000064_b024",
+    "f_000066_b027"
+   ]
+  },
+  {
+   "id": "book_085",
+   "segment": 3,
+   "row": 1,
+   "position": 82,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000064_b003",
+    "f_000066_b005"
+   ]
+  },
+  {
+   "id": "book_086",
+   "segment": 3,
+   "row": 1,
+   "position": 83,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000064_b004",
+    "f_000066_b004"
+   ]
+  },
+  {
+   "id": "book_087",
+   "segment": 3,
+   "row": 1,
+   "position": 84,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000064_b025",
+    "f_000066_b028"
+   ]
+  },
+  {
+   "id": "book_088",
+   "segment": 3,
+   "row": 1,
+   "position": 85,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000064_b026",
+    "f_000066_b026"
+   ]
+  },
+  {
+   "id": "book_089",
+   "segment": 3,
+   "row": 1,
+   "position": 86,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000064_b005",
+    "f_000066_b007"
+   ]
+  },
+  {
+   "id": "book_090",
+   "segment": 3,
+   "row": 1,
+   "position": 87,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000066_b015"
+   ]
+  },
+  {
+   "id": "book_091",
+   "segment": 3,
+   "row": 1,
+   "position": 88,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000064_b027",
+    "f_000066_b021"
+   ]
+  },
+  {
+   "id": "book_092",
+   "segment": 3,
+   "row": 1,
+   "position": 89,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000064_b006"
+   ]
+  },
+  {
+   "id": "book_093",
+   "segment": 3,
+   "row": 1,
+   "position": 90,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000066_b013"
+   ]
+  },
+  {
+   "id": "book_094",
+   "segment": 3,
+   "row": 1,
+   "position": 91,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000066_b019"
+   ]
+  },
+  {
+   "id": "book_095",
+   "segment": 3,
+   "row": 1,
+   "position": 92,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000064_b007",
+    "f_000066_b012"
+   ]
+  },
+  {
+   "id": "book_096",
+   "segment": 3,
+   "row": 1,
+   "position": 93,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000066_b025"
+   ]
+  },
+  {
+   "id": "book_097",
+   "segment": 3,
+   "row": 1,
+   "position": 94,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000064_b008"
+   ]
+  },
+  {
+   "id": "book_098",
+   "segment": 3,
+   "row": 1,
+   "position": 95,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000064_b028",
+    "f_000066_b022"
+   ]
+  },
+  {
+   "id": "book_099",
+   "segment": 3,
+   "row": 1,
+   "position": 96,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000064_b009",
+    "f_000066_b011"
+   ]
+  },
+  {
+   "id": "book_100",
+   "segment": 3,
+   "row": 1,
+   "position": 97,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000064_b029",
+    "f_000066_b023"
+   ]
+  },
+  {
+   "id": "book_101",
+   "segment": 3,
+   "row": 1,
+   "position": 98,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000064_b010"
+   ]
+  },
+  {
+   "id": "book_102",
+   "segment": 3,
+   "row": 1,
+   "position": 99,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000066_b029"
+   ]
+  },
+  {
+   "id": "book_103",
+   "segment": 3,
+   "row": 1,
+   "position": 100,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000064_b030",
+    "f_000066_b030"
+   ]
+  },
+  {
+   "id": "book_104",
+   "segment": 3,
+   "row": 1,
+   "position": 101,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000064_b011"
+   ]
+  },
+  {
+   "id": "book_105",
+   "segment": 3,
+   "row": 1,
+   "position": 102,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000064_b031",
+    "f_000066_b031"
+   ]
+  },
+  {
+   "id": "book_106",
+   "segment": 3,
+   "row": 1,
+   "position": 103,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000064_b012"
+   ]
+  },
+  {
+   "id": "book_107",
+   "segment": 3,
+   "row": 1,
+   "position": 104,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000064_b032",
+    "f_000066_b033"
+   ]
+  },
+  {
+   "id": "book_108",
+   "segment": 3,
+   "row": 1,
+   "position": 105,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000064_b013"
+   ]
+  },
+  {
+   "id": "book_109",
+   "segment": 3,
+   "row": 1,
+   "position": 106,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000064_b014"
+   ]
+  },
+  {
+   "id": "book_110",
+   "segment": 3,
+   "row": 1,
+   "position": 107,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000064_b015"
+   ]
+  },
+  {
+   "id": "book_111",
+   "segment": 3,
+   "row": 1,
+   "position": 108,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000064_b034"
+   ]
+  },
+  {
+   "id": "book_112",
+   "segment": 3,
+   "row": 1,
+   "position": 109,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000061_b031",
+    "f_000064_b033"
+   ]
+  },
+  {
+   "id": "book_113",
+   "segment": 3,
+   "row": 1,
+   "position": 110,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000061_b061",
+    "f_000064_b016"
+   ]
+  },
+  {
+   "id": "book_114",
+   "segment": 3,
+   "row": 1,
+   "position": 111,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000061_b030",
+    "f_000064_b035"
+   ]
+  },
+  {
+   "id": "book_115",
+   "segment": 3,
+   "row": 1,
+   "position": 112,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000061_b060"
+   ]
+  },
+  {
+   "id": "book_116",
+   "segment": 3,
+   "row": 1,
+   "position": 113,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000061_b059"
+   ]
+  },
+  {
+   "id": "book_117",
+   "segment": 3,
+   "row": 1,
+   "position": 114,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000064_b037"
+   ]
+  },
+  {
+   "id": "book_118",
+   "segment": 3,
+   "row": 1,
+   "position": 115,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000061_b029",
+    "f_000064_b036"
+   ]
+  },
+  {
+   "id": "book_119",
+   "segment": 3,
+   "row": 1,
+   "position": 116,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000061_b058",
+    "f_000064_b017"
+   ]
+  },
+  {
+   "id": "book_120",
+   "segment": 3,
+   "row": 1,
+   "position": 117,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000061_b028",
+    "f_000064_b038"
+   ]
+  },
+  {
+   "id": "book_121",
+   "segment": 3,
+   "row": 1,
+   "position": 118,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000064_b018"
+   ]
+  },
+  {
+   "id": "book_122",
+   "segment": 3,
+   "row": 1,
+   "position": 119,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000061_b027",
+    "f_000064_b039"
+   ]
+  },
+  {
+   "id": "book_123",
+   "segment": 3,
+   "row": 1,
+   "position": 120,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000064_b019"
+   ]
+  },
+  {
+   "id": "book_124",
+   "segment": 3,
+   "row": 1,
+   "position": 121,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000061_b025",
+    "f_000064_b040"
+   ]
+  },
+  {
+   "id": "book_125",
+   "segment": 3,
+   "row": 1,
+   "position": 122,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000061_b026",
+    "f_000064_b042"
+   ]
+  },
+  {
+   "id": "book_126",
+   "segment": 3,
+   "row": 1,
+   "position": 123,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000061_b057"
+   ]
+  },
+  {
+   "id": "book_127",
+   "segment": 3,
+   "row": 1,
+   "position": 124,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000061_b024",
+    "f_000064_b041"
+   ]
+  },
+  {
+   "id": "book_128",
+   "segment": 3,
+   "row": 1,
+   "position": 125,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000064_b043"
+   ]
+  },
+  {
+   "id": "book_129",
+   "segment": 3,
+   "row": 1,
+   "position": 126,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000061_b056"
+   ]
+  },
+  {
+   "id": "book_130",
+   "segment": 3,
+   "row": 1,
+   "position": 127,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000060_b000",
+    "f_000061_b055",
+    "f_000064_b020"
+   ]
+  },
+  {
+   "id": "book_131",
+   "segment": 3,
+   "row": 1,
+   "position": 128,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000064_b044"
+   ]
+  },
+  {
+   "id": "book_132",
+   "segment": 3,
+   "row": 1,
+   "position": 129,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000060_b030",
+    "f_000061_b023",
+    "f_000064_b047"
+   ]
+  },
+  {
+   "id": "book_133",
+   "segment": 3,
+   "row": 1,
+   "position": 130,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000064_b045"
+   ]
+  },
+  {
+   "id": "book_134",
+   "segment": 3,
+   "row": 1,
+   "position": 131,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000060_b029",
+    "f_000061_b022",
+    "f_000064_b048"
+   ]
+  },
+  {
+   "id": "book_135",
+   "segment": 3,
+   "row": 1,
+   "position": 132,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000060_b001",
+    "f_000061_b054",
+    "f_000064_b021"
+   ]
+  },
+  {
+   "id": "book_136",
+   "segment": 3,
+   "row": 1,
+   "position": 133,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000064_b023"
+   ]
+  },
+  {
+   "id": "book_137",
+   "segment": 3,
+   "row": 1,
+   "position": 134,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000061_b020",
+    "f_000064_b046"
+   ]
+  },
+  {
+   "id": "book_138",
+   "segment": 3,
+   "row": 1,
+   "position": 135,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000061_b021",
+    "f_000064_b049"
+   ]
+  },
+  {
+   "id": "book_139",
+   "segment": 3,
+   "row": 1,
+   "position": 136,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000060_b002",
+    "f_000061_b053",
+    "f_000064_b022"
+   ]
+  },
+  {
+   "id": "book_140",
+   "segment": 3,
+   "row": 1,
+   "position": 137,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000060_b044",
+    "f_000061_b019",
+    "f_000064_b051"
+   ]
+  },
+  {
+   "id": "book_141",
+   "segment": 3,
+   "row": 1,
+   "position": 138,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000058_b040",
+    "f_000060_b045",
+    "f_000061_b016",
+    "f_000064_b050"
+   ]
+  },
+  {
+   "id": "book_142",
+   "segment": 3,
+   "row": 1,
+   "position": 139,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000061_b018",
+    "f_000064_b052"
+   ]
+  },
+  {
+   "id": "book_143",
+   "segment": 3,
+   "row": 1,
+   "position": 140,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000060_b004",
+    "f_000061_b052"
+   ]
+  },
+  {
+   "id": "book_144",
+   "segment": 3,
+   "row": 1,
+   "position": 141,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000060_b003",
+    "f_000061_b051"
+   ]
+  },
+  {
+   "id": "book_145",
+   "segment": 3,
+   "row": 1,
+   "position": 142,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000061_b017",
+    "f_000064_b053"
+   ]
+  },
+  {
+   "id": "book_146",
+   "segment": 3,
+   "row": 1,
+   "position": 143,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000058_b000",
+    "f_000060_b006"
+   ]
+  },
+  {
+   "id": "book_147",
+   "segment": 3,
+   "row": 1,
+   "position": 144,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000061_b050"
+   ]
+  },
+  {
+   "id": "book_148",
+   "segment": 3,
+   "row": 1,
+   "position": 145,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000060_b005",
+    "f_000061_b048"
+   ]
+  },
+  {
+   "id": "book_149",
+   "segment": 3,
+   "row": 1,
+   "position": 146,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000061_b015"
+   ]
+  },
+  {
+   "id": "book_150",
+   "segment": 3,
+   "row": 1,
+   "position": 147,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000061_b049"
+   ]
+  },
+  {
+   "id": "book_151",
+   "segment": 3,
+   "row": 1,
+   "position": 148,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000058_b042",
+    "f_000060_b047",
+    "f_000061_b012"
+   ]
+  },
+  {
+   "id": "book_152",
+   "segment": 3,
+   "row": 1,
+   "position": 149,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000058_b001",
+    "f_000060_b007",
+    "f_000061_b047"
+   ]
+  },
+  {
+   "id": "book_153",
+   "segment": 3,
+   "row": 1,
+   "position": 150,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000061_b013"
+   ]
+  },
+  {
+   "id": "book_154",
+   "segment": 3,
+   "row": 1,
+   "position": 151,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000058_b044",
+    "f_000060_b046",
+    "f_000061_b011"
+   ]
+  },
+  {
+   "id": "book_155",
+   "segment": 3,
+   "row": 1,
+   "position": 152,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000058_b002",
+    "f_000060_b008",
+    "f_000061_b045"
+   ]
+  },
+  {
+   "id": "book_156",
+   "segment": 3,
+   "row": 1,
+   "position": 153,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000058_b003",
+    "f_000060_b009",
+    "f_000061_b046"
+   ]
+  },
+  {
+   "id": "book_157",
+   "segment": 3,
+   "row": 1,
+   "position": 154,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000061_b010"
+   ]
+  },
+  {
+   "id": "book_158",
+   "segment": 3,
+   "row": 1,
+   "position": 155,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000058_b036",
+    "f_000060_b031",
+    "f_000061_b009"
+   ]
+  },
+  {
+   "id": "book_159",
+   "segment": 3,
+   "row": 1,
+   "position": 156,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000061_b044"
+   ]
+  },
+  {
+   "id": "book_160",
+   "segment": 3,
+   "row": 1,
+   "position": 157,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000061_b008"
+   ]
+  },
+  {
+   "id": "book_161",
+   "segment": 3,
+   "row": 1,
+   "position": 158,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000058_b004",
+    "f_000060_b010",
+    "f_000061_b043"
+   ]
+  },
+  {
+   "id": "book_162",
+   "segment": 3,
+   "row": 1,
+   "position": 159,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000061_b006"
+   ]
+  },
+  {
+   "id": "book_163",
+   "segment": 3,
+   "row": 1,
+   "position": 160,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000058_b005",
+    "f_000061_b042"
+   ]
+  },
+  {
+   "id": "book_164",
+   "segment": 3,
+   "row": 1,
+   "position": 161,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000054_b029",
+    "f_000058_b039",
+    "f_000060_b041",
+    "f_000061_b005"
+   ]
+  },
+  {
+   "id": "book_165",
+   "segment": 3,
+   "row": 1,
+   "position": 162,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000050_b041",
+    "f_000051_b023",
+    "f_000054_b030",
+    "f_000058_b025",
+    "f_000060_b040",
+    "f_000061_b004"
+   ]
+  },
+  {
+   "id": "book_166",
+   "segment": 3,
+   "row": 1,
+   "position": 163,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000058_b006",
+    "f_000060_b011",
+    "f_000061_b041"
+   ]
+  },
+  {
+   "id": "book_167",
+   "segment": 3,
+   "row": 1,
+   "position": 164,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000058_b007",
+    "f_000060_b012",
+    "f_000061_b040"
+   ]
+  },
+  {
+   "id": "book_168",
+   "segment": 3,
+   "row": 1,
+   "position": 165,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000049_b010"
+   ]
+  },
+  {
+   "id": "book_169",
+   "segment": 3,
+   "row": 1,
+   "position": 166,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000058_b008",
+    "f_000060_b013",
+    "f_000061_b038"
+   ]
+  },
+  {
+   "id": "book_170",
+   "segment": 3,
+   "row": 1,
+   "position": 167,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000054_b016",
+    "f_000058_b009",
+    "f_000060_b015",
+    "f_000061_b039"
+   ]
+  },
+  {
+   "id": "book_171",
+   "segment": 3,
+   "row": 1,
+   "position": 168,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000050_b017",
+    "f_000051_b025",
+    "f_000054_b028",
+    "f_000058_b027",
+    "f_000060_b026",
+    "f_000061_b003"
+   ]
+  },
+  {
+   "id": "book_172",
+   "segment": 3,
+   "row": 1,
+   "position": 169,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000050_b014",
+    "f_000051_b010",
+    "f_000054_b014",
+    "f_000058_b010",
+    "f_000060_b014"
+   ]
+  },
+  {
+   "id": "book_173",
+   "segment": 3,
+   "row": 1,
+   "position": 170,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000050_b037",
+    "f_000051_b008",
+    "f_000054_b011",
+    "f_000058_b011",
+    "f_000060_b016",
+    "f_000061_b037"
+   ]
+  },
+  {
+   "id": "book_174",
+   "segment": 3,
+   "row": 1,
+   "position": 171,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000050_b040",
+    "f_000054_b032",
+    "f_000058_b029",
+    "f_000060_b039",
+    "f_000061_b001"
+   ]
+  },
+  {
+   "id": "book_175",
+   "segment": 3,
+   "row": 1,
+   "position": 172,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000050_b012",
+    "f_000054_b012",
+    "f_000058_b012",
+    "f_000060_b017",
+    "f_000061_b036"
+   ]
+  },
+  {
+   "id": "book_176",
+   "segment": 3,
+   "row": 1,
+   "position": 173,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000054_b031",
+    "f_000060_b038",
+    "f_000061_b002"
+   ]
+  },
+  {
+   "id": "book_177",
+   "segment": 3,
+   "row": 1,
+   "position": 174,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000058_b013",
+    "f_000060_b018",
+    "f_000061_b035"
+   ]
+  },
+  {
+   "id": "book_178",
+   "segment": 3,
+   "row": 1,
+   "position": 175,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000058_b014",
+    "f_000060_b019",
+    "f_000061_b034"
+   ]
+  },
+  {
+   "id": "book_179",
+   "segment": 3,
+   "row": 1,
+   "position": 176,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000050_b027",
+    "f_000051_b007",
+    "f_000054_b009",
+    "f_000058_b016"
+   ]
+  },
+  {
+   "id": "book_180",
+   "segment": 3,
+   "row": 1,
+   "position": 177,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000061_b033"
+   ]
+  },
+  {
+   "id": "book_181",
+   "segment": 3,
+   "row": 1,
+   "position": 178,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000050_b035",
+    "f_000054_b034",
+    "f_000058_b031",
+    "f_000060_b037"
+   ]
+  },
+  {
+   "id": "book_182",
+   "segment": 3,
+   "row": 1,
+   "position": 179,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000054_b033",
+    "f_000058_b032",
+    "f_000060_b036",
+    "f_000061_b000"
+   ]
+  },
+  {
+   "id": "book_183",
+   "segment": 3,
+   "row": 1,
+   "position": 180,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000061_b032"
+   ]
+  },
+  {
+   "id": "book_184",
+   "segment": 3,
+   "row": 1,
+   "position": 181,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000054_b010",
+    "f_000058_b015",
+    "f_000060_b020"
+   ]
+  },
+  {
+   "id": "book_185",
+   "segment": 3,
+   "row": 1,
+   "position": 182,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000051_b006",
+    "f_000054_b008",
+    "f_000060_b022"
+   ]
+  },
+  {
+   "id": "book_186",
+   "segment": 3,
+   "row": 1,
+   "position": 183,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000054_b007",
+    "f_000060_b021"
+   ]
+  },
+  {
+   "id": "book_187",
+   "segment": 3,
+   "row": 1,
+   "position": 184,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "leaning",
+   "dets": [
+    "f_000058_b033",
+    "f_000060_b035"
+   ]
+  },
+  {
+   "id": "book_188",
+   "segment": 3,
+   "row": 1,
+   "position": 185,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000050_b031",
+    "f_000054_b035",
+    "f_000058_b034",
+    "f_000060_b034"
+   ]
+  },
+  {
+   "id": "book_189",
+   "segment": 3,
+   "row": 1,
+   "position": 186,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000050_b008",
+    "f_000051_b005",
+    "f_000054_b006",
+    "f_000058_b018",
+    "f_000060_b023"
+   ]
+  },
+  {
+   "id": "book_190",
+   "segment": 3,
+   "row": 1,
+   "position": 187,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000050_b007",
+    "f_000051_b004",
+    "f_000054_b004",
+    "f_000058_b017",
+    "f_000060_b024"
+   ]
+  },
+  {
+   "id": "book_191",
+   "segment": 3,
+   "row": 1,
+   "position": 188,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000060_b033"
+   ]
+  },
+  {
+   "id": "book_192",
+   "segment": 3,
+   "row": 1,
+   "position": 189,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000050_b038",
+    "f_000054_b037",
+    "f_000058_b045",
+    "f_000060_b042"
+   ]
+  },
+  {
+   "id": "book_193",
+   "segment": 3,
+   "row": 1,
+   "position": 190,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "leaning",
+   "dets": [
+    "f_000058_b035",
+    "f_000060_b050"
+   ]
+  },
+  {
+   "id": "book_194",
+   "segment": 3,
+   "row": 1,
+   "position": 191,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000054_b005",
+    "f_000060_b049"
+   ]
+  },
+  {
+   "id": "book_195",
+   "segment": 3,
+   "row": 1,
+   "position": 192,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000050_b006",
+    "f_000051_b003",
+    "f_000054_b003",
+    "f_000058_b020",
+    "f_000060_b025"
+   ]
+  },
+  {
+   "id": "book_196",
+   "segment": 3,
+   "row": 1,
+   "position": 193,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000051_b002",
+    "f_000054_b002",
+    "f_000058_b019"
+   ]
+  },
+  {
+   "id": "book_197",
+   "segment": 3,
+   "row": 1,
+   "position": 194,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000054_b001"
+   ]
+  },
+  {
+   "id": "book_198",
+   "segment": 3,
+   "row": 1,
+   "position": 195,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "leaning",
+   "dets": [
+    "f_000058_b046"
+   ]
+  },
+  {
+   "id": "book_199",
+   "segment": 3,
+   "row": 1,
+   "position": 196,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000050_b019",
+    "f_000051_b001",
+    "f_000054_b000",
+    "f_000058_b021"
+   ]
+  },
+  {
+   "id": "book_200",
+   "segment": 3,
+   "row": 1,
+   "position": 197,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000050_b013",
+    "f_000051_b019",
+    "f_000054_b039"
+   ]
+  },
+  {
+   "id": "book_201",
+   "segment": 3,
+   "row": 1,
+   "position": 198,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000050_b010",
+    "f_000051_b000",
+    "f_000058_b022"
+   ]
+  },
+  {
+   "id": "book_202",
+   "segment": 3,
+   "row": 1,
+   "position": 199,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "leaning",
+   "dets": [
+    "f_000058_b047"
+   ]
+  },
+  {
+   "id": "book_203",
+   "segment": 3,
+   "row": 1,
+   "position": 200,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000050_b036",
+    "f_000054_b023",
+    "f_000058_b023"
+   ]
+  },
+  {
+   "id": "book_204",
+   "segment": 3,
+   "row": 1,
+   "position": 201,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "leaning",
+   "dets": [
+    "f_000058_b048"
+   ]
+  },
+  {
+   "id": "book_205",
+   "segment": 3,
+   "row": 1,
+   "position": 202,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000050_b018",
+    "f_000051_b015",
+    "f_000054_b022",
+    "f_000058_b024"
+   ]
+  },
+  {
+   "id": "book_206",
+   "segment": 3,
+   "row": 1,
+   "position": 203,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000051_b020",
+    "f_000054_b026"
+   ]
+  },
+  {
+   "id": "book_207",
+   "segment": 3,
+   "row": 1,
+   "position": 204,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000050_b011",
+    "f_000051_b021",
+    "f_000054_b025"
+   ]
+  },
+  {
+   "id": "book_208",
+   "segment": 3,
+   "row": 1,
+   "position": 205,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000050_b039",
+    "f_000054_b040"
+   ]
+  },
+  {
+   "id": "book_209",
+   "segment": 3,
+   "row": 1,
+   "position": 206,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000050_b024",
+    "f_000051_b016",
+    "f_000054_b021"
+   ]
+  },
+  {
+   "id": "book_210",
+   "segment": 3,
+   "row": 1,
+   "position": 207,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000050_b016",
+    "f_000051_b026"
+   ]
+  },
+  {
+   "id": "book_211",
+   "segment": 3,
+   "row": 1,
+   "position": 208,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000050_b029",
+    "f_000051_b014",
+    "f_000054_b018"
+   ]
+  },
+  {
+   "id": "book_212",
+   "segment": 3,
+   "row": 1,
+   "position": 209,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000050_b020",
+    "f_000051_b022",
+    "f_000054_b041"
+   ]
+  },
+  {
+   "id": "book_213",
+   "segment": 3,
+   "row": 1,
+   "position": 210,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000050_b023",
+    "f_000051_b013",
+    "f_000054_b017"
+   ]
+  },
+  {
+   "id": "book_214",
+   "segment": 3,
+   "row": 1,
+   "position": 211,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000050_b033"
+   ]
+  },
+  {
+   "id": "book_215",
+   "segment": 3,
+   "row": 1,
+   "position": 212,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000054_b019"
+   ]
+  },
+  {
+   "id": "book_216",
+   "segment": 3,
+   "row": 1,
+   "position": 213,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000050_b022",
+    "f_000051_b012",
+    "f_000054_b020"
+   ]
+  },
+  {
+   "id": "book_217",
+   "segment": 3,
+   "row": 1,
+   "position": 214,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000050_b004",
+    "f_000051_b011",
+    "f_000054_b038"
+   ]
+  },
+  {
+   "id": "book_218",
+   "segment": 3,
+   "row": 1,
+   "position": 215,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000050_b032"
+   ]
+  },
+  {
+   "id": "book_219",
+   "segment": 3,
+   "row": 1,
+   "position": 216,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000050_b034"
+   ]
+  },
+  {
+   "id": "book_220",
+   "segment": 3,
+   "row": 1,
+   "position": 217,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000050_b030"
+   ]
+  },
+  {
+   "id": "book_221",
+   "segment": 3,
+   "row": 1,
+   "position": 218,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000050_b025",
+    "f_000051_b017"
+   ]
+  },
+  {
+   "id": "book_222",
+   "segment": 3,
+   "row": 1,
+   "position": 219,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000050_b005",
+    "f_000051_b018"
+   ]
+  },
+  {
+   "id": "book_223",
+   "segment": 3,
+   "row": 1,
+   "position": 220,
+   "fragment": false,
+   "spine_facing": false,
+   "orientation": "flat",
+   "dets": [
+    "f_000050_b002"
+   ]
+  },
+  {
+   "id": "book_224",
+   "segment": 3,
+   "row": 1,
+   "position": 221,
+   "fragment": false,
+   "spine_facing": false,
+   "orientation": "flat",
+   "dets": [
+    "f_000050_b001"
+   ]
+  },
+  {
+   "id": "book_225",
+   "segment": 3,
+   "row": 1,
+   "position": 222,
+   "fragment": false,
+   "spine_facing": false,
+   "orientation": "flat",
+   "dets": [
+    "f_000050_b003"
+   ]
+  },
+  {
+   "id": "book_226",
+   "segment": 3,
+   "row": 1,
+   "position": 223,
+   "fragment": false,
+   "spine_facing": false,
+   "orientation": "flat",
+   "dets": [
+    "f_000050_b042"
+   ]
+  },
+  {
+   "id": "book_227",
+   "segment": 3,
+   "row": 2,
+   "position": 1,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000049_b011"
+   ]
+  },
+  {
+   "id": "book_228",
+   "segment": 3,
+   "row": 2,
+   "position": 2,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000050_b026",
+    "f_000051_b029"
+   ]
+  },
+  {
+   "id": "book_229",
+   "segment": 3,
+   "row": 2,
+   "position": 3,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000051_b028"
+   ]
+  },
+  {
+   "id": "book_230",
+   "segment": 3,
+   "row": 2,
+   "position": 4,
+   "fragment": false,
+   "spine_facing": false,
+   "orientation": "flat",
+   "dets": [
+    "f_000050_b000"
+   ]
+  },
+  {
+   "id": "book_231",
+   "segment": 3,
+   "row": 3,
+   "position": 1,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000049_b012"
+   ]
+  },
+  {
+   "id": "book_232",
+   "segment": 4,
+   "row": 0,
+   "position": 1,
+   "fragment": false,
+   "spine_facing": false,
+   "orientation": "upright",
+   "dets": [
+    "f_000076_b002"
+   ]
+  },
+  {
+   "id": "book_233",
+   "segment": 4,
+   "row": 1,
+   "position": 1,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b032"
+   ]
+  },
+  {
+   "id": "book_234",
+   "segment": 4,
+   "row": 1,
+   "position": 2,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b031"
+   ]
+  },
+  {
+   "id": "book_235",
+   "segment": 4,
+   "row": 1,
+   "position": 3,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b030"
+   ]
+  },
+  {
+   "id": "book_236",
+   "segment": 4,
+   "row": 1,
+   "position": 4,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b029"
+   ]
+  },
+  {
+   "id": "book_237",
+   "segment": 4,
+   "row": 1,
+   "position": 5,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b033"
+   ]
+  },
+  {
+   "id": "book_238",
+   "segment": 4,
+   "row": 1,
+   "position": 6,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b028",
+    "f_000084_b022",
+    "f_000085_b000"
+   ]
+  },
+  {
+   "id": "book_239",
+   "segment": 4,
+   "row": 1,
+   "position": 7,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b034",
+    "f_000084_b055",
+    "f_000085_b026"
+   ]
+  },
+  {
+   "id": "book_240",
+   "segment": 4,
+   "row": 1,
+   "position": 8,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b027",
+    "f_000084_b021",
+    "f_000085_b001"
+   ]
+  },
+  {
+   "id": "book_241",
+   "segment": 4,
+   "row": 1,
+   "position": 9,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b065",
+    "f_000084_b080",
+    "f_000085_b055"
+   ]
+  },
+  {
+   "id": "book_242",
+   "segment": 4,
+   "row": 1,
+   "position": 10,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000084_b085"
+   ]
+  },
+  {
+   "id": "book_243",
+   "segment": 4,
+   "row": 1,
+   "position": 11,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b035",
+    "f_000084_b054",
+    "f_000085_b027"
+   ]
+  },
+  {
+   "id": "book_244",
+   "segment": 4,
+   "row": 1,
+   "position": 12,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000084_b079",
+    "f_000085_b056"
+   ]
+  },
+  {
+   "id": "book_245",
+   "segment": 4,
+   "row": 1,
+   "position": 13,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b026",
+    "f_000084_b020",
+    "f_000085_b003"
+   ]
+  },
+  {
+   "id": "book_246",
+   "segment": 4,
+   "row": 1,
+   "position": 14,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000084_b084",
+    "f_000085_b079"
+   ]
+  },
+  {
+   "id": "book_247",
+   "segment": 4,
+   "row": 1,
+   "position": 15,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b036",
+    "f_000084_b053",
+    "f_000085_b028"
+   ]
+  },
+  {
+   "id": "book_248",
+   "segment": 4,
+   "row": 1,
+   "position": 16,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b066",
+    "f_000084_b078",
+    "f_000085_b057"
+   ]
+  },
+  {
+   "id": "book_249",
+   "segment": 4,
+   "row": 1,
+   "position": 17,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b037",
+    "f_000084_b052",
+    "f_000085_b029"
+   ]
+  },
+  {
+   "id": "book_250",
+   "segment": 4,
+   "row": 1,
+   "position": 18,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b025",
+    "f_000084_b019",
+    "f_000085_b002"
+   ]
+  },
+  {
+   "id": "book_251",
+   "segment": 4,
+   "row": 1,
+   "position": 19,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000084_b083",
+    "f_000085_b080"
+   ]
+  },
+  {
+   "id": "book_252",
+   "segment": 4,
+   "row": 1,
+   "position": 20,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000085_b058"
+   ]
+  },
+  {
+   "id": "book_253",
+   "segment": 4,
+   "row": 1,
+   "position": 21,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b038",
+    "f_000084_b051"
+   ]
+  },
+  {
+   "id": "book_254",
+   "segment": 4,
+   "row": 1,
+   "position": 22,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b039",
+    "f_000084_b050",
+    "f_000085_b030"
+   ]
+  },
+  {
+   "id": "book_255",
+   "segment": 4,
+   "row": 1,
+   "position": 23,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b024",
+    "f_000085_b004"
+   ]
+  },
+  {
+   "id": "book_256",
+   "segment": 4,
+   "row": 1,
+   "position": 24,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b067",
+    "f_000084_b077",
+    "f_000085_b059"
+   ]
+  },
+  {
+   "id": "book_257",
+   "segment": 4,
+   "row": 1,
+   "position": 25,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000084_b082",
+    "f_000085_b081"
+   ]
+  },
+  {
+   "id": "book_258",
+   "segment": 4,
+   "row": 1,
+   "position": 26,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b023",
+    "f_000084_b018",
+    "f_000085_b005"
+   ]
+  },
+  {
+   "id": "book_259",
+   "segment": 4,
+   "row": 1,
+   "position": 27,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b040",
+    "f_000084_b049",
+    "f_000085_b031"
+   ]
+  },
+  {
+   "id": "book_260",
+   "segment": 4,
+   "row": 1,
+   "position": 28,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b041"
+   ]
+  },
+  {
+   "id": "book_261",
+   "segment": 4,
+   "row": 1,
+   "position": 29,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000084_b076",
+    "f_000085_b060"
+   ]
+  },
+  {
+   "id": "book_262",
+   "segment": 4,
+   "row": 1,
+   "position": 30,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b042",
+    "f_000084_b048",
+    "f_000085_b032"
+   ]
+  },
+  {
+   "id": "book_263",
+   "segment": 4,
+   "row": 1,
+   "position": 31,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000084_b081",
+    "f_000085_b082"
+   ]
+  },
+  {
+   "id": "book_264",
+   "segment": 4,
+   "row": 1,
+   "position": 32,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b022",
+    "f_000084_b017",
+    "f_000085_b006"
+   ]
+  },
+  {
+   "id": "book_265",
+   "segment": 4,
+   "row": 1,
+   "position": 33,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b043",
+    "f_000084_b047",
+    "f_000085_b033"
+   ]
+  },
+  {
+   "id": "book_266",
+   "segment": 4,
+   "row": 1,
+   "position": 34,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b068",
+    "f_000084_b075",
+    "f_000085_b061"
+   ]
+  },
+  {
+   "id": "book_267",
+   "segment": 4,
+   "row": 1,
+   "position": 35,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b021",
+    "f_000084_b016"
+   ]
+  },
+  {
+   "id": "book_268",
+   "segment": 4,
+   "row": 1,
+   "position": 36,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b044",
+    "f_000084_b046",
+    "f_000085_b034"
+   ]
+  },
+  {
+   "id": "book_269",
+   "segment": 4,
+   "row": 1,
+   "position": 37,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000084_b074",
+    "f_000085_b062"
+   ]
+  },
+  {
+   "id": "book_270",
+   "segment": 4,
+   "row": 1,
+   "position": 38,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000084_b015"
+   ]
+  },
+  {
+   "id": "book_271",
+   "segment": 4,
+   "row": 1,
+   "position": 39,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b045",
+    "f_000084_b045",
+    "f_000085_b035"
+   ]
+  },
+  {
+   "id": "book_272",
+   "segment": 4,
+   "row": 1,
+   "position": 40,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b020",
+    "f_000084_b014",
+    "f_000085_b007"
+   ]
+  },
+  {
+   "id": "book_273",
+   "segment": 4,
+   "row": 1,
+   "position": 41,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000085_b083"
+   ]
+  },
+  {
+   "id": "book_274",
+   "segment": 4,
+   "row": 1,
+   "position": 42,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000084_b073",
+    "f_000085_b063"
+   ]
+  },
+  {
+   "id": "book_275",
+   "segment": 4,
+   "row": 1,
+   "position": 43,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b046",
+    "f_000084_b044",
+    "f_000085_b036"
+   ]
+  },
+  {
+   "id": "book_276",
+   "segment": 4,
+   "row": 1,
+   "position": 44,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b019",
+    "f_000084_b013",
+    "f_000085_b008"
+   ]
+  },
+  {
+   "id": "book_277",
+   "segment": 4,
+   "row": 1,
+   "position": 45,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000085_b084"
+   ]
+  },
+  {
+   "id": "book_278",
+   "segment": 4,
+   "row": 1,
+   "position": 46,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b047",
+    "f_000084_b043",
+    "f_000085_b037"
+   ]
+  },
+  {
+   "id": "book_279",
+   "segment": 4,
+   "row": 1,
+   "position": 47,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000084_b072",
+    "f_000085_b064"
+   ]
+  },
+  {
+   "id": "book_280",
+   "segment": 4,
+   "row": 1,
+   "position": 48,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000084_b042",
+    "f_000085_b009"
+   ]
+  },
+  {
+   "id": "book_281",
+   "segment": 4,
+   "row": 1,
+   "position": 49,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b018",
+    "f_000084_b012",
+    "f_000085_b010"
+   ]
+  },
+  {
+   "id": "book_282",
+   "segment": 4,
+   "row": 1,
+   "position": 50,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b048",
+    "f_000085_b038"
+   ]
+  },
+  {
+   "id": "book_283",
+   "segment": 4,
+   "row": 1,
+   "position": 51,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000085_b085"
+   ]
+  },
+  {
+   "id": "book_284",
+   "segment": 4,
+   "row": 1,
+   "position": 52,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b017"
+   ]
+  },
+  {
+   "id": "book_285",
+   "segment": 4,
+   "row": 1,
+   "position": 53,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b049",
+    "f_000084_b041"
+   ]
+  },
+  {
+   "id": "book_286",
+   "segment": 4,
+   "row": 1,
+   "position": 54,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b050",
+    "f_000084_b040",
+    "f_000085_b039"
+   ]
+  },
+  {
+   "id": "book_287",
+   "segment": 4,
+   "row": 1,
+   "position": 55,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000084_b071"
+   ]
+  },
+  {
+   "id": "book_288",
+   "segment": 4,
+   "row": 1,
+   "position": 56,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b016",
+    "f_000084_b011",
+    "f_000085_b011"
+   ]
+  },
+  {
+   "id": "book_289",
+   "segment": 4,
+   "row": 1,
+   "position": 57,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000084_b070",
+    "f_000085_b065"
+   ]
+  },
+  {
+   "id": "book_290",
+   "segment": 4,
+   "row": 1,
+   "position": 58,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000085_b086"
+   ]
+  },
+  {
+   "id": "book_291",
+   "segment": 4,
+   "row": 1,
+   "position": 59,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b015",
+    "f_000084_b010",
+    "f_000085_b012"
+   ]
+  },
+  {
+   "id": "book_292",
+   "segment": 4,
+   "row": 1,
+   "position": 60,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b051",
+    "f_000084_b039",
+    "f_000085_b040"
+   ]
+  },
+  {
+   "id": "book_293",
+   "segment": 4,
+   "row": 1,
+   "position": 61,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b014",
+    "f_000084_b009",
+    "f_000085_b013"
+   ]
+  },
+  {
+   "id": "book_294",
+   "segment": 4,
+   "row": 1,
+   "position": 62,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000084_b069",
+    "f_000085_b066"
+   ]
+  },
+  {
+   "id": "book_295",
+   "segment": 4,
+   "row": 1,
+   "position": 63,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b052",
+    "f_000084_b038",
+    "f_000085_b041"
+   ]
+  },
+  {
+   "id": "book_296",
+   "segment": 4,
+   "row": 1,
+   "position": 64,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b000",
+    "f_000084_b008",
+    "f_000085_b014"
+   ]
+  },
+  {
+   "id": "book_297",
+   "segment": 4,
+   "row": 1,
+   "position": 65,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000084_b068",
+    "f_000085_b067"
+   ]
+  },
+  {
+   "id": "book_298",
+   "segment": 4,
+   "row": 1,
+   "position": 66,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000085_b088"
+   ]
+  },
+  {
+   "id": "book_299",
+   "segment": 4,
+   "row": 1,
+   "position": 67,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000084_b037"
+   ]
+  },
+  {
+   "id": "book_300",
+   "segment": 4,
+   "row": 1,
+   "position": 68,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b053",
+    "f_000084_b036",
+    "f_000085_b042"
+   ]
+  },
+  {
+   "id": "book_301",
+   "segment": 4,
+   "row": 1,
+   "position": 69,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000084_b067",
+    "f_000085_b068"
+   ]
+  },
+  {
+   "id": "book_302",
+   "segment": 4,
+   "row": 1,
+   "position": 70,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000085_b089"
+   ]
+  },
+  {
+   "id": "book_303",
+   "segment": 4,
+   "row": 1,
+   "position": 71,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b054",
+    "f_000084_b035",
+    "f_000085_b043"
+   ]
+  },
+  {
+   "id": "book_304",
+   "segment": 4,
+   "row": 1,
+   "position": 72,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000085_b015"
+   ]
+  },
+  {
+   "id": "book_305",
+   "segment": 4,
+   "row": 1,
+   "position": 73,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000084_b066",
+    "f_000085_b069"
+   ]
+  },
+  {
+   "id": "book_306",
+   "segment": 4,
+   "row": 1,
+   "position": 74,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b055",
+    "f_000084_b034",
+    "f_000085_b044"
+   ]
+  },
+  {
+   "id": "book_307",
+   "segment": 4,
+   "row": 1,
+   "position": 75,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000085_b090"
+   ]
+  },
+  {
+   "id": "book_308",
+   "segment": 4,
+   "row": 1,
+   "position": 76,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b001",
+    "f_000084_b007",
+    "f_000085_b016"
+   ]
+  },
+  {
+   "id": "book_309",
+   "segment": 4,
+   "row": 1,
+   "position": 77,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000084_b065",
+    "f_000085_b070"
+   ]
+  },
+  {
+   "id": "book_310",
+   "segment": 4,
+   "row": 1,
+   "position": 78,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b056",
+    "f_000084_b033",
+    "f_000085_b045"
+   ]
+  },
+  {
+   "id": "book_311",
+   "segment": 4,
+   "row": 1,
+   "position": 79,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000085_b091"
+   ]
+  },
+  {
+   "id": "book_312",
+   "segment": 4,
+   "row": 1,
+   "position": 80,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000079_b030",
+    "f_000082_b057",
+    "f_000084_b032",
+    "f_000085_b046"
+   ]
+  },
+  {
+   "id": "book_313",
+   "segment": 4,
+   "row": 1,
+   "position": 81,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000084_b064",
+    "f_000085_b071"
+   ]
+  },
+  {
+   "id": "book_314",
+   "segment": 4,
+   "row": 1,
+   "position": 82,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b002",
+    "f_000084_b006",
+    "f_000085_b017"
+   ]
+  },
+  {
+   "id": "book_315",
+   "segment": 4,
+   "row": 1,
+   "position": 83,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000079_b024",
+    "f_000082_b059",
+    "f_000084_b031",
+    "f_000085_b047"
+   ]
+  },
+  {
+   "id": "book_316",
+   "segment": 4,
+   "row": 1,
+   "position": 84,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000084_b063",
+    "f_000085_b072"
+   ]
+  },
+  {
+   "id": "book_317",
+   "segment": 4,
+   "row": 1,
+   "position": 85,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000085_b092"
+   ]
+  },
+  {
+   "id": "book_318",
+   "segment": 4,
+   "row": 1,
+   "position": 86,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b003",
+    "f_000085_b018"
+   ]
+  },
+  {
+   "id": "book_319",
+   "segment": 4,
+   "row": 1,
+   "position": 87,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000079_b027",
+    "f_000082_b058",
+    "f_000084_b030",
+    "f_000085_b048"
+   ]
+  },
+  {
+   "id": "book_320",
+   "segment": 4,
+   "row": 1,
+   "position": 88,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000084_b062",
+    "f_000085_b073"
+   ]
+  },
+  {
+   "id": "book_321",
+   "segment": 4,
+   "row": 1,
+   "position": 89,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b004",
+    "f_000084_b005",
+    "f_000085_b020"
+   ]
+  },
+  {
+   "id": "book_322",
+   "segment": 4,
+   "row": 1,
+   "position": 90,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000084_b029",
+    "f_000085_b019"
+   ]
+  },
+  {
+   "id": "book_323",
+   "segment": 4,
+   "row": 1,
+   "position": 91,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000084_b061",
+    "f_000085_b074"
+   ]
+  },
+  {
+   "id": "book_324",
+   "segment": 4,
+   "row": 1,
+   "position": 92,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000085_b093"
+   ]
+  },
+  {
+   "id": "book_325",
+   "segment": 4,
+   "row": 1,
+   "position": 93,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000079_b032",
+    "f_000082_b060",
+    "f_000084_b027",
+    "f_000085_b049"
+   ]
+  },
+  {
+   "id": "book_326",
+   "segment": 4,
+   "row": 1,
+   "position": 94,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b005",
+    "f_000084_b004",
+    "f_000085_b021"
+   ]
+  },
+  {
+   "id": "book_327",
+   "segment": 4,
+   "row": 1,
+   "position": 95,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000084_b060"
+   ]
+  },
+  {
+   "id": "book_328",
+   "segment": 4,
+   "row": 1,
+   "position": 96,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b006"
+   ]
+  },
+  {
+   "id": "book_329",
+   "segment": 4,
+   "row": 1,
+   "position": 97,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000079_b018",
+    "f_000082_b007",
+    "f_000084_b003",
+    "f_000085_b022"
+   ]
+  },
+  {
+   "id": "book_330",
+   "segment": 4,
+   "row": 1,
+   "position": 98,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b061",
+    "f_000085_b050"
+   ]
+  },
+  {
+   "id": "book_331",
+   "segment": 4,
+   "row": 1,
+   "position": 99,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000084_b059",
+    "f_000085_b075"
+   ]
+  },
+  {
+   "id": "book_332",
+   "segment": 4,
+   "row": 1,
+   "position": 100,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000079_b017",
+    "f_000082_b008",
+    "f_000084_b002",
+    "f_000085_b023"
+   ]
+  },
+  {
+   "id": "book_333",
+   "segment": 4,
+   "row": 1,
+   "position": 101,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b062",
+    "f_000085_b051"
+   ]
+  },
+  {
+   "id": "book_334",
+   "segment": 4,
+   "row": 1,
+   "position": 102,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000084_b058",
+    "f_000085_b076"
+   ]
+  },
+  {
+   "id": "book_335",
+   "segment": 4,
+   "row": 1,
+   "position": 103,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000085_b094"
+   ]
+  },
+  {
+   "id": "book_336",
+   "segment": 4,
+   "row": 1,
+   "position": 104,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b009"
+   ]
+  },
+  {
+   "id": "book_337",
+   "segment": 4,
+   "row": 1,
+   "position": 105,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000079_b028",
+    "f_000082_b063",
+    "f_000084_b025",
+    "f_000085_b053"
+   ]
+  },
+  {
+   "id": "book_338",
+   "segment": 4,
+   "row": 1,
+   "position": 106,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000084_b057"
+   ]
+  },
+  {
+   "id": "book_339",
+   "segment": 4,
+   "row": 1,
+   "position": 107,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000079_b015",
+    "f_000082_b010",
+    "f_000085_b024"
+   ]
+  },
+  {
+   "id": "book_340",
+   "segment": 4,
+   "row": 1,
+   "position": 108,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000085_b095"
+   ]
+  },
+  {
+   "id": "book_341",
+   "segment": 4,
+   "row": 1,
+   "position": 109,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000084_b056",
+    "f_000085_b077"
+   ]
+  },
+  {
+   "id": "book_342",
+   "segment": 4,
+   "row": 1,
+   "position": 110,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000079_b014",
+    "f_000082_b011",
+    "f_000084_b000"
+   ]
+  },
+  {
+   "id": "book_343",
+   "segment": 4,
+   "row": 1,
+   "position": 111,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000079_b026",
+    "f_000082_b064",
+    "f_000084_b023",
+    "f_000085_b054"
+   ]
+  },
+  {
+   "id": "book_344",
+   "segment": 4,
+   "row": 1,
+   "position": 112,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000079_b013"
+   ]
+  },
+  {
+   "id": "book_345",
+   "segment": 4,
+   "row": 1,
+   "position": 113,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000079_b016",
+    "f_000082_b012",
+    "f_000085_b025"
+   ]
+  },
+  {
+   "id": "book_346",
+   "segment": 4,
+   "row": 1,
+   "position": 114,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000085_b096"
+   ]
+  },
+  {
+   "id": "book_347",
+   "segment": 4,
+   "row": 1,
+   "position": 115,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000085_b078"
+   ]
+  },
+  {
+   "id": "book_348",
+   "segment": 4,
+   "row": 1,
+   "position": 116,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000079_b031"
+   ]
+  },
+  {
+   "id": "book_349",
+   "segment": 4,
+   "row": 1,
+   "position": 117,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000079_b011"
+   ]
+  },
+  {
+   "id": "book_350",
+   "segment": 4,
+   "row": 1,
+   "position": 118,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000082_b013"
+   ]
+  },
+  {
+   "id": "book_351",
+   "segment": 4,
+   "row": 1,
+   "position": 119,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000076_b022",
+    "f_000079_b033"
+   ]
+  },
+  {
+   "id": "book_352",
+   "segment": 4,
+   "row": 1,
+   "position": 120,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000079_b012"
+   ]
+  },
+  {
+   "id": "book_353",
+   "segment": 4,
+   "row": 1,
+   "position": 121,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000076_b021",
+    "f_000079_b038"
+   ]
+  },
+  {
+   "id": "book_354",
+   "segment": 4,
+   "row": 1,
+   "position": 122,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000076_b020",
+    "f_000079_b029"
+   ]
+  },
+  {
+   "id": "book_355",
+   "segment": 4,
+   "row": 1,
+   "position": 123,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000076_b011",
+    "f_000079_b010"
+   ]
+  },
+  {
+   "id": "book_356",
+   "segment": 4,
+   "row": 1,
+   "position": 124,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000076_b010",
+    "f_000079_b009"
+   ]
+  },
+  {
+   "id": "book_357",
+   "segment": 4,
+   "row": 1,
+   "position": 125,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000076_b018"
+   ]
+  },
+  {
+   "id": "book_358",
+   "segment": 4,
+   "row": 1,
+   "position": 126,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000076_b019",
+    "f_000079_b025"
+   ]
+  },
+  {
+   "id": "book_359",
+   "segment": 4,
+   "row": 1,
+   "position": 127,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000079_b037"
+   ]
+  },
+  {
+   "id": "book_360",
+   "segment": 4,
+   "row": 1,
+   "position": 128,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000076_b009",
+    "f_000079_b003"
+   ]
+  },
+  {
+   "id": "book_361",
+   "segment": 4,
+   "row": 1,
+   "position": 129,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000079_b036"
+   ]
+  },
+  {
+   "id": "book_362",
+   "segment": 4,
+   "row": 1,
+   "position": 130,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000076_b016"
+   ]
+  },
+  {
+   "id": "book_363",
+   "segment": 4,
+   "row": 1,
+   "position": 131,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000076_b017",
+    "f_000079_b023"
+   ]
+  },
+  {
+   "id": "book_364",
+   "segment": 4,
+   "row": 1,
+   "position": 132,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000079_b022"
+   ]
+  },
+  {
+   "id": "book_365",
+   "segment": 4,
+   "row": 1,
+   "position": 133,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000076_b008",
+    "f_000079_b004"
+   ]
+  },
+  {
+   "id": "book_366",
+   "segment": 4,
+   "row": 1,
+   "position": 134,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000076_b015"
+   ]
+  },
+  {
+   "id": "book_367",
+   "segment": 4,
+   "row": 1,
+   "position": 135,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000076_b007",
+    "f_000079_b005"
+   ]
+  },
+  {
+   "id": "book_368",
+   "segment": 4,
+   "row": 1,
+   "position": 136,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000079_b035"
+   ]
+  },
+  {
+   "id": "book_369",
+   "segment": 4,
+   "row": 1,
+   "position": 137,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000079_b034"
+   ]
+  },
+  {
+   "id": "book_370",
+   "segment": 4,
+   "row": 1,
+   "position": 138,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000076_b014",
+    "f_000079_b021"
+   ]
+  },
+  {
+   "id": "book_371",
+   "segment": 4,
+   "row": 1,
+   "position": 139,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000076_b006",
+    "f_000079_b002"
+   ]
+  },
+  {
+   "id": "book_372",
+   "segment": 4,
+   "row": 1,
+   "position": 140,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000076_b013",
+    "f_000079_b019"
+   ]
+  },
+  {
+   "id": "book_373",
+   "segment": 4,
+   "row": 1,
+   "position": 141,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000076_b005",
+    "f_000079_b001"
+   ]
+  },
+  {
+   "id": "book_374",
+   "segment": 4,
+   "row": 1,
+   "position": 142,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000076_b012",
+    "f_000079_b020"
+   ]
+  },
+  {
+   "id": "book_375",
+   "segment": 4,
+   "row": 1,
+   "position": 143,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000076_b004",
+    "f_000079_b008"
+   ]
+  },
+  {
+   "id": "book_376",
+   "segment": 4,
+   "row": 1,
+   "position": 144,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000076_b003",
+    "f_000079_b000"
+   ]
+  },
+  {
+   "id": "book_377",
+   "segment": 4,
+   "row": 1,
+   "position": 145,
+   "fragment": false,
+   "spine_facing": false,
+   "orientation": "leaning",
+   "dets": [
+    "f_000076_b023"
+   ]
+  },
+  {
+   "id": "book_378",
+   "segment": 4,
+   "row": 1,
+   "position": 146,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000079_b006"
+   ]
+  },
+  {
+   "id": "book_379",
+   "segment": 4,
+   "row": 1,
+   "position": 147,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000079_b007"
+   ]
+  },
+  {
+   "id": "book_380",
+   "segment": 4,
+   "row": 1,
+   "position": 148,
+   "fragment": false,
+   "spine_facing": false,
+   "orientation": "upright",
+   "dets": [
+    "f_000076_b001"
+   ]
+  },
+  {
+   "id": "book_381",
+   "segment": 4,
+   "row": 1,
+   "position": 149,
+   "fragment": false,
+   "spine_facing": false,
+   "orientation": "upright",
+   "dets": [
+    "f_000076_b000"
+   ]
+  },
+  {
+   "id": "book_382",
+   "segment": 5,
+   "row": 0,
+   "position": 1,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000089_b003"
+   ]
+  },
+  {
+   "id": "book_383",
+   "segment": 5,
+   "row": 0,
+   "position": 2,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000089_b000"
+   ]
+  },
+  {
+   "id": "book_384",
+   "segment": 5,
+   "row": 0,
+   "position": 3,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000089_b016"
+   ]
+  },
+  {
+   "id": "book_385",
+   "segment": 5,
+   "row": 0,
+   "position": 4,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000089_b015"
+   ]
+  },
+  {
+   "id": "book_386",
+   "segment": 5,
+   "row": 0,
+   "position": 5,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000089_b001"
+   ]
+  },
+  {
+   "id": "book_387",
+   "segment": 5,
+   "row": 0,
+   "position": 6,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000089_b002"
+   ]
+  },
+  {
+   "id": "book_388",
+   "segment": 5,
+   "row": 0,
+   "position": 7,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000089_b010"
+   ]
+  },
+  {
+   "id": "book_389",
+   "segment": 5,
+   "row": 0,
+   "position": 8,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000089_b011"
+   ]
+  },
+  {
+   "id": "book_390",
+   "segment": 5,
+   "row": 0,
+   "position": 9,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000089_b009"
+   ]
+  },
+  {
+   "id": "book_391",
+   "segment": 5,
+   "row": 0,
+   "position": 10,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000089_b008"
+   ]
+  },
+  {
+   "id": "book_392",
+   "segment": 5,
+   "row": 0,
+   "position": 11,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000089_b007"
+   ]
+  },
+  {
+   "id": "book_393",
+   "segment": 5,
+   "row": 0,
+   "position": 12,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000089_b013"
+   ]
+  },
+  {
+   "id": "book_394",
+   "segment": 5,
+   "row": 0,
+   "position": 13,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000089_b014"
+   ]
+  },
+  {
+   "id": "book_395",
+   "segment": 5,
+   "row": 1,
+   "position": 1,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000089_b004"
+   ]
+  },
+  {
+   "id": "book_396",
+   "segment": 5,
+   "row": 1,
+   "position": 2,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000089_b006"
+   ]
+  },
+  {
+   "id": "book_397",
+   "segment": 12,
+   "row": 0,
+   "position": 1,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000119_b005"
+   ]
+  },
+  {
+   "id": "book_398",
+   "segment": 12,
+   "row": 1,
+   "position": 1,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000119_b000"
+   ]
+  },
+  {
+   "id": "book_399",
+   "segment": 12,
+   "row": 2,
+   "position": 1,
+   "fragment": false,
+   "spine_facing": true,
+   "orientation": "upright",
+   "dets": [
+    "f_000119_b001"
+   ]
+  }
+ ]
+}

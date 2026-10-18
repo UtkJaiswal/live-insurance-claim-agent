@@ -1,0 +1,26 @@
+{
+  "id": "sw_20261018_154322",
+  "captured_at": "2026-10-18T10:13:22+00:00",
+  "device": "Mozilla/5.0 (iPhone; CPU iPhone OS 26_6_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/442.5.993077048 Mobile/15E148 Safari/604.1",
+  "country": "IN",
+  "currency": "INR",
+  "sweep_started_t": 25.214,
+  "sweep_ended_t": 197.694,
+  "camera": {
+    "aspectRatio": 0.5625,
+    "backgroundBlur": false,
+    "deviceId": "CCA0DEB74E5CB6792AEA13C3C4672CFEA957AF30",
+    "facingMode": "environment",
+    "frameRate": 30,
+    "groupId": "84BBF79E8B48CDBA7BAE12DEDF741A1974DDC269",
+    "height": 3840,
+    "powerEfficient": false,
+    "torch": false,
+    "whiteBalanceMode": "continuous",
+    "width": 2160,
+    "zoom": 1
+  },
+  "frame_count": 154,
+  "packet_ready_t": 588.511,
+  "closed_t": 612.665
+}

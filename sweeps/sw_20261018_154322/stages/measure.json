@@ -1,0 +1,3046 @@
+{
+ "scale_method": "3D reconstruction (DA3-BASE) scaled by 38 catalogue anchors, 3 door anchors",
+ "k_cm_per_unit": 185.2030396868003,
+ "measurements": {
+  "book_001": {
+   "track_id": "book_001",
+   "height_cm": 28.4,
+   "thickness_cm": 6.4,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_002": {
+   "track_id": "book_002",
+   "height_cm": 36.6,
+   "thickness_cm": 29.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_003": {
+   "track_id": "book_003",
+   "height_cm": 33.0,
+   "thickness_cm": 20.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_004": {
+   "track_id": "book_004",
+   "height_cm": 31.3,
+   "thickness_cm": 2.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_005": {
+   "track_id": "book_005",
+   "height_cm": 30.9,
+   "thickness_cm": 2.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_006": {
+   "track_id": "book_006",
+   "height_cm": 29.9,
+   "thickness_cm": 2.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_007": {
+   "track_id": "book_007",
+   "height_cm": 29.6,
+   "thickness_cm": 1.4,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_008": {
+   "track_id": "book_008",
+   "height_cm": 29.5,
+   "thickness_cm": 1.2,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_009": {
+   "track_id": "book_009",
+   "height_cm": 28.6,
+   "thickness_cm": 1.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_010": {
+   "track_id": "book_010",
+   "height_cm": 28.6,
+   "thickness_cm": 1.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_011": {
+   "track_id": "book_011",
+   "height_cm": 28.5,
+   "thickness_cm": 1.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_012": {
+   "track_id": "book_012",
+   "height_cm": 28.3,
+   "thickness_cm": 1.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_013": {
+   "track_id": "book_013",
+   "height_cm": 28.4,
+   "thickness_cm": 2.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_014": {
+   "track_id": "book_014",
+   "height_cm": 25.3,
+   "thickness_cm": 2.2,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_015": {
+   "track_id": "book_015",
+   "height_cm": 25.5,
+   "thickness_cm": 2.2,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_016": {
+   "track_id": "book_016",
+   "height_cm": 28.5,
+   "thickness_cm": 1.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_017": {
+   "track_id": "book_017",
+   "height_cm": 29.6,
+   "thickness_cm": 1.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_018": {
+   "track_id": "book_018",
+   "height_cm": 25.2,
+   "thickness_cm": 2.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_019": {
+   "track_id": "book_019",
+   "height_cm": 28.8,
+   "thickness_cm": 2.3,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_020": {
+   "track_id": "book_020",
+   "height_cm": 24.9,
+   "thickness_cm": 2.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_021": {
+   "track_id": "book_021",
+   "height_cm": 25.1,
+   "thickness_cm": 1.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_022": {
+   "track_id": "book_022",
+   "height_cm": 29.2,
+   "thickness_cm": 2.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_023": {
+   "track_id": "book_023",
+   "height_cm": 24.6,
+   "thickness_cm": 2.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_024": {
+   "track_id": "book_024",
+   "height_cm": 24.1,
+   "thickness_cm": 1.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 29,
+   "confidence": 0.85
+  },
+  "book_025": {
+   "track_id": "book_025",
+   "height_cm": 27.9,
+   "thickness_cm": 1.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_026": {
+   "track_id": "book_026",
+   "height_cm": 23.9,
+   "thickness_cm": 1.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_027": {
+   "track_id": "book_027",
+   "height_cm": 23.7,
+   "thickness_cm": 1.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_028": {
+   "track_id": "book_028",
+   "height_cm": 27.6,
+   "thickness_cm": 2.4,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_029": {
+   "track_id": "book_029",
+   "height_cm": 23.8,
+   "thickness_cm": 3.2,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_030": {
+   "track_id": "book_030",
+   "height_cm": 26.6,
+   "thickness_cm": 2.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_031": {
+   "track_id": "book_031",
+   "height_cm": 22.4,
+   "thickness_cm": 3.3,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_032": {
+   "track_id": "book_032",
+   "height_cm": 21.0,
+   "thickness_cm": 2.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_033": {
+   "track_id": "book_033",
+   "height_cm": 27.3,
+   "thickness_cm": 2.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_034": {
+   "track_id": "book_034",
+   "height_cm": 21.8,
+   "thickness_cm": 3.6,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_035": {
+   "track_id": "book_035",
+   "height_cm": 27.0,
+   "thickness_cm": 2.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_036": {
+   "track_id": "book_036",
+   "height_cm": 21.6,
+   "thickness_cm": 4.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_037": {
+   "track_id": "book_037",
+   "height_cm": 27.0,
+   "thickness_cm": 1.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_038": {
+   "track_id": "book_038",
+   "height_cm": 18.5,
+   "thickness_cm": 3.3,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_039": {
+   "track_id": "book_039",
+   "height_cm": 21.4,
+   "thickness_cm": 4.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_040": {
+   "track_id": "book_040",
+   "height_cm": 26.6,
+   "thickness_cm": 1.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_041": {
+   "track_id": "book_041",
+   "height_cm": 17.5,
+   "thickness_cm": 3.3,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_042": {
+   "track_id": "book_042",
+   "height_cm": 20.5,
+   "thickness_cm": 4.4,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_043": {
+   "track_id": "book_043",
+   "height_cm": 26.1,
+   "thickness_cm": 2.3,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_044": {
+   "track_id": "book_044",
+   "height_cm": 16.0,
+   "thickness_cm": 2.5,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_045": {
+   "track_id": "book_045",
+   "height_cm": 19.5,
+   "thickness_cm": 3.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_046": {
+   "track_id": "book_046",
+   "height_cm": 26.4,
+   "thickness_cm": 0.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_047": {
+   "track_id": "book_047",
+   "height_cm": 26.5,
+   "thickness_cm": 4.2,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_048": {
+   "track_id": "book_048",
+   "height_cm": 23.1,
+   "thickness_cm": 4.2,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_049": {
+   "track_id": "book_049",
+   "height_cm": 14.8,
+   "thickness_cm": 3.3,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_050": {
+   "track_id": "book_050",
+   "height_cm": 26.4,
+   "thickness_cm": 2.3,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_051": {
+   "track_id": "book_051",
+   "height_cm": 14.0,
+   "thickness_cm": 3.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_052": {
+   "track_id": "book_052",
+   "height_cm": 22.9,
+   "thickness_cm": 3.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_053": {
+   "track_id": "book_053",
+   "height_cm": 22.5,
+   "thickness_cm": 4.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_054": {
+   "track_id": "book_054",
+   "height_cm": 26.4,
+   "thickness_cm": 1.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_055": {
+   "track_id": "book_055",
+   "height_cm": 25.6,
+   "thickness_cm": 3.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_056": {
+   "track_id": "book_056",
+   "height_cm": 21.6,
+   "thickness_cm": 4.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_057": {
+   "track_id": "book_057",
+   "height_cm": 25.6,
+   "thickness_cm": 4.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_058": {
+   "track_id": "book_058",
+   "height_cm": 21.6,
+   "thickness_cm": 5.5,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_059": {
+   "track_id": "book_059",
+   "height_cm": 25.5,
+   "thickness_cm": 3.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_060": {
+   "track_id": "book_060",
+   "height_cm": 25.2,
+   "thickness_cm": 2.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_061": {
+   "track_id": "book_061",
+   "height_cm": 20.2,
+   "thickness_cm": 2.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_062": {
+   "track_id": "book_062",
+   "height_cm": 25.4,
+   "thickness_cm": 1.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_063": {
+   "track_id": "book_063",
+   "height_cm": 25.6,
+   "thickness_cm": 3.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_064": {
+   "track_id": "book_064",
+   "height_cm": 19.8,
+   "thickness_cm": 3.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_065": {
+   "track_id": "book_065",
+   "height_cm": 26.2,
+   "thickness_cm": 6.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_066": {
+   "track_id": "book_066",
+   "height_cm": 19.2,
+   "thickness_cm": 2.4,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_067": {
+   "track_id": "book_067",
+   "height_cm": 18.8,
+   "thickness_cm": 2.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_068": {
+   "track_id": "book_068",
+   "height_cm": 18.5,
+   "thickness_cm": 2.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_069": {
+   "track_id": "book_069",
+   "height_cm": 18.2,
+   "thickness_cm": 2.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_070": {
+   "track_id": "book_070",
+   "height_cm": 17.7,
+   "thickness_cm": 2.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_071": {
+   "track_id": "book_071",
+   "height_cm": 17.3,
+   "thickness_cm": 2.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_072": {
+   "track_id": "book_072",
+   "height_cm": 26.6,
+   "thickness_cm": 3.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_073": {
+   "track_id": "book_073",
+   "height_cm": 17.1,
+   "thickness_cm": 3.2,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_074": {
+   "track_id": "book_074",
+   "height_cm": 26.4,
+   "thickness_cm": 3.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_075": {
+   "track_id": "book_075",
+   "height_cm": 16.6,
+   "thickness_cm": 3.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_076": {
+   "track_id": "book_076",
+   "height_cm": 25.8,
+   "thickness_cm": 3.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_077": {
+   "track_id": "book_077",
+   "height_cm": 15.9,
+   "thickness_cm": 3.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_078": {
+   "track_id": "book_078",
+   "height_cm": 26.0,
+   "thickness_cm": 3.4,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 28,
+   "confidence": 0.85
+  },
+  "book_079": {
+   "track_id": "book_079",
+   "height_cm": 16.0,
+   "thickness_cm": 3.5,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_080": {
+   "track_id": "book_080",
+   "height_cm": 26.0,
+   "thickness_cm": 3.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_081": {
+   "track_id": "book_081",
+   "height_cm": 25.8,
+   "thickness_cm": 3.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_082": {
+   "track_id": "book_082",
+   "height_cm": 24.4,
+   "thickness_cm": 2.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_083": {
+   "track_id": "book_083",
+   "height_cm": 17.7,
+   "thickness_cm": 2.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_084": {
+   "track_id": "book_084",
+   "height_cm": 17.6,
+   "thickness_cm": 3.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_085": {
+   "track_id": "book_085",
+   "height_cm": 26.3,
+   "thickness_cm": 3.2,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_086": {
+   "track_id": "book_086",
+   "height_cm": 26.2,
+   "thickness_cm": 3.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_087": {
+   "track_id": "book_087",
+   "height_cm": 17.2,
+   "thickness_cm": 2.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_088": {
+   "track_id": "book_088",
+   "height_cm": 17.3,
+   "thickness_cm": 3.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_089": {
+   "track_id": "book_089",
+   "height_cm": 25.6,
+   "thickness_cm": 2.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_090": {
+   "track_id": "book_090",
+   "height_cm": 24.9,
+   "thickness_cm": 1.4,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 29,
+   "confidence": 0.85
+  },
+  "book_091": {
+   "track_id": "book_091",
+   "height_cm": 16.9,
+   "thickness_cm": 2.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_092": {
+   "track_id": "book_092",
+   "height_cm": 26.8,
+   "thickness_cm": 2.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 29,
+   "confidence": 0.85
+  },
+  "book_093": {
+   "track_id": "book_093",
+   "height_cm": 24.9,
+   "thickness_cm": 0.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_094": {
+   "track_id": "book_094",
+   "height_cm": 25.2,
+   "thickness_cm": 0.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_095": {
+   "track_id": "book_095",
+   "height_cm": 26.1,
+   "thickness_cm": 1.5,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_096": {
+   "track_id": "book_096",
+   "height_cm": 16.0,
+   "thickness_cm": 1.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_097": {
+   "track_id": "book_097",
+   "height_cm": 26.6,
+   "thickness_cm": 2.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_098": {
+   "track_id": "book_098",
+   "height_cm": 16.5,
+   "thickness_cm": 1.5,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_099": {
+   "track_id": "book_099",
+   "height_cm": 26.0,
+   "thickness_cm": 2.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_100": {
+   "track_id": "book_100",
+   "height_cm": 15.8,
+   "thickness_cm": 1.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_101": {
+   "track_id": "book_101",
+   "height_cm": 27.0,
+   "thickness_cm": 2.2,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_102": {
+   "track_id": "book_102",
+   "height_cm": 15.9,
+   "thickness_cm": 1.2,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_103": {
+   "track_id": "book_103",
+   "height_cm": 15.4,
+   "thickness_cm": 1.4,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_104": {
+   "track_id": "book_104",
+   "height_cm": 27.9,
+   "thickness_cm": 1.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_105": {
+   "track_id": "book_105",
+   "height_cm": 15.3,
+   "thickness_cm": 1.4,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_106": {
+   "track_id": "book_106",
+   "height_cm": 26.0,
+   "thickness_cm": 1.5,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_107": {
+   "track_id": "book_107",
+   "height_cm": 15.1,
+   "thickness_cm": 1.5,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_108": {
+   "track_id": "book_108",
+   "height_cm": 24.3,
+   "thickness_cm": 1.4,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_109": {
+   "track_id": "book_109",
+   "height_cm": 25.8,
+   "thickness_cm": 1.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 29,
+   "confidence": 0.85
+  },
+  "book_110": {
+   "track_id": "book_110",
+   "height_cm": 26.5,
+   "thickness_cm": 1.3,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_111": {
+   "track_id": "book_111",
+   "height_cm": 19.6,
+   "thickness_cm": 2.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_112": {
+   "track_id": "book_112",
+   "height_cm": 19.9,
+   "thickness_cm": 2.6,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_113": {
+   "track_id": "book_113",
+   "height_cm": 25.8,
+   "thickness_cm": 3.3,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_114": {
+   "track_id": "book_114",
+   "height_cm": 15.4,
+   "thickness_cm": 3.5,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_115": {
+   "track_id": "book_115",
+   "height_cm": 25.6,
+   "thickness_cm": 4.2,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_116": {
+   "track_id": "book_116",
+   "height_cm": 36.5,
+   "thickness_cm": 4.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_117": {
+   "track_id": "book_117",
+   "height_cm": 20.1,
+   "thickness_cm": 1.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_118": {
+   "track_id": "book_118",
+   "height_cm": 18.8,
+   "thickness_cm": 3.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_119": {
+   "track_id": "book_119",
+   "height_cm": 34.0,
+   "thickness_cm": 3.2,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_120": {
+   "track_id": "book_120",
+   "height_cm": 16.1,
+   "thickness_cm": 3.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_121": {
+   "track_id": "book_121",
+   "height_cm": 34.7,
+   "thickness_cm": 2.2,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_122": {
+   "track_id": "book_122",
+   "height_cm": 16.7,
+   "thickness_cm": 3.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_123": {
+   "track_id": "book_123",
+   "height_cm": 32.0,
+   "thickness_cm": 2.3,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_124": {
+   "track_id": "book_124",
+   "height_cm": 21.1,
+   "thickness_cm": 3.5,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_125": {
+   "track_id": "book_125",
+   "height_cm": 21.0,
+   "thickness_cm": 3.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_126": {
+   "track_id": "book_126",
+   "height_cm": 33.1,
+   "thickness_cm": 3.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_127": {
+   "track_id": "book_127",
+   "height_cm": 21.2,
+   "thickness_cm": 3.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_128": {
+   "track_id": "book_128",
+   "height_cm": 18.9,
+   "thickness_cm": 1.5,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_129": {
+   "track_id": "book_129",
+   "height_cm": 33.1,
+   "thickness_cm": 3.2,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_130": {
+   "track_id": "book_130",
+   "height_cm": 32.4,
+   "thickness_cm": 3.6,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_131": {
+   "track_id": "book_131",
+   "height_cm": 19.2,
+   "thickness_cm": 1.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_132": {
+   "track_id": "book_132",
+   "height_cm": 24.1,
+   "thickness_cm": 5.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_133": {
+   "track_id": "book_133",
+   "height_cm": 18.8,
+   "thickness_cm": 1.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_134": {
+   "track_id": "book_134",
+   "height_cm": 24.2,
+   "thickness_cm": 4.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_135": {
+   "track_id": "book_135",
+   "height_cm": 31.9,
+   "thickness_cm": 2.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_136": {
+   "track_id": "book_136",
+   "height_cm": 30.1,
+   "thickness_cm": 1.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_137": {
+   "track_id": "book_137",
+   "height_cm": 20.5,
+   "thickness_cm": 3.3,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_138": {
+   "track_id": "book_138",
+   "height_cm": 20.8,
+   "thickness_cm": 3.4,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_139": {
+   "track_id": "book_139",
+   "height_cm": 31.5,
+   "thickness_cm": 2.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_140": {
+   "track_id": "book_140",
+   "height_cm": 23.5,
+   "thickness_cm": 4.6,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_141": {
+   "track_id": "book_141",
+   "height_cm": 23.8,
+   "thickness_cm": 5.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_142": {
+   "track_id": "book_142",
+   "height_cm": 20.5,
+   "thickness_cm": 3.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_143": {
+   "track_id": "book_143",
+   "height_cm": 32.1,
+   "thickness_cm": 2.4,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_144": {
+   "track_id": "book_144",
+   "height_cm": 32.3,
+   "thickness_cm": 2.3,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 28,
+   "confidence": 0.85
+  },
+  "book_145": {
+   "track_id": "book_145",
+   "height_cm": 20.2,
+   "thickness_cm": 3.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_146": {
+   "track_id": "book_146",
+   "height_cm": 33.6,
+   "thickness_cm": 3.2,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_147": {
+   "track_id": "book_147",
+   "height_cm": 31.9,
+   "thickness_cm": 1.4,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_148": {
+   "track_id": "book_148",
+   "height_cm": 32.1,
+   "thickness_cm": 1.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_149": {
+   "track_id": "book_149",
+   "height_cm": 19.4,
+   "thickness_cm": 2.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_150": {
+   "track_id": "book_150",
+   "height_cm": 31.8,
+   "thickness_cm": 1.2,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_151": {
+   "track_id": "book_151",
+   "height_cm": 23.6,
+   "thickness_cm": 4.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_152": {
+   "track_id": "book_152",
+   "height_cm": 32.0,
+   "thickness_cm": 2.5,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_153": {
+   "track_id": "book_153",
+   "height_cm": 19.3,
+   "thickness_cm": 2.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_154": {
+   "track_id": "book_154",
+   "height_cm": 23.4,
+   "thickness_cm": 4.6,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_155": {
+   "track_id": "book_155",
+   "height_cm": 31.7,
+   "thickness_cm": 2.5,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_156": {
+   "track_id": "book_156",
+   "height_cm": 31.6,
+   "thickness_cm": 2.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_157": {
+   "track_id": "book_157",
+   "height_cm": 17.4,
+   "thickness_cm": 3.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_158": {
+   "track_id": "book_158",
+   "height_cm": 22.9,
+   "thickness_cm": 5.4,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_159": {
+   "track_id": "book_159",
+   "height_cm": 30.6,
+   "thickness_cm": 1.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_160": {
+   "track_id": "book_160",
+   "height_cm": 19.6,
+   "thickness_cm": 4.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_161": {
+   "track_id": "book_161",
+   "height_cm": 30.4,
+   "thickness_cm": 1.4,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_162": {
+   "track_id": "book_162",
+   "height_cm": 19.3,
+   "thickness_cm": 3.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_163": {
+   "track_id": "book_163",
+   "height_cm": 29.5,
+   "thickness_cm": 2.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_164": {
+   "track_id": "book_164",
+   "height_cm": 23.3,
+   "thickness_cm": 7.4,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_165": {
+   "track_id": "book_165",
+   "height_cm": 22.0,
+   "thickness_cm": 6.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_166": {
+   "track_id": "book_166",
+   "height_cm": 28.4,
+   "thickness_cm": 1.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_167": {
+   "track_id": "book_167",
+   "height_cm": 29.0,
+   "thickness_cm": 1.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_169": {
+   "track_id": "book_169",
+   "height_cm": 29.5,
+   "thickness_cm": 1.6,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_170": {
+   "track_id": "book_170",
+   "height_cm": 31.3,
+   "thickness_cm": 3.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_171": {
+   "track_id": "book_171",
+   "height_cm": 21.2,
+   "thickness_cm": 7.2,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_172": {
+   "track_id": "book_172",
+   "height_cm": 30.3,
+   "thickness_cm": 3.5,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_173": {
+   "track_id": "book_173",
+   "height_cm": 30.3,
+   "thickness_cm": 3.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_174": {
+   "track_id": "book_174",
+   "height_cm": 21.2,
+   "thickness_cm": 4.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_175": {
+   "track_id": "book_175",
+   "height_cm": 30.9,
+   "thickness_cm": 2.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 26,
+   "confidence": 0.85
+  },
+  "book_176": {
+   "track_id": "book_176",
+   "height_cm": 20.6,
+   "thickness_cm": 5.3,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_177": {
+   "track_id": "book_177",
+   "height_cm": 29.7,
+   "thickness_cm": 1.6,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 29,
+   "confidence": 0.85
+  },
+  "book_178": {
+   "track_id": "book_178",
+   "height_cm": 29.9,
+   "thickness_cm": 1.6,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 29,
+   "confidence": 0.85
+  },
+  "book_179": {
+   "track_id": "book_179",
+   "height_cm": 29.3,
+   "thickness_cm": 3.5,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_181": {
+   "track_id": "book_181",
+   "height_cm": 20.9,
+   "thickness_cm": 4.4,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_182": {
+   "track_id": "book_182",
+   "height_cm": 21.0,
+   "thickness_cm": 4.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_183": {
+   "track_id": "book_183",
+   "height_cm": 27.9,
+   "thickness_cm": 1.2,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_184": {
+   "track_id": "book_184",
+   "height_cm": 28.6,
+   "thickness_cm": 1.6,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_185": {
+   "track_id": "book_185",
+   "height_cm": 29.9,
+   "thickness_cm": 2.6,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_186": {
+   "track_id": "book_186",
+   "height_cm": 29.1,
+   "thickness_cm": 2.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_187": {
+   "track_id": "book_187",
+   "height_cm": 20.6,
+   "thickness_cm": 3.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_188": {
+   "track_id": "book_188",
+   "height_cm": 20.9,
+   "thickness_cm": 4.4,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_189": {
+   "track_id": "book_189",
+   "height_cm": 29.5,
+   "thickness_cm": 3.3,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_190": {
+   "track_id": "book_190",
+   "height_cm": 30.1,
+   "thickness_cm": 3.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_191": {
+   "track_id": "book_191",
+   "height_cm": 20.0,
+   "thickness_cm": 3.5,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_192": {
+   "track_id": "book_192",
+   "height_cm": 21.3,
+   "thickness_cm": 5.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_193": {
+   "track_id": "book_193",
+   "height_cm": 20.2,
+   "thickness_cm": 3.5,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_194": {
+   "track_id": "book_194",
+   "height_cm": 28.3,
+   "thickness_cm": 2.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_195": {
+   "track_id": "book_195",
+   "height_cm": 29.4,
+   "thickness_cm": 2.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_196": {
+   "track_id": "book_196",
+   "height_cm": 30.7,
+   "thickness_cm": 2.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_197": {
+   "track_id": "book_197",
+   "height_cm": 30.1,
+   "thickness_cm": 2.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 29,
+   "confidence": 0.85
+  },
+  "book_198": {
+   "track_id": "book_198",
+   "height_cm": 20.7,
+   "thickness_cm": 4.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_199": {
+   "track_id": "book_199",
+   "height_cm": 30.2,
+   "thickness_cm": 3.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_200": {
+   "track_id": "book_200",
+   "height_cm": 22.2,
+   "thickness_cm": 9.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_201": {
+   "track_id": "book_201",
+   "height_cm": 29.9,
+   "thickness_cm": 2.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 28,
+   "confidence": 0.85
+  },
+  "book_202": {
+   "track_id": "book_202",
+   "height_cm": 19.9,
+   "thickness_cm": 3.5,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_203": {
+   "track_id": "book_203",
+   "height_cm": 26.7,
+   "thickness_cm": 2.6,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_204": {
+   "track_id": "book_204",
+   "height_cm": 19.7,
+   "thickness_cm": 3.4,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_205": {
+   "track_id": "book_205",
+   "height_cm": 27.7,
+   "thickness_cm": 2.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_206": {
+   "track_id": "book_206",
+   "height_cm": 21.8,
+   "thickness_cm": 7.6,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_207": {
+   "track_id": "book_207",
+   "height_cm": 21.7,
+   "thickness_cm": 8.4,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_208": {
+   "track_id": "book_208",
+   "height_cm": 28.5,
+   "thickness_cm": 2.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 29,
+   "confidence": 0.85
+  },
+  "book_209": {
+   "track_id": "book_209",
+   "height_cm": 26.8,
+   "thickness_cm": 3.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_210": {
+   "track_id": "book_210",
+   "height_cm": 20.7,
+   "thickness_cm": 11.6,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_211": {
+   "track_id": "book_211",
+   "height_cm": 25.2,
+   "thickness_cm": 3.4,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_212": {
+   "track_id": "book_212",
+   "height_cm": 19.9,
+   "thickness_cm": 6.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_213": {
+   "track_id": "book_213",
+   "height_cm": 24.8,
+   "thickness_cm": 3.4,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_214": {
+   "track_id": "book_214",
+   "height_cm": 20.3,
+   "thickness_cm": 10.9,
+   "method": "shelf-plane pixels x segment anchor scale (leave-one-out)",
+   "n_anchors": 13,
+   "confidence": 0.7
+  },
+  "book_215": {
+   "track_id": "book_215",
+   "height_cm": 23.6,
+   "thickness_cm": 3.6,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 29,
+   "confidence": 0.85
+  },
+  "book_216": {
+   "track_id": "book_216",
+   "height_cm": 24.0,
+   "thickness_cm": 3.3,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_217": {
+   "track_id": "book_217",
+   "height_cm": 24.8,
+   "thickness_cm": 4.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_218": {
+   "track_id": "book_218",
+   "height_cm": 23.7,
+   "thickness_cm": 8.4,
+   "method": "shelf-plane pixels x segment anchor scale (leave-one-out)",
+   "n_anchors": 13,
+   "confidence": 0.7
+  },
+  "book_219": {
+   "track_id": "book_219",
+   "height_cm": 17.9,
+   "thickness_cm": 6.6,
+   "method": "shelf-plane pixels x segment anchor scale (leave-one-out)",
+   "n_anchors": 13,
+   "confidence": 0.7
+  },
+  "book_220": {
+   "track_id": "book_220",
+   "height_cm": 24.0,
+   "thickness_cm": 9.9,
+   "method": "shelf-plane pixels x segment anchor scale (leave-one-out)",
+   "n_anchors": 13,
+   "confidence": 0.7
+  },
+  "book_221": {
+   "track_id": "book_221",
+   "height_cm": 23.6,
+   "thickness_cm": 3.4,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_222": {
+   "track_id": "book_222",
+   "height_cm": 22.5,
+   "thickness_cm": 4.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_223": {
+   "track_id": "book_223",
+   "height_cm": 13.8,
+   "thickness_cm": null,
+   "method": "shelf-plane pixels x segment anchor scale (leave-one-out); flat book: thickness not measured (box includes the cover seen at an angle)",
+   "n_anchors": 13,
+   "confidence": 0.7
+  },
+  "book_224": {
+   "track_id": "book_224",
+   "height_cm": 16.0,
+   "thickness_cm": null,
+   "method": "shelf-plane pixels x segment anchor scale (leave-one-out); flat book: thickness not measured (box includes the cover seen at an angle)",
+   "n_anchors": 13,
+   "confidence": 0.7
+  },
+  "book_225": {
+   "track_id": "book_225",
+   "height_cm": 13.3,
+   "thickness_cm": null,
+   "method": "shelf-plane pixels x segment anchor scale (leave-one-out); flat book: thickness not measured (box includes the cover seen at an angle)",
+   "n_anchors": 13,
+   "confidence": 0.7
+  },
+  "book_226": {
+   "track_id": "book_226",
+   "height_cm": 9.7,
+   "thickness_cm": null,
+   "method": "shelf-plane pixels x segment anchor scale (leave-one-out); flat book: thickness not measured (box includes the cover seen at an angle)",
+   "n_anchors": 13,
+   "confidence": 0.7
+  },
+  "book_228": {
+   "track_id": "book_228",
+   "height_cm": 24.1,
+   "thickness_cm": 11.3,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_229": {
+   "track_id": "book_229",
+   "height_cm": 16.6,
+   "thickness_cm": 5.5,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_230": {
+   "track_id": "book_230",
+   "height_cm": 36.6,
+   "thickness_cm": null,
+   "method": "shelf-plane pixels x segment anchor scale (leave-one-out); flat book: thickness not measured (box includes the cover seen at an angle)",
+   "n_anchors": 13,
+   "confidence": 0.7
+  },
+  "book_232": {
+   "track_id": "book_232",
+   "height_cm": 12.8,
+   "thickness_cm": 18.4,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_233": {
+   "track_id": "book_233",
+   "height_cm": 31.9,
+   "thickness_cm": 3.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_234": {
+   "track_id": "book_234",
+   "height_cm": 31.2,
+   "thickness_cm": 3.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_235": {
+   "track_id": "book_235",
+   "height_cm": 30.6,
+   "thickness_cm": 3.5,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_236": {
+   "track_id": "book_236",
+   "height_cm": 30.2,
+   "thickness_cm": 3.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_237": {
+   "track_id": "book_237",
+   "height_cm": 25.4,
+   "thickness_cm": 4.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_238": {
+   "track_id": "book_238",
+   "height_cm": 30.0,
+   "thickness_cm": 3.5,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_239": {
+   "track_id": "book_239",
+   "height_cm": 25.1,
+   "thickness_cm": 4.2,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_240": {
+   "track_id": "book_240",
+   "height_cm": 29.8,
+   "thickness_cm": 3.6,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_241": {
+   "track_id": "book_241",
+   "height_cm": 21.3,
+   "thickness_cm": 4.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_242": {
+   "track_id": "book_242",
+   "height_cm": 12.1,
+   "thickness_cm": 3.0,
+   "method": "shelf-plane pixels x segment anchor scale (leave-one-out)",
+   "n_anchors": 6,
+   "confidence": 0.7
+  },
+  "book_243": {
+   "track_id": "book_243",
+   "height_cm": 25.6,
+   "thickness_cm": 3.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_244": {
+   "track_id": "book_244",
+   "height_cm": 21.8,
+   "thickness_cm": 4.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_245": {
+   "track_id": "book_245",
+   "height_cm": 29.3,
+   "thickness_cm": 3.3,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_246": {
+   "track_id": "book_246",
+   "height_cm": 19.9,
+   "thickness_cm": 6.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_247": {
+   "track_id": "book_247",
+   "height_cm": 25.9,
+   "thickness_cm": 3.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_248": {
+   "track_id": "book_248",
+   "height_cm": 20.2,
+   "thickness_cm": 4.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_249": {
+   "track_id": "book_249",
+   "height_cm": 25.7,
+   "thickness_cm": 3.2,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_250": {
+   "track_id": "book_250",
+   "height_cm": 29.2,
+   "thickness_cm": 3.3,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_251": {
+   "track_id": "book_251",
+   "height_cm": 19.0,
+   "thickness_cm": 5.3,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_252": {
+   "track_id": "book_252",
+   "height_cm": 23.5,
+   "thickness_cm": 6.2,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_253": {
+   "track_id": "book_253",
+   "height_cm": 25.6,
+   "thickness_cm": 2.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_254": {
+   "track_id": "book_254",
+   "height_cm": 25.4,
+   "thickness_cm": 3.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 28,
+   "confidence": 0.85
+  },
+  "book_255": {
+   "track_id": "book_255",
+   "height_cm": 29.4,
+   "thickness_cm": 2.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_256": {
+   "track_id": "book_256",
+   "height_cm": 20.2,
+   "thickness_cm": 5.2,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_257": {
+   "track_id": "book_257",
+   "height_cm": 19.4,
+   "thickness_cm": 6.3,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_258": {
+   "track_id": "book_258",
+   "height_cm": 30.1,
+   "thickness_cm": 2.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_259": {
+   "track_id": "book_259",
+   "height_cm": 25.4,
+   "thickness_cm": 3.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_260": {
+   "track_id": "book_260",
+   "height_cm": 24.9,
+   "thickness_cm": 2.2,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_261": {
+   "track_id": "book_261",
+   "height_cm": 22.4,
+   "thickness_cm": 5.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_262": {
+   "track_id": "book_262",
+   "height_cm": 25.5,
+   "thickness_cm": 2.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_263": {
+   "track_id": "book_263",
+   "height_cm": 20.4,
+   "thickness_cm": 6.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_264": {
+   "track_id": "book_264",
+   "height_cm": 29.9,
+   "thickness_cm": 2.4,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_265": {
+   "track_id": "book_265",
+   "height_cm": 25.8,
+   "thickness_cm": 2.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_266": {
+   "track_id": "book_266",
+   "height_cm": 18.6,
+   "thickness_cm": 5.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_267": {
+   "track_id": "book_267",
+   "height_cm": 29.9,
+   "thickness_cm": 2.3,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_268": {
+   "track_id": "book_268",
+   "height_cm": 26.0,
+   "thickness_cm": 2.5,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_269": {
+   "track_id": "book_269",
+   "height_cm": 23.0,
+   "thickness_cm": 5.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_270": {
+   "track_id": "book_270",
+   "height_cm": 31.0,
+   "thickness_cm": 3.6,
+   "method": "shelf-plane pixels x segment anchor scale (leave-one-out)",
+   "n_anchors": 6,
+   "confidence": 0.7
+  },
+  "book_271": {
+   "track_id": "book_271",
+   "height_cm": 25.7,
+   "thickness_cm": 2.3,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_272": {
+   "track_id": "book_272",
+   "height_cm": 29.9,
+   "thickness_cm": 2.6,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_273": {
+   "track_id": "book_273",
+   "height_cm": 20.0,
+   "thickness_cm": 5.4,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_274": {
+   "track_id": "book_274",
+   "height_cm": 21.9,
+   "thickness_cm": 5.5,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_275": {
+   "track_id": "book_275",
+   "height_cm": 25.9,
+   "thickness_cm": 2.3,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_276": {
+   "track_id": "book_276",
+   "height_cm": 29.3,
+   "thickness_cm": 2.2,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_277": {
+   "track_id": "book_277",
+   "height_cm": 18.6,
+   "thickness_cm": 4.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_278": {
+   "track_id": "book_278",
+   "height_cm": 26.1,
+   "thickness_cm": 2.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_279": {
+   "track_id": "book_279",
+   "height_cm": 21.5,
+   "thickness_cm": 4.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_280": {
+   "track_id": "book_280",
+   "height_cm": 27.5,
+   "thickness_cm": 2.0,
+   "method": "shelf-plane pixels x segment anchor scale (leave-one-out)",
+   "n_anchors": 6,
+   "confidence": 0.7
+  },
+  "book_281": {
+   "track_id": "book_281",
+   "height_cm": 28.7,
+   "thickness_cm": 1.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_282": {
+   "track_id": "book_282",
+   "height_cm": 26.1,
+   "thickness_cm": 2.3,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_283": {
+   "track_id": "book_283",
+   "height_cm": 18.3,
+   "thickness_cm": 4.5,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_284": {
+   "track_id": "book_284",
+   "height_cm": 28.7,
+   "thickness_cm": 1.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_285": {
+   "track_id": "book_285",
+   "height_cm": 26.3,
+   "thickness_cm": 1.6,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_286": {
+   "track_id": "book_286",
+   "height_cm": 26.4,
+   "thickness_cm": 1.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_287": {
+   "track_id": "book_287",
+   "height_cm": 18.3,
+   "thickness_cm": 2.5,
+   "method": "shelf-plane pixels x segment anchor scale (leave-one-out)",
+   "n_anchors": 6,
+   "confidence": 0.7
+  },
+  "book_288": {
+   "track_id": "book_288",
+   "height_cm": 28.7,
+   "thickness_cm": 1.6,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_289": {
+   "track_id": "book_289",
+   "height_cm": 21.5,
+   "thickness_cm": 4.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_290": {
+   "track_id": "book_290",
+   "height_cm": 18.2,
+   "thickness_cm": 4.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_291": {
+   "track_id": "book_291",
+   "height_cm": 28.5,
+   "thickness_cm": 1.4,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_292": {
+   "track_id": "book_292",
+   "height_cm": 26.2,
+   "thickness_cm": 2.3,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_293": {
+   "track_id": "book_293",
+   "height_cm": 29.0,
+   "thickness_cm": 1.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_294": {
+   "track_id": "book_294",
+   "height_cm": 21.8,
+   "thickness_cm": 4.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_295": {
+   "track_id": "book_295",
+   "height_cm": 26.0,
+   "thickness_cm": 1.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_296": {
+   "track_id": "book_296",
+   "height_cm": 28.9,
+   "thickness_cm": 3.5,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_297": {
+   "track_id": "book_297",
+   "height_cm": 21.7,
+   "thickness_cm": 4.6,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_298": {
+   "track_id": "book_298",
+   "height_cm": 16.6,
+   "thickness_cm": 4.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_299": {
+   "track_id": "book_299",
+   "height_cm": 42.6,
+   "thickness_cm": 1.9,
+   "method": "shelf-plane pixels x segment anchor scale (leave-one-out)",
+   "n_anchors": 6,
+   "confidence": 0.7
+  },
+  "book_300": {
+   "track_id": "book_300",
+   "height_cm": 25.9,
+   "thickness_cm": 1.6,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_301": {
+   "track_id": "book_301",
+   "height_cm": 21.7,
+   "thickness_cm": 4.6,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_302": {
+   "track_id": "book_302",
+   "height_cm": 17.0,
+   "thickness_cm": 3.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_303": {
+   "track_id": "book_303",
+   "height_cm": 26.2,
+   "thickness_cm": 1.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_304": {
+   "track_id": "book_304",
+   "height_cm": 11.5,
+   "thickness_cm": 1.6,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_305": {
+   "track_id": "book_305",
+   "height_cm": 22.0,
+   "thickness_cm": 4.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_306": {
+   "track_id": "book_306",
+   "height_cm": 25.8,
+   "thickness_cm": 1.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 28,
+   "confidence": 0.85
+  },
+  "book_307": {
+   "track_id": "book_307",
+   "height_cm": 16.5,
+   "thickness_cm": 3.6,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_308": {
+   "track_id": "book_308",
+   "height_cm": 26.6,
+   "thickness_cm": 2.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_309": {
+   "track_id": "book_309",
+   "height_cm": 22.1,
+   "thickness_cm": 4.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_310": {
+   "track_id": "book_310",
+   "height_cm": 25.9,
+   "thickness_cm": 1.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_311": {
+   "track_id": "book_311",
+   "height_cm": 16.7,
+   "thickness_cm": 3.6,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_312": {
+   "track_id": "book_312",
+   "height_cm": 24.9,
+   "thickness_cm": 3.6,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_313": {
+   "track_id": "book_313",
+   "height_cm": 22.8,
+   "thickness_cm": 4.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_314": {
+   "track_id": "book_314",
+   "height_cm": 27.0,
+   "thickness_cm": 1.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_315": {
+   "track_id": "book_315",
+   "height_cm": 24.3,
+   "thickness_cm": 4.2,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_316": {
+   "track_id": "book_316",
+   "height_cm": 22.7,
+   "thickness_cm": 3.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_317": {
+   "track_id": "book_317",
+   "height_cm": 15.3,
+   "thickness_cm": 3.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_318": {
+   "track_id": "book_318",
+   "height_cm": 27.2,
+   "thickness_cm": 1.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_319": {
+   "track_id": "book_319",
+   "height_cm": 25.1,
+   "thickness_cm": 3.6,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_320": {
+   "track_id": "book_320",
+   "height_cm": 22.2,
+   "thickness_cm": 3.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_321": {
+   "track_id": "book_321",
+   "height_cm": 28.0,
+   "thickness_cm": 2.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_322": {
+   "track_id": "book_322",
+   "height_cm": 29.9,
+   "thickness_cm": 3.6,
+   "method": "shelf-plane pixels x segment anchor scale (leave-one-out)",
+   "n_anchors": 6,
+   "confidence": 0.7
+  },
+  "book_323": {
+   "track_id": "book_323",
+   "height_cm": 21.8,
+   "thickness_cm": 4.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_324": {
+   "track_id": "book_324",
+   "height_cm": 14.3,
+   "thickness_cm": 3.2,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_325": {
+   "track_id": "book_325",
+   "height_cm": 25.6,
+   "thickness_cm": 3.2,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_326": {
+   "track_id": "book_326",
+   "height_cm": 27.9,
+   "thickness_cm": 2.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_327": {
+   "track_id": "book_327",
+   "height_cm": 21.9,
+   "thickness_cm": 4.2,
+   "method": "shelf-plane pixels x segment anchor scale (leave-one-out)",
+   "n_anchors": 6,
+   "confidence": 0.7
+  },
+  "book_328": {
+   "track_id": "book_328",
+   "height_cm": 27.7,
+   "thickness_cm": 1.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_329": {
+   "track_id": "book_329",
+   "height_cm": 28.7,
+   "thickness_cm": 2.6,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_330": {
+   "track_id": "book_330",
+   "height_cm": 25.1,
+   "thickness_cm": 3.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_331": {
+   "track_id": "book_331",
+   "height_cm": 21.7,
+   "thickness_cm": 4.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_332": {
+   "track_id": "book_332",
+   "height_cm": 28.8,
+   "thickness_cm": 2.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_333": {
+   "track_id": "book_333",
+   "height_cm": 24.7,
+   "thickness_cm": 3.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_334": {
+   "track_id": "book_334",
+   "height_cm": 21.7,
+   "thickness_cm": 3.6,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_335": {
+   "track_id": "book_335",
+   "height_cm": 12.9,
+   "thickness_cm": 2.3,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_336": {
+   "track_id": "book_336",
+   "height_cm": 28.6,
+   "thickness_cm": 2.2,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_337": {
+   "track_id": "book_337",
+   "height_cm": 24.3,
+   "thickness_cm": 3.3,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_338": {
+   "track_id": "book_338",
+   "height_cm": 20.8,
+   "thickness_cm": 4.1,
+   "method": "shelf-plane pixels x segment anchor scale (leave-one-out)",
+   "n_anchors": 6,
+   "confidence": 0.7
+  },
+  "book_339": {
+   "track_id": "book_339",
+   "height_cm": 28.7,
+   "thickness_cm": 2.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_340": {
+   "track_id": "book_340",
+   "height_cm": 12.2,
+   "thickness_cm": 2.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_341": {
+   "track_id": "book_341",
+   "height_cm": 21.6,
+   "thickness_cm": 3.5,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_342": {
+   "track_id": "book_342",
+   "height_cm": 28.2,
+   "thickness_cm": 2.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 29,
+   "confidence": 0.85
+  },
+  "book_343": {
+   "track_id": "book_343",
+   "height_cm": 21.9,
+   "thickness_cm": 3.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_344": {
+   "track_id": "book_344",
+   "height_cm": 28.1,
+   "thickness_cm": 2.3,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_345": {
+   "track_id": "book_345",
+   "height_cm": 27.9,
+   "thickness_cm": 2.6,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_346": {
+   "track_id": "book_346",
+   "height_cm": 11.1,
+   "thickness_cm": 2.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_347": {
+   "track_id": "book_347",
+   "height_cm": 18.9,
+   "thickness_cm": 2.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_348": {
+   "track_id": "book_348",
+   "height_cm": 20.1,
+   "thickness_cm": 2.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_349": {
+   "track_id": "book_349",
+   "height_cm": 28.5,
+   "thickness_cm": 2.3,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_350": {
+   "track_id": "book_350",
+   "height_cm": 25.3,
+   "thickness_cm": 2.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_351": {
+   "track_id": "book_351",
+   "height_cm": 22.6,
+   "thickness_cm": 2.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_352": {
+   "track_id": "book_352",
+   "height_cm": 27.7,
+   "thickness_cm": 2.3,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 29,
+   "confidence": 0.85
+  },
+  "book_353": {
+   "track_id": "book_353",
+   "height_cm": 22.9,
+   "thickness_cm": 2.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_354": {
+   "track_id": "book_354",
+   "height_cm": 22.6,
+   "thickness_cm": 2.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_355": {
+   "track_id": "book_355",
+   "height_cm": 27.7,
+   "thickness_cm": 1.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_356": {
+   "track_id": "book_356",
+   "height_cm": 27.8,
+   "thickness_cm": 2.2,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_357": {
+   "track_id": "book_357",
+   "height_cm": 25.8,
+   "thickness_cm": 2.4,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_358": {
+   "track_id": "book_358",
+   "height_cm": 22.1,
+   "thickness_cm": 2.5,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_359": {
+   "track_id": "book_359",
+   "height_cm": 18.3,
+   "thickness_cm": 2.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_360": {
+   "track_id": "book_360",
+   "height_cm": 28.2,
+   "thickness_cm": 3.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_361": {
+   "track_id": "book_361",
+   "height_cm": 17.9,
+   "thickness_cm": 1.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_362": {
+   "track_id": "book_362",
+   "height_cm": 24.1,
+   "thickness_cm": 3.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_363": {
+   "track_id": "book_363",
+   "height_cm": 21.2,
+   "thickness_cm": 3.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_364": {
+   "track_id": "book_364",
+   "height_cm": 17.3,
+   "thickness_cm": 2.6,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_365": {
+   "track_id": "book_365",
+   "height_cm": 27.5,
+   "thickness_cm": 2.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_366": {
+   "track_id": "book_366",
+   "height_cm": 22.7,
+   "thickness_cm": 3.8,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_367": {
+   "track_id": "book_367",
+   "height_cm": 27.0,
+   "thickness_cm": 2.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_368": {
+   "track_id": "book_368",
+   "height_cm": 16.3,
+   "thickness_cm": 1.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_369": {
+   "track_id": "book_369",
+   "height_cm": 16.1,
+   "thickness_cm": 2.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_370": {
+   "track_id": "book_370",
+   "height_cm": 18.8,
+   "thickness_cm": 3.0,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_371": {
+   "track_id": "book_371",
+   "height_cm": 27.2,
+   "thickness_cm": 2.5,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_372": {
+   "track_id": "book_372",
+   "height_cm": 17.9,
+   "thickness_cm": 4.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_373": {
+   "track_id": "book_373",
+   "height_cm": 27.3,
+   "thickness_cm": 2.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_374": {
+   "track_id": "book_374",
+   "height_cm": 17.0,
+   "thickness_cm": 3.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_375": {
+   "track_id": "book_375",
+   "height_cm": 27.8,
+   "thickness_cm": 2.6,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_376": {
+   "track_id": "book_376",
+   "height_cm": 24.9,
+   "thickness_cm": 5.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_377": {
+   "track_id": "book_377",
+   "height_cm": 8.7,
+   "thickness_cm": 19.2,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_378": {
+   "track_id": "book_378",
+   "height_cm": 26.8,
+   "thickness_cm": 3.1,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_379": {
+   "track_id": "book_379",
+   "height_cm": 28.4,
+   "thickness_cm": 3.4,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_380": {
+   "track_id": "book_380",
+   "height_cm": 23.9,
+   "thickness_cm": 19.7,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_381": {
+   "track_id": "book_381",
+   "height_cm": 17.1,
+   "thickness_cm": 12.2,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_397": {
+   "track_id": "book_397",
+   "height_cm": 39.3,
+   "thickness_cm": 43.4,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_398": {
+   "track_id": "book_398",
+   "height_cm": 23.5,
+   "thickness_cm": 10.4,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  },
+  "book_399": {
+   "track_id": "book_399",
+   "height_cm": 37.5,
+   "thickness_cm": 9.9,
+   "method": "reconstruction depth x global anchor scale (leave-one-out)",
+   "n_anchors": 30,
+   "confidence": 0.85
+  }
+ }
+}

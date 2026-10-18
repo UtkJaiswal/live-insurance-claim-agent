@@ -1,0 +1,689 @@
+[
+ {
+  "id": "item_001",
+  "category": "furniture",
+  "label": "wooden slatted table",
+  "material": "wood",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000034.jpg",
+  "sightings": [
+   "f_000023_i000",
+   "f_000027_i001",
+   "f_000030_i003",
+   "f_000032_i002",
+   "f_000034_i002",
+   "f_000040_i003",
+   "f_000042_i001",
+   "f_000046_i003",
+   "f_000047_i001",
+   "f_000106_i001",
+   "f_000108_i003",
+   "f_000110_i004",
+   "f_000113_i002",
+   "f_000115_i001",
+   "f_000117_i002"
+  ],
+  "dims_cm": {
+   "w": 84.0,
+   "h": 91.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 5 view(s); depth not measured",
+  "confidence": 0.95,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "coffee table"
+ },
+ {
+  "id": "item_002",
+  "category": "furniture",
+  "label": "wooden armchair with cushion",
+  "material": "wood",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000042.jpg",
+  "sightings": [
+   "f_000027_i000",
+   "f_000030_i004",
+   "f_000032_i004",
+   "f_000034_i003",
+   "f_000040_i005",
+   "f_000042_i000",
+   "f_000044_i001",
+   "f_000045_i001",
+   "f_000046_i001",
+   "f_000047_i000",
+   "f_000102_i001",
+   "f_000106_i000"
+  ],
+  "dims_cm": {
+   "w": 47.0,
+   "h": 50.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 4 view(s); depth not measured",
+  "confidence": 0.95,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "armchair"
+ },
+ {
+  "id": "item_003",
+  "category": "shelving",
+  "label": "wooden book display shelf",
+  "material": "wood",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000030.jpg",
+  "sightings": [
+   "f_000030_i000",
+   "f_000032_i000",
+   "f_000034_i000",
+   "f_000049_i000",
+   "f_000050_i000"
+  ],
+  "dims_cm": {
+   "w": 39.0,
+   "h": 134.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 4 view(s); depth not measured",
+  "confidence": 0.95,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "bookcase"
+ },
+ {
+  "id": "item_004",
+  "category": "electronics",
+  "label": "laptop",
+  "material": "metal",
+  "brand_model": "Apple",
+  "is_artwork": false,
+  "frame_ref": "frames/f_000110.jpg",
+  "sightings": [
+   "f_000030_i001",
+   "f_000032_i001",
+   "f_000034_i001",
+   "f_000040_i002",
+   "f_000047_i002",
+   "f_000106_i002",
+   "f_000108_i001",
+   "f_000110_i000",
+   "f_000113_i003",
+   "f_000115_i000"
+  ],
+  "dims_cm": {
+   "w": 29.0,
+   "h": 17.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 8 view(s); depth not measured",
+  "confidence": 0.95,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "laptop"
+ },
+ {
+  "id": "item_005",
+  "category": "furniture",
+  "label": "blue throw cushion",
+  "material": "fabric",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000117.jpg",
+  "sightings": [
+   "f_000030_i002",
+   "f_000032_i003",
+   "f_000034_i006",
+   "f_000106_i005",
+   "f_000108_i002",
+   "f_000110_i002",
+   "f_000113_i000",
+   "f_000115_i003",
+   "f_000117_i001"
+  ],
+  "dims_cm": {
+   "w": 38.0,
+   "h": 31.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 8 view(s); depth not measured",
+  "confidence": 0.95,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "cushion"
+ },
+ {
+  "id": "item_006",
+  "category": "lighting",
+  "label": "paper lantern pendant light",
+  "material": "paper",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000034.jpg",
+  "sightings": [
+   "f_000032_i005",
+   "f_000034_i004"
+  ],
+  "dims_cm": {
+   "w": 26.0,
+   "h": 35.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 2 view(s); depth not measured",
+  "confidence": 0.8,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "pendant lamp"
+ },
+ {
+  "id": "item_007",
+  "category": "decor",
+  "label": "hanging potted plants",
+  "material": "plastic",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000034.jpg",
+  "sightings": [
+   "f_000032_i006",
+   "f_000034_i008",
+   "f_000106_i006"
+  ],
+  "dims_cm": {
+   "w": 52.0,
+   "h": 98.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 2 view(s); depth not measured",
+  "confidence": 0.9,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "hanging planter"
+ },
+ {
+  "id": "item_008",
+  "category": "furniture",
+  "label": "wooden armchair",
+  "material": "wood",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000117.jpg",
+  "sightings": [
+   "f_000034_i005",
+   "f_000040_i004",
+   "f_000047_i003",
+   "f_000110_i003",
+   "f_000113_i001",
+   "f_000115_i002",
+   "f_000117_i000"
+  ],
+  "dims_cm": {
+   "w": 49.0,
+   "h": 65.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 6 view(s); depth not measured",
+  "confidence": 0.95,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "armchair"
+ },
+ {
+  "id": "item_009",
+  "category": "furniture",
+  "label": "cushion",
+  "material": "fabric",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000102.jpg",
+  "sightings": [
+   "f_000034_i007",
+   "f_000044_i002",
+   "f_000045_i002",
+   "f_000046_i002",
+   "f_000102_i000"
+  ],
+  "dims_cm": {
+   "w": 19.0,
+   "h": 28.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 2 view(s); depth not measured",
+  "confidence": 0.95,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "cushion"
+ },
+ {
+  "id": "item_010",
+  "category": "decor",
+  "label": "hanging plant pot",
+  "material": "plastic",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000040.jpg",
+  "sightings": [
+   "f_000040_i000"
+  ],
+  "dims_cm": {
+   "w": 15.0,
+   "h": 14.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 1 view(s); depth not measured",
+  "confidence": 0.7,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "flowerpot"
+ },
+ {
+  "id": "item_011",
+  "category": "decor",
+  "label": "hanging plant pot",
+  "material": "plastic",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000040.jpg",
+  "sightings": [
+   "f_000040_i001"
+  ],
+  "dims_cm": {
+   "w": 13.0,
+   "h": 13.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 1 view(s); depth not measured",
+  "confidence": 0.7,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "flowerpot"
+ },
+ {
+  "id": "item_012",
+  "category": "other",
+  "label": "shoulder handbag",
+  "material": "leather",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000040.jpg",
+  "sightings": [
+   "f_000040_i006",
+   "f_000042_i003",
+   "f_000046_i004",
+   "f_000106_i004"
+  ],
+  "dims_cm": {
+   "w": 14.0,
+   "h": 18.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 4 view(s); depth not measured",
+  "confidence": 0.95,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "handbag"
+ },
+ {
+  "id": "item_013",
+  "category": "other",
+  "label": "backpack",
+  "material": "fabric",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000108.jpg",
+  "sightings": [
+   "f_000040_i007",
+   "f_000042_i002",
+   "f_000106_i003",
+   "f_000108_i000",
+   "f_000110_i001",
+   "f_000113_i004",
+   "f_000115_i004"
+  ],
+  "dims_cm": {
+   "w": 33.0,
+   "h": 19.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 5 view(s); depth not measured",
+  "confidence": 0.95,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "backpack"
+ },
+ {
+  "id": "item_014",
+  "category": "decor",
+  "label": "potted variegated umbrella plant",
+  "material": "plastic",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000046.jpg",
+  "sightings": [
+   "f_000042_i004",
+   "f_000044_i000",
+   "f_000045_i000",
+   "f_000046_i000",
+   "f_000102_i002"
+  ],
+  "dims_cm": {
+   "w": 32.0,
+   "h": 71.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 3 view(s); depth not measured",
+  "confidence": 0.95,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "potted plant"
+ },
+ {
+  "id": "item_015",
+  "category": "shelving",
+  "label": "white shelving unit",
+  "material": "metal",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000084.jpg",
+  "sightings": [
+   "f_000049_i001",
+   "f_000050_i001",
+   "f_000051_i000",
+   "f_000054_i000",
+   "f_000058_i000",
+   "f_000060_i000",
+   "f_000064_i000",
+   "f_000066_i000",
+   "f_000068_i000",
+   "f_000072_i000",
+   "f_000079_i004",
+   "f_000082_i002",
+   "f_000084_i000",
+   "f_000085_i000",
+   "f_000089_i001"
+  ],
+  "dims_cm": {
+   "w": null,
+   "h": null,
+   "d": null
+  },
+  "dims_method": "",
+  "confidence": 0.95,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "bookcase"
+ },
+ {
+  "id": "item_016",
+  "category": "shelving",
+  "label": "small wooden bookcase",
+  "material": "wood",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000051.jpg",
+  "sightings": [
+   "f_000051_i001"
+  ],
+  "dims_cm": {
+   "w": null,
+   "h": null,
+   "d": null
+  },
+  "dims_method": "",
+  "confidence": 0.5,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "bookcase"
+ },
+ {
+  "id": "item_017",
+  "category": "decor",
+  "label": "turtle wall decor",
+  "material": "ceramic",
+  "brand_model": null,
+  "is_artwork": true,
+  "frame_ref": "frames/f_000068.jpg",
+  "sightings": [
+   "f_000068_i001"
+  ],
+  "dims_cm": {
+   "w": 11.0,
+   "h": 15.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 1 view(s); depth not measured",
+  "confidence": 0.7,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "wall decor"
+ },
+ {
+  "id": "item_018",
+  "category": "shelving",
+  "label": "wooden wall-mounted display shelf",
+  "material": "wood",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000076.jpg",
+  "sightings": [
+   "f_000076_i000"
+  ],
+  "dims_cm": {
+   "w": 25.0,
+   "h": 16.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 1 view(s); depth not measured",
+  "confidence": 0.7,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "wall shelf"
+ },
+ {
+  "id": "item_019",
+  "category": "lighting",
+  "label": "woven pendant lamp",
+  "material": "wicker",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000076.jpg",
+  "sightings": [
+   "f_000076_i001",
+   "f_000079_i000",
+   "f_000082_i000"
+  ],
+  "dims_cm": {
+   "w": 27.0,
+   "h": 28.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 3 view(s); depth not measured",
+  "confidence": 0.9,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "pendant light"
+ },
+ {
+  "id": "item_020",
+  "category": "decor",
+  "label": "star lantern",
+  "material": "paper",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000082.jpg",
+  "sightings": [
+   "f_000076_i002",
+   "f_000082_i001"
+  ],
+  "dims_cm": {
+   "w": 40.0,
+   "h": 42.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 2 view(s); depth not measured",
+  "confidence": 0.8,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "star light"
+ },
+ {
+  "id": "item_021",
+  "category": "shelving",
+  "label": "bookshelf",
+  "material": "wood",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000079.jpg",
+  "sightings": [
+   "f_000079_i001",
+   "f_000079_i002"
+  ],
+  "dims_cm": {
+   "w": null,
+   "h": null,
+   "d": null
+  },
+  "dims_method": "",
+  "confidence": 0.6,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "bookcase"
+ },
+ {
+  "id": "item_022",
+  "category": "art",
+  "label": "framed artwork on wall",
+  "material": "glass",
+  "brand_model": null,
+  "is_artwork": true,
+  "frame_ref": "frames/f_000079.jpg",
+  "sightings": [
+   "f_000079_i003"
+  ],
+  "dims_cm": {
+   "w": 29.0,
+   "h": 17.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 1 view(s); depth not measured",
+  "confidence": 0.7,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "framed picture"
+ },
+ {
+  "id": "item_023",
+  "category": "furniture",
+  "label": "purple plastic kids stool",
+  "material": "plastic",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000089.jpg",
+  "sightings": [
+   "f_000089_i000",
+   "f_000119_i000"
+  ],
+  "dims_cm": {
+   "w": 27.0,
+   "h": 32.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 2 view(s); depth not measured",
+  "confidence": 0.8,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "stool"
+ },
+ {
+  "id": "item_024",
+  "category": "furniture",
+  "label": "wooden chair with upholstered seat",
+  "material": "wood, fabric",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000093.jpg",
+  "sightings": [
+   "f_000093_i000",
+   "f_000098_i000"
+  ],
+  "dims_cm": {
+   "w": 42.0,
+   "h": 55.0,
+   "d": null
+  },
+  "dims_method": "reconstruction depth x anchor scale, 2 view(s); depth not measured",
+  "confidence": 0.8,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "chair"
+ },
+ {
+  "id": "item_025",
+  "category": "furniture",
+  "label": "wooden top coffee table",
+  "material": "wood, metal",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000093.jpg",
+  "sightings": [
+   "f_000093_i001",
+   "f_000098_i002"
+  ],
+  "dims_cm": {
+   "w": null,
+   "h": null,
+   "d": null
+  },
+  "dims_method": "",
+  "confidence": 0.6,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "coffee table"
+ },
+ {
+  "id": "item_026",
+  "category": "furniture",
+  "label": "stool or chair",
+  "material": "fabric, wood",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000093.jpg",
+  "sightings": [
+   "f_000093_i002"
+  ],
+  "dims_cm": {
+   "w": null,
+   "h": null,
+   "d": null
+  },
+  "dims_method": "",
+  "confidence": 0.5,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "chair"
+ },
+ {
+  "id": "item_027",
+  "category": "decor",
+  "label": "potted palm plant",
+  "material": "plastic and plant",
+  "brand_model": null,
+  "is_artwork": false,
+  "frame_ref": "frames/f_000098.jpg",
+  "sightings": [
+   "f_000098_i001"
+  ],
+  "dims_cm": {
+   "w": null,
+   "h": null,
+   "d": null
+  },
+  "dims_method": "",
+  "confidence": 0.5,
+  "print_confirmed": false,
+  "statement": null,
+  "product_type": "potted plant"
+ }
+]

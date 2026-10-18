@@ -1,0 +1,20 @@
+{
+ "length_m": null,
+ "width_m": null,
+ "height_m": null,
+ "floor_area_m2": null,
+ "wall_area_m2": null,
+ "shelved_wall_area_m2": 0.56,
+ "floor_area_ft2": null,
+ "wall_area_ft2": null,
+ "scale_method": "3D reconstruction (DA3-BASE) scaled by 38 catalogue anchors, 3 door anchors; up from accelerometer gravity (48 frames)",
+ "confidence": 0.0,
+ "shape_notes": "",
+ "notes": [
+  "1 of 4 walls only weakly visible in the sweep",
+  "1 wall(s) not captured: that side is placed 0.3 m beyond the phone's furthest position, so the size on that axis is a lower bound",
+  "ceiling not captured: height is the highest point seen (a lower bound)",
+  "6 reconstructions from staggered frame subsets: floor area 6.5-32.6 m2 (spread 260%)",
+  "room geometry unstable across reconstructions (spread 260% > 40%): room size not reported; median would have been 4.42 x 2.22 x 2.30 m"
+ ]
+}
