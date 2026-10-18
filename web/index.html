@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Library Claim Sweep</title>
+  <style>
+    :root {
+      --bg: #0f1115; --panel: #181b22; --text: #e8eaf0; --muted: #9aa1b2;
+      --accent: #5b8cff; --ok: #3fb950; --warn: #d29922; --bad: #f85149; --line: #2a2f3a;
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; background: var(--bg); color: var(--text); font: 15px/1.4 -apple-system, system-ui, sans-serif; }
+    main { max-width: 720px; margin: 0 auto; padding: 12px 16px 24px; }
+    .stage { position: relative; background: #000; border-radius: 10px; overflow: hidden; height: 52vh; }
+    video { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .hud { position: absolute; inset: 8px 8px auto 8px; display: flex; gap: 6px; flex-wrap: wrap; }
+    .chip { background: rgba(0,0,0,.6); padding: 3px 8px; border-radius: 99px; font-size: 12px; }
+    .dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: var(--muted); margin-right: 4px; }
+    .dot.ok { background: var(--ok); } .dot.warn { background: var(--warn); } .dot.bad { background: var(--bad); }
+    .nudge { position: absolute; left: 8px; right: 8px; bottom: 8px; background: rgba(210,153,34,.92); color: #111;
+             padding: 8px 10px; border-radius: 8px; font-weight: 600; display: none; }
+    .controls { display: flex; gap: 8px; margin: 12px 0; }
+    button { flex: 1; padding: 12px; border: 0; border-radius: 8px; font: inherit; font-weight: 600; color: #fff; background: var(--accent); }
+    button.secondary { background: var(--panel); border: 1px solid var(--line); }
+    button:disabled { opacity: .4; }
+    section { background: var(--panel); border: 1px solid var(--line); border-radius: 10px; padding: 10px 12px; margin-top: 10px; }
+    h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); margin: 0 0 6px; }
+    #transcript { max-height: 160px; overflow-y: auto; font-size: 14px; }
+    #transcript p { margin: 2px 0; }
+    #transcript .agent { color: var(--accent); }
+    #inventory { list-style: none; margin: 0; padding: 0; font-size: 14px; max-height: 260px; overflow-y: auto; }
+    #inventory li { padding: 4px 0; border-bottom: 1px solid var(--line); }
+    #inventory .tag { color: var(--muted); font-size: 12px; margin-right: 6px; text-transform: uppercase; }
+    .stats { color: var(--muted); font-size: 12px; }
+    #packet a { color: var(--accent); font-weight: 600; }
+  </style>
+</head>
+<body>
+<main>
+  <div class="stage">
+    <video id="video" playsinline muted autoplay></video>
+    <div class="hud">
+      <span class="chip" id="status"><span class="dot" id="conn"></span>idle</span>
+      <span class="chip" id="locale">—</span>
+      <span class="chip" id="region">no region</span>
+      <span class="chip"><span class="dot" id="qdot"></span><span id="qtext">quality</span></span>
+    </div>
+    <div class="nudge" id="nudge"></div>
+  </div>
+
+  <div class="controls">
+    <button id="start">Start</button>
+    <button id="end" class="secondary" disabled>End sweep</button>
+    <button id="stop" class="secondary" disabled>Stop</button>
+  </div>
+  <div class="stats" id="stats"></div>
+  <div class="stats" id="scan"></div>
+  <section id="packet" style="display:none"></section>
+
+  <section>
+    <h2>Conversation</h2>
+    <div id="transcript"></div>
+  </section>
+  <section>
+    <h2>Live inventory</h2>
+    <ul id="inventory"></ul>
+  </section>
+</main>
+<script src="app.js?v=3"></script>
+</body>
+</html>
