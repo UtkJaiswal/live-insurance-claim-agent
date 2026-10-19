@@ -9,6 +9,6 @@ Each sweep folder is what one session wrote: frames, events, audio, stage output
 | `sw_20261018_083258` | Bedroom 2: the same books upright (`ground_truth/bedroom_demo2`); the price audit in `docs/RESULTS.md` | same as bedroom 1: no photos, crops or audio (privacy) |
 | `sw_20261017_155806` | First test sweep: the false blur nudges and the agent choosing US/USD before the user spoke (`docs/FAILURE_LOG.md`) | events and meta only |
 | `sw_20261018_153515`, `sw_20261018_154011` | Library attempts cut off at exactly 40 s by the slow uplink (README, "About the demo video") | events and meta only |
-| `sw_20261018_154322_rerun` | Offline re-run of the demo sweep with books priced first; stopped by the depleted Gemini credit (failure log, error 1) | metrics, meta and `stages/price.json` only |
+| `sw_20261018_154322_rerun` | Offline re-run of the demo sweep with books priced first and the price-audit fixes: 82 of 134 identified books priced (failure log, error 1) | packet, report, locale comparison, metrics, meta and `stages/price.json`. Frames and crops are the demo sweep's, so the report's images do not load here |
 
 The simulated test sweeps are in `testdata/sweeps/`, with their hand-labelled ground truth in `testdata/ground_truth/`.

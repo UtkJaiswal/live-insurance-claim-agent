@@ -23,7 +23,7 @@ The video is one unedited take of **13 minutes**, over the 6-minute limit. It wa
 
 **Why this take and not a shorter one.** The library café's network allowed only about 3 Mbit/s of upload. The first attempts were cut off at exactly 40 seconds: full-size frames saturated the connection and the server dropped the session. This was fixed on site (smaller frames, voice prioritised over frames, longer connection timeouts), and this take was the first one to run end to end. A second visit to re-record was not possible.
 
-- **No book was priced in this run.** [docs/FAILURE_LOG.md](docs/FAILURE_LOG.md) (error 1) gives the cause and the fix.
+- **No book was priced in this run.** [docs/FAILURE_LOG.md](docs/FAILURE_LOG.md) (error 1) gives the cause and the fix. Re-running the same recorded sweep with the fix priced 82 of the 134 identified books and sent 20 to appraisal; that packet and report are in `sweeps/sw_20261018_154322_rerun/`.
 - **No ground truth was collected at the library.** Measured accuracy comes from a hand-labelled shelf and a tape-measured bedroom ([docs/RESULTS.md](docs/RESULTS.md)).
 
 The demo's packet, report and the frames it references are in `sweeps/sw_20261018_154322/`.
@@ -122,7 +122,7 @@ Each session is recorded to `sweeps/<id>/`. Everything after the sweep reads onl
 | `metrics.json` | Seconds, model calls, tokens, HTTP calls and USD per stage, the live-session cost, and time to packet. |
 | `events.jsonl`, `audio_*.wav`, `meta.json` | Transcripts, tool calls, nudges, per-frame quality and motion data, audio, and timings. |
 
-Catalogue, price and exchange-rate lookups are cached in `cache/http/` with their original retrieval time. A re-run shows the date the source was actually read.
+Catalogue, price and exchange-rate lookups are cached in `cache/http/` with their original retrieval time. A re-run shows the date the source was actually read, and cached searches skip the search rate limit: re-pricing the 380-book demo sweep from the cache takes about a minute.
 
 ## Rules the code enforces
 

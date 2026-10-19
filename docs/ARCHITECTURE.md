@@ -75,6 +75,8 @@ Best first; the packet's `scale_method` names what was used.
 **Rules.**
 - **Replacement cost** = the lower quartile of matching new print offers: what it costs to replace the book today. A median let a ₹11,397 import listing beat a ₹131 paperback.
 - **Used value** = the median of used offers.
+- **Matching a listing to the book:** every meaningful title word must be in the listing, and it must carry the author's surname unless the title is long and the listing credits no other author. A title of one or two words must be the listing's own title. Numbers in the title must agree ("Phonics First 6" is not "Bk. 1"). A title found only in a listing's series brackets is a different volume. If the matches are different books, the title is a series name and is not priced.
+- **Used value** is capped at the replacement cost.
 - **Excluded offers:** old-edition listings when current ones exist, e-books, audiobooks, and "New & Used from ₹X" summary lines.
 - **Currency:** each listing is converted on its own at the ECB rate of the day.
 - **Order:** books are priced as each is identified, before items. Books not priced by `PRICE_DEADLINE_S` (210 s) are marked unpriced, with the reason.

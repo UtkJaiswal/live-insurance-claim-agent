@@ -1,7 +1,7 @@
 {
  "stages": {
   "detect": {
-   "seconds": 0.0085,
+   "seconds": 0.0092,
    "calls": 0,
    "in_tokens": 0,
    "out_tokens": 0,
@@ -10,7 +10,7 @@
    "cache_hits": 0
   },
   "track": {
-   "seconds": 6.7368,
+   "seconds": 6.592,
    "calls": 0,
    "in_tokens": 0,
    "out_tokens": 0,
@@ -19,7 +19,7 @@
    "cache_hits": 0
   },
   "read": {
-   "seconds": 0.0756,
+   "seconds": 0.0753,
    "calls": 0,
    "in_tokens": 0,
    "out_tokens": 0,
@@ -28,7 +28,7 @@
    "cache_hits": 0
   },
   "identify": {
-   "seconds": 2.0176,
+   "seconds": 1.6824,
    "calls": 0,
    "in_tokens": 0,
    "out_tokens": 0,
@@ -36,26 +36,17 @@
    "http_calls": 0,
    "cache_hits": 718
   },
-  "items": {
-   "seconds": 2.7002,
+  "price": {
+   "seconds": 16.4147,
    "calls": 0,
    "in_tokens": 0,
    "out_tokens": 0,
    "usd": 0.0,
    "http_calls": 0,
-   "cache_hits": 0
-  },
-  "price": {
-   "seconds": 743.1564,
-   "calls": 0,
-   "in_tokens": 0,
-   "out_tokens": 0,
-   "usd": 0.0,
-   "http_calls": 556,
-   "cache_hits": 38
+   "cache_hits": 536
   },
   "reconstruct": {
-   "seconds": 43.4376,
+   "seconds": 41.6392,
    "calls": 0,
    "in_tokens": 0,
    "out_tokens": 0,
@@ -64,7 +55,7 @@
    "cache_hits": 0
   },
   "measure": {
-   "seconds": 0.0779,
+   "seconds": 0.0633,
    "calls": 0,
    "in_tokens": 0,
    "out_tokens": 0,
@@ -72,8 +63,17 @@
    "http_calls": 0,
    "cache_hits": 0
   },
+  "items": {
+   "seconds": 16.2893,
+   "calls": 1,
+   "in_tokens": 33989,
+   "out_tokens": 922,
+   "usd": 0.0289,
+   "http_calls": 0,
+   "cache_hits": 0
+  },
   "room": {
-   "seconds": 27.6411,
+   "seconds": 27.4422,
    "calls": 0,
    "in_tokens": 0,
    "out_tokens": 0,
@@ -82,7 +82,7 @@
    "cache_hits": 0
   },
   "assemble": {
-   "seconds": 0.0061,
+   "seconds": 0.0051,
    "calls": 0,
    "in_tokens": 0,
    "out_tokens": 0,
@@ -91,7 +91,7 @@
    "cache_hits": 0
   }
  },
- "total_usd": 0.373,
+ "total_usd": 0.4019,
  "live": {
   "tokens": {
    "text_in": 39899,
@@ -101,7 +101,7 @@
   },
   "usd": 0.373
  },
- "processing_s": 780.3,
+ "processing_s": 52.7,
  "notes": [
   "book_168 absorbed into book_170: seen in 1 frame(s), 100% inside its shelf position",
   "book_180 absorbed into book_179: seen in 1 frame(s), 95% inside its shelf position",
@@ -195,5 +195,5 @@
  ],
  "price_source": "TinyFish search + page fetch",
  "prices_dropped_unverified": 0,
- "time_to_packet_s": 779.3
+ "time_to_packet_s": 51.9
 }

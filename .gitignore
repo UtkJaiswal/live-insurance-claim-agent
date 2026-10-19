@@ -43,6 +43,9 @@ sweeps/sw_20261018_154011/*
 sweeps/sw_20261018_154322_rerun/*
 !sweeps/sw_20261018_154322_rerun/meta.json
 !sweeps/sw_20261018_154322_rerun/metrics.json
+!sweeps/sw_20261018_154322_rerun/claim_packet.json
+!sweeps/sw_20261018_154322_rerun/report.html
+!sweeps/sw_20261018_154322_rerun/locale_comparison.json
 !sweeps/sw_20261018_154322_rerun/stages/
 sweeps/sw_20261018_154322_rerun/stages/*
 !sweeps/sw_20261018_154322_rerun/stages/price.json

@@ -20,7 +20,7 @@ The 20 hand-measured spines and the 15 hand-checked prices were **not collected*
 | Book count | within 5% | Hand-labelled shelf: **24 vs 25 (4%)**. Bedroom 1: 9 vs 6. Bedroom 2: 11 vs 6. Demo: 380, unverified | PASS on the shelf; FAIL on hand-held bedroom video (duplicates) |
 | Title identification | ≥ 70% correct, ≤ 3% confidently wrong | Hand-labelled shelf: **14/15 correct (93%), 0 wrong**. Bedroom 1 and 2: 4/6 correct; the only "wrong" line is a duplicate copy of a correct title. Bookstore: 0 wrong of 44 on review | PASS on the shelf |
 | Spine dimensions | within 15% (20 hand-measured) | Not scored: no 20-spine sample. *The 5 AM Club* measured 30.5 cm against 21.6 with the old door scale, which led to the door-top fix. Flat books are now left unmeasured | not scored |
-| Book prices | within 25% (15 hand-checked) | Not scored against hand-checked prices. Bedroom 2 prices audited against the cached retailer pages: after the fixes all 5 come from the correct listing (₹131, ₹210, ₹225, ₹319, ₹349) | not scored |
+| Book prices | within 25% (15 hand-checked) | Not scored against hand-checked prices. Bedroom 2 prices audited against the cached retailer pages: after the fixes all 5 come from the correct listing (₹131, ₹210, ₹225, ₹319, ₹349). Demo re-run: all 82 priced books' source listings checked by hand, 81 right and 1 doubtful, after the wrong matches found went into new matching rules | not scored |
 | Non-book items | ≥ 80% found, correct category | Bedroom 1: **10/10**. Bedroom 2: **8/10** | PASS |
 | Floor area | within 10% | Bedroom: not reported (reconstructions disagree). The best single reconstruction gave **9.81 vs 9.44 m² (+3.9%)** | FAIL (left empty) |
 | Wall area | within 15% | Not reported: the ceiling was not filmed in those sweeps | FAIL (left empty) |
@@ -31,7 +31,8 @@ The 20 hand-measured spines and the 15 hand-checked prices were **not collected*
 | Output | Value |
 |---|---|
 | Books counted / identified / unidentified | 380 / 134 / 246 |
-| Books priced | 0. Item searches took the budget first; fixed, see failure log error 1 |
+| Books priced | Live run: 0 (item searches took the budget first; failure log error 1). Offline re-run with the fix: **82 of 134** identified books, 20 to appraisal, 0 unverified prices; ₹65,280 new, ₹29,341 used. Every price hand-checked against its source listing: 81 right, 1 doubtful |
+| Locale comparison | 10 books priced in India and in the US (`sweeps/sw_20261018_154322_rerun/locale_comparison.json`) |
 | Items found / priced | 27 / 21 (₹90,562–159,042 replacement) |
 | Room | Not reported: 6 reconstructions gave 6.5–32.6 m² |
 | Live features exercised | Locale confirmed by voice; fast-pan, step-closer and ceiling nudges; the art question ("original or print?") with the answer recorded |

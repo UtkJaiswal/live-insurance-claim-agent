@@ -1,0 +1,118 @@
+{
+ "country_a": "IN",
+ "currency_a": "INR",
+ "country_b": "US",
+ "currency_b": "USD",
+ "books": [
+  {
+   "id": "book_006",
+   "title": "The Children's Dinosaur ENCYCLOPEDIA",
+   "a": 1475.0,
+   "a_conv": false,
+   "b": 6.56,
+   "b_conv": false,
+   "b_source": "amazon.com (seller: ThriftBooks-Baltimore) via retailer page fetched with TinyFish (3 matching offers, lower quartile)",
+   "b_url": "https://www.amazon.com/-/he/Marshall-Childrens-Dinosaur-Encyclopedia/dp/1840282673",
+   "b_retrieved_at": "2026-10-18T10:31:52+00:00"
+  },
+  {
+   "id": "book_020",
+   "title": "I Wonder Why PINE TREES HAVE NEEDLES",
+   "a": 275.0,
+   "a_conv": false,
+   "b": 33.95,
+   "b_conv": true,
+   "b_source": "amazon.co.uk (seller: rbmbooks) via retailer page fetched with TinyFish (2 matching offers, lower quartile)",
+   "b_url": "https://www.amazon.co.uk/Wonder-Pine-Trees-Have-Needles/dp/0753458616",
+   "b_retrieved_at": "2026-10-19T06:35:51+00:00"
+  },
+  {
+   "id": "book_023",
+   "title": "Microscopic life",
+   "a": 400.0,
+   "a_conv": false,
+   "b": null,
+   "b_conv": false,
+   "b_source": null,
+   "b_url": null,
+   "b_retrieved_at": null
+  },
+  {
+   "id": "book_024",
+   "title": "I Wonder Why VOLCANOES BLOW THEIR TOPS",
+   "a": 1999.0,
+   "a_conv": false,
+   "b": null,
+   "b_conv": false,
+   "b_source": null,
+   "b_url": null,
+   "b_retrieved_at": null
+  },
+  {
+   "id": "book_039",
+   "title": "Ukraine",
+   "a": 1500.0,
+   "a_conv": false,
+   "b": 34.6,
+   "b_conv": true,
+   "b_source": "waterstones.com (seller: Waterstones) via retailer page fetched with TinyFish (1 matching offer, lower quartile)",
+   "b_url": "https://www.waterstones.com/book/ukraine/catherine-w-cooper/9780791067833",
+   "b_retrieved_at": "2026-10-19T06:35:53+00:00"
+  },
+  {
+   "id": "book_059",
+   "title": "Prachi Science Class 8",
+   "a": 545.0,
+   "a_conv": false,
+   "b": null,
+   "b_conv": false,
+   "b_source": null,
+   "b_url": null,
+   "b_retrieved_at": null
+  },
+  {
+   "id": "book_064",
+   "title": "Welcome to Japan",
+   "a": 847.04,
+   "a_conv": true,
+   "b": 8.92,
+   "b_conv": false,
+   "b_source": "amazon.com (seller: Amazon) via retailer page fetched with TinyFish (1 matching offer, lower quartile)",
+   "b_url": "https://www.amazon.com/-/es/Alison-J-Auch/dp/075650368X",
+   "b_retrieved_at": "2026-10-19T06:38:44+00:00"
+  },
+  {
+   "id": "book_066",
+   "title": "100 things you should know about SAVING THE EARTH",
+   "a": 4244.0,
+   "a_conv": false,
+   "b": null,
+   "b_conv": false,
+   "b_source": null,
+   "b_url": null,
+   "b_retrieved_at": null
+  },
+  {
+   "id": "book_067",
+   "title": "100 things you should know about SPACE",
+   "a": 700.0,
+   "a_conv": false,
+   "b": null,
+   "b_conv": false,
+   "b_source": null,
+   "b_url": null,
+   "b_retrieved_at": null
+  },
+  {
+   "id": "book_077",
+   "title": "Rain Forests",
+   "a": 2415.0,
+   "a_conv": false,
+   "b": 69.28,
+   "b_conv": true,
+   "b_source": "amazon.co.uk (seller: rbmbooks) via retailer page fetched with TinyFish (1 matching offer, lower quartile)",
+   "b_url": "https://www.amazon.co.uk/Forests-Bridgestone-Science-Adele-Richardson/dp/0736808396",
+   "b_retrieved_at": "2026-10-19T06:55:50+00:00"
+  }
+ ]
+}

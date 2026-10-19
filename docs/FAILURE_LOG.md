@@ -12,9 +12,26 @@
   - By the time the books' turn came, the 210 s pricing deadline had passed, so all 134 were marked "not priced: budget ran out". Meanwhile 21 of the 27 items were priced.
   - Books are the main claim, so this ordering was a design bug, not bad luck.
 - **Fix.** Books are now priced before items; items get whatever budget is left (`app/pipeline/run.py`).
-- **Not yet measured.** A re-run of the same sweep with the fix (`sweeps/sw_20261018_154322_rerun`) still priced nothing, for a different reason: the Gemini prepaid credit ran out mid-run (HTTP 402), so offers could not be read off the fetched pages.
-  - That run exposed a second defect: the failure was reported as "no matching listing found". It now reads "listings found but not read: Gemini prepaid credit is used up" (`app/pipeline/tinyfish.py`).
-  - TinyFish found the right pages (for example amazon.in for *The Children's Dinosaur Encyclopedia*). On earlier sweeps, prices read from fetched pages were all verified on the page: 0 dropped.
+- **Measured on a re-run** of the same recorded sweep (`sweeps/sw_20261018_154322_rerun`, same frames, offline):
+  - The first attempt priced nothing for a different reason: the Gemini prepaid credit ran out (HTTP 402), so offers could not be read off the fetched pages. It was reported as "no matching listing found"; it now reads "listings found but not read: Gemini prepaid credit is used up".
+  - After a top-up: **82 of 134 identified books priced** (52 with a new price, 41 with a used value), **20 sent to appraisal** (a price above ₹5,000), 62 with no matching listing, 2 held back as series names. 9 prices were converted from US or UK listings. 0 prices failed the on-page check.
+  - Totals: books ₹65,280 to replace new, ₹29,341 used; 29 items ₹86,565–168,087.
+  - Not fixed by this: the price stage took 521 s, bound by 30 searches per minute, so the re-run used a raised deadline (`PRICE_DEADLINE_S=1500`). Under the live 210 s deadline fewer books would be priced; see error 2.
+- **Price audit of the re-run.** Every priced book was checked by hand against the listing its new or used price came from. The earlier passes had wrong matches, all fixed in `listing_matches` (`app/pipeline/price.py`) with a test for each:
+
+  | Wrong match | Rule added |
+  |---|---|
+  | *555 Questions & Answers* (no author) priced as *Freemasonry at a Glance: Answers to 555 Questions* | With no author, the whole title must match |
+  | *Transportation* by Lambert priced as *Transportation* by Satorre; a children's *Hunchback of Notre Dame* (Van Gool) as a generic edition; *Life and Times in Ancient Greece* (Ferris) as an edition credited to Charman | The listing must carry the author's surname, unless the title is long and the listing credits no other author |
+  | *Transportation* (Mark Lambert) valued as *The Wonderful World of Transportation* (David Lambert); *Fantasy Quests* as *Big Book of Fantasy Quests Collection* | A title of one or two words must be the listing's own title, not part of a longer one |
+  | *The Big Book of Search and Learn* valued as *…Search and Find* | Every meaningful word of the title must be in the listing |
+  | *Phonics First 6* priced as *Phonics First: Bk. 1* | Numbers in the title must agree |
+  | *A Child's First Library of Learning* (a series name) priced as the volumes *Nature*, *How Things Work*, *Science Starter* | A title found only in a listing's series brackets does not match; matches that are different books mean "series name, volume not known" |
+  | A "(Second Hand & Used Book)" listing counted as a new price | Listing titles saying used or second-hand are used offers |
+  | Used value above the new price (*I Wonder Why Pine Trees Have Needles*: used ₹2,494, new ₹275) | Used value capped at the replacement cost |
+
+  - After the fixes, 81 of the 82 prices come from the right book. One is doubtful: *Rand McNally Children's World Atlas* priced from *Rand McNally Schoolhouse Children's Illustrated Atlas of the World*, a related atlas.
+  - The first pass also lost 20 prices to dropped network connections while reading pages, and one failure was then reported on every later book. Page reads are now retried, and a failure is reported only on the books whose pages failed (`app/pipeline/tinyfish.py`).
 
 ### 2. Packet 391 s after the sweep (bar: 300 s)
 
@@ -68,6 +85,7 @@ A 60–80 book sweep costs about US$0.25–0.60 and finishes in about 2 minutes,
 | Books counted 2–3 times | Unlinked segments, overlapping boxes on one spine, distant re-views | Text merge across segments; overlapping-box removal; small-box filter; weak-track absorption | bedroom 1: 14 → 9 (truth 6); bedroom 2: 22 → 11 (truth 6) |
 | Room scale off by ~40% | Door height measured in pixels; the chair hid the door's bottom | Height of the door's **top edge** above the floor | 7 samples agree within 0.5%; phone height 1.52 m (realistic) |
 | Walls placed on furniture and a mirror reflection | Wall search inside the camera path; "farthest plane" rule | Walls must lie beyond every camera position; strongest plane 0.9–2.0 m high | bedroom floor −35% → **+3.9%** for one reconstruction (other frame subsets: unstable, so now cross-checked) |
+| Demo re-run: wrong price matches (table under error 1) | Title-only matching against retailer listings | Author, number, series and used-copy rules; used value capped at new | 10 wrong matches across the audit passes → **81 of 82 right, 1 doubtful** |
 | *Monk* ₹682.50, *Word Power* sent to appraisal | Median of a real offer and a marketplace import (₹1,140; ₹11,397) | Lower quartile of new offers; ignore old-edition listings | ₹682.50 → **₹225**; appraisal → **₹131**; *Data Interpretation* ₹270 (old edition) → **₹349** |
 | False "hold steady" nudges | Laplacian variance reads plain walls as blurry | Texture-independent edge-sharpness ratio | 8 → **0** false nudges on recorded sweeps |
 | Agent set US/USD before the user spoke | The live model completed the dialogue itself | Server refuses `set_locale` without recent user speech | Next sessions confirmed by voice |
