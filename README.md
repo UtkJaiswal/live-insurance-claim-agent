@@ -28,18 +28,33 @@ The demo's packet, report and the frames it references are in `sweeps/sw_2026101
 
 ## Quick start (about 10 minutes)
 
-You need:
-- Python 3.12+ and [uv](https://docs.astral.sh/uv/)
-- a phone with a browser
-- [cloudflared](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/downloads/) (`brew install cloudflared`). Phone browsers only allow camera access over HTTPS; the tunnel provides it, and needs no account.
+### 1. Install the tools (once)
+
+| Tool | macOS | Linux | Windows |
+|---|---|---|---|
+| [uv](https://docs.astral.sh/uv/) (Python package manager; installs Python 3.12 itself if needed) | `brew install uv` | `curl -LsSf https://astral.sh/uv/install.sh \| sh` | `powershell -c "irm https://astral.sh/uv/install.ps1 \| iex"` |
+| [cloudflared](https://developers.cloudflare.com/cloudflare-one/connections/connect-networks/downloads/) (HTTPS tunnel; phone browsers only allow the camera over HTTPS) | `brew install cloudflared` | the `.deb`/`.rpm` from the link | `winget install Cloudflare.cloudflared` |
+
+You also need a phone with a browser. It was tested on an iPhone (Safari); Android Chrome should work the same way but was not tested.
+
+### 2. Get the code and install
 
 ```bash
-cp .env.example .env             # add GEMINI_API_KEY and TINYFISH_API_KEY (see Keys)
-uv sync --extra geometry         # ~0.8 GB with PyTorch; plain `uv sync` runs everything except room geometry
-uv run python scripts/live_smoke.py              # optional: checks the key; prints the agent's greeting
-uv run uvicorn app.server:app --port 8000 --ws-ping-interval 30 --ws-ping-timeout 120
-cloudflared tunnel --url http://localhost:8000   # second terminal; the URL is in the "Your quick Tunnel has been created!" box
+git clone <this repo> live-room && cd live-room
+cp .env.example .env             # then add GEMINI_API_KEY and TINYFISH_API_KEY (see Keys below)
+uv sync --extra geometry         # downloads ~0.8 GB (PyTorch); plain `uv sync` skips room geometry
+uv run pytest                    # 55 offline tests, about 20 s: confirms the install
+uv run python scripts/live_smoke.py   # optional: checks the Gemini key; prints the agent's greeting
 ```
+
+### 3. Run
+
+```bash
+uv run uvicorn app.server:app --port 8000 --ws-ping-interval 30 --ws-ping-timeout 120
+cloudflared tunnel --url http://localhost:8000   # in a second terminal; the URL is in the "Your quick Tunnel has been created!" box
+```
+
+The first sweep downloads the Depth Anything 3 weights from Hugging Face (about 0.5 GB, once). Room geometry runs on Apple Silicon (MPS) or an NVIDIA GPU. On a CPU-only machine, set `DA3_MODEL=depth-anything/DA3-SMALL` and `ROOM_ENSEMBLE=1` in `.env` to keep it fast.
 
 Open the `https://….trycloudflare.com` URL on the phone, tap **Start**, and allow camera, microphone and motion access. The agent then:
 1. confirms the country and currency
@@ -60,6 +75,16 @@ Optional URL parameters:
 | `TINYFISH_API_KEY` | prices: retailer search and page fetch | tinyfish.ai. Search and Fetch are free on every plan, limited to 30 searches per minute. |
 | `SERPER_API_KEY` | prices, used only when no TinyFish key is set | serper.dev. With no price key, prices stay empty and the reason goes to the review queue. |
 | `GOOGLE_BOOKS_API_KEY` | optional: more catalogue dimensions, for better scale | Google Cloud console: enable the Books API. Open Library is used without a key. |
+
+### Troubleshooting
+
+| Symptom | Cause | Fix |
+|---|---|---|
+| The session stops after about 40 s | Slow upload: frames back up and the connection times out | Start uvicorn with the `--ws-ping-*` flags above. Open the page with `?kmax=1920` for smaller frames. Watch "upload backlog" under the buttons |
+| "SLOW NETWORK" under the buttons | Frames are being skipped to keep the voice real-time | Move closer to the Wi-Fi router, use a phone hotspot, or add `?kmax=1920` |
+| The phone still behaves like an old version | Cached page | Close the browser tab and reopen the link (the server sends `no-store`) |
+| Review queue says "listings found but not read: Gemini prepaid credit is used up" | Gemini billing ran out (HTTP 402) | Top up in AI Studio; re-run with `scripts/process_sweep.py sweeps/<id> --reuse` |
+| The tunnel link stopped working | `cloudflared` was restarted (quick-tunnel links change) | Use the new link from the `cloudflared` window |
 
 ## Running without a phone
 
