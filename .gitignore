@@ -13,10 +13,18 @@ sweeps/*
 !sweeps/.gitkeep
 !sweeps/README.md
 
-# demo run and the two tape-measured bedroom sweeps, with frames
+# demo run, with frames
 !sweeps/sw_20261018_154322/
+# the two tape-measured bedroom sweeps: packets, metrics and stage outputs only;
+# photos, crops and audio of the policyholder's home stay out of the repo (privacy)
 !sweeps/sw_20261017_204356/
 !sweeps/sw_20261018_083258/
+sweeps/sw_20261017_204356/frames/
+sweeps/sw_20261017_204356/crops/
+sweeps/sw_20261017_204356/*.wav
+sweeps/sw_20261018_083258/frames/
+sweeps/sw_20261018_083258/crops/
+sweeps/sw_20261018_083258/*.wav
 
 # logs only: evidence cited in the README and failure log
 !sweeps/sw_20261017_155806/

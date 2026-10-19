@@ -10,6 +10,8 @@ A live voice-and-vision agent for a home-contents claim. The policyholder walks 
 
 ## About the demo video
 
+**Video:** [insurance-claim-video-demo.MP4 on Google Drive](https://drive.google.com/file/d/1Ct27fSrBMwOgKdoC9zlcPSaa2OZ_g6j-/view?usp=sharing) (13 min, 1.5 GB).
+
 The video is one unedited take of **13 minutes**, over the 6-minute limit. It was not cut or sped up, as the brief requires. Where the time went (session clock from `events.jsonl` and `metrics.json`; the screen recording starts about 12 s into the session, so video times are about 12 s earlier):
 
 | Session time | What happens |
