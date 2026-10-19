@@ -11,7 +11,7 @@ import hashlib
 import json
 from datetime import datetime, timezone
 from pathlib import Path
-from typing import Any
+from typing import Any, Awaitable, Callable
 
 import httpx
 
@@ -43,8 +43,12 @@ class CachedHTTP:
         headers: dict | None = None,
         usd_per_call: float = 0.0,
         max_age_days: float | None = None,
+        before_request: Callable[[], Awaitable[None]] | None = None,
     ) -> dict[str, Any]:
-        """Returns {"data": <parsed JSON>, "retrieved_at": iso, "url": url, "cached": bool}."""
+        """Returns {"data": <parsed JSON>, "retrieved_at": iso, "url": url, "cached": bool}.
+
+        before_request runs only when the network is actually used (a rate limiter, say): cache hits skip it.
+        """
         key = json.dumps([method, url, params, json_body], sort_keys=True)
         path = self._path(key)
         if path.exists():
@@ -56,6 +60,8 @@ class CachedHTTP:
             if fresh:
                 self.ledger.add_http(stage, cached=True)
                 return {**entry, "cached": True}
+        if before_request is not None:
+            await before_request()
         resp = await self.client.request(method, url, params=params, json=json_body, headers=headers)
         resp.raise_for_status()
         entry = {"key": key, "url": str(resp.url), "retrieved_at": utc_now(), "data": resp.json()}

@@ -20,7 +20,7 @@ from typing import Any
 from rapidfuzz import fuzz
 
 from app.pipeline.http import CachedHTTP
-from app.pipeline.identify import norm
+from app.pipeline.identify import first_surname, norm
 from app.pipeline.ledger import SERPER_USD_PER_QUERY
 
 SERPER_SHOPPING = "https://google.serper.dev/shopping"
@@ -30,6 +30,12 @@ CURRENCY_OF = {"IN": "INR", "US": "USD", "GB": "GBP", "DE": "EUR", "FR": "EUR", 
 SYMBOLS = {"₹": "INR", "Rs": "INR", "Rs.": "INR", "$": "USD", "US$": "USD", "£": "GBP", "€": "EUR", "A$": "AUD", "C$": "CAD", "S$": "SGD", "AED": "AED"}
 FALLBACK_MARKET = {"IN": "US", "US": "GB", "GB": "US"}
 # Appraisal threshold per currency: anything above this is routed to a human, not auto-priced.
+STOPWORDS = {"the", "a", "an", "of", "and", "to", "in", "for", "on", "with", "by", "at", "from", "is", "are", "you", "your"}
+VOLUME = re.compile(r"\b(?:vol|volume|bk|book|part|level|class|grade|std)\s*(\d+)\b")
+# "by Ash, Russell" or Amazon's "Title : Charman, Andrew: ..." (surname, first name)
+CREDITED_AUTHOR = re.compile(r"\bby\s+[A-Z][\w.'-]+|:\s*[A-Z][\w'-]+,\s+[A-Z][\w.]*")
+FORMAT_WORDS = {"book", "books", "hardcover", "hardback", "paperback", "edition"}
+SHOP_PREFIX = re.compile(r"^\s*(?:buy\b|amazon\.(?:com|in|co\.uk)\s*:)\s*", re.I)
 MIN_RANGE_LISTINGS = 4  # a price range from fewer comparable products is not a range
 APPRAISAL_THRESHOLD = {"INR": 5000, "USD": 60, "GBP": 50, "EUR": 55}
 
@@ -101,6 +107,19 @@ def parse_price(text: str | float | None, default_currency: str) -> tuple[float 
 
 
 def listing_matches(listing_title: str, book_title: str, author: str | None) -> bool:
+    """Does a retailer listing title belong to this book?
+
+    Learned from the demo sweep's price audit:
+    - With no author, the whole title must match: "555 Questions & Answers" is a subset of
+      "Freemasonry at a Glance: Answers to 555 Questions" but not the same book.
+    - With an author, the listing must carry the surname unless the title is long and distinctive:
+      "Transportation" by Lambert matched "Transportation" by Satorre, and a children's adaptation of
+      "The Hunchback of Notre Dame" matched a generic edition.
+    - Catalogue authors come as "Last, First" too: the surname is the part before the comma.
+    - Numbers must agree: "Phonics First 6" is not "Phonics First: Bk. 1".
+    - A title found only in the listing's series brackets is a different volume:
+      "Nature (Child's First Library of Learning)" is not "A Child's First Library of Learning".
+    """
     if NOT_THE_BOOK.search(listing_title):
         return False
     lt, bt = norm(listing_title), norm(book_title)
@@ -108,11 +127,63 @@ def listing_matches(listing_title: str, book_title: str, author: str | None) -> 
         return False
     if fuzz.token_set_ratio(bt, lt) < 85:
         return False
-    if author:
-        surname = norm(author).split()[-1] if norm(author) else ""
-        if surname and surname not in lt and fuzz.partial_ratio(bt, lt) < 95:
+    meaningful = [w for w in bt.split() if w not in STOPWORDS]
+    words = lt.split()
+    if not all(any(fuzz.ratio(w, x) >= 85 for x in words) for w in meaningful):
+        return False  # "Search and Learn" is not "Search and Find"
+    names = set(norm(author or "").split())
+    if len([w for w in meaningful if w not in FORMAT_WORDS]) <= 2 and not any(
+            fuzz.token_sort_ratio(_strip_format(bt), " ".join(w for w in seg.split() if w not in names)) >= 85
+            for seg in listing_title_segments(listing_title)):
+        return False  # a short title must be the listing's own title: "Transportation" is not "The Wonderful World of Transportation"
+    numbers = set(re.findall(r"\d+", bt))
+    if not numbers <= set(lt.split()) or any(n not in numbers for n in VOLUME.findall(lt)):
+        return False
+    if "(" in listing_title:
+        before = set(norm(listing_title_head(listing_title, "(")).split()) - STOPWORDS
+        if before and not before & set(bt.split()):
             return False
-    return True
+    surname = first_surname(author) if author else ""
+    if not surname:
+        main = norm(listing_title.split(":")[0].split("|")[0])
+        return max(fuzz.token_sort_ratio(bt, main), fuzz.partial_ratio(bt, lt) if len(bt.split()) >= 4 else 0) >= 88
+    if surname in lt.split():
+        return True
+    # Title alone is enough only for a long, specific title (4+ meaningful words; "the", "of" ... do not
+    # count) and only when the listing credits no other author: "Life and Times in Ancient Greece" by
+    # Ferris matched "...: Charman, Andrew: 978...".
+    if CREDITED_AUTHOR.search(listing_title):
+        return False
+    return len(meaningful) >= 4 and fuzz.partial_ratio(bt, lt) >= 95
+
+
+def listing_title_head(listing_title: str, stops: str = "(:|") -> str:
+    """The listing's own title, before any series, subtitle or shop text ("Buy Nature (Series...)" -> "Nature")."""
+    t = SHOP_PREFIX.sub("", SHOP_PREFIX.sub("", listing_title))
+    return re.split("[" + re.escape(stops) + "]", t, maxsplit=1)[0]
+
+
+def _strip_format(s: str) -> str:
+    return " ".join(w for w in s.split() if w not in FORMAT_WORDS)
+
+
+def listing_title_segments(listing_title: str) -> list[str]:
+    """Candidate titles inside a listing: "Kingfisher Knowledge: Endangered Planet by Burnie, David"
+    -> ["kingfisher knowledge", "endangered planet", ...], without shop text, authors or format words."""
+    t = re.split(r"[(|]", SHOP_PREFIX.sub("", SHOP_PREFIX.sub("", listing_title)), maxsplit=1)[0]
+    segs = [re.split(r"\s+by\s+", seg, maxsplit=1, flags=re.I)[0] for seg in re.split(r":|\s-\s", t)]
+    return [x for x in (_strip_format(norm(seg)) for seg in segs) if x]
+
+
+def several_books(listings: list["Listing"], book_title: str) -> bool:
+    """The matches are different books sharing this title: it is a series name, not one book."""
+    bt = norm(book_title)
+    heads: list[str] = []
+    for x in listings:
+        h = norm(listing_title_head(x.title))
+        if h and fuzz.token_set_ratio(bt, h) < 85 and all(fuzz.token_set_ratio(h, o) < 85 for o in heads):
+            heads.append(h)
+    return len(heads) >= 2
 
 
 class FX:
@@ -205,9 +276,10 @@ def _pick(listings: list[Listing], quantile: float = 0.5) -> tuple[float, Listin
 async def price_book(shop: Shopping, fx: FX, track_id: str, title: str, author: str | None, isbn: str | None,
                      country: str, currency: str) -> BookPrice:
     bp = BookPrice(track_id)
-    surname = norm(author).split()[-1] if author and norm(author) else ""
+    surname = first_surname(author) if author else ""
     queries = [f"{title} {surname} book".strip()] + ([isbn] if isbn else [])
     markets = [country] + ([FALLBACK_MARKET[country]] if country in FALLBACK_MARKET else [])
+    failure: str | None = None
     for want_used in (False, True):
         target = bp.used if want_used else bp.replacement
         # Used offers come from the same local search as the new price. The fallback market is searched
@@ -218,6 +290,7 @@ async def price_book(shop: Shopping, fx: FX, track_id: str, title: str, author: 
             retrieved, url = None, ""
             for q in queries if not want_used else [f"{title} {surname} used book".strip()]:
                 ls, ret, u = await shop.search(q, market)
+                failure = failure or getattr(shop, "search_failure", lambda *_: None)(q, market)
                 retrieved, url = retrieved or ret, url or u
                 matched = [x for x in ls if x.used == want_used and listing_matches(x.title, title, author)]
                 bp.listings += [{**asdict(x), "query": q, "matched": x in matched} for x in ls]
@@ -226,6 +299,9 @@ async def price_book(shop: Shopping, fx: FX, track_id: str, title: str, author: 
                     break
             if not found:
                 continue
+            if several_books(found, title):
+                target.note = "the title matches several different books (a series name); volume not known"
+                break
             # A listing marked as an old edition is a different product: in testing "(Old Edition)" at
             # 270 INR undercut the current 5th edition at 349. Keep such listings only if nothing else matched.
             current = [x for x in found if not OLD_EDITION.search(x.title)]
@@ -248,9 +324,14 @@ async def price_book(shop: Shopping, fx: FX, track_id: str, title: str, author: 
                 target.note = f"from {market} listings; " + "; ".join(fx_notes)
             if want_used:
                 target.condition_assumed = "used, good (as listed by the seller)"
+                # A used copy is never worth more than a new one: used imports (₹2,494) undercut by a
+                # ₹275 local paperback were valuing the second-hand book above its replacement.
+                if bp.replacement.amount is not None and target.amount > bp.replacement.amount:
+                    target.note = (f"used offers ({target.amount:.0f} {currency}) cost more than a new copy; "
+                                   f"capped at the replacement cost")
+                    target.amount = bp.replacement.amount
             break
         if target.amount is None and not target.note:
-            failure = getattr(shop, "extract_failure", None)
             target.note = (f"listings found but not read: {failure}" if failure
                            else "no matching listing found" if shop.enabled else "price search not configured")
     return bp
@@ -301,12 +382,12 @@ async def price_item(shop: Shopping, fx: FX, item_id: str, query: str, brand_mod
         query, brand_model = f"{brand_model} {query}", None
     q = brand_model or query
     ls, retrieved, url = await shop.search(q, country)
+    failure = getattr(shop, "search_failure", lambda *_: None)(q, country)
     ls = [x for x in ls if not x.used and not NOT_THE_BOOK.search(x.title)]
     if brand_model:
         ls = [x for x in ls if fuzz.token_set_ratio(norm(brand_model), norm(x.title)) >= 80]
     ip.listings = [asdict(x) for x in ls]
     if not ls:
-        failure = getattr(shop, "extract_failure", None)
         ip.note = (f"listings found but not read: {failure}" if failure
                    else "no listing found" if shop.enabled else "price search not configured")
         return ip

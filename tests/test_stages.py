@@ -12,6 +12,7 @@ from app.pipeline.identify import Edition, Identification, choose, parse_dims, s
 from app.pipeline.items import ItemRecord, _validate_groups, apply_statements
 from app.pipeline.price import (
     FX, BookPrice, ItemPrice, Listing, PriceResult, appraisal_reason, listing_matches, parse_price, price_book,
+    several_books,
 )
 from app.pipeline.read import SpineRead, combine, drop_neighbour_spill, verify
 from app.pipeline.scale import Anchor, ScaleModel, build_scale, measure
@@ -432,3 +433,34 @@ def test_old_edition_listing_is_not_the_replacement_price():
           Listing("How to prepare for Data Interpretation for CAT Sharma", "a", "u3", 350, "INR", False, "IN")]
     bp = asyncio.run(price_book(FakeShopping({"IN": ls}), FakeFX(), "b", "How to Prepare for Data Interpretation for CAT", "Arun Sharma", None, "IN", "INR"))
     assert bp.replacement.amount == 349
+
+
+def test_listing_match_rules_from_the_demo_price_audit():
+    assert not listing_matches("Freemasonry at a Glance: Answers to 555 Questions", "555 Questions & Answers", None)
+    assert listing_matches("555 Questions & Answers", "555 Questions & Answers", None)
+    assert not listing_matches("Reading Scholars: Transportation : Satorre, Mark", "Transportation", "Lambert, Mark")
+    assert listing_matches("Transportation : Lambert, Mark: Amazon.in: Books", "Transportation", "Lambert, Mark")
+    assert not listing_matches("The Hunchback of Notre-Dame", "The Hunchback of Notre Dame", "Van Gool")
+    assert listing_matches("The Incredible Book Eating Boy: Buy The Incredible Book Eating Boy by Oliver Jeffers", "The Incredible Book Eating Boy", "Oliver Jeffers")
+    # second audit: volume numbers, series brackets, a different credited author, a series-name title
+    assert not listing_matches("Phonics First: Bk. 1: Buy Phonics First: Bk. 1 by Calder Hunter", "Phonics First 6", "Hunter Calder")
+    assert listing_matches("Quiz Whiz 3: 1,000 Super Fun Mind-Bending Trivia : National Geographic Kids", "Quiz whiz 3", "National Geographic Kids")
+    assert not listing_matches("Buy Nature (Child's First Library of Learning S.) Book Online", "A Child's First Library of Learning", "C. E. Berry")
+    assert listing_matches("Frog (See How They Grow) : Royston, Angela", "See How They Grow: Frog", "Angela Royston")
+    assert listing_matches("Amazon.com: What Makes Me Me? (Big Questions) by Robert Winston", "What Makes Me Me?", "Robert Winston")
+    assert not listing_matches("Life and Times in Ancient Greece: Charman, Andrew: Amazon.com", "Life and times in ancient Greece", "Julie Ferris")
+    volumes = [Listing(t, "amazon.in", "", 100.0, "INR", False, "IN") for t in (
+        "Science Starter: A Child's First Library of Learning : E. C. Berry",
+        "Buy How Things Work: A Child's First Library of Learning Book Online")]
+    assert several_books(volumes, "A Child's First Library of Learning")
+    same = [Listing(t, "amazon.in", "", 100.0, "INR", False, "IN") for t in (
+        "Kingfisher Knowledge: Microscopic Life : Walker", "Kingfisher Knowledge: Microscopic Life (Hardcover)")]
+    assert not several_books(same, "Microscopic life")
+    assert listing_matches("Buy TOP 10 OF EVERYTHING 2009 Book Online at Low Prices in India | Amazon.in", "Top 10 Of Everything 2009", "Russell Ash")
+    # used-value audit: short titles must be the listing's own title; every title word must appear
+    assert not listing_matches("The Wonderful World of Transportation book by David Lambert", "Transportation", "Lambert, Mark")
+    assert not listing_matches("The Big Book of Search and Find by Tony Tallarico: Good Paperback", "The Big Book Of Search And Learn", "Tony Tallarico")
+    assert not listing_matches("Big Book of Fantasy Quests Collection - Andy Dixon: 9780746070383", "Fantasy Quests", "Andy Dixon")
+    assert listing_matches("Kingfisher Knowledge: Endangered Planet by Burnie, David: Very Good Hardback", "Endangered Planet", "David Burnie")
+    assert listing_matches("Earthquakes book by Seymour Simon", "Earthquakes", "Seymour Simon")
+    assert listing_matches("The Ship Book by Berenstain, Mike: Good Hardcover (1978)", "The ship book", "Michael Berenstain")

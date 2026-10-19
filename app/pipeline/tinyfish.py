@@ -17,6 +17,7 @@ in the search, which halves the number of searches against the per-minute limit.
 from __future__ import annotations
 
 import asyncio
+import hashlib
 import json
 import re
 import time
@@ -154,6 +155,10 @@ def verified(price_text: str, page_text: str) -> bool:
     return bool(p) and bool(re.search(r"\d", p)) and p in squash(page_text)
 
 
+class PageUnread(Exception):
+    """A fetched retailer page whose offers could not be read."""
+
+
 @dataclass
 class Page:
     url: str
@@ -176,7 +181,8 @@ class TinyFishShopping:
         self.fetch_sem = asyncio.Semaphore(6)
         self._memo: dict[tuple[str, str], asyncio.Task] = {}
         self.dropped_unverified = 0
-        self.extract_failure: str | None = None
+        self.extract_failure: str | None = None  # account-wide (credit used up): every later read fails too
+        self.failures: dict[tuple[str, str], str] = {}  # per search: some pages were found but not read
 
     @property
     def enabled(self) -> bool:
@@ -188,11 +194,16 @@ class TinyFishShopping:
         base = re.sub(r"\s+", " ", base).strip()
         key = (base.lower(), market.upper())
         if key not in self._memo:
-            self._memo[key] = asyncio.ensure_future(self._search(base, market.upper()))
+            self._memo[key] = asyncio.ensure_future(self._search(base, market.upper(), key))
         return await self._memo[key]
 
-    async def _search(self, query: str, market: str):
-        from app.pipeline.price import CURRENCY_OF, Listing, parse_price
+    def search_failure(self, query: str, market: str) -> str | None:
+        """Why pages found by this search could not be read, if any were not."""
+        base = re.sub(r"\s+", " ", re.sub(r"\bused\b", " ", query, flags=re.I)).strip()
+        return self.extract_failure or self.failures.get((base.lower(), market.upper()))
+
+    async def _search(self, query: str, market: str, key: tuple[str, str]):
+        from app.pipeline.price import CURRENCY_OF, USED, Listing, parse_price
 
         if not self.key:
             return [], None, ""
@@ -200,13 +211,12 @@ class TinyFishShopping:
         if self.kind == "item":
             # Generic product words ("wardrobe") rank global sites first; say where and why.
             query = f"buy {query} online {MARKET_NAME.get(market, '')}".strip()
-        await self.limiter.acquire()
         try:
             r = await self.http.request_json(
                 "price", "GET", SEARCH_URL,
                 params={"query": query, "location": market, "include_domains": domains,
                         "purpose": f"find retailer product pages with current prices for: {query}"},
-                headers={"X-API-Key": self.key}, max_age_days=7)
+                headers={"X-API-Key": self.key}, max_age_days=7, before_request=self.limiter.acquire)
         except Exception:
             return [], None, ""
         results = r["data"].get("results", []) or []
@@ -229,7 +239,11 @@ class TinyFishShopping:
         cur = CURRENCY_OF.get(market, "USD")
         listings: list[Listing] = []
         for page in pages:
-            offers = await self._offers(query, page)
+            try:
+                offers = await self._offers(query, page)
+            except PageUnread as e:
+                self.failures[key] = str(e)
+                continue
             new_prices = {squash(o.get("price_text", "")) for o in offers if o.get("condition") != "used"}
             for o in offers:
                 if o.get("condition") == "used" and squash(o.get("price_text", "")) in new_prices:
@@ -244,7 +258,8 @@ class TinyFishShopping:
                     continue
                 site = re.sub(r"^www\.", "", re.sub(r"^https?://([^/]+).*$", r"\1", page.url))
                 seller = f"{site}" + (f" (seller: {o['seller']})" if o.get("seller") else "")
-                used = o.get("condition") == "used" or site in ("bookchor.com", "kitabay.com", "thriftbooks.com", "abebooks.com", "abebooks.co.uk", "worldofbooks.com")
+                # a listing titled "(Second Hand & Used Book)" is used whatever the offer line says
+                used = o.get("condition") == "used" or bool(USED.search(page.title or "")) or site in ("bookchor.com", "kitabay.com", "thriftbooks.com", "abebooks.com", "abebooks.co.uk", "worldofbooks.com")
                 listings.append(Listing(page.title or query, seller, page.url, amount, c, used, market))
         retrieved = min((p.retrieved_at for p in pages), default=r["retrieved_at"])
         return listings, retrieved, search_url
@@ -266,20 +281,43 @@ class TinyFishShopping:
                 pages.append(Page(res.get("final_url") or res.get("url", ""), res.get("title") or "", text, r["retrieved_at"]))
         return pages
 
+    def _offer_cache(self, target: str, page: Page):
+        key = hashlib.sha256(json.dumps([self.kind, target, page.url, page.retrieved_at]).encode()).hexdigest()[:24]
+        return self.http.dir / f"offers_{key}.json"
+
     async def _offers(self, target: str, page: Page) -> list[dict[str, Any]]:
+        """Offers on one fetched page, cached with the page: the same page is read once.
+
+        Raises PageUnread when the page could not be read. Network errors are retried: in the demo
+        re-run, 20 books lost their price to one dropped connection each.
+        """
+        cached = self._offer_cache(target, page)
+        if cached.exists():
+            return json.loads(cached.read_text())
+        for attempt in range(3):
+            if self.extract_failure:
+                raise PageUnread(self.extract_failure)
+            try:
+                offers = await self._read_offers(target, page)
+            except QuotaExhausted as e:
+                # Not "no listing": the page was found but could not be read. Say so on every price line.
+                self.extract_failure = str(e)
+                raise PageUnread(str(e)) from e
+            except Exception as e:
+                if attempt == 2:
+                    raise PageUnread(f"price reading failed: {type(e).__name__}") from e
+                await asyncio.sleep(2 * (attempt + 1))
+                continue
+            cached.write_text(json.dumps(offers))
+            return offers
+        raise PageUnread("price reading failed")
+
+    async def _read_offers(self, target: str, page: Page) -> list[dict[str, Any]]:
         text = price_windows(page.text)
-        try:
-            raw = await self.extractor.json(
-                "price_extract",
-                [(OFFER_PROMPT if self.kind == "book" else ITEM_PROMPT).format(target=target, title=page.title, text=text)],
-                OFFER_SCHEMA, thinking="minimal", media_resolution="low")
-        except QuotaExhausted as e:
-            # Not "no listing": the page was found but could not be read. Say so on every price line.
-            self.extract_failure = str(e)
-            return []
-        except Exception as e:
-            self.extract_failure = self.extract_failure or f"price reading failed: {type(e).__name__}"
-            return []
+        raw = await self.extractor.json(
+            "price_extract",
+            [(OFFER_PROMPT if self.kind == "book" else ITEM_PROMPT).format(target=target, title=page.title, text=text)],
+            OFFER_SCHEMA, thinking="minimal", media_resolution="low")
         if not isinstance(raw, dict) or not raw.get("is_target"):
             return []
         offers = raw.get("offers") or []
